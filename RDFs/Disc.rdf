@@ -42,12 +42,16 @@
     <schema:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2005-09-28</schema:datePublished>
     <schema:image rdf:resource="http://columbia.jp/prod-info/jacket/COCX-33355.jpg"/>
     <schema:url rdf:resource="http://columbia.jp/idolmaster/2006/COCX-33355.html"/>
-    <schema:MusicRelease>
-      <schema:catalogNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">COCX-33355</schema:catalogNumber>
-      <schema:duration rdf:datatype="http://www.w3.org/2001/XMLSchema#duration">PT32M28S</schema:duration>
-      <schema:musicReleaseFormat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CD12cm</schema:musicReleaseFormat>
-    </schema:MusicRelease>
+    <schema:MusicRelease rdf:resource="https://sparql.crssnky.xyz/imasrdf/THE%20IDOLM%40STER%20MASTERPIECE%2001_info"/>
     <schema:name xml:lang="ja">THE IDOLM@STER MASTERPIECE 01</schema:name>
   </rdf:Description>
+  <rdf:Description rdf:about="THE%20IDOLM%40STER%20MASTERPIECE%2001_info">
+    <rdf:type rdf:resource="https://schema.org/MusicRelease"/>
+    <schema:catalogNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">COCX-33355</schema:catalogNumber>
+    <schema:duration rdf:datatype="http://www.w3.org/2001/XMLSchema#duration">PT32M28S</schema:duration>
+    <schema:musicReleaseFormat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CD12cm</schema:musicReleaseFormat>
+    <schema:releaseOf rdf:resource="https://sparql.crssnky.xyz/imasrdf/THE%20IDOLM%40STER%20MASTERPIECE%2001"/>
+  </rdf:Description>
+  
   
 </rdf:RDF>
