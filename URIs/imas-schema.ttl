@@ -1,0 +1,139 @@
+@prefix bibo:  <http://purl.org/ontology/bibo/>.
+@prefix cal:   <http://www.w3.org/2002/12/cal/icaltzd#>.
+@prefix cc:    <http://creativecommons.org/ns#>.
+@prefix dc:    <http://purl.org/dc/elements/1.1/>.
+@prefix dct:   <http://purl.org/dc/terms/>.
+@prefix dcterms: <http://purl.org/dc/terms/>.
+@prefix foaf:  <http://xmlns.com/foaf/0.1/>.
+@prefix geo:   <http://www.w3.org/2003/01/geo/wgs84_pos#>.
+@prefix georss: <http://www.georss.org/georss>.
+@prefix gr:    <http://purl.org/goodrelations/v1#>.
+@prefix ic:    <http://imi.ipa.go.jp/ns/core/rdf#>.
+@prefix imas:   <https://crssnky.xyz/URIs/imas-schema#>.
+@prefix jrrk:  <http://purl.org/jrrk#>.
+@prefix owl:   <http://www.w3.org/2002/07/owl#>.
+@prefix pc:    <http://purl.org/procurement/public-contracts#>.
+@prefix qb:    <http://purl.org/linked-data/cube#>.
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix sac:   <http://statdb.nstac.go.jp/lod/sac/C>.
+@prefix sacs:  <http://statdb.nstac.go.jp/lod/terms/sacs#>.
+@prefix schema: <http://schema.org/>.
+@prefix sdmx-concept: <http://purl.org/linked-data/sdmx/2009/concept#>.
+@prefix sdmx-dimension: <http://purl.org/linked-data/sdmx/2009/dimension#>.
+@prefix sdmx-measure: <http://purl.org/linked-data/sdmx/2009/measure#>.
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#>.
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#>.
+@prefix reg: <http://purl.org/metainfo/terms/registry#> .
+@prefix imas: <https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#>
+
+<https://crssnky.xyz/URIs/imas-schema>
+        a                owl:Ontology ;
+        rdfs:label       "imas-schema語彙"@ja ;
+        dcterms:creator  [ foaf:homepage  <https://sparql.crssnky.xyz/imas/> ;
+                           foaf:name      "crssnky"@ja
+                         ] ;
+        dcterms:issued   "2017-01-01" .
+
+imas:
+	reg:title			"imas-schema語彙".
+		
+# ここからはクラス
+imas:Character		a	rdfs:Class ;
+	rdfs:comment		"登場人物を表すクラス" ;
+	rdfs:label			"登場人物"@ja ;
+	rdfs:subClassOf		foaf:Person .
+
+imas:Idol			a	rdfs:Class ;
+	rdfs:comment		"アイドルを表すクラス" ;
+	rdfs:label			"アイドル"@ja ;
+	rdfs:subClassOf		imas:Character .
+
+imas:Producer		a	rdfs:Class ;
+	rdfs:comment		"プロデューサーを表すクラス" ;
+	rdfs:label			"プロデューサー"@ja ;
+	rdfs:subClassOf		imas:Character .
+
+imas:Unit			a	rdfs:Class ;
+	rdfs:comment		"ユニットを表すクラス" ;
+    rdfs:label			"ユニット"@ja .
+	rdfs:subClassOf		schema:Organization .
+
+imas:Facility		a	rdfs:Class ;
+	rdfs:comment		"施設を表すクラス" ;
+    rdfs:label			"施設"@ja ;
+    rdfs:subClassOf		schema:Place .
+
+	
+# ここからはプロパティ
+imas:familyNameKana	a	rdf:Property ;
+	rdfs:comment		"姓のよみがなを表すプロパティ" ;
+	rdfs:label			"姓よみがな"@ja ;
+
+imas:givenNameKana	a	rdf:Property ;
+	rdfs:comment		"名のよみがなを表すプロパティ" ;
+	rdfs:label			"名よみがな"@ja ;
+
+imas:nameKana		a	rdf:Property ;
+	rdfs:comment		"名前のよみがなを表すプロパティ" ;
+	rdfs:label			"名前よみがな"@ja ;
+
+imas:Attribute		a	rdf:Property ;
+	rdfs:comment		"属性(Vo,Da,Vi)を表すプロパティ" ;
+	rdfs:label			"属性"@ja ;	
+	
+imas:Type			a	rdf:Property ;
+	rdfs:comment		"タイプ(Cu,Co,Pa)を表すプロパティ" ;
+	rdfs:label			"タイプ"@ja ;
+	
+imas:Category		a	rdf:Property ;
+	rdfs:comment		"カテゴリ(メンタル・フィジカル・インテリ)を表すプロパティ" ;
+	rdfs:label			"カテゴリ"@ja ;
+	
+imas:BloodType		a	rdf:Property ;
+	rdfs:comment		"血液型を表すプロパティ" ;
+	rdfs:label			"血液型"@ja ;
+	
+imas:Bust			a	rdf:Property ;
+	rdfs:comment		"胸囲を表すプロパティ" ;
+	rdfs:label			"胸囲"@ja ;
+	
+imas:Waist			a	rdf:Property ;
+	rdfs:comment		"腹囲を表すプロパティ" ;
+	rdfs:label			"腹囲"@ja ;
+	
+imas:ShoeSize		a	rdf:Property ;
+	rdfs:comment		"靴のサイズを表すプロパティ" ;
+	rdfs:label			"靴のサイズ"@ja ;
+	
+imas:Hip			a	rdf:Property ;
+	rdfs:comment		"臀囲(尻囲)を表すプロパティ" ;
+	rdfs:label			"臀囲"@ja ;
+	
+imas:Handedness		a	rdf:Property ;
+	rdfs:comment		"聞き手を表すプロパティ" ;
+	rdfs:label			"聞き手"@ja ;
+	
+imas:Hobby			a	rdf:Property ;
+	rdfs:comment		"趣味を表すプロパティ" ;
+	rdfs:label			"趣味"@ja ;
+	
+imas:Talent			a	rdf:Property ;
+	rdfs:comment		"特技を表すプロパティ" ;
+	rdfs:label			"特技"@ja ;
+	
+imas:Favorite		a	rdf:Property ;
+	rdfs:comment		"好きなものを表すプロパティ" ;
+	rdfs:label			"好きなもの"@ja ;
+	
+imas:Color			a	rdf:Property ;
+	rdfs:comment		"イメージカラーを表すプロパティ" ;
+	rdfs:label			"イメージカラー"@ja ;
+	
+imas:cv				a	rdf:Property ;
+	rdfs:comment		"担当声優を表すプロパティ" ;
+	rdfs:label			"担当声優"@ja ;
+	
+imas:constellation	a	rdf:Property ;
+	rdfs:comment		"星座を表すプロパティ" ;
+	rdfs:label			"星座"@ja ;
