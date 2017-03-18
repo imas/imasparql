@@ -26,23 +26,23 @@
   <rdf:Description rdf:about="THE%20IDOLM%40STER%20MASTERPIECE%2001">
     <rdf:type rdf:resource="https://schema.org/MusicAlbum"/>
     <schema:albumReleaseType xml:lang="ja">アルバム</schema:albumReleaseType>
-    <schema:byArtist rdf:resource="https://sparql.crssnky.xyz/imasrdf/Amami_haruka" />
-    <schema:byArtist rdf:resource="https://sparql.crssnky.xyz/imasrdf/Akiduki_Ritsuko" />
-    <schema:byArtist rdf:resource="https://sparql.crssnky.xyz/imasrdf/Hagiwara_Yukiho" />
+    <schema:byArtist rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/Amami_haruka" />
+    <schema:byArtist rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/Akiduki_Ritsuko" />
+    <schema:byArtist rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/Hagiwara_Yukiho" />
     <schema:numTracks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</schema:numTracks>
-    <schema:track rdf:resource="https://sparql.crssnky.xyz/imasrdf/%e9%ad%94%e6%b3%95%e3%82%92%e3%81%8b%e3%81%91%e3%81%a6%21%20%28M%40STER%20VERSION%29_01"/>
-    <schema:track rdf:resource="https://sparql.crssnky.xyz/imasrdf/THE%20IDOLM%40STER%20%28HYR%20VERSION%29"/>
-    <schema:track rdf:resource="https://sparql.crssnky.xyz/imasrdf/%e5%a4%aa%e9%99%bd%e3%81%ae%e3%82%b8%e3%82%a7%e3%83%a9%e3%82%b7%e3%83%bc_01"/>
-    <schema:track rdf:resource="https://sparql.crssnky.xyz/imasrdf/First%20Stage_01"/>
-    <schema:track rdf:resource="https://sparql.crssnky.xyz/imasrdf/%e9%ad%94%e6%b3%95%e3%82%92%e3%81%8b%e3%81%91%e3%81%a6%21_01"/>
-    <schema:track rdf:resource="https://sparql.crssnky.xyz/imasrdf/%e9%ad%94%e6%b3%95%e3%82%92%e3%81%8b%e3%81%91%e3%81%a6%21%20%28M%40STER%20VERSION%29%20%28%e3%82%aa%e3%83%aa%e3%82%b8%e3%83%8a%e3%83%ab%e3%83%bb%e3%82%ab%e3%83%a9%e3%82%aa%e3%82%b1%29_01"/>
-    <schema:track rdf:resource="https://sparql.crssnky.xyz/imasrdf/THE%20IDOLM%40STER%20%28HYR%20VERSION%29%20%28%e3%82%aa%e3%83%aa%e3%82%b8%e3%83%8a%e3%83%ab%e3%83%bb%e3%82%ab%e3%83%a9%e3%82%aa%e3%82%b1%29"/>
-    <schema:track rdf:resource="https://sparql.crssnky.xyz/imasrdf/%e3%83%88%e3%83%bc%e3%82%af%20%e3%80%8c%e9%ad%94%e6%b3%95%e3%82%92%e3%81%8b%e3%81%91%e3%81%a6%21%ef%bd%9e%e6%98%a5%e9%a6%99%e3%83%bb%e9%9b%aa%e6%ad%a9%e3%83%bb%e5%be%8b%e5%ad%90%ef%bd%9e%e3%80%8d%20%28Bonus%20Track%29"/>
+    <schema:track rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/%e9%ad%94%e6%b3%95%e3%82%92%e3%81%8b%e3%81%91%e3%81%a6%21%20%28M%40STER%20VERSION%29_01"/>
+    <schema:track rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/THE%20IDOLM%40STER%20%28HYR%20VERSION%29"/>
+    <schema:track rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/%e5%a4%aa%e9%99%bd%e3%81%ae%e3%82%b8%e3%82%a7%e3%83%a9%e3%82%b7%e3%83%bc_01"/>
+    <schema:track rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/First%20Stage_01"/>
+    <schema:track rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/%e9%ad%94%e6%b3%95%e3%82%92%e3%81%8b%e3%81%91%e3%81%a6%21_01"/>
+    <schema:track rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/%e9%ad%94%e6%b3%95%e3%82%92%e3%81%8b%e3%81%91%e3%81%a6%21%20%28M%40STER%20VERSION%29%20%28%e3%82%aa%e3%83%aa%e3%82%b8%e3%83%8a%e3%83%ab%e3%83%bb%e3%82%ab%e3%83%a9%e3%82%aa%e3%82%b1%29_01"/>
+    <schema:track rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/THE%20IDOLM%40STER%20%28HYR%20VERSION%29%20%28%e3%82%aa%e3%83%aa%e3%82%b8%e3%83%8a%e3%83%ab%e3%83%bb%e3%82%ab%e3%83%a9%e3%82%aa%e3%82%b1%29"/>
+    <schema:track rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/%e3%83%88%e3%83%bc%e3%82%af%20%e3%80%8c%e9%ad%94%e6%b3%95%e3%82%92%e3%81%8b%e3%81%91%e3%81%a6%21%ef%bd%9e%e6%98%a5%e9%a6%99%e3%83%bb%e9%9b%aa%e6%ad%a9%e3%83%bb%e5%be%8b%e5%ad%90%ef%bd%9e%e3%80%8d%20%28Bonus%20Track%29"/>
     <schema:copyrightHolder xml:lang="ja">コロムビアミュージックエンタテインメント</schema:copyrightHolder>
     <schema:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2005-09-28</schema:datePublished>
     <schema:image rdf:resource="http://columbia.jp/prod-info/jacket/COCX-33355.jpg"/>
     <schema:url rdf:resource="http://columbia.jp/idolmaster/2006/COCX-33355.html"/>
-    <schema:MusicRelease rdf:resource="https://sparql.crssnky.xyz/imasrdf/THE%20IDOLM%40STER%20MASTERPIECE%2001_info"/>
+    <schema:MusicRelease rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/THE%20IDOLM%40STER%20MASTERPIECE%2001_info"/>
     <schema:name xml:lang="ja">THE IDOLM@STER MASTERPIECE 01</schema:name>
   </rdf:Description>
   <rdf:Description rdf:about="THE%20IDOLM%40STER%20MASTERPIECE%2001_info">
@@ -50,7 +50,7 @@
     <schema:catalogNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">COCX-33355</schema:catalogNumber>
     <schema:duration rdf:datatype="http://www.w3.org/2001/XMLSchema#duration">PT32M28S</schema:duration>
     <schema:musicReleaseFormat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CD12cm</schema:musicReleaseFormat>
-    <schema:releaseOf rdf:resource="https://sparql.crssnky.xyz/imasrdf/THE%20IDOLM%40STER%20MASTERPIECE%2001"/>
+    <schema:releaseOf rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/THE%20IDOLM%40STER%20MASTERPIECE%2001"/>
   </rdf:Description>
   
   
