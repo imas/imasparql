@@ -42,7 +42,7 @@ imas:
 imas:Character		a	rdfs:Class ;
 	rdfs:comment		"登場人物を表すクラス" ;
 	rdfs:label			"登場人物"@ja ;
-	rdfs:subClassOf		foaf:Person .
+	rdfs:subClassOf		schema:Person .
 
 imas:Idol			a	rdfs:Class ;
 	rdfs:comment		"アイドルを表すクラス" ;
