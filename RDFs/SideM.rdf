@@ -21,7 +21,7 @@
     xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
     xmlns:imas="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#"
     >
-  <rdf:Description rdf:about="Amagase_Toma">
+  <rdf:Description rdf:about="detail/Amagase_Toma">
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">天ヶ瀬冬馬</schema:name>
     <schema:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">天ヶ瀬</schema:familyName>
     <schema:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">冬馬</schema:givenName>
@@ -48,7 +48,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="Mitarai_Shota">
+  <rdf:Description rdf:about="detail/Mitarai_Shota">
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">御手洗翔太</schema:name>
     <imas:nameKana rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">みたらいしょうた</imas:nameKana>
     <imas:familyNameKana rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">みたらい</imas:familyNameKana>
@@ -74,7 +74,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="Ijuin_Hokuto">
+  <rdf:Description rdf:about="detail/Ijuin_Hokuto">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</foaf:age>
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">伊集院北斗</schema:name>
     <imas:nameKana rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">いじゅういんほくと</imas:nameKana>
@@ -101,7 +101,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="Tendo_Teru">
+  <rdf:Description rdf:about="detail/Tendo_Teru">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">28</foaf:age>
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">天道輝</schema:name>
     <imas:nameKana rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">てんどうてる</imas:nameKana>
@@ -127,7 +127,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="Sakuraba_Kaoru">
+  <rdf:Description rdf:about="detail/Sakuraba_Kaoru">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">26</foaf:age>
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">桜庭薫</schema:name>
     <imas:nameKana rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">さくらばかおる</imas:nameKana>
@@ -152,7 +152,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="Kashiwagi_Tsubasa">
+  <rdf:Description rdf:about="detail/Kashiwagi_Tsubasa">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</foaf:age>
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">柏木翼</schema:name>
     <imas:nameKana rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">かしわぎつばさ</imas:nameKana>
@@ -180,7 +180,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="Tsuzuki_Kei">
+  <rdf:Description rdf:about="detail/Tsuzuki_Kei">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#string">??</foaf:age>
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">都築圭</schema:name>
     <imas:nameKana rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">つづきけい</imas:nameKana>
@@ -204,7 +204,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="Kagura_Rei">
+  <rdf:Description rdf:about="detail/Kagura_Rei">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</foaf:age>
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">神楽麗</schema:name>
     <imas:nameKana rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">かぐられい</imas:nameKana>
@@ -229,7 +229,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="Takajo_Kyoji">
+  <rdf:Description rdf:about="detail/Takajo_Kyoji">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</foaf:age>
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">鷹城恭二</schema:name>
     <imas:nameKana rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">たかじょうきょうじ</imas:nameKana>
@@ -254,7 +254,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="Pierre">
+  <rdf:Description rdf:about="detail/Pierre">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</foaf:age>
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">ピエール</schema:name>
     <imas:nameKana rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">ぴえーる</imas:nameKana>
@@ -275,7 +275,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="Watanabe_Minori">
+  <rdf:Description rdf:about="detail/Watanabe_Minori">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">31</foaf:age>
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">渡辺みのり</schema:name>
     <imas:nameKana rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">わたなべみのり</imas:nameKana>
@@ -300,7 +300,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="Aoi_Yusuke">
+  <rdf:Description rdf:about="detail/Aoi_Yusuke">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</foaf:age>
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">蒼井悠介</schema:name>
     <imas:nameKana rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">あおいゆうすけ</imas:nameKana>
@@ -325,7 +325,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="Aoi_Kyosuke">
+  <rdf:Description rdf:about="detail/Aoi_Kyosuke">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</foaf:age>
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">蒼井享介</schema:name>
     <imas:nameKana rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">あおいゆうすけ</imas:nameKana>
@@ -351,7 +351,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="Akuno_Hideo">
+  <rdf:Description rdf:about="detail/Akuno_Hideo">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">23</foaf:age>
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">握野英雄</schema:name>
     <imas:nameKana rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">あくのひでお</imas:nameKana>
@@ -377,7 +377,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="Kimura_Ryu">
+  <rdf:Description rdf:about="detail/Kimura_Ryu">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</foaf:age>
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">木村龍</schema:name>
     <imas:nameKana rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">きむらりゅう</imas:nameKana>
@@ -402,7 +402,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="Shingen_Seiji">
+  <rdf:Description rdf:about="detail/Shingen_Seiji">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">31</foaf:age>
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">信玄誠司</schema:name>
     <imas:nameKana rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">しんげんせいじ</imas:nameKana>
@@ -427,7 +427,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="Nekoyanagi_Kirio">
+  <rdf:Description rdf:about="detail/Nekoyanagi_Kirio">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</foaf:age>
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">猫柳キリオ</schema:name>
     <imas:nameKana rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">ねこやなぎきりお</imas:nameKana>
@@ -452,7 +452,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="Hanamura_Shoma">
+  <rdf:Description rdf:about="detail/Hanamura_Shoma">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">27</foaf:age>
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">華村翔真</schema:name>
     <imas:nameKana rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">はなむらしょうま</imas:nameKana>
@@ -477,7 +477,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="Kiyosumi_Kuro">
+  <rdf:Description rdf:about="detail/Kiyosumi_Kuro">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</foaf:age>
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">清澄九郎</schema:name>
     <imas:nameKana rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">きよすみくろう</imas:nameKana>
@@ -503,7 +503,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="Akiyama_Hayato">
+  <rdf:Description rdf:about="detail/Akiyama_Hayato">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</foaf:age>
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">秋山隼人</schema:name>
     <imas:nameKana rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">あきやまはやと</imas:nameKana>
@@ -529,7 +529,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="Fuyumi_Jun">
+  <rdf:Description rdf:about="detail/Fuyumi_Jun">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</foaf:age>
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">冬美旬</schema:name>
     <imas:nameKana rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">ふゆみじゅん</imas:nameKana>
@@ -554,7 +554,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="Sakaki_Natsuki">
+  <rdf:Description rdf:about="detail/Sakaki_Natsuki">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</foaf:age>
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">榊夏来</schema:name>
     <imas:nameKana rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">さかきなつき</imas:nameKana>
@@ -580,7 +580,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="Wakazato_Haruna">
+  <rdf:Description rdf:about="detail/Wakazato_Haruna">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</foaf:age>
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">若里春名</schema:name>
     <imas:nameKana rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">わかざとはるな</imas:nameKana>
@@ -605,7 +605,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="Iseya_Shiki">
+  <rdf:Description rdf:about="detail/Iseya_Shiki">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</foaf:age>
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">伊瀬谷四季</schema:name>
     <imas:nameKana rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">いせやしき</imas:nameKana>
@@ -631,7 +631,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="Akai_Suzaku">
+  <rdf:Description rdf:about="detail/Akai_Suzaku">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</foaf:age>
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">紅井朱雀</schema:name>
     <imas:nameKana rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">あかいすざく</imas:nameKana>
@@ -656,7 +656,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="Kurono_Genbu">
+  <rdf:Description rdf:about="detail/Kurono_Genbu">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</foaf:age>
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">黒野玄武</schema:name>
     <imas:nameKana rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">くろのげんぶ</imas:nameKana>
@@ -683,7 +683,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="Kamiiya_Yukihiro">
+  <rdf:Description rdf:about="detail/Kamiiya_Yukihiro">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">21</foaf:age>
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">神谷幸広</schema:name>
     <imas:nameKana rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">かみやゆきひろ</imas:nameKana>
@@ -710,7 +710,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="Shinonome_Soichiro">
+  <rdf:Description rdf:about="detail/Shinonome_Soichiro">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">21</foaf:age>
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">東雲荘一郎</schema:name>
     <imas:nameKana rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">しののめそういちろう</imas:nameKana>
@@ -737,7 +737,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="Asselin_BB_2">
+  <rdf:Description rdf:about="detail/Asselin_BB_2">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">26</foaf:age>
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">アスラン=BBⅡ世</schema:name>
     <imas:nameKana rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">あすらんべるぜびゅーとにせい</imas:nameKana>
@@ -763,7 +763,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="Uzuki_Makio">
+  <rdf:Description rdf:about="detail/Uzuki_Makio">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</foaf:age>
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">卯月巻緒</schema:name>
     <imas:nameKana rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">うづきまきお</imas:nameKana>
@@ -789,7 +789,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="Mizushima_Saki">
+  <rdf:Description rdf:about="detail/Mizushima_Saki">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</foaf:age>
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">水嶋咲</schema:name>
     <imas:nameKana rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">みずしまさき</imas:nameKana>
@@ -814,7 +814,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="Okamura_Nao">
+  <rdf:Description rdf:about="detail/Okamura_Nao">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</foaf:age>
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">岡村直央</schema:name>
     <imas:nameKana rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">おかむらなお</imas:nameKana>
@@ -839,7 +839,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="Tachibana_Shiro">
+  <rdf:Description rdf:about="detail/Tachibana_Shiro">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</foaf:age>
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">橘志狼</schema:name>
     <imas:nameKana rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">たちばなしろう</imas:nameKana>
@@ -864,7 +864,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="Himeno_Kanon">
+  <rdf:Description rdf:about="detail/Himeno_Kanon">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</foaf:age>
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">姫野かのん</schema:name>
     <imas:nameKana rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">ひめのかのん</imas:nameKana>
@@ -889,7 +889,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="Hazama_Michio">
+  <rdf:Description rdf:about="detail/Hazama_Michio">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">32</foaf:age>
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">硲道夫</schema:name>
     <imas:nameKana rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">はざまみちお</imas:nameKana>
@@ -915,7 +915,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="Maita_Rui">
+  <rdf:Description rdf:about="detail/Maita_Rui">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">23</foaf:age>
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">舞田類</schema:name>
     <imas:nameKana rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">まいたるい</imas:nameKana>
@@ -942,7 +942,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="Yamashita_Jiro">
+  <rdf:Description rdf:about="detail/Yamashita_Jiro">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">30</foaf:age>
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">山下次郎</schema:name>
     <imas:nameKana rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">やましたじろう</imas:nameKana>
@@ -968,7 +968,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="Taiga_Takeru">
+  <rdf:Description rdf:about="detail/Taiga_Takeru">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</foaf:age>
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">大河タケル</schema:name>
     <imas:nameKana rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">たいがたける</imas:nameKana>
@@ -995,7 +995,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="Enjoji_Michiru">
+  <rdf:Description rdf:about="detail/Enjoji_Michiru">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</foaf:age>
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">円城寺道流</schema:name>
     <imas:nameKana rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">えんじょうじみちる</imas:nameKana>
@@ -1020,7 +1020,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="Kizaki_Ren">
+  <rdf:Description rdf:about="detail/Kizaki_Ren">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</foaf:age>
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">牙崎漣</schema:name>
     <imas:nameKana rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">きざきれん</imas:nameKana>
@@ -1045,7 +1045,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="Akizuki_Ryo">
+  <rdf:Description rdf:about="detail/Akizuki_Ryo">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</foaf:age>
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">秋月涼</schema:name>
     <imas:nameKana rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">あきづきりょう</imas:nameKana>
@@ -1072,7 +1072,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="Kabuto_Daigo">
+  <rdf:Description rdf:about="detail/Kabuto_Daigo">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14</foaf:age>
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">兜大吾</schema:name>
     <imas:nameKana rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">かぶとだいご</imas:nameKana>
@@ -1098,7 +1098,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="Tsukumo_Kazuki">
+  <rdf:Description rdf:about="detail/Tsukumo_Kazuki">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</foaf:age>
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">九十九一希</schema:name>
     <imas:nameKana rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">つくもかずき</imas:nameKana>
@@ -1125,7 +1125,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="Kuzunoha_Amehiko">
+  <rdf:Description rdf:about="detail/Kuzunoha_Amehiko">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">30</foaf:age>
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">葛之葉雨彦</schema:name>
     <imas:nameKana rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">くずのはあめひこ</imas:nameKana>
@@ -1150,7 +1150,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="Kitamura_Sora">
+  <rdf:Description rdf:about="detail/Kitamura_Sora">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</foaf:age>
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">北村想楽</schema:name>
     <imas:nameKana rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">きたむらそら</imas:nameKana>
@@ -1175,7 +1175,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="Koron_Chris">
+  <rdf:Description rdf:about="detail/Koron_Chris">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">29</foaf:age>
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">古論クリス</schema:name>
     <imas:nameKana rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">ころんくりす</imas:nameKana>
