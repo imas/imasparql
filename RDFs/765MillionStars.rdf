@@ -22,7 +22,7 @@
     xmlns:imas="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#"
   >
 
-  <rdf:Description rdf:about="Kasuga_Mirai">
+  <rdf:Description rdf:about="detail/Kasuga_Mirai">
     <imas:Attribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vo</imas:Attribute>
     <schema:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">春日</schema:familyName>
     <imas:familyNameKana rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">かすが</imas:familyNameKana>
@@ -49,7 +49,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="Mogami_Shizuka">
+  <rdf:Description rdf:about="detail/Mogami_Shizuka">
     <imas:Attribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vo</imas:Attribute>
     <schema:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">最上</schema:familyName>
     <imas:familyNameKana rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">もがみ</imas:familyNameKana>
@@ -76,7 +76,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="Ibuki_Tsubasa">
+  <rdf:Description rdf:about="detail/Ibuki_Tsubasa">
     <imas:Attribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vi</imas:Attribute>
     <schema:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">伊吹</schema:familyName>
     <imas:familyNameKana rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">いぶき</imas:familyNameKana>
@@ -103,7 +103,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="Tanaka_Kotoha">
+  <rdf:Description rdf:about="detail/Tanaka_Kotoha">
     <imas:Attribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vo</imas:Attribute>
     <schema:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">田中</schema:familyName>
     <imas:familyNameKana rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">たなか</imas:familyNameKana>
@@ -130,7 +130,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="Shimabara_Erena">
+  <rdf:Description rdf:about="detail/Shimabara_Erena">
     <imas:Attribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Da</imas:Attribute>
     <schema:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">島原</schema:familyName>
     <imas:familyNameKana rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">しまばら</imas:familyNameKana>
@@ -157,7 +157,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="Satake_Minako">
+  <rdf:Description rdf:about="detail/Satake_Minako">
     <imas:Attribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Da</imas:Attribute>
     <schema:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">佐竹</schema:familyName>
     <imas:familyNameKana rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">さたけ</imas:familyNameKana>
@@ -184,7 +184,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="Tokoro_Megumi">
+  <rdf:Description rdf:about="detail/Tokoro_Megumi">
     <imas:Attribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vi</imas:Attribute>
     <schema:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">所</schema:familyName>
     <imas:familyNameKana rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">ところ</imas:familyNameKana>
@@ -211,7 +211,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="Tokugawa_Matsuri">
+  <rdf:Description rdf:about="detail/Tokugawa_Matsuri">
     <imas:Attribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vi</imas:Attribute>
     <schema:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">徳川</schema:familyName>
     <imas:familyNameKana rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">とくがわ</imas:familyNameKana>
@@ -239,7 +239,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="Hakozaki_serika">
+  <rdf:Description rdf:about="detail/Hakozaki_serika">
     <imas:Attribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vo</imas:Attribute>
     <schema:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">箱崎</schema:familyName>
     <imas:familyNameKana rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">はこざき</imas:familyNameKana>
@@ -267,7 +267,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="Nonohara_Akane">
+  <rdf:Description rdf:about="detail/Nonohara_Akane">
     <imas:Attribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Da</imas:Attribute>
     <schema:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">野々原</schema:familyName>
     <imas:familyNameKana rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">ののはら</imas:familyNameKana>
@@ -294,7 +294,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="Mochiduki_Anna">
+  <rdf:Description rdf:about="detail/Mochiduki_Anna">
     <imas:Attribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vo</imas:Attribute>
     <schema:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">望月</schema:familyName>
     <imas:familyNameKana rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">もちづき</imas:familyNameKana>
@@ -321,7 +321,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="Handa_Roko">
+  <rdf:Description rdf:about="detail/Handa_Roko">
     <imas:Attribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vi</imas:Attribute>
     <schema:alternateName rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">ロコ</schema:alternateName>
     <schema:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">伴田</schema:familyName>
@@ -349,7 +349,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="Nanao_Yutiko">
+  <rdf:Description rdf:about="detail/Nanao_Yutiko">
     <imas:Attribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vi</imas:Attribute>
     <schema:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">七尾</schema:familyName>
     <imas:familyNameKana rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">ななお</imas:familyNameKana>
@@ -376,7 +376,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="Takayama_Sayoko">
+  <rdf:Description rdf:about="detail/Takayama_Sayoko">
     <imas:Attribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vo</imas:Attribute>
     <schema:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">高山</schema:familyName>
     <imas:familyNameKana rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">たかやま</imas:familyNameKana>
@@ -404,7 +404,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="Matsuda_Arisa">
+  <rdf:Description rdf:about="detail/Matsuda_Arisa">
     <imas:Attribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vo</imas:Attribute>
     <schema:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">松田</schema:familyName>
     <imas:familyNameKana rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">まつだ</imas:familyNameKana>
@@ -431,7 +431,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="Kousaka_Umi">
+  <rdf:Description rdf:about="detail/Kousaka_Umi">
     <imas:Attribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Da</imas:Attribute>
     <schema:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">高坂</schema:familyName>
     <imas:familyNameKana rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">こうさか</imas:familyNameKana>
@@ -458,7 +458,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="Nakatani_Iku">
+  <rdf:Description rdf:about="detail/Nakatani_Iku">
     <imas:Attribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vi</imas:Attribute>
     <schema:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">中谷</schema:familyName>
     <imas:familyNameKana rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">なかたに</imas:familyNameKana>
@@ -485,7 +485,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="Tenkubashi_Tomoka">
+  <rdf:Description rdf:about="detail/Tenkubashi_Tomoka">
     <imas:Attribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vo</imas:Attribute>
     <schema:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">天空橋</schema:familyName>
     <imas:familyNameKana rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">てんくうばし</imas:familyNameKana>
@@ -512,7 +512,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="Emily_Stewart">
+  <rdf:Description rdf:about="detail/Emily_Stewart">
     <imas:Attribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Da</imas:Attribute>
     <schema:alternateName rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">エミリー</schema:alternateName>
     <schema:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">エミリー</schema:familyName>
@@ -540,7 +540,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="Kitazawa_Shiho">
+  <rdf:Description rdf:about="detail/Kitazawa_Shiho">
     <imas:Attribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vi</imas:Attribute>
     <schema:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">北沢</schema:familyName>
     <imas:familyNameKana rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">きたざわ</imas:familyNameKana>
@@ -568,7 +568,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="Maihama_Ayumu">
+  <rdf:Description rdf:about="detail/Maihama_Ayumu">
     <imas:Attribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Da</imas:Attribute>
     <schema:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">舞浜</schema:familyName>
     <imas:familyNameKana rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">まいはま</imas:familyNameKana>
@@ -595,7 +595,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="Kinoshita_Hinata">
+  <rdf:Description rdf:about="detail/Kinoshita_Hinata">
     <imas:Attribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vo</imas:Attribute>
     <schema:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">木下</schema:familyName>
     <imas:familyNameKana rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">きのした</imas:familyNameKana>
@@ -622,7 +622,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="Yabuki_Kana">
+  <rdf:Description rdf:about="detail/Yabuki_Kana">
     <imas:Attribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vo</imas:Attribute>
     <schema:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">矢吹</schema:familyName>
     <imas:familyNameKana rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">やぶき</imas:familyNameKana>
@@ -649,7 +649,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="Yokoyama_Nao">
+  <rdf:Description rdf:about="detail/Yokoyama_Nao">
     <imas:Attribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Da</imas:Attribute>
     <schema:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">横山</schema:familyName>
     <imas:familyNameKana rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">よこやま</imas:familyNameKana>
@@ -676,7 +676,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="Nikaidou_Chiduru">
+  <rdf:Description rdf:about="detail/Nikaidou_Chiduru">
     <imas:Attribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vi</imas:Attribute>
     <schema:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">二階堂</schema:familyName>
     <imas:familyNameKana rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">にかいどう</imas:familyNameKana>
@@ -703,7 +703,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="Baba_Konomi">
+  <rdf:Description rdf:about="detail/Baba_Konomi">
     <imas:Attribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Da</imas:Attribute>
     <schema:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">馬場</schema:familyName>
     <imas:familyNameKana rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">ばば</imas:familyNameKana>
@@ -730,7 +730,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="Ogami_Tamaki">
+  <rdf:Description rdf:about="detail/Ogami_Tamaki">
     <imas:Attribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Da</imas:Attribute>
     <schema:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">大神</schema:familyName>
     <imas:familyNameKana rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">おおがみ</imas:familyNameKana>
@@ -757,7 +757,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="Toyokawa_Fuka">
+  <rdf:Description rdf:about="detail/Toyokawa_Fuka">
     <imas:Attribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vi</imas:Attribute>
     <schema:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">豊川</schema:familyName>
     <imas:familyNameKana rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">とよかわ</imas:familyNameKana>
@@ -784,7 +784,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="Miyao_Miya">
+  <rdf:Description rdf:about="detail/Miyao_Miya">
     <imas:Attribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vi</imas:Attribute>
     <schema:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">宮尾</schema:familyName>
     <imas:familyNameKana rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">みやお</imas:familyNameKana>
@@ -812,7 +812,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="Fukuda_Noriko">
+  <rdf:Description rdf:about="detail/Fukuda_Noriko">
     <imas:Attribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Da</imas:Attribute>
     <schema:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">福田</schema:familyName>
     <imas:familyNameKana rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">ふくだ</imas:familyNameKana>
@@ -839,7 +839,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="Makabe_Mizuki">
+  <rdf:Description rdf:about="detail/Makabe_Mizuki">
     <imas:Attribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Da</imas:Attribute>
     <schema:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">真壁</schema:familyName>
     <imas:familyNameKana rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">まかべ</imas:familyNameKana>
@@ -866,7 +866,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="Ninomiya_Karen">
+  <rdf:Description rdf:about="detail/Ninomiya_Karen">
     <imas:Attribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vi</imas:Attribute>
     <schema:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">篠宮</schema:familyName>
     <imas:familyNameKana rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">しのみや</imas:familyNameKana>
@@ -893,7 +893,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="Momose_Rio">
+  <rdf:Description rdf:about="detail/Momose_Rio">
     <imas:Attribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Da</imas:Attribute>
     <schema:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">百瀬</schema:familyName>
     <imas:familyNameKana rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">ももせ</imas:familyNameKana>
@@ -920,7 +920,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="Nagayoshi_Subaru">
+  <rdf:Description rdf:about="detail/Nagayoshi_Subaru">
     <imas:Attribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Da</imas:Attribute>
     <schema:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">永吉</schema:familyName>
     <imas:familyNameKana rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">ながよし</imas:familyNameKana>
@@ -947,7 +947,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="Kitakami_Reika">
+  <rdf:Description rdf:about="detail/Kitakami_Reika">
     <imas:Attribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Da</imas:Attribute>
     <schema:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">北上</schema:familyName>
     <imas:familyNameKana rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">きたかみ</imas:familyNameKana>
@@ -974,7 +974,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="Suou_Momoko">
+  <rdf:Description rdf:about="detail/Suou_Momoko">
     <imas:Attribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vi</imas:Attribute>
     <schema:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">周防</schema:familyName>
     <imas:familyNameKana rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">すおう</imas:familyNameKana>
@@ -1001,7 +1001,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="Julia">
+  <rdf:Description rdf:about="detail/Julia">
     <imas:Attribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vo</imas:Attribute>
     <schema:alternateName rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">ジュリア</schema:alternateName>
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</foaf:age>

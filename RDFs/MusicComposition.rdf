@@ -23,39 +23,39 @@
     xmlns:mo="http://purl.org/ontology/mo/"
     >
 
-  <rdf:Description rdf:about="%e9%ad%94%e6%b3%95%e3%82%92%e3%81%8b%e3%81%91%e3%81%a6%21_Composition">
+  <rdf:Description rdf:about="detail/%e9%ad%94%e6%b3%95%e3%82%92%e3%81%8b%e3%81%91%e3%81%a6%21_Composition">
     <rdf:type rdf:resource="https://schema.org/MusicComposition"/>
     <schema:composer xml:lang="ja">NBGI(神前暁)</schema:composer>
     <schema:lyricist xml:lang="ja">NBGI(神前暁)</schema:lyricist>
     <schema:musicCompositionForm xml:lang="ja">ゲーム</schema:musicCompositionForm>
-    <schema:recordedAs rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/%e9%ad%94%e6%b3%95%e3%82%92%e3%81%8b%e3%81%91%e3%81%a6%21%20%28M%40STER%20VERSION%29_01" />
-    <schema:recordedAs rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/%e9%ad%94%e6%b3%95%e3%82%92%e3%81%8b%e3%81%91%e3%81%a6%21_01" />
-    <schema:recordedAs rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/%e9%ad%94%e6%b3%95%e3%82%92%e3%81%8b%e3%81%91%e3%81%a6%21%20%28M%40STER%20VERSION%29%20%28%e3%82%aa%e3%83%aa%e3%82%b8%e3%83%8a%e3%83%ab%e3%83%bb%e3%82%ab%e3%83%a9%e3%82%aa%e3%82%b1%29_01" />
+    <schema:recordedAs rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/%e9%ad%94%e6%b3%95%e3%82%92%e3%81%8b%e3%81%91%e3%81%a6%21%20%28M%40STER%20VERSION%29_01" />
+    <schema:recordedAs rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/%e9%ad%94%e6%b3%95%e3%82%92%e3%81%8b%e3%81%91%e3%81%a6%21_01" />
+    <schema:recordedAs rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/%e9%ad%94%e6%b3%95%e3%82%92%e3%81%8b%e3%81%91%e3%81%a6%21%20%28M%40STER%20VERSION%29%20%28%e3%82%aa%e3%83%aa%e3%82%b8%e3%83%8a%e3%83%ab%e3%83%bb%e3%82%ab%e3%83%a9%e3%82%aa%e3%82%b1%29_01" />
     <schema:name xml:lang="ja">魔法をかけて!_Composition</schema:name>
   </rdf:Description>
-  <rdf:Description rdf:about="THE%20IDOLM%40STER_Composition">
+  <rdf:Description rdf:about="detail/THE%20IDOLM%40STER_Composition">
     <rdf:type rdf:resource="https://schema.org/MusicComposition"/>
     <schema:composer xml:lang="ja">NBGI(佐々木宏人)</schema:composer>
     <schema:lyricist xml:lang="ja">中村恵</schema:lyricist>
     <schema:musicCompositionForm xml:lang="ja">ゲーム</schema:musicCompositionForm>
-    <schema:recordedAs rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/THE%20IDOLM%40STER%20%28HYR%20VERSION%29" />
-    <schema:recordedAs rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/THE%20IDOLM%40STER%20%28HYR%20VERSION%29%20%28%e3%82%aa%e3%83%aa%e3%82%b8%e3%83%8a%e3%83%ab%e3%83%bb%e3%82%ab%e3%83%a9%e3%82%aa%e3%82%b1%29" />
+    <schema:recordedAs rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/THE%20IDOLM%40STER%20%28HYR%20VERSION%29" />
+    <schema:recordedAs rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/THE%20IDOLM%40STER%20%28HYR%20VERSION%29%20%28%e3%82%aa%e3%83%aa%e3%82%b8%e3%83%8a%e3%83%ab%e3%83%bb%e3%82%ab%e3%83%a9%e3%82%aa%e3%82%b1%29" />
     <schema:name xml:lang="ja">THE IDOLM@STER_Composition</schema:name>
   </rdf:Description>
-  <rdf:Description rdf:about="%e5%a4%aa%e9%99%bd%e3%81%ae%e3%82%b8%e3%82%a7%e3%83%a9%e3%82%b7%e3%83%bc_Composition">
+  <rdf:Description rdf:about="detail/%e5%a4%aa%e9%99%bd%e3%81%ae%e3%82%b8%e3%82%a7%e3%83%a9%e3%82%b7%e3%83%bc_Composition">
     <rdf:type rdf:resource="https://schema.org/MusicComposition"/>
     <schema:composer xml:lang="ja">NBGI(椎名豪)</schema:composer>
     <schema:lyricist xml:lang="ja">森由里子</schema:lyricist>
     <schema:musicCompositionForm xml:lang="ja">ゲーム</schema:musicCompositionForm>
-    <schema:recordedAs rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/%e5%a4%aa%e9%99%bd%e3%81%ae%e3%82%b8%e3%82%a7%e3%83%a9%e3%82%b7%e3%83%bc_01" />
+    <schema:recordedAs rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/%e5%a4%aa%e9%99%bd%e3%81%ae%e3%82%b8%e3%82%a7%e3%83%a9%e3%82%b7%e3%83%bc_01" />
     <schema:name xml:lang="ja">太陽のジェラシー_Composition</schema:name>
   </rdf:Description>
-  <rdf:Description rdf:about="First%20Stage_Composition">
+  <rdf:Description rdf:about="detail/First%20Stage_Composition">
     <rdf:type rdf:resource="https://schema.org/MusicComposition"/>
     <schema:composer xml:lang="ja">NBGI(佐々木宏人)</schema:composer>
     <schema:lyricist xml:lang="ja">中村恵</schema:lyricist>
     <schema:musicCompositionForm xml:lang="ja">ゲーム</schema:musicCompositionForm>
-    <schema:recordedAs rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/First%20Stage_01" />
+    <schema:recordedAs rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/First%20Stage_01" />
     <schema:name xml:lang="ja">First Stage_Composition</schema:name>
   </rdf:Description>
 </rdf:RDF>
