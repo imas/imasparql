@@ -41,7 +41,7 @@
     <imas:Hobby xml:lang="jp">金魚すくい</imas:Hobby>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">E85786</imas:Color>
     <imas:cv xml:lang="ja">戸松遥</imas:cv>
-    <foaf:gender xml:lang="en">female</foaf:gender>
+    <schema:gender xml:lang="en">female</schema:gender>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
@@ -64,7 +64,7 @@
     <imas:Talent xml:lang="jp">ジグソーパズル</imas:Talent>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">00ADB9</imas:Color>
     <imas:cv xml:lang="ja">花澤香菜</imas:cv>
-    <foaf:gender xml:lang="en">female</foaf:gender>
+    <schema:gender xml:lang="en">female</schema:gender>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
@@ -87,7 +87,7 @@
     <imas:Hobby xml:lang="jp">料理</imas:Hobby>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">B2D468</imas:Color>
     <imas:cv xml:lang="ja">三瓶由布子</imas:cv>
-    <foaf:gender xml:lang="en">female</foaf:gender>
+    <schema:gender xml:lang="en">female</schema:gender>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
@@ -99,7 +99,7 @@
     <imas:nameKana xml:lang="ja">とうごうじれいか</imas:nameKana>
     <schema:name xml:lang="ja">東豪寺麗華</schema:name>
     <imas:cv xml:lang="ja">今野宏美</imas:cv>
-    <foaf:gender xml:lang="en">female</foaf:gender>
+    <schema:gender xml:lang="en">female</schema:gender>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
@@ -111,7 +111,7 @@
     <imas:nameKana xml:lang="ja">あさひなりん</imas:nameKana>
     <schema:name xml:lang="ja">朝比奈りん</schema:name>
     <imas:cv xml:lang="ja">阿澄佳奈</imas:cv>
-    <foaf:gender xml:lang="en">female</foaf:gender>
+    <schema:gender xml:lang="en">female</schema:gender>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
@@ -123,7 +123,7 @@
     <imas:nameKana xml:lang="ja">さんじょうともみ</imas:nameKana>
     <schema:name xml:lang="ja">三条ともみ</schema:name>
     <imas:cv xml:lang="ja">茅原実里</imas:cv>
-    <foaf:gender xml:lang="en">female</foaf:gender>
+    <schema:gender xml:lang="en">female</schema:gender>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
   
