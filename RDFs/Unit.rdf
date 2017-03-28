@@ -375,8 +375,8 @@
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Anastasia"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
-  <rdf:Description rdf:about="detail/*">
-    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">*</schema:name>
+  <rdf:Description rdf:about="detail/%ef%bc%8a">
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">＊</schema:name>
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Maekawa_Miku"/>
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Tada_Rina"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
@@ -814,8 +814,8 @@
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Suzumiya_Seika"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
-  <rdf:Description rdf:about="detail/*with%E3%81%AA%E3%81%A4%E3%81%AA%E3%81%AA">
-    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">*withなつなな</schema:name>
+  <rdf:Description rdf:about="detail/%ef%bc%8awith%E3%81%AA%E3%81%A4%E3%81%AA%E3%81%AA">
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">＊withなつなな</schema:name>
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Maekawa_Miku"/>
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Tada_Rina"/>
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Kimura_Natsuki"/>
@@ -1164,6 +1164,29 @@
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">デレパ</schema:name>
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Honda_Mio"/>
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Tada_Rina"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="%E6%98%A5%E9%9C%9E">
+    <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">春霞</schema:name>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Domyouji_Karin"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Hamaguchi_Ayame"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Wakiyama_Tamami"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Kobayakawa_Sae"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Yorita_Yoshino"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="%E3%83%8F%E3%83%94%E3%83%8F%E3%83%94%E3%83%87%E3%83%BC%E3%83%A2%E3%83%B3%E3%83%84%E3%82%A4%E3%83%B3%26%E5%A0%95%E5%A4%A9%E9%AD%94%E7%8E%8B%E3%83%A9%E3%83%B3%E3%82%B3">
+    <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">ハピハピデーモンツイン＆堕天魔王ランコ</schema:name>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Moroboshi_Kirari"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Futaba_Anzu"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Kanzaki_Ranko"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="%E9%AD%94%E7%95%8C%E3%81%AE%E4%BA%88%E8%A8%80%E8%80%85">
+    <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">魔界の予言者</schema:name>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Hayami_Kanade"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Sagisawa_Fumika"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Tachibana_Arisu"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
 
