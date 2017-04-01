@@ -27,16 +27,13 @@
 @prefix reg: <http://purl.org/metainfo/terms/registry#> .
 @prefix imas: <https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#>
 
-<https://crssnky.xyz/URIs/imas-schema>
+<https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#>
         a                owl:Ontology ;
         rdfs:label       "imas-schema語彙"@ja ;
         dcterms:creator  [ foaf:homepage  <https://sparql.crssnky.xyz/imas/> ;
                            foaf:name      "crssnky"@ja
                          ] ;
         dcterms:issued   "2017-01-01" .
-
-imas:
-	reg:title			"imas-schema語彙".
 		
 # ここからはクラス
 imas:Character		a	rdfs:Class ;
@@ -56,7 +53,7 @@ imas:Producer		a	rdfs:Class ;
 
 imas:Unit			a	rdfs:Class ;
 	rdfs:comment		"ユニットを表すクラス" ;
-    rdfs:label			"ユニット"@ja .
+    rdfs:label			"ユニット"@ja ;
 	rdfs:subClassOf		schema:Organization .
 
 imas:Facility		a	rdfs:Class ;
@@ -68,72 +65,72 @@ imas:Facility		a	rdfs:Class ;
 # ここからはプロパティ
 imas:familyNameKana	a	rdf:Property ;
 	rdfs:comment		"姓のよみがなを表すプロパティ" ;
-	rdfs:label			"姓よみがな"@ja ;
+	rdfs:label			"姓よみがな"@ja .
 
 imas:givenNameKana	a	rdf:Property ;
 	rdfs:comment		"名のよみがなを表すプロパティ" ;
-	rdfs:label			"名よみがな"@ja ;
+	rdfs:label			"名よみがな"@ja .
 
 imas:nameKana		a	rdf:Property ;
 	rdfs:comment		"名前のよみがなを表すプロパティ" ;
-	rdfs:label			"名前よみがな"@ja ;
+	rdfs:label			"名前よみがな"@ja .
 
 imas:Attribute		a	rdf:Property ;
 	rdfs:comment		"属性(Vo,Da,Vi)を表すプロパティ" ;
-	rdfs:label			"属性"@ja ;	
+	rdfs:label			"属性"@ja .
 	
 imas:Type			a	rdf:Property ;
 	rdfs:comment		"タイプ(Cu,Co,Pa)を表すプロパティ" ;
-	rdfs:label			"タイプ"@ja ;
+	rdfs:label			"タイプ"@ja .
 	
 imas:Category		a	rdf:Property ;
 	rdfs:comment		"カテゴリ(メンタル・フィジカル・インテリ)を表すプロパティ" ;
-	rdfs:label			"カテゴリ"@ja ;
+	rdfs:label			"カテゴリ"@ja .
 	
 imas:BloodType		a	rdf:Property ;
 	rdfs:comment		"血液型を表すプロパティ" ;
-	rdfs:label			"血液型"@ja ;
+	rdfs:label			"血液型"@ja .
 	
 imas:Bust			a	rdf:Property ;
 	rdfs:comment		"胸囲を表すプロパティ" ;
-	rdfs:label			"胸囲"@ja ;
+	rdfs:label			"胸囲"@ja .
 	
 imas:Waist			a	rdf:Property ;
 	rdfs:comment		"腹囲を表すプロパティ" ;
-	rdfs:label			"腹囲"@ja ;
+	rdfs:label			"腹囲"@ja .
 	
 imas:ShoeSize		a	rdf:Property ;
 	rdfs:comment		"靴のサイズを表すプロパティ" ;
-	rdfs:label			"靴のサイズ"@ja ;
+	rdfs:label			"靴のサイズ"@ja .
 	
 imas:Hip			a	rdf:Property ;
 	rdfs:comment		"臀囲(尻囲)を表すプロパティ" ;
-	rdfs:label			"臀囲"@ja ;
+	rdfs:label			"臀囲"@ja .
 	
 imas:Handedness		a	rdf:Property ;
 	rdfs:comment		"聞き手を表すプロパティ" ;
-	rdfs:label			"聞き手"@ja ;
+	rdfs:label			"聞き手"@ja .
 	
 imas:Hobby			a	rdf:Property ;
 	rdfs:comment		"趣味を表すプロパティ" ;
-	rdfs:label			"趣味"@ja ;
+	rdfs:label			"趣味"@ja .
 	
 imas:Talent			a	rdf:Property ;
 	rdfs:comment		"特技を表すプロパティ" ;
-	rdfs:label			"特技"@ja ;
+	rdfs:label			"特技"@ja .
 	
 imas:Favorite		a	rdf:Property ;
 	rdfs:comment		"好きなものを表すプロパティ" ;
-	rdfs:label			"好きなもの"@ja ;
+	rdfs:label			"好きなもの"@ja .
 	
 imas:Color			a	rdf:Property ;
 	rdfs:comment		"イメージカラーを表すプロパティ" ;
-	rdfs:label			"イメージカラー"@ja ;
+	rdfs:label			"イメージカラー"@ja .
 	
 imas:cv				a	rdf:Property ;
 	rdfs:comment		"担当声優を表すプロパティ" ;
-	rdfs:label			"担当声優"@ja ;
+	rdfs:label			"担当声優"@ja .
 	
 imas:constellation	a	rdf:Property ;
 	rdfs:comment		"星座を表すプロパティ" ;
-	rdfs:label			"星座"@ja ;
+	rdfs:label			"星座"@ja .
