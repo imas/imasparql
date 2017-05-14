@@ -36,31 +36,34 @@
         dcterms:issued   "2017-01-01" .
 		
 # ここからはクラス
-imas:Character		a	rdfs:Class ;
-	rdfs:comment		"登場人物を表すクラス" ;
-	rdfs:label			"登場人物"@ja ;
-	rdfs:subClassOf		schema:Person .
+imas:Character					a	rdfs:Class ;
+	rdfs:comment					"登場人物を表すクラス" ;
+	rdfs:label						"登場人物"@ja ;
+	rdfs:subClassOf					schema:Person .
 
-imas:Idol			a	rdfs:Class ;
-	rdfs:comment		"アイドルを表すクラス" ;
-	rdfs:label			"アイドル"@ja ;
-	rdfs:subClassOf		imas:Character .
+imas:Idol						a	rdfs:Class ;
+	rdfs:comment					"アイドルを表すクラス" ;
+	rdfs:label						"アイドル"@ja ;
+	rdfs:subClassOf					imas:Character .
 
-imas:Producer		a	rdfs:Class ;
-	rdfs:comment		"プロデューサーを表すクラス" ;
-	rdfs:label			"プロデューサー"@ja ;
-	rdfs:subClassOf		imas:Character .
+imas:Producer					a	rdfs:Class ;
+	rdfs:comment					"プロデューサーを表すクラス" ;
+	rdfs:label						"プロデューサー"@ja ;
+	rdfs:subClassOf					imas:Character .
 
-imas:Unit			a	rdfs:Class ;
-	rdfs:comment		"ユニットを表すクラス" ;
-    rdfs:label			"ユニット"@ja ;
-	rdfs:subClassOf		schema:Organization .
+imas:Unit						a	rdfs:Class ;
+	rdfs:comment					"ユニットを表すクラス" ;
+    rdfs:label						"ユニット"@ja ;
+	rdfs:subClassOf					schema:Organization .
 
-imas:Facility		a	rdfs:Class ;
-	rdfs:comment		"施設を表すクラス" ;
-    rdfs:label			"施設"@ja ;
-    rdfs:subClassOf		schema:Place .
-
+imas:Facility					a	rdfs:Class ;
+	rdfs:comment					"施設を表すクラス" ;
+    rdfs:label						"施設"@ja ;
+    rdfs:subClassOf					schema:Place .
+	
+imas:CinderellaRankingResult	a	rdfs:Class ;
+	rdfs:comment					"シンデレラガールズ総選挙結果を表すクラス" ;
+    rdfs:label						"シンデレラガールズ総選挙結果"@ja .
 	
 # ここからはプロパティ
 imas:familyNameKana	a	rdf:Property ;
@@ -134,3 +137,7 @@ imas:cv				a	rdf:Property ;
 imas:constellation	a	rdf:Property ;
 	rdfs:comment		"星座を表すプロパティ" ;
 	rdfs:label			"星座"@ja .
+	
+imas:VoteNumber		a	rdf:Property ;
+	rdfs:comment		"得票数を表すプロパティ" ;
+	rdfs:label			"得票数"@ja .
