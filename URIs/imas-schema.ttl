@@ -56,6 +56,11 @@ imas:Unit						a	rdfs:Class ;
     rdfs:label						"ユニット"@ja ;
 	rdfs:subClassOf					schema:Organization .
 
+imas:Event						a	rdfs:Class ;
+	rdfs:comment					"イベントを表すクラス" ;
+    rdfs:label						"イベント"@ja ;
+	rdfs:subClassOf					schema:Event .
+
 imas:Facility					a	rdfs:Class ;
 	rdfs:comment					"施設を表すクラス" ;
     rdfs:label						"施設"@ja ;
