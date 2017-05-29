@@ -740,8 +740,6 @@
   <rdf:Description rdf:about="detail/%E3%81%8F%E3%83%8E%E4%B8%80%E3%81%82%E3%82%84%E3%82%81%E5%BF%8D%E6%B3%95%E5%B8%96">
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">くノ一あやめ忍法帖</schema:name>
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Hamaguchi_Ayame"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Hamaguchi_Ayame"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Hamaguchi_Ayame"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
   <rdf:Description rdf:about="detail/%E3%82%B5%E3%83%B3%E3%82%BB%E3%83%83%E3%83%88%E3%83%8E%E3%82%B9%E3%82%BF%E3%83%AB%E3%82%B8%E3%83%BC">
@@ -1189,6 +1187,192 @@
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Tachibana_Arisu"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
+  <rdf:Description rdf:about="Shock'in%20Pink!">
+    <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">Shock'in Pink!</schema:name>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Fujimoto_Rina"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Hayasaka_Mirei"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="397cherry">
+    <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">397cherry</schema:name>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Maekawa_Miku"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Abe_Nana"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Ogata_Chieri"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Triad%20Primus">
+    <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">Triad Primus</schema:name>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Shibuya_Rin"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Kamiya_Nao"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Hojo_Karen"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="%E3%83%95%E3%82%A1%E3%82%BF%E3%83%BB%E3%83%A2%E3%83%AB%E3%82%AC%E3%83%BC%E3%83%8A">
+    <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">ファタ・モルガーナ</schema:name>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Ohishi_Izumi"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Asari_Nanami"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Yagami_Makino"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="%E3%83%96%E3%82%A8%E3%83%8A%E3%83%BB%E3%82%B9%E3%82%A8%E3%83%AB%E3%83%86">
+    <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">ブエナ・スエルテ</schema:name>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Tsutiya_Ako"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Yaguchi_Miu"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Kita_Hinako"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="%E7%A7%8B%E8%89%B2%E6%B8%A9%E6%B3%89">
+    <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">秋色温泉</schema:name>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Egami_Tsubaki"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Yagami_Makino"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Kozeki_Reina"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Senzaki_Ema"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="%E3%83%87%E3%83%93%E3%83%AA%E3%83%83%E3%82%B7%E3%83%A5%E3%82%B4%E3%82%B7%E3%83%83%E3%82%AF">
+    <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">デビリッシュゴシック</schema:name>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Yanagi_Kiyora"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Munakata_Atsumi"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Sasaki_Chie"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Ebihara_Naho"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="%E3%83%8F%E3%82%A4%E3%82%AB%E3%83%A9%E3%82%B5%E3%82%AF%E3%83%A9">
+    <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">ハイカラサクラ</schema:name>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Futaba_Anzu"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Maekawa_Miku"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Nitta_Minami"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Jougasaki_Rika"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="%E3%83%91%E3%82%B9%E3%83%86%E3%83%AB%E3%83%BB%E3%82%AB%E3%82%AF%E3%83%86%E3%83%AB">
+    <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">パステル・カクテル</schema:name>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Kurokawa_Chiaki"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Sawada_Marina"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Souma_Natsuma"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Manaka_Misato"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="%E3%83%8F%E3%83%AD%E3%82%A6%E3%82%A3%E3%83%B3%E3%83%8A%E3%82%A4%E3%83%88">
+    <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">ハロウィンナイト</schema:name>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Niwa_Hitomi"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Shinohara_Rei"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Morikubo_Nono"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Ueda_Suzuho"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="%E3%83%96%E3%83%A9%E3%82%A4%E3%83%80%E3%83%AB%E3%82%BB%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3">
+    <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">ブライダルセレクション</schema:name>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Shiragiku_Hotaru"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Komuro_Chinami"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Yuuki_Haru"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Mary_Cochran"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="%E3%83%A1%E3%83%AB%E3%83%98%E3%83%B3%E3%82%B4%E3%82%B7%E3%83%83%E3%82%AF%09">
+    <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">メルヘンゴシック	</schema:name>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Sakurai_Momoka"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Ohnishi_Yuriko"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Morikubo_Nono"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Sugisaka_Umi"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="%E3%83%A1%E3%83%AB%E3%83%98%E3%83%B3%E3%82%A2%E3%83%8B%E3%83%9E%E3%83%AB%E3%82%BA">
+    <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">メルヘンアニマルズ</schema:name>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Otokura_Yuki"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Aikawa_Chinatsu"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Okazaki_Yasuha"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Kitagawa_Mahiro"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="%E3%83%AD%E3%83%9E%E3%83%B3%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E3%83%84%E3%82%A2%E3%83%BC%E3%82%BA">
+    <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">ロマンティックツアーズ</schema:name>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Ijuin_Megumi"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Souma_Natsuma"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Namiki_Meiko"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Egami_Tsubaki"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Black%2FWhite-Roses">
+    <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">Black/White-Roses</schema:name>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Togo_Ai"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Asano_Fuka"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Sakurai_Momoka"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Sena_Shiori"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="NEX-US">
+    <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">NEX-US</schema:name>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Anastasia"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Kamiya_Nao"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Nakano_Yuka"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Maekawa_Miku"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Hoshi_Syoko"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="%E6%A1%9C%E8%88%9E%E9%9A%8A">
+    <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">桜舞隊</schema:name>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Koga_Koharu"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Fukuyama_Mai"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Matoba_Risa"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Murakami_Tomoe"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Yuuki_Haru"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="%E3%83%8F%E3%83%AD%E3%82%A6%E3%82%A3%E3%83%B3%E3%83%91%E3%83%BC%E3%83%86%E3%82%A3%E3%83%BC">
+    <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">ハロウィンパーティー</schema:name>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Sakuma_Mayu"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Matsunaga_Ryo"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Umeki_Otoha"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Ueda_Suzuho"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Nanba_Emi"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="%E3%83%9E%E3%83%BC%E3%83%A1%E3%82%A4%E3%83%89%E3%83%91%E3%83%A9%E3%83%80%E3%82%A4%E3%82%B9">
+    <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">マーメイドパラダイス</schema:name>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Yokoyama_Chika"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Igarashi_Kyoko"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Mizuki_Seira"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Sena_Shiori"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Oikawa_Shizuku"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="%E3%83%A1%E3%82%A4%E3%83%89%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3">
+    <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">メイドコレクション</schema:name>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Clarice"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Togo_Ai"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Shirasaka_Koume"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Namiki_Meiko"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Makihara_Shiho"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="%E3%83%A0%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%AB%E3%83%BC%E3%82%B8%E3%83%A5">
+    <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">ムーランルージュ</schema:name>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Yanagi_Kiyora"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Sato_Shin"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Hiiragi_Shino"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Saito_Yoko"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Mizuno_Midori"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Takahashi_Reiko"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="KBKYZD">
+    <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">KBKYZD</schema:name>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Shirasaka_Koume"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Hoshi_Syoko"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Koshimizu_Sachiko"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Himekawa_Yuki"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Kobayakawa_Sae"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="%E3%83%93%E3%83%93%E3%83%83%E3%83%89%E3%82%AB%E3%83%A9%E3%83%BC%E3%82%A8%E3%82%A4%E3%82%B8">
+    <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">ビビッドカラーエイジ</schema:name>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Imai_Kana"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Fujiwara_Hajime"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Takamori_Aiko"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
+  </rdf:Description>
+
 
   <rdf:Description rdf:about="detail/Jupiter">
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Jupiter</schema:name>
@@ -1294,60 +1478,6 @@
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Kuzunoha_Amehiko"/>
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Kitamura_Sora"/>
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Koron_Chris"/>
-    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="detail/%E3%82%B5%E3%82%A4%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%88%E3%82%A4%E3%83%AB%E3%83%9F%E3%83%8D%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3">
-    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">サインライトイルミネーション</schema:name>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Amagase_Toma"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Ijuin_Hokuto"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Mitarai_Shota"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Akai_Suzaku"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Kurono_Genbu"/>
-    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="detail/%E3%83%90%E3%83%AC%E3%83%B3%E3%82%BF%E3%82%A4%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%962015">
-    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">バレンタインライブ2015</schema:name>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Ijuin_Hokuto"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Maita_Rui"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Takajo_Kyoji"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Pierre"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Watanabe_Minori"/>
-    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="detail/%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%87%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%962015">
-    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ホワイトデーライブ2015</schema:name>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Amagase_Toma"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Akuno_Hideo"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Wakazato_Haruna"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Uzuki_Makio"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Yamashita_Jiro"/>
-    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="detail/%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%96%E3%83%95%E3%82%A7%E3%82%B92015">
-    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">スーパーライブフェス2015</schema:name>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Akiyama_Hayato"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Yamashita_Jiro"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Amagase_Toma"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Iseya_Shiki"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Sakaki_Natsuki"/>
-    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="detail/%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%87%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%962016">
-    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ホワイトデーライブ2016</schema:name>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Kizaki_Ren"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Mitarai_Shota"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Sakuraba_Kaoru"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Kagura_Rei"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Iseya_Shiki"/>
-    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="detail/%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%96%E3%83%95%E3%82%A7%E3%82%B92016">
-    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">スーパーライブフェス2016</schema:name>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Iseya_Shiki"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Sakaki_Natsuki"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Amagase_Toma"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Fuyumi_Jun"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Kizaki_Ren"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
 
@@ -1987,6 +2117,22 @@
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Handa_Roko"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
+  <rdf:Description rdf:about="detail/%E3%82%B2%E3%83%83%E3%82%B5%E3%83%B3_1">
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ゲッサン_1</schema:name>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Ibuki_Tsubasa"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Julia"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Makabe_Mizuki"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="detail/%E3%82%B2%E3%83%83%E3%82%B5%E3%83%B3_1">
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ゲッサン_1</schema:name>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Ibuki_Tsubasa"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Julia"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Takayama_Sayoko"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Nanao_Yutiko"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Makabe_Mizuki"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
+  </rdf:Description>
 
   <rdf:Description rdf:about="detail/%E3%81%AF%E3%81%84%E3%81%95%E3%81%84%E3%83%95%E3%83%A5%E3%83%BC%E3%83%81%E3%83%A3%E3%83%BC%E3%82%B9%E3%82%BF%E3%83%BC">
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">はいさいフューチャースター</schema:name>
@@ -2001,409 +2147,6 @@
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Shibuya_Rin"/>
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Mogami_Shizuka"/>
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Tokoro_Megumi"/>
-    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
-  </rdf:Description>
-
-  <rdf:Description rdf:about="detail/%E3%83%87%E3%83%AC%E3%83%9E%E3%82%B9_Noname_1">
-    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">デレマス_Noname_1</schema:name>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Shimamura_Uzuki"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Shibuya_Rin"/>
-    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="detail/%E3%83%87%E3%83%AC%E3%83%9E%E3%82%B9_Noname_2">
-    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">デレマス_Noname_2</schema:name>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Totoki_Airi"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Kanzaki_Ranko"/>
-    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="detail/%E3%83%87%E3%83%AC%E3%83%9E%E3%82%B9_Noname_3">
-    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">デレマス_Noname_3</schema:name>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Kamiya_Nao"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Hojo_Karen"/>
-    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="detail/%E3%83%87%E3%83%AC%E3%83%9E%E3%82%B9_Noname_4">
-    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">デレマス_Noname_4</schema:name>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Shibuya_Rin"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Kamiya_Nao"/>
-    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="detail/%E3%83%87%E3%83%AC%E3%83%9E%E3%82%B9_Noname_5">
-    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">デレマス_Noname_5</schema:name>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Honda_Mio"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Tada_Rina"/>
-    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="detail/%E3%83%87%E3%83%AC%E3%83%9E%E3%82%B9_Noname_6">
-    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">デレマス_Noname_6</schema:name>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Nanba_Emi"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Ueda_Suzuho"/>
-    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="detail/%E3%83%87%E3%83%AC%E3%83%9E%E3%82%B9_Noname_7">
-    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">デレマス_Noname_7</schema:name>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Kudo_Shinobu"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Ayase_Honoka"/>
-    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="detail/%E3%83%87%E3%83%AC%E3%83%9E%E3%82%B9_Noname_8">
-    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">デレマス_Noname_8</schema:name>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Kitami_Yuzu"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Momoi_Azuki"/>
-    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="detail/%E3%83%87%E3%83%AC%E3%83%9E%E3%82%B9_Noname_9">
-    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">デレマス_Noname_9</schema:name>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Otokura_Yuki"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Yorita_Yoshino"/>
-    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="detail/%E3%83%87%E3%83%AC%E3%83%9E%E3%82%B9_Noname_10">
-    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">デレマス_Noname_10</schema:name>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Natalia"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Layla"/>
-    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="detail/%E3%83%87%E3%83%AC%E3%83%9E%E3%82%B9_Noname_11">
-    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">デレマス_Noname_11</schema:name>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Futaba_Anzu"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Miyoshi_Sana"/>
-    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="detail/%E3%83%87%E3%83%AC%E3%83%9E%E3%82%B9_Noname_12">
-    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">デレマス_Noname_12</schema:name>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Abe_Nana"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Maekawa_Miku"/>
-    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="detail/%E3%83%87%E3%83%AC%E3%83%9E%E3%82%B9_Noname_13">
-    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">デレマス_Noname_13</schema:name>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Honda_Mio"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Takamori_Aiko"/>
-    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="detail/%E3%83%87%E3%83%AC%E3%83%9E%E3%82%B9_Noname_14">
-    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">デレマス_Noname_14</schema:name>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Koshimizu_Sachiko"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Kawashima_Mizuki"/>
-    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="detail/%E3%83%87%E3%83%AC%E3%83%9E%E3%82%B9_Noname_15">
-    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">デレマス_Noname_15</schema:name>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Kobayakawa_Sae"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Sakuma_Mayu"/>
-    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="detail/%E3%83%87%E3%83%AC%E3%83%9E%E3%82%B9_Noname_16">
-    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">デレマス_Noname_16</schema:name>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Kurokawa_Chiaki"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Sajo_Yukimi"/>
-    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="detail/%E3%83%87%E3%83%AC%E3%83%9E%E3%82%B9_Noname_17">
-    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">デレマス_Noname_17</schema:name>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Mukai_Takumi"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Murakami_Tomoe"/>
-    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="detail/%E3%83%87%E3%83%AC%E3%83%9E%E3%82%B9_Noname_18">
-    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">デレマス_Noname_18</schema:name>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Togo_Ai"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Kiba_Manami"/>
-    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="detail/%E3%83%87%E3%83%AC%E3%83%9E%E3%82%B9_Noname_19">
-    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">デレマス_Noname_19</schema:name>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Mifune_Miyu"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Kawashima_Mizuki"/>
-    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="detail/%E3%83%87%E3%83%AC%E3%83%9E%E3%82%B9_Noname_20">
-    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">デレマス_Noname_20</schema:name>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Kohinata_Miho"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Takamori_Aiko"/>
-    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="detail/%E3%83%87%E3%83%AC%E3%83%9E%E3%82%B9_Noname_21">
-    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">デレマス_Noname_21</schema:name>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Nanjo_Hikaru"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Yokoyama_Chika"/>
-    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="detail/%E3%83%87%E3%83%AC%E3%83%9E%E3%82%B9_Noname_22">
-    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">デレマス_Noname_22</schema:name>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Takagaki_Kaede"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Koshimizu_Sachiko"/>
-    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="detail/%E3%83%87%E3%83%AC%E3%83%9E%E3%82%B9_Noname_23">
-    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">デレマス_Noname_23</schema:name>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Kawashima_Mizuki"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Katagiri_Sanae"/>
-    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="detail/%E3%83%87%E3%83%AC%E3%83%9E%E3%82%B9_Noname_24">
-    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">デレマス_Noname_24</schema:name>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Takahashi_Reiko"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Hiiragi_Shino"/>
-    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="detail/%E3%83%87%E3%83%AC%E3%82%A2%E3%83%8B_Noname_1">
-    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">デレアニ_Noname_1</schema:name>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Anastasia"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Kanzaki_Ranko"/>
-    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="detail/%E3%83%87%E3%83%AC%E3%82%A2%E3%83%8B_Noname_2">
-    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">デレアニ_Noname_2</schema:name>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Tachibana_Arisu"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Sagisawa_Fumika"/>
-    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="detail/%E3%83%87%E3%83%AC%E3%82%A2%E3%83%8B_Noname_3">
-    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">デレアニ_Noname_3</schema:name>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Shimamura_Uzuki"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Kohinata_Miho"/>
-    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="detail/%E3%83%87%E3%83%AC%E3%82%A2%E3%83%8B_Noname_4">
-    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">デレアニ_Noname_4</schema:name>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Mimura_Kanako"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Kohinata_Miho"/>
-    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="detail/%E3%83%87%E3%83%AC%E3%82%A2%E3%83%8B_Noname_5">
-    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">デレアニ_Noname_5</schema:name>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Shiomi_Syuko"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Miyamoto_Frederica"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Ohtsuki_Yui"/>
-    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="detail/%E3%83%87%E3%83%AC%E3%82%B9%E3%83%86_Noname_1">
-    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">デレステ_Noname_1</schema:name>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Shimamura_Uzuki"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Shibuya_Rin"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Honda_Mio"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Ohtsuki_Yui"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Kamijo_Haruna"/>
-    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="detail/%E3%83%87%E3%83%AC%E3%82%B9%E3%83%86_Noname_2">
-    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">デレステ_Noname_2</schema:name>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Honda_Mio"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Tada_Rina"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Shibuya_Rin"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Abe_Nana"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Himekawa_Yuki"/>
-    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="detail/%E3%83%87%E3%83%AC%E3%82%B9%E3%83%86_Noname_3">
-    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">デレステ_Noname_3</schema:name>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Shiomi_Syuko"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Maekawa_Miku"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Takagaki_Kaede"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Aiba_Yumi"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Ichinose_Shiki"/>
-    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="detail/%E3%83%87%E3%83%AC%E3%82%B9%E3%83%86_Noname_4">
-    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">デレステ_Noname_4</schema:name>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Tachibana_Arisu"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Sakurai_Momoka"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Nakano_Yuka"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Ichihara_Nina"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Katagiri_Sanae"/>
-    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="detail/%E3%83%87%E3%83%AC%E3%82%B9%E3%83%86_Noname_5">
-    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">デレステ_Noname_5</schema:name>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Jougasaki_Rika"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Ogata_Chieri"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Hojo_Karen"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Kawashima_Mizuki"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Ohtsuki_Yui"/>
-    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="detail/%E3%83%87%E3%83%AC%E3%82%B9%E3%83%86_Noname_6">
-    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">デレステ_Noname_6</schema:name>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Shimamura_Uzuki"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Maekawa_Miku"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Jougasaki_Mika"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Kamiya_Nao"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Tada_Rina"/>
-    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="detail/%E3%83%87%E3%83%AC%E3%82%B9%E3%83%86_Noname_7">
-    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">デレステ_Noname_7</schema:name>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Sakuma_Mayu"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Kobayakawa_Sae"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Mizumoto_Yukari"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Mimura_Kanako"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Hayami_Kanade"/>
-    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="detail/%E3%83%87%E3%83%AC%E3%82%B9%E3%83%86_Noname_8">
-    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">デレステ_Noname_8</schema:name>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Hino_Akane"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Takamori_Aiko"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Oikawa_Shizuku"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Wakiyama_Tamami"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Domyouji_Karin"/>
-    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="detail/%E3%83%87%E3%83%AC%E3%82%B9%E3%83%86_Noname_9">
-    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">デレステ_Noname_9</schema:name>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Jougasaki_Mika"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Kanzaki_Ranko"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Maekawa_Miku"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Ninomiya_Asuka"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Ichinose_Shiki"/>
-    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="detail/765Caravan_Noname_1">
-    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">765Caravan_Noname_1</schema:name>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Amami_haruka"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Misase_Iori"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Furami_Ami"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Furami_mami"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Tanaka_Kotoha"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Tokoro_Megumi"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Emily_Stewart"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Kitakami_Reika"/>
-    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="detail/765Caravan_Noname_2">
-    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">765Caravan_Noname_2</schema:name>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Miura_Azusa"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Kasuga_Mirai"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Ibuki_Tsubasa"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Tokugawa_Matsuri"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Hakozaki_serika"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Maihama_Ayumu"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Baba_Konomi"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Momose_Rio"/>
-    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="detail/765Caravan_Noname_3">
-    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">765Caravan_Noname_3</schema:name>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Julia"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Takayama_Sayoko"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Kousaka_Umi"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Nagayoshi_Subaru"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Kikuchi_Makoto"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Miyao_Miya"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Ninomiya_Karen"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Toyokawa_Fuka"/>
-    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="detail/765Caravan_Noname_4">
-    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">765Caravan_Noname_4</schema:name>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Tenkubashi_Tomoka"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Matsuda_Arisa"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Kinoshita_Hinata"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Ganaha_Hibiki"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Shimabara_Erena"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Takatsuki_Yayoi"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Suou_Momoko"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Nakatani_Iku"/>
-    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="detail/765Caravan_Noname_5">
-    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">765Caravan_Noname_5</schema:name>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Shijou_Takane"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Yabuki_Kana"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Nonohara_Akane"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Makabe_Mizuki"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Ogami_Tamaki"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Kitazawa_Shiho"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Hagiwara_Yukiho"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Akiduki_Ritsuko"/>
-    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="detail/765Caravan_Noname_6">
-    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">765Caravan_Noname_6</schema:name>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Kisaragi_Chihaya"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Mochiduki_Anna"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Mogami_Shizuka"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Yokoyama_Nao"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Satake_Minako"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Fukuda_Noriko"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Hoshii_Miki"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Nanao_Yutiko"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Handa_Roko"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Nikaidou_Chiduru"/>
-    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="detail/%E3%83%9F%E3%83%AA%E3%83%9E%E3%82%B9_Noname_1">
-    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ミリマス_Noname_1</schema:name>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Nagayoshi_Subaru"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Maihama_Ayumu"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Fukuda_Noriko"/>
-    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="detail/%E3%83%9F%E3%83%AA%E3%83%9E%E3%82%B9_Noname_2">
-    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ミリマス_Noname_2</schema:name>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Nanao_Yutiko"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Takayama_Sayoko"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Hakozaki_serika"/>
-    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="detail/%E3%83%9F%E3%83%AA%E3%83%9E%E3%82%B9_Noname_3">
-    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ミリマス_Noname_3</schema:name>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Tanaka_Kotoha"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Maihama_Ayumu"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Miyao_Miya"/>
-    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="detail/%E3%83%9F%E3%83%AA%E3%83%9E%E3%82%B9_Noname_4">
-    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ミリマス_Noname_4</schema:name>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Yabuki_Kana"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Kitazawa_Shiho"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Furami_Ami"/>
-    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="detail/%E3%83%9F%E3%83%AA%E3%83%9E%E3%82%B9_Noname_5">
-    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ミリマス_Noname_5</schema:name>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Nagayoshi_Subaru"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Furami_mami"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Misase_Iori"/>
-    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="detail/%E3%83%9F%E3%83%AA%E3%83%9E%E3%82%B9_Noname_6">
-    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ミリマス_Noname_6</schema:name>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Nikaidou_Chiduru"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Mochiduki_Anna"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Kinoshita_Hinata"/>
-    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="detail/%E3%83%9F%E3%83%AA%E3%83%9E%E3%82%B9_Noname_7">
-    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ミリマス_Noname_7</schema:name>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Momose_Rio"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Mogami_Shizuka"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Tenkubashi_Tomoka"/>
-    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="detail/%E3%83%9F%E3%83%AA%E3%83%9E%E3%82%B9_Noname_8">
-    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ミリマス_Noname_8</schema:name>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Tokoro_Megumi"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Tanaka_Kotoha"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Shimabara_Erena"/>
-    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="detail/%E3%82%B2%E3%83%83%E3%82%B5%E3%83%B3_Noname_1">
-    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ゲッサン_Noname_1</schema:name>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Ibuki_Tsubasa"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Julia"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Makabe_Mizuki"/>
-    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="detail/%E3%82%B2%E3%83%83%E3%82%B5%E3%83%B3_Noname_1">
-    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ゲッサン_Noname_1</schema:name>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Ibuki_Tsubasa"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Julia"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Takayama_Sayoko"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Nanao_Yutiko"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Makabe_Mizuki"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
 
