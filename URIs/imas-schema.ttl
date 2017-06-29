@@ -95,6 +95,10 @@ imas:Category		a	rdf:Property ;
 	rdfs:comment		"カテゴリ(メンタル・フィジカル・インテリ)を表すプロパティ" ;
 	rdfs:label			"カテゴリ"@ja .
 	
+imas:Division		a	rdf:Property ;
+	rdfs:comment		"区分(Princess・Fairy・Angel)を表すプロパティ" ;
+	rdfs:label			"区分"@ja .
+	
 imas:BloodType		a	rdf:Property ;
 	rdfs:comment		"血液型を表すプロパティ" ;
 	rdfs:label			"血液型"@ja .
