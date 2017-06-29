@@ -1372,6 +1372,16 @@
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Takamori_Aiko"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
+  <rdf:Description rdf:about="Love%20Yell">
+    <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">Love Yell</schema:name>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Igarashi_Kyoko"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Himekawa_Yuki"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Mizumoto_Yukari"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Moroboshi_Kirari"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Otokura_Yuki"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
+  </rdf:Description>
+
 
 
   <rdf:Description rdf:about="detail/Jupiter">
