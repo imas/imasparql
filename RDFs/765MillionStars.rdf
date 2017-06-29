@@ -1059,5 +1059,63 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
+  <rdf:Description rdf:about="detail/Shiraishi_Tsumugi">
+    <imas:Attribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">(Vi)</imas:Attribute>
+    <schema:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">白石</schema:familyName>
+    <imas:familyNameKana rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">しらいし</imas:familyNameKana>
+    <schema:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">紬</schema:givenName>
+    <imas:givenNameKana rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">つむぎ</imas:givenNameKana>
+    <imas:nameKana rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">しらいしつむぎ</imas:nameKana>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">白石紬</schema:name>
+    <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</foaf:age>
+    <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">160.0</schema:height>
+    <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">45.0</schema:weight>
+    <imas:bust rdf:datatype="http://www.w3.org/2001/XMLSchema#float">82.0</imas:bust>
+    <imas:waist rdf:datatype="http://www.w3.org/2001/XMLSchema#float">56.0</imas:waist>
+    <imas:hip rdf:datatype="http://www.w3.org/2001/XMLSchema#float">83.0</imas:hip>
+    <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--05-29</schema:birthDate>
+    <imas:constellation rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">双子座</imas:constellation>
+    <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AB</imas:BloodType>
+    <imas:Handedness rdf:datatype="http://www.w3.org/2001/XMLSchema#string">right</imas:Handedness>
+    <imas:Hobby rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="jp">庭園</imas:Hobby>
+    <imas:Hobby rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="jp">甘味処の散策</imas:Hobby>
+    <imas:Talent rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="jp">着物の着付け</imas:Talent>
+    <imas:Talent rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="jp">三味線</imas:Talent>
+    <imas:Favorite rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="jp">和スイーツ</imas:Favorite>
+    <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"></imas:Color>
+    <imas:cv rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">南早紀</imas:cv>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="en">female</schema:gender>
+    <schema:memberOf rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="en">MillionStars</schema:memberOf>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+  </rdf:Description>
 
+  <rdf:Description rdf:about="detail/Sakuramori_Kaori">
+    <imas:Attribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">(Vo)</imas:Attribute>
+    <schema:familyName rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">桜守</schema:familyName>
+    <imas:familyNameKana rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">さくらもり</imas:familyNameKana>
+    <schema:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">歌織</schema:givenName>
+    <imas:givenNameKana rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">かおり</imas:givenNameKana>
+    <imas:nameKana rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">さくらもりかおり</imas:nameKana>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">桜守歌織</schema:name>
+    <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">23</foaf:age>
+    <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">165.0</schema:height>
+    <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">47.0</schema:weight>
+    <imas:bust rdf:datatype="http://www.w3.org/2001/XMLSchema#float">88.0</imas:bust>
+    <imas:waist rdf:datatype="http://www.w3.org/2001/XMLSchema#float">58.0</imas:waist>
+    <imas:hip rdf:datatype="http://www.w3.org/2001/XMLSchema#float">85.0</imas:hip>
+    <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--03-27</schema:birthDate>
+    <imas:constellation rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">牡牛座</imas:constellation>
+    <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">O</imas:BloodType>
+    <imas:Handedness rdf:datatype="http://www.w3.org/2001/XMLSchema#string">right</imas:Handedness>
+    <imas:Hobby rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="jp">乗馬</imas:Hobby>
+    <imas:Talent rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="jp">合唱</imas:Talent>
+    <imas:Talent rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="jp">ゴルフ</imas:Talent>
+    <imas:Favorite rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="jp">洋菓子</imas:Favorite>
+    <imas:Favorite rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="jp">子ども</imas:Favorite>
+    <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"></imas:Color>
+    <imas:cv rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">香里有佐</imas:cv>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="en">female</schema:gender>
+    <schema:memberOf rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="en">MillionStars</schema:memberOf>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+  </rdf:Description>
 </rdf:RDF>
