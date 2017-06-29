@@ -895,7 +895,7 @@
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="en">female</schema:gender>
     <schema:memberOf rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="en">MillionStars</schema:memberOf>
     <schema:birthPlace rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">東京</schema:birthPlace>
-    <imas:Division rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="en">Princess</imas:Division>
+    <imas:Division rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="en">Angel</imas:Division>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
@@ -1128,6 +1128,8 @@
     <imas:cv rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">愛美</imas:cv>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="en">female</schema:gender>
     <schema:memberOf rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="en">MillionStars</schema:memberOf>
+    <schema:birthPlace rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">福岡</schema:birthPlace>
+    <imas:Division rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="en">Fairy</imas:Division>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
