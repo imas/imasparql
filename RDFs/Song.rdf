@@ -23,79 +23,79 @@
     xmlns:mo="http://purl.org/ontology/mo/"
     >
 
-  <rdf:Description rdf:about="detail/%e9%ad%94%e6%b3%95%e3%82%92%e3%81%8b%e3%81%91%e3%81%a6%21%20%28M%40STER%20VERSION%29_01">
-    <rdf:type rdf:resource="https://schema.org/MusicRecording"/>
-    <schema:byArtist rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Amami_haruka" />
-    <schema:byArtist rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Akiduki_Ritsuko" />
-    <schema:byArtist rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Hagiwara_Yukiho" />
-    <schema:duration rdf:datatype="http://www.w3.org/2001/XMLSchema#duration">PT04M10S</schema:duration>
-    <schema:isrcCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JPCO00528760</schema:isrcCode>
-    <schema:recordingOf rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/%e9%ad%94%e6%b3%95%e3%82%92%e3%81%8b%e3%81%91%e3%81%a6%21_Composition" />
-    <schema:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2005-09-28</schema:datePublished>
-  <schema:name xml:lang="ja">魔法をかけて! (M@STER VERSION)_01</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:about="detail/THE%20IDOLM%40STER%20%28HYR%20VERSION%29">
-    <rdf:type rdf:resource="https://schema.org/MusicRecording"/>
-    <schema:byArtist rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Amami_haruka" />
-    <schema:byArtist rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Akiduki_Ritsuko" />
-    <schema:byArtist rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Hagiwara_Yukiho" />
-    <schema:duration rdf:datatype="http://www.w3.org/2001/XMLSchema#duration">PT05M29S</schema:duration>
-    <schema:isrcCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JPCO00528770</schema:isrcCode>
-    <schema:recordingOf rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/THE%20IDOLM%40STER_Composition" />
-    <schema:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2005-09-28</schema:datePublished>
-  <schema:name xml:lang="ja">THE IDOLM@STER (HYR VERSION)</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:about="detail/%e5%a4%aa%e9%99%bd%e3%81%ae%e3%82%b8%e3%82%a7%e3%83%a9%e3%82%b7%e3%83%bc_01">
-    <rdf:type rdf:resource="https://schema.org/MusicRecording"/>
-    <schema:byArtist rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Amami_haruka" />
-    <schema:duration rdf:datatype="http://www.w3.org/2001/XMLSchema#duration">PT02M04S</schema:duration>
-    <schema:isrcCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JPCO00528780</schema:isrcCode>
-    <schema:recordingOf rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/%e5%a4%aa%e9%99%bd%e3%81%ae%e3%82%b8%e3%82%a7%e3%83%a9%e3%82%b7%e3%83%bc_Composition" />
-    <schema:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2005-09-28</schema:datePublished>
-  <schema:name xml:lang="ja">太陽のジェラシー_01</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:about="detail/First%20Stage_01">
-    <rdf:type rdf:resource="https://schema.org/MusicRecording"/>
-    <schema:byArtist rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Hagiwara_Yukiho" />
-    <schema:duration rdf:datatype="http://www.w3.org/2001/XMLSchema#duration">PT02M02S</schema:duration>
-    <schema:isrcCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JPCO00528790</schema:isrcCode>
-    <schema:recordingOf rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/%e9%ad%94%e6%b3%95%e3%82%92%e3%81%8b%e3%81%91%e3%81%a6%21%20%28M%40STER%20VERSION%29_Composition" />
-    <schema:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2005-09-28</schema:datePublished>
-  <schema:name xml:lang="ja">First Stage_01</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:about="detail/%e9%ad%94%e6%b3%95%e3%82%92%e3%81%8b%e3%81%91%e3%81%a6%21_01">
-    <rdf:type rdf:resource="https://schema.org/MusicRecording"/>
-    <schema:byArtist rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Akiduki_Ritsuko" />
-    <schema:duration rdf:datatype="http://www.w3.org/2001/XMLSchema#duration">PT02M05S</schema:duration>
-    <schema:isrcCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JPCO00528800</schema:isrcCode>
-    <schema:recordingOf rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/%e9%ad%94%e6%b3%95%e3%82%92%e3%81%8b%e3%81%91%e3%81%a6%21%20%28M%40STER%20VERSION%29_Composition" />
-    <schema:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2005-09-28</schema:datePublished>
-  <schema:name xml:lang="ja">魔法をかけて!_01</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:about="detail/%e9%ad%94%e6%b3%95%e3%82%92%e3%81%8b%e3%81%91%e3%81%a6%21%20%28M%40STER%20VERSION%29%20%28%e3%82%aa%e3%83%aa%e3%82%b8%e3%83%8a%e3%83%ab%e3%83%bb%e3%82%ab%e3%83%a9%e3%82%aa%e3%82%b1%29_01">
-    <rdf:type rdf:resource="https://schema.org/MusicRecording"/>
-    <schema:duration rdf:datatype="http://www.w3.org/2001/XMLSchema#duration">PT04M09S</schema:duration>
-    <schema:isrcCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JPCO00528769</schema:isrcCode>
-    <schema:recordingOf rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/%e9%ad%94%e6%b3%95%e3%82%92%e3%81%8b%e3%81%91%e3%81%a6%21%20%28M%40STER%20VERSION%29_Composition" />
-    <schema:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2005-09-28</schema:datePublished>
-  <schema:name xml:lang="ja">魔法をかけて! (M@STER VERSION) (オリジナル・カラオケ)_01</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:about="detail/THE%20IDOLM%40STER%20%28HYR%20VERSION%29%20%28%e3%82%aa%e3%83%aa%e3%82%b8%e3%83%8a%e3%83%ab%e3%83%bb%e3%82%ab%e3%83%a9%e3%82%aa%e3%82%b1%29">
-    <rdf:type rdf:resource="https://schema.org/MusicRecording"/>
-    <schema:duration rdf:datatype="http://www.w3.org/2001/XMLSchema#duration">PT05M29S</schema:duration>
-    <schema:isrcCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JPCO00528779</schema:isrcCode>
-    <schema:recordingOf rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/THE%20IDOLM%40STER_Composition" />
-    <schema:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2005-09-28</schema:datePublished>
-  <schema:name xml:lang="ja">THE IDOLM@STER (HYR VERSION) (オリジナル・カラオケ)</schema:name>
-  </rdf:Description>
-  <rdf:Description rdf:about="detail/%e3%83%88%e3%83%bc%e3%82%af%20%e3%80%8c%e9%ad%94%e6%b3%95%e3%82%92%e3%81%8b%e3%81%91%e3%81%a6%21%ef%bd%9e%e6%98%a5%e9%a6%99%e3%83%bb%e9%9b%aa%e6%ad%a9%e3%83%bb%e5%be%8b%e5%ad%90%ef%bd%9e%e3%80%8d%20%28Bonus%20Track%29">
-    <rdf:type rdf:resource="https://schema.org/MusicRecording"/>
-    <schema:byArtist rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Amami_haruka" />
-    <schema:byArtist rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Akiduki_Ritsuko" />
-    <schema:byArtist rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Hagiwara_Yukiho" />
-    <schema:duration rdf:datatype="http://www.w3.org/2001/XMLSchema#duration">PT07M00S</schema:duration>
-    <schema:isrcCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JPCO00528810</schema:isrcCode>
-    <schema:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2005-09-28</schema:datePublished>
-  <schema:name xml:lang="ja">トーク 「魔法をかけて!～春香・雪歩・律子～」 (Bonus Track)</schema:name>
-  </rdf:Description>
+	<rdf:Description rdf:about="detail/%e9%ad%94%e6%b3%95%e3%82%92%e3%81%8b%e3%81%91%e3%81%a6%21%20%28M%40STER%20VERSION%29_01">
+		<rdf:type rdf:resource="https://schema.org/MusicRecording"/>
+		<schema:byArtist rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Amami_haruka" />
+		<schema:byArtist rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Akiduki_Ritsuko" />
+		<schema:byArtist rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Hagiwara_Yukiho" />
+		<schema:duration rdf:datatype="http://www.w3.org/2001/XMLSchema#duration">PT04M10S</schema:duration>
+		<schema:isrcCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JPCO00528760</schema:isrcCode>
+		<schema:recordingOf rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/NBGI%28%e7%a5%9e%e5%89%8d%e6%9a%81%29%ef%bc%86NBGI%28%e7%a5%9e%e5%89%8d%e6%9a%81%29" />
+		<schema:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2005-09-28</schema:datePublished>
+		<schema:name xml:lang="ja">魔法をかけて! (M@STER VERSION)_01</schema:name>
+	</rdf:Description>
+	<rdf:Description rdf:about="detail/THE%20IDOLM%40STER%20%28HYR%20VERSION%29">
+		<rdf:type rdf:resource="https://schema.org/MusicRecording"/>
+		<schema:byArtist rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Amami_haruka" />
+		<schema:byArtist rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Akiduki_Ritsuko" />
+		<schema:byArtist rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Hagiwara_Yukiho" />
+		<schema:duration rdf:datatype="http://www.w3.org/2001/XMLSchema#duration">PT05M29S</schema:duration>
+		<schema:isrcCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JPCO00528770</schema:isrcCode>
+		<schema:recordingOf rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/NBGI%28%e4%bd%90%e3%80%85%e6%9c%a8%e5%ae%8f%e4%ba%ba%29%ef%bc%86%e4%b8%ad%e6%9d%91%e6%81%b5" />
+		<schema:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2005-09-28</schema:datePublished>
+		<schema:name xml:lang="ja">THE IDOLM@STER (HYR VERSION)</schema:name>
+	</rdf:Description>
+	<rdf:Description rdf:about="detail/%e5%a4%aa%e9%99%bd%e3%81%ae%e3%82%b8%e3%82%a7%e3%83%a9%e3%82%b7%e3%83%bc_01">
+		<rdf:type rdf:resource="https://schema.org/MusicRecording"/>
+		<schema:byArtist rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Amami_haruka" />
+		<schema:duration rdf:datatype="http://www.w3.org/2001/XMLSchema#duration">PT02M04S</schema:duration>
+		<schema:isrcCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JPCO00528780</schema:isrcCode>
+		<schema:recordingOf rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/NBGI%28%e6%a4%8e%e5%90%8d%e8%b1%aa%29%ef%bc%86%e6%a3%ae%e7%94%b1%e9%87%8c%e5%ad%90" />
+		<schema:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2005-09-28</schema:datePublished>
+		<schema:name xml:lang="ja">太陽のジェラシー_01</schema:name>
+	</rdf:Description>
+	<rdf:Description rdf:about="detail/First%20Stage_01">
+		<rdf:type rdf:resource="https://schema.org/MusicRecording"/>
+		<schema:byArtist rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Hagiwara_Yukiho" />
+		<schema:duration rdf:datatype="http://www.w3.org/2001/XMLSchema#duration">PT02M02S</schema:duration>
+		<schema:isrcCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JPCO00528790</schema:isrcCode>
+		<schema:recordingOf rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/NBGI%28%e4%bd%90%e3%80%85%e6%9c%a8%e5%ae%8f%e4%ba%ba%29%ef%bc%86%e4%b8%ad%e6%9d%91%e6%81%b5" />
+		<schema:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2005-09-28</schema:datePublished>
+		<schema:name xml:lang="ja">First Stage_01</schema:name>
+	</rdf:Description>
+	<rdf:Description rdf:about="detail/%e9%ad%94%e6%b3%95%e3%82%92%e3%81%8b%e3%81%91%e3%81%a6%21_01">
+		<rdf:type rdf:resource="https://schema.org/MusicRecording"/>
+		<schema:byArtist rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Akiduki_Ritsuko" />
+		<schema:duration rdf:datatype="http://www.w3.org/2001/XMLSchema#duration">PT02M05S</schema:duration>
+		<schema:isrcCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JPCO00528800</schema:isrcCode>
+		<schema:recordingOf rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/NBGI%28%e7%a5%9e%e5%89%8d%e6%9a%81%29%ef%bc%86NBGI%28%e7%a5%9e%e5%89%8d%e6%9a%81%29" />
+		<schema:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2005-09-28</schema:datePublished>
+		<schema:name xml:lang="ja">魔法をかけて!_01</schema:name>
+	</rdf:Description>
+	<rdf:Description rdf:about="detail/%e9%ad%94%e6%b3%95%e3%82%92%e3%81%8b%e3%81%91%e3%81%a6%21%20%28M%40STER%20VERSION%29%20%28%e3%82%aa%e3%83%aa%e3%82%b8%e3%83%8a%e3%83%ab%e3%83%bb%e3%82%ab%e3%83%a9%e3%82%aa%e3%82%b1%29_01">
+		<rdf:type rdf:resource="https://schema.org/MusicRecording"/>
+		<schema:duration rdf:datatype="http://www.w3.org/2001/XMLSchema#duration">PT04M09S</schema:duration>
+		<schema:isrcCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JPCO00528769</schema:isrcCode>
+		<schema:recordingOf rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/NBGI%28%e7%a5%9e%e5%89%8d%e6%9a%81%29%ef%bc%86NBGI%28%e7%a5%9e%e5%89%8d%e6%9a%81%29" />
+		<schema:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2005-09-28</schema:datePublished>
+		<schema:name xml:lang="ja">魔法をかけて! (M@STER VERSION) (オリジナル・カラオケ)_01</schema:name>
+	</rdf:Description>
+	<rdf:Description rdf:about="detail/THE%20IDOLM%40STER%20%28HYR%20VERSION%29%20%28%e3%82%aa%e3%83%aa%e3%82%b8%e3%83%8a%e3%83%ab%e3%83%bb%e3%82%ab%e3%83%a9%e3%82%aa%e3%82%b1%29">
+		<rdf:type rdf:resource="https://schema.org/MusicRecording"/>
+		<schema:duration rdf:datatype="http://www.w3.org/2001/XMLSchema#duration">PT05M29S</schema:duration>
+		<schema:isrcCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JPCO00528779</schema:isrcCode>
+		<schema:recordingOf rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/NBGI%28%e4%bd%90%e3%80%85%e6%9c%a8%e5%ae%8f%e4%ba%ba%29%ef%bc%86%e4%b8%ad%e6%9d%91%e6%81%b5" />
+		<schema:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2005-09-28</schema:datePublished>
+		<schema:name xml:lang="ja">THE IDOLM@STER (HYR VERSION) (オリジナル・カラオケ)</schema:name>
+	</rdf:Description>
+	<rdf:Description rdf:about="detail/%e3%83%88%e3%83%bc%e3%82%af%20%e3%80%8c%e9%ad%94%e6%b3%95%e3%82%92%e3%81%8b%e3%81%91%e3%81%a6%21%ef%bd%9e%e6%98%a5%e9%a6%99%e3%83%bb%e9%9b%aa%e6%ad%a9%e3%83%bb%e5%be%8b%e5%ad%90%ef%bd%9e%e3%80%8d%20%28Bonus%20Track%29">
+		<rdf:type rdf:resource="https://schema.org/MusicRecording"/>
+		<schema:byArtist rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Amami_haruka" />
+		<schema:byArtist rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Akiduki_Ritsuko" />
+		<schema:byArtist rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Hagiwara_Yukiho" />
+		<schema:duration rdf:datatype="http://www.w3.org/2001/XMLSchema#duration">PT07M00S</schema:duration>
+		<schema:isrcCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JPCO00528810</schema:isrcCode>
+		<schema:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2005-09-28</schema:datePublished>
+		<schema:name xml:lang="ja">トーク 「魔法をかけて!～春香・雪歩・律子～」 (Bonus Track)</schema:name>
+	</rdf:Description>
 </rdf:RDF>
