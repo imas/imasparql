@@ -72,6 +72,11 @@ imas:CinderellaRankingResul 	a   rdfs:Class ;
 	rdfs:comment					"シンデレラガールズ総選挙結果を表すクラス" ;
 	rdfs:label  					"シンデレラガールズ総選挙結果"@ja .
 	
+imas:Live   					a   rdfs:Class ;
+	rdfs:comment					"ライブを表すクラス" ;
+	rdfs:label  					"ライブ"@ja ;
+	rdfs:subClassOf 				schema:MusicEvent .
+	
 # ここからはプロパティ
 imas:familyNameKana 	a   rdf:Property ;
 	rdfs:comment			"姓のよみがなを表すプロパティ" ;
@@ -152,3 +157,11 @@ imas:Constellation  	a   rdf:Property ;
 imas:VoteNumber 		a   rdf:Property ;
 	rdfs:comment			"得票数を表すプロパティ" ;
 	rdfs:label  			"得票数"@ja .
+	
+imas:SetlistNum 		a   rdf:Property ;
+	rdfs:comment			"セットリスト内番号を表すプロパティ" ;
+	rdfs:label  			"セットリスト内番号"@ja .
+	
+imas:Performer  		a   rdf:Property ;
+	rdfs:comment			"演者を表すプロパティ" ;
+	rdfs:label  			"演者"@ja .
