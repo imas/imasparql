@@ -1,0 +1,57 @@
+<rdf:RDF
+    xmlns:jrrk="http://purl.org/jrrk#"
+    xmlns:ic="http://imi.ipa.go.jp/ns/core/rdf#"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:sac="http://statdb.nstac.go.jp/lod/sac/C"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:pc="http://purl.org/procurement/public-contracts#"
+    xmlns:odp="http://odp.jig.jp/odp/1.0#"
+    xmlns:schema="http://schema.org/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:bibo="http://purl.org/ontology/bibo/"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:gr="http://purl.org/goodrelations/v1#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+    xmlns:qb="http://purl.org/linked-data/cube#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:georss="http://www.georss.org/georss"
+    xmlns:cal="http://www.w3.org/2002/12/cal/icaltzd#"
+    xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    xmlns:imas="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#"
+    >
+
+	<rdf:Description rdf:about="detail/%e3%80%8c%e3%82%a2%e3%82%ae%e3%83%a5%e3%83%bc%e3%80%8ditv24%2ecom%e5%85%ac%e9%96%8b%e9%8c%b2%e9%9f%b3">
+		<schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">中村繪里子</schema:actor>
+		<schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">今井麻美</schema:actor>
+		<schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">「アギュー」itv24.com公開録音</schema:name>
+		<schema:location rdf:datatype="http://www.w3.org/2001/XMLSchema#string">池袋サンシャインシティ</schema:location>
+		<schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-09-15+09:00</schema:startDate>
+		<schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-09-15+09:00</schema:endDate>
+		<imas:Performance rdf:nodeID="SetlistNumer01_01"/>
+		<imas:Performance rdf:nodeID="SetlistNumer01_02"/>
+		<imas:Performance rdf:nodeID="SetlistNumer01_03"/>
+		<rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Live"/>
+	</rdf:Description>
+	<rdf:Description rdf:nodeID="SetlistNumer01_01">
+		<imas:TuneNumber>1</imas:TuneNumber>
+		<schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">中村繪里子</schema:actor>
+		<schema:name>太陽のジェラシー(GAME Ver.)</schema:name>
+		<rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumer"/>
+	</rdf:Description>
+	<rdf:Description rdf:nodeID="SetlistNumer01_02">
+		<imas:TuneNumber>2</imas:TuneNumber>
+		<schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">今井麻美</schema:actor>
+		<schema:name>蒼い鳥(GAME Ver.)</schema:name>
+		<rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumer"/>
+	</rdf:Description>
+	<rdf:Description rdf:nodeID="SetlistNumer01_03">
+		<imas:TuneNumber>3</imas:TuneNumber>
+		<schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">中村繪里子</schema:actor>
+		<schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">今井麻美</schema:actor>
+		<schema:name>THE IDOLM@STER(GAME Ver.)</schema:name>
+		<rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumer"/>
+	</rdf:Description>
+
+</rdf:RDF>
