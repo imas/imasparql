@@ -490,4 +490,50 @@
 		<schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SHINING STAR★彡(Short ver)</schema:name>
 	</rdf:Description>
 
+	<rdf:Description rdf:about="detail/%e3%80%8cTHE%20IDOLM%40STER%20RADIO%20%ef%bd%9e%e6%ad%8c%e5%a7%ab%e6%a5%bd%e5%9c%92%ef%bd%9e%e3%80%8d%ef%bc%86%e3%80%8cTHE%20IDOLM%40STER%20MASTER%20MOVIE%e3%80%8d%e7%99%ba%e5%a3%b2%e8%a8%98%e5%bf%b5%e3%82%b7%e3%83%bc%e3%82%af%e3%83%ac%e3%83%83%e3%83%88%e3%82%a4%e3%83%99%e3%83%b3%e3%83%88">
+		<schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">たかはし智秋</schema:actor>
+		<schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">今井麻美</schema:actor>
+		<schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">「THE IDOLM@STER RADIO ～歌姫楽園～」＆「THE IDOLM@STER MASTER MOVIE」発売記念シークレットイベント</schema:name>
+		<schema:location rdf:datatype="http://www.w3.org/2001/XMLSchema#string">パセラリゾーツ銀座BENOA</schema:location>
+		<schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-11-05</schema:startDate>
+		<schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-11-05</schema:endDate>
+		<imas:Performance rdf:nodeID="SetlistNumer10_01"/>
+		<imas:NumPerformance rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</imas:NumPerformance>
+		<rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Live"/>
+	</rdf:Description>
+	<rdf:Description rdf:nodeID="SetlistNumer10_01">
+		<imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</imas:TuneNumber>
+		<schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">たかはし智秋</schema:actor>
+		<schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">今井麻美</schema:actor>
+		<schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">URGENT!!!</schema:name>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="detail/%e3%80%8cTHE%20IDOLM%40STER%20RADIO%20%ef%bd%9e%e6%ad%8c%e5%a7%ab%e6%a5%bd%e5%9c%92%ef%bd%9e%e3%80%8d%ef%bc%86%e3%80%8cTHE%20IDOLM%40STER%20MASTER%20MOVIE%e3%80%8d%e7%99%ba%e5%a3%b2%e8%a8%98%e5%bf%b5%e3%82%b7%e3%83%bc%e3%82%af%e3%83%ac%e3%83%83%e3%83%88%e3%82%a4%e3%83%99%e3%83%b3%e3%83%88">
+		<schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">長谷川明子</schema:actor>
+		<schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">中村繪里子</schema:actor>
+		<schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">今井麻美</schema:actor>
+		<schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">「THE IDOLM@STER RADIO ～歌姫楽園～」＆「THE IDOLM@STER MASTER MOVIE」発売記念シークレットイベント</schema:name>
+		<schema:location rdf:datatype="http://www.w3.org/2001/XMLSchema#string">石丸電気ソフトワン</schema:location>
+		<schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-12-22</schema:startDate>
+		<schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-12-22</schema:endDate>
+		<imas:Performance rdf:nodeID="SetlistNumer10_01"/>
+		<imas:Performance rdf:nodeID="SetlistNumer10_02"/>
+		<imas:NumPerformance rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</imas:NumPerformance>
+		<rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Live"/>
+	</rdf:Description>
+	<rdf:Description rdf:nodeID="SetlistNumer10_01">
+		<imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</imas:TuneNumber>
+		<schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">長谷川明子</schema:actor>
+		<schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">中村繪里子</schema:actor>
+		<schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">今井麻美</schema:actor>
+		<schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">神さまのBirthday</schema:name>
+	</rdf:Description>
+	<rdf:Description rdf:nodeID="SetlistNumer10_02">
+		<imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</imas:TuneNumber>
+		<schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">長谷川明子</schema:actor>
+		<schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">中村繪里子</schema:actor>
+		<schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">今井麻美</schema:actor>
+		<schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">私はアイドル♡</schema:name>
+	</rdf:Description>
+
 </rdf:RDF>
