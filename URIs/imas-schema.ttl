@@ -164,3 +164,11 @@ imas:VoteNumber 		a   rdf:Property ;
 imas:TuneNumber 		a   rdf:Property ;
 	rdfs:comment			"セットリスト内番号を表すプロパティ" ;
 	rdfs:label  			"セットリスト内番号"@ja .
+	
+imas:NumPerformance 	a   rdf:Property ;
+	rdfs:comment			"披露した曲数を表すプロパティ" ;
+	rdfs:label  			"披露した曲数"@ja .
+	
+imas:NumPerformanceEncore   a   rdf:Property ;
+	rdfs:comment			"披露したアンコール曲数を表すプロパティ" ;
+	rdfs:label  			"披露したアンコール曲数"@ja .
