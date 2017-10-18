@@ -23,20 +23,20 @@
     >
 
   <rdf:Description rdf:about="detail/Leon">
-    <imas:familyNameKana rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">かみいずみ</imas:familyNameKana>
-    <schema:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">玲音</schema:givenName>
-    <imas:givenNameKana rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">れおん</imas:givenNameKana>
-    <schema:alternateName rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">玲音</schema:alternateName>
-    <imas:cv rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">茅原実里</imas:cv>
-    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="en">female</schema:gender>
-    <schema:memberOf rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="en">961ProIdols</schema:memberOf>
+    <imas:familyNameKana xml:lang="ja">かみいずみ</imas:familyNameKana>
+    <schema:givenName xml:lang="ja">玲音</schema:givenName>
+    <imas:givenNameKana xml:lang="ja">れおん</imas:givenNameKana>
+    <schema:alternateName xml:lang="ja">玲音</schema:alternateName>
+    <imas:cv xml:lang="ja">茅原実里</imas:cv>
+    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:memberOf xml:lang="en">961ProIdols</schema:memberOf>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="detail/Siika">
-    <schema:givenName rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">詩花</schema:givenName>
-    <imas:givenNameKana rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">しいか</imas:givenNameKana>
-    <schema:alternateName rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">詩花</schema:alternateName>
+    <schema:givenName xml:lang="ja">詩花</schema:givenName>
+    <imas:givenNameKana xml:lang="ja">しいか</imas:givenNameKana>
+    <schema:alternateName xml:lang="ja">詩花</schema:alternateName>
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</foaf:age>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">158.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">43.0</schema:weight>
@@ -44,13 +44,13 @@
     <imas:waist rdf:datatype="http://www.w3.org/2001/XMLSchema#float">53.0</imas:waist>
     <imas:hip rdf:datatype="http://www.w3.org/2001/XMLSchema#float">80.0</imas:hip>
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--09-16</schema:birthDate>
-    <imas:constellation rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">乙女座</imas:constellation>
+    <imas:constellation xml:lang="ja">乙女座</imas:constellation>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A</imas:BloodType>
-    <imas:Hobby rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">オルゴール集め</imas:Hobby>
-    <imas:Hobby rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">ロボのおもちゃ</imas:Hobby>
-    <imas:cv rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">高橋李依</imas:cv>
-    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="en">female</schema:gender>
-    <schema:memberOf rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="en">961ProIdols</schema:memberOf>
+    <imas:Hobby xml:lang="ja">オルゴール集め</imas:Hobby>
+    <imas:Hobby xml:lang="ja">ロボのおもちゃ</imas:Hobby>
+    <imas:cv xml:lang="ja">高橋李依</imas:cv>
+    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:memberOf xml:lang="en">961ProIdols</schema:memberOf>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 </rdf:RDF>
