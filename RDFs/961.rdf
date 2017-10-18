@@ -48,6 +48,7 @@
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A</imas:BloodType>
     <imas:Hobby rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="jp">オルゴール集め</imas:Hobby>
     <imas:Hobby rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="jp">ロボのおもちゃ</imas:Hobby>
+    <imas:cv rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="ja">高橋李依</imas:cv>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="en">female</schema:gender>
     <schema:memberOf rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="en">961ProIdols</schema:memberOf>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
