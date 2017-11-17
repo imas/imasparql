@@ -46,9 +46,9 @@ imas:Idol                       a   rdfs:Class ;
     rdfs:label                      "アイドル"@ja ;
     rdfs:subClassOf                 imas:Character .
 
-imas:Producer                   a   rdfs:Class ;
-    rdfs:comment                    "プロデューサーを表すクラス" ;
-    rdfs:label                      "プロデューサー"@ja ;
+imas:Staff                      a   rdfs:Class ;
+    rdfs:comment                    "スタッフを表すクラス" ;
+    rdfs:label                      "スタッフ"@ja ;
     rdfs:subClassOf                 imas:Character .
 
 imas:Unit                       a   rdfs:Class ;
