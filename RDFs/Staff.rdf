@@ -254,6 +254,34 @@
     <schema:position xml:lang="ja">トレーナー</schema:position>
     <schema:alternateName xml:lang="ja">ベテラントレーナー</schema:alternateName>
   </rdf:Description>
+  <rdf:Description rdf:about="detail/Aoki_Mei">
+    <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pa</imas:Type>
+    <schema:familyName xml:lang="ja">青木</schema:familyName>
+    <imas:familyNameKana xml:lang="ja">あおき</imas:familyNameKana>
+    <schema:givenName xml:lang="ja">明</schema:givenName>
+    <imas:givenNameKana xml:lang="ja">めい</imas:givenNameKana>
+    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:memberOf xml:lang="en">CinderellaGirlsStaff</schema:memberOf>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Staff"/>
+    <schema:name xml:lang="ja">青木明</schema:name>
+    <imas:nameKana xml:lang="ja">あおきめい</imas:nameKana>
+    <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">160</schema:height>
+    <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">23</foaf:age>
+    <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">45</schema:weight>
+    <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--06-10</schema:birthDate>
+    <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">B</imas:BloodType>
+    <imas:Handedness xml:lang="en">right</imas:Handedness>
+    <imas:bust rdf:datatype="http://www.w3.org/2001/XMLSchema#float">84</imas:bust>
+    <imas:waist rdf:datatype="http://www.w3.org/2001/XMLSchema#float">56</imas:waist>
+    <imas:hip rdf:datatype="http://www.w3.org/2001/XMLSchema#float">86</imas:hip>
+    <imas:constellation xml:lang="ja">双子座</imas:constellation>
+    <imas:cv xml:lang="ja">藤村歩</imas:cv>
+    <imas:cv rdf:resource="http://ja.dbpedia.org/resource/藤村歩"/>
+    <schema:birthPlace xml:lang="ja">栃木</schema:birthPlace>
+    <imas:Hobby xml:lang="ja">早朝ランニング</imas:Hobby>
+    <schema:position xml:lang="ja">トレーナー</schema:position>
+    <schema:alternateName xml:lang="ja">トレーナー</schema:alternateName>
+  </rdf:Description>
   <rdf:Description rdf:about="detail/Aoki_Kei">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pa</imas:Type>
     <schema:familyName xml:lang="ja">青木</schema:familyName>
@@ -281,34 +309,6 @@
     <imas:Hobby xml:lang="ja">ジム通い</imas:Hobby>
     <schema:position xml:lang="ja">トレーナー</schema:position>
     <schema:alternateName xml:lang="ja">ルーキートレーナー</schema:alternateName>
-  </rdf:Description>
-  <rdf:Description rdf:about="detail/Aoki_Sei">
-    <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pa</imas:Type>
-    <schema:familyName xml:lang="ja">青木</schema:familyName>
-    <imas:familyNameKana xml:lang="ja">あおき</imas:familyNameKana>
-    <schema:givenName xml:lang="ja">聖</schema:givenName>
-    <imas:givenNameKana xml:lang="ja">せい</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
-    <schema:memberOf xml:lang="en">CinderellaGirlsStaff</schema:memberOf>
-    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Staff"/>
-    <schema:name xml:lang="ja">青木聖</schema:name>
-    <imas:nameKana xml:lang="ja">あおきせい</imas:nameKana>
-    <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">163</schema:height>
-    <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">26</foaf:age>
-    <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">45</schema:weight>
-    <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--09-10</schema:birthDate>
-    <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A</imas:BloodType>
-    <imas:Handedness xml:lang="en">right</imas:Handedness>
-    <imas:bust rdf:datatype="http://www.w3.org/2001/XMLSchema#float">83</imas:bust>
-    <imas:waist rdf:datatype="http://www.w3.org/2001/XMLSchema#float">56</imas:waist>
-    <imas:hip rdf:datatype="http://www.w3.org/2001/XMLSchema#float">84</imas:hip>
-    <imas:constellation xml:lang="ja">乙女座</imas:constellation>
-    <imas:cv xml:lang="ja">藤村歩</imas:cv>
-    <imas:cv rdf:resource="http://ja.dbpedia.org/resource/藤村歩"/>
-    <schema:birthPlace xml:lang="ja">栃木</schema:birthPlace>
-    <imas:Hobby xml:lang="ja">デイトレード</imas:Hobby>
-    <schema:position xml:lang="ja">トレーナー</schema:position>
-    <schema:alternateName xml:lang="ja">ベテラントレーナー</schema:alternateName>
   </rdf:Description>
 
 </rdf:RDF>
