@@ -78,6 +78,14 @@ imas:SetlistNumer               a   rdfs:Class ;
     rdfs:comment                    "セットリスト楽曲を表すクラス" ;
     rdfs:label                      "セットリスト楽曲"@ja .
     
+imas:ScriptText                 a   rdfs:Class ;
+    rdfs:comment                    "セリフを表すクラス" ;
+    rdfs:label                      "セリフ"@ja .
+    
+imas:Communication              a   rdfs:Class ;
+    rdfs:comment                    "コミュを表すクラス" ;
+    rdfs:label                      "コミュ"@ja .
+    
 # ここからはプロパティ
 imas:familyNameKana     a   rdf:Property ;
     rdfs:comment            "姓のよみがなを表すプロパティ" ;
@@ -170,3 +178,19 @@ imas:NumPerformance     a   rdf:Property ;
 imas:NumPerformanceEncore   a   rdf:Property ;
     rdfs:comment            "披露したアンコール曲数を表すプロパティ" ;
     rdfs:label              "披露したアンコール曲数"@ja .
+    
+imas:Script                 a   rdf:Property ;
+    rdfs:comment            "セリフテキストを表すプロパティ" ;
+    rdfs:label              "セリフテキスト"@ja .
+    
+imas:ScriptNumber           a   rdf:Property ;
+    rdfs:comment            "セリフテキスト番号を表すプロパティ" ;
+    rdfs:label              "セリフテキスト番号"@ja .
+    
+imas:Source                 a   rdf:Property ;
+    rdfs:comment            "出どころを表すプロパティ" ;
+    rdfs:label              "出どころ"@ja .
+    
+imas:SpeakerLabel           a   rdf:Property ;
+    rdfs:comment            "発言者表記を表すプロパティ" ;
+    rdfs:label              "発言者表記"@ja .
