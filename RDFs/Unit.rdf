@@ -436,6 +436,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
   <rdf:Description rdf:about="detail/Age16">
+    <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">ビビッドカラーエイジ</schema:name>
     <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">Age16</schema:name>
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Imai_Kana"/>
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Fujiwara_Hajime"/>
@@ -647,6 +648,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
   <rdf:Description rdf:about="detail/KBYD">
+    <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">カワイイボクと野球どすえ</schema:name>
     <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">KBYD</schema:name>
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Koshimizu_Sachiko"/>
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Kobayakawa_Sae"/>
@@ -668,6 +670,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
   <rdf:Description rdf:about="detail/%E3%83%94%E3%83%B3%E3%82%AF%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF%E3%82%B9%E3%82%AF%E3%83%BC%E3%83%AB">
+    <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">P.C.S</schema:name>
     <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">ピンクチェックスクール</schema:name>
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Shimamura_Uzuki"/>
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Kohinata_Miho"/>
@@ -1127,6 +1130,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
   <rdf:Description rdf:about="detail/KBKYZD">
+    <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">カワイイボクとキノコ野球ゾンビどすえ</schema:name>
     <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">KBKYZD</schema:name>
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Shirasaka_Koume"/>
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Hoshi_Syoko"/>
@@ -1347,13 +1351,6 @@
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Saito_Yoko"/>
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Mizuno_Midori"/>
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Takahashi_Reiko"/>
-    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="detail/%E3%83%93%E3%83%93%E3%83%83%E3%83%89%E3%82%AB%E3%83%A9%E3%83%BC%E3%82%A8%E3%82%A4%E3%82%B8">
-    <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">ビビッドカラーエイジ</schema:name>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Imai_Kana"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Fujiwara_Hajime"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Takamori_Aiko"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
   <rdf:Description rdf:about="detail/Love%20Yell">
