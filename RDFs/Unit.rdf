@@ -1078,8 +1078,8 @@
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Hino_Akane"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
-  <rdf:Description rdf:about="detail/%E3%82%B7%E3%83%B3%E3%83%87%E3%83%AC%E3%83%A9%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88">
-    <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">シンデレラプロジェクト</schema:name>
+  <rdf:Description rdf:about="detail/CINDERELLA%20PROJECT">
+    <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">CINDERELLA PROJECT</schema:name>
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Shimamura_Uzuki"/>
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Shibuya_Rin"/>
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Honda_Mio"/>
@@ -1096,8 +1096,8 @@
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Moroboshi_Kirari"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
-  <rdf:Description rdf:about="detail/%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%8D">
-    <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">プロジェクトクローネ</schema:name>
+  <rdf:Description rdf:about="detail/Project%3aKrone">
+    <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">Project:Krone</schema:name>
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Hayami_Kanade"/>
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Shiomi_Syuko"/>
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Miyamoto_Frederica"/>
