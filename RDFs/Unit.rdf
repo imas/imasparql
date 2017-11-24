@@ -1925,7 +1925,63 @@
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Aihara_Yukino"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
-
+  <rdf:Description rdf:about="%E3%81%A1%E3%81%B3%E3%81%A3%E3%81%93%26%E9%A6%AC(%E5%8F%8B%E6%83%85%E5%87%BA%E6%BC%94)">
+    <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">ちびっこ&馬(友情出演)</schema:name>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Matoba_Risa"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Ichihara_Nina"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="%E3%83%93%E3%83%BC%E3%83%88%E3%82%B7%E3%83%A5%E3%83%BC%E3%82%BF%E3%83%BC%20with%20%E5%85%89">
+    <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">ビートシューター with 光</schema:name>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Matoba_Risa"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Yuuki_Haru"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Nanjo_Hikaru"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="%E6%80%AA%E7%9B%97%E3%83%BB%E3%83%AA%E3%82%B5">
+    <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">怪盗・リサ</schema:name>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Matoba_Risa"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="%E6%80%AA%E7%9B%97%E3%83%BB%E3%83%AA%E3%82%B5%26%E5%9F%B7%E4%BA%8B%E3%83%BB%E3%82%AA%E3%83%88%E3%83%8F">
+    <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">怪盗・リサ&執事・オトハ</schema:name>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Matoba_Risa"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Umeki_Otoha"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="%E3%81%A9%E3%81%86%E3%81%B6%E3%81%A4%E2%98%86%E3%81%B5%E3%81%87%E3%81%99%E3%81%9F">
+    <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">どうぶつ☆ふぇすた</schema:name>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Matoba_Risa"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Yuuki_Haru"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Ryuzaki_Kaoru"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="%E7%A6%81%E3%81%98%E3%82%89%E3%82%8C%E3%81%9F%E8%B2%A1%E5%AE%9D">
+    <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">禁じられた財宝</schema:name>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Matoba_Risa"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Miyamoto_Frederica"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Saejima_Kiyomi"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="%E3%83%95%E3%82%A1%E3%83%B3%E3%83%88%E3%83%A0%E3%82%AD%E3%83%A3%E3%83%83%E3%83%84!">
+    <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">ファントムキャッツ!</schema:name>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Matoba_Risa"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Maekawa_Miku"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB%E3%83%BB%E3%82%AB%E3%83%A9%E3%83%BC%E3%82%BAfeat.%E5%92%8C">
+    <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">オリジナル・カラーズfeat.和</schema:name>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Matoba_Risa"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Narumiya_Yume"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="%E3%82%B7%E3%83%B3%E3%82%B0%E3%83%BB%E3%83%9E%E3%82%A4%E3%83%BB%E3%82%A6%E3%82%A7%E3%82%A4">
+    <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">シング・マイ・ウェイ</schema:name>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Matoba_Risa"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Yanase_Miyuki"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Okazaki_Yasuha"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
+  </rdf:Description>
 
   <rdf:Description rdf:about="detail/Jupiter">
     <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">Jupiter</schema:name>
