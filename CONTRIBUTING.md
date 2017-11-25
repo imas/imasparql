@@ -20,7 +20,14 @@ DB整備に協力してくれるみなさまへ
 外部の語彙は主に[schema.org](schema.org)を利用しています。
 使用語彙に関しては[#6](https://github.com/imas/imasparql/issues/6)で受け付けています。
 
-トリプルの主語となるrdf:Descriptionですが、"detail/"の後ろにschema:nameに入れる名前をURLエンコードしたもの入れていく形を取っています。(例外:アイドル名 例:Kisaragi_Chihaya)  
+トリプルの主語となるrdf:Descriptionですが、"detail/"の後ろにschema:nameに入れる名前をURLエンコードしたもの入れていく形を取っています。(例外:アイドル名 例:Kisaragi_Chihaya)   
+使える文字は  
+- ラテン小文字(小文字アルファベット): a～z
+- 数字: 0～9
+- ハイフンマイナス: -
+- アンダーライン: _  
+
+です。参考:http://www.asahi-net.or.jp/~ax2s-kmtn/ref/uric.html  
 なんとな～く、周囲の記述と合わせてもらえれば...
 
 各主語に入る述語の種類、数は同クラスの別インスタンスと違っていても大丈夫です。765アイドルと1054アイドルを見てみれば分かると思います。
