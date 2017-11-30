@@ -1525,11 +1525,11 @@
   </rdf:Description>
   <rdf:Description rdf:about="detail/Happy%20Princess">
     <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">Happy Princess</schema:name>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/%E5%87%B8%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3with%E5%9F%8E%E3%83%B6%E5%B4%8E%E7%BE%8E%E5%98%89"/>
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Kawashima_Mizuki"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Sakuma_Mayu"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Hino_Akane"/>
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Kohinata_Miho"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Sakuma_Mayu"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Jougasaki_Mika"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Hino_Akane"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
   <rdf:Description rdf:about="detail/%E9%9B%B7%E8%88%9E%E4%B8%8A%E7%AD%89">
@@ -5861,6 +5861,7 @@
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Ijuin_Megumi"/>
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Yao_Fueifuei"/>
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Yaguchi_Miu"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Saionji_Kotoka"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
   <rdf:Description rdf:about="detail/%E3%83%90%E3%83%AC%E3%83%B3%E3%82%BF%E3%82%A4%E3%83%B3%E3%83%87%E3%83%93%E3%83%AB%20%E3%82%B1%E3%82%A4%E3%83%88%EF%BC%86%E4%B9%85%E7%BE%8E%E5%AD%90">
@@ -7092,13 +7093,6 @@
     <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">クリアー・グラス</schema:name>
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Kurihara_Nene"/>
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Suzumiya_Seika"/>
-    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="detail/%E3%83%88%E3%82%AD%E3%83%A1%E3%82%AD%E3%83%90%E3%83%AC%E3%83%B3%E3%82%BF%E3%82%A4%E3%83%B3%2714">
-    <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">トキメキバレンタイン'14</schema:name>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Ijuin_Megumi"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Saionji_Kotoka"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Yaguchi_Miu"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
   <rdf:Description rdf:about="detail/%E3%83%90%E3%83%AC%E3%83%B3%E3%82%BF%E3%82%A4%E3%83%B3%E3%83%BB1ST">
@@ -9671,15 +9665,6 @@
     <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">サンセット・ツインスター</schema:name>
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Honda_Mio"/>
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Matsuyama_Kumiko"/>
-    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="detail/HAPPY%20PRINCESS">
-    <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">Happy Princess</schema:name>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Kawashima_Mizuki"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Kohinata_Miho"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Sakuma_Mayu"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Jougasaki_Mika"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Hino_Akane"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
   <rdf:Description rdf:about="detail/%E5%8B%95%E7%89%A9%E3%81%95%E3%82%93%E3%83%81%E3%83%BC%E3%83%A0">
