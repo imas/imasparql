@@ -773,6 +773,7 @@
     <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">くノ一あやめ忍法帖</schema:name>
     <schema:alternateName rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">戦場の三忍</schema:alternateName>
     <schema:alternateName rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">AYAME忍風伝！！！！！</schema:alternateName>
+    <schema:alternateName rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">真田忍軍 from 真田十勇士</schema:alternateName>
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Hamaguchi_Ayame"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
@@ -2430,7 +2431,7 @@
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Kurokawa_Chiaki"/>
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Manaka_Misato"/>
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Wakabayashi_Tomoka"/>
-<schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Kawashima_Mizuki"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Kawashima_Mizuki"/>
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Ogata_Chieri"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
@@ -2574,6 +2575,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="detail/%E3%82%B9%E3%82%BA%E3%83%9B%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3">
     <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">スズホドラゴン</schema:name>
+    <schema:alternateName rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">ものの怪</schema:alternateName>
+    <schema:alternateName rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">クレヨンモンスター☆スーパードラゴン</schema:alternateName>
+    <schema:alternateName rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">スズホジャバウォック</schema:alternateName>
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Ueda_Suzuho"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
@@ -2681,12 +2685,10 @@
   </rdf:Description>
   <rdf:Description rdf:about="detail/%E9%8A%80%E5%BC%BE%E3%81%AE%E5%B0%84%E6%89%8B%E3%83%BB%E3%83%8E%E3%82%A2">
     <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">銀弾の射手・ノア</schema:name>
+    <schema:alternateName rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">幻門守護者N.O.A</schema:alternateName>
+    <schema:alternateName rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">幽鬼ノア</schema:alternateName>
+    <schema:alternateName rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">旅人ノア</schema:alternateName>
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Takamine_Noa"/>
-    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="detail/%E3%82%AC%E3%83%B3%E3%82%B9%E3%83%AA%E3%83%B3%E3%82%AC%E3%83%BC%E3%83%BB%E3%82%B7%E3%82%AD">
-    <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">ガンスリンガー・シキ</schema:name>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Ichinose_Shiki"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
   <rdf:Description rdf:about="detail/%E7%A7%98%E5%AF%86%E3%82%92%E6%8A%B1%E3%81%88%E3%81%9F%E4%B9%97%E5%AE%A2">
@@ -2715,6 +2717,7 @@
   </rdf:Description>
   <rdf:Description rdf:about="detail/%E6%82%A0%E4%B9%85%E3%81%AE%E6%97%85%E4%BA%BA%E3%83%BB%E3%83%A1%E3%82%B0%E3%83%9F">
     <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">悠久の旅人・メグミ</schema:name>
+    <schema:alternateName rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">銃の伝来</schema:alternateName>
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Ijuin_Megumi"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
@@ -2856,11 +2859,6 @@
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Miyoshi_Sana"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
-  <rdf:Description rdf:about="detail/%E3%82%B6%E3%82%B3%E3%83%9E%E3%83%95%E3%82%A3%E3%82%A2">
-    <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">ザコマフィア</schema:name>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Kozeki_Reina"/>
-    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
-  </rdf:Description>
   <rdf:Description rdf:about="detail/%E3%83%9E%E3%83%95%E3%82%A3%E3%82%A2%E3%81%AE%E4%BB%A3%E7%90%86%E4%BA%BA%E5%BC%81%E8%AD%B7%E5%A3%AB">
     <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">マフィアの代理人弁護士</schema:name>
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Matsuo_Chizuru"/>
@@ -2890,11 +2888,6 @@
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Shinohara_Rei"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
-  <rdf:Description rdf:about="detail/%E3%81%8A%E9%82%AA%E9%AD%94%E3%81%AA%E8%BF%B7%E6%8E%A2%E5%81%B5">
-    <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">お邪魔な迷探偵</schema:name>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Anzai_Miyako"/>
-    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
-  </rdf:Description>
   <rdf:Description rdf:about="detail/%E3%82%B5%E3%83%87%E3%82%A3%E3%82%B9%E3%83%88%E3%83%BB%E3%83%9E%E3%83%95%E3%82%A3%E3%82%A2">
     <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">サディスト・マフィア</schema:name>
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Zaizen_Tokiko"/>
@@ -2902,6 +2895,7 @@
   </rdf:Description>
   <rdf:Description rdf:about="detail/%E8%AC%8E%E3%81%AE%E8%AB%9C%E5%A0%B1%E5%93%A1">
     <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">謎の諜報員</schema:name>
+    <schema:alternateName rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">マキノ・レポート in ガーナ</schema:alternateName>
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Yagami_Makino"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
@@ -2909,11 +2903,6 @@
     <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">魚屋と花屋</schema:name>
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Asari_Nanami"/>
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Imai_Kana"/>
-    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="detail/%E3%83%80%E3%83%BC%E3%83%86%E3%82%A3%E3%83%BC%E3%83%BB%E3%83%9E%E3%83%95%E3%82%A3%E3%82%A2">
-    <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">ダーティー・マフィア</schema:name>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Katagiri_Sanae"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
   <rdf:Description rdf:about="detail/%E7%B5%84%E7%B9%94%E3%81%AE%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88">
@@ -2946,6 +2935,7 @@
   </rdf:Description>
   <rdf:Description rdf:about="detail/%E7%86%B1%E8%A1%80%E6%BC%A2">
     <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">熱血漢</schema:name>
+    <schema:alternateName rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">バーニングヒーロー</schema:alternateName>
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Hino_Akane"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
@@ -3055,6 +3045,7 @@
   </rdf:Description>
   <rdf:Description rdf:about="detail/%E7%B9%94%E7%94%B0%E4%BF%A1%E9%95%B7">
     <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">織田信長</schema:name>
+    <schema:alternateName rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">真・織田信長</schema:alternateName>
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Yaguchi_Miu"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
@@ -3123,18 +3114,6 @@
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Mochida_Arisa"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
-  <rdf:Description rdf:about="detail/%E3%82%82%E3%81%AE%E3%81%AE%E6%80%AA">
-    <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">ものの怪</schema:name>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Ueda_Suzuho"/>
-    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="detail/%E7%9C%9F%E7%94%B0%E5%BF%8D%E8%BB%8D%20FROM%20%E7%9C%9F%E7%94%B0%E5%8D%81%E5%8B%87%E5%A3%AB">
-    <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">真田忍軍 from 真田十勇士</schema:name>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Hamaguchi_Ayame"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Hamaguchi_Ayame"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Hamaguchi_Ayame"/>
-    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
-  </rdf:Description>
   <rdf:Description rdf:about="detail/%E4%BC%8A%E9%81%94%E6%94%BF%E5%AE%97">
     <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">伊達政宗</schema:name>
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Ujiie_Mutsumi"/>
@@ -3144,11 +3123,6 @@
     <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">宣教師クラリスと聖女ヒジリ</schema:name>
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Clarice"/>
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Mochizuki_Hijiri"/>
-    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="detail/%E7%9C%9F%E3%83%BB%E7%B9%94%E7%94%B0%E4%BF%A1%E9%95%B7">
-    <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">真・織田信長</schema:name>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Yaguchi_Miu"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
   <rdf:Description rdf:about="detail/%E7%9C%9F%E7%94%B0%E5%B9%B8%E6%9D%91%E3%83%BB%E6%AD%A6%E7%94%B0%E4%BF%A1%E7%8E%84">
@@ -3181,11 +3155,6 @@
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Takafuji_Kako"/>
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Tsutiya_Ako"/>
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Mukai_Takumi"/>
-    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="detail/%E9%8A%83%E3%81%AE%E4%BC%9D%E6%9D%A5">
-    <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">銃の伝来</schema:name>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Ijuin_Megumi"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
   <rdf:Description rdf:about="detail/%E5%B3%A0%E3%81%AE%E8%8C%B6%E5%B1%8B">
@@ -3624,17 +3593,13 @@
   </rdf:Description>
   <rdf:Description rdf:about="detail/%E5%B0%91%E5%A5%B3%E6%8E%A2%E5%81%B5%E3%83%BB%E3%83%9F%E3%83%A4%E3%82%B3">
     <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">少女探偵・ミヤコ</schema:name>
+    <schema:alternateName rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">お邪魔な迷探偵</schema:alternateName>
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Anzai_Miyako"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
   <rdf:Description rdf:about="detail/%E6%95%8F%E8%85%95%E5%88%91%E4%BA%8B%E3%83%BB%E3%83%81%E3%83%8A%E3%83%84">
     <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">敏腕刑事・チナツ</schema:name>
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Aikawa_Chinatsu"/>
-    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="detail/%E3%83%B4%E3%82%A3%E3%83%A9%E3%83%B3%E3%83%BB%E3%83%AC%E3%82%A4%E3%83%8A">
-    <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">ヴィラン・レイナ</schema:name>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Kozeki_Reina"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
   <rdf:Description rdf:about="detail/%E7%8C%AB%E7%9B%AE%E4%B8%89%E5%A7%89%E5%A6%B9">
@@ -3795,6 +3760,8 @@
   </rdf:Description>
   <rdf:Description rdf:about="detail/%E6%A1%88%E5%86%85%E4%BA%BA%E3%83%98%E3%83%AC%E3%83%B3">
     <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">案内人ヘレン</schema:name>
+    <schema:alternateName rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">ヘレン生誕祭</schema:alternateName>
+    <schema:alternateName rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">千一夜の語り部・ヘレン</schema:alternateName>
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Helen"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
@@ -3857,6 +3824,7 @@
   </rdf:Description>
   <rdf:Description rdf:about="detail/%E4%BA%88%E8%A8%80%E8%80%85%E3%83%95%E3%83%9F%E3%82%AB">
     <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">予言者フミカ</schema:name>
+    <schema:alternateName rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">古井戸のフミカ</schema:alternateName>
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Sagisawa_Fumika"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
@@ -3908,6 +3876,7 @@
   </rdf:Description>
   <rdf:Description rdf:about="detail/%E6%82%AA%E3%81%AE%E7%A7%91%E5%AD%A6%E8%80%85%E3%82%A2%E3%82%AD%E3%83%8F">
     <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">悪の科学者アキハ</schema:name>
+    <schema:alternateName rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">カラクリ師アキハ</schema:alternateName>
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Ikebukuro_Akiha"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
@@ -3963,11 +3932,6 @@
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Hori_Yuko"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
-  <rdf:Description rdf:about="detail/%E3%81%8D%E3%82%89%E3%82%8A%E3%82%93%E3%83%AD%E3%83%9C">
-    <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">きらりんロボ</schema:name>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Moroboshi_Kirari"/>
-    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
-  </rdf:Description>
   <rdf:Description rdf:about="detail/%E4%BE%B5%E7%95%A5%E8%80%85%E3%83%AC%E3%82%A4%E3%83%8A%EF%BC%86%E5%AE%87%E5%AE%99%E7%A7%91%E5%AD%A6%E8%80%85%E3%82%A2%E3%82%AD%E3%83%8F">
     <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">侵略者レイナ＆宇宙科学者アキハ</schema:name>
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Ikebukuro_Akiha"/>
@@ -3976,11 +3940,14 @@
   </rdf:Description>
   <rdf:Description rdf:about="detail/%E3%83%A9%E3%83%96%E3%83%AA%E3%83%BC%E3%83%92%E3%83%BC%E3%83%AD%E3%83%BC%E3%83%BB%E3%82%B5%E3%82%AF%E3%83%A9">
     <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">ラブリーヒーロー・サクラ</schema:name>
+    <schema:alternateName rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">D.L.F村松さくら</schema:alternateName>
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Matsumura_Sakura"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
   <rdf:Description rdf:about="detail/%E3%82%AD%E3%83%A9%E3%83%AA%E5%8D%9A%E5%A3%AB">
     <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">キラリ博士</schema:name>
+    <schema:alternateName rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">きらりんロボ</schema:alternateName>
+    <schema:alternateName rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">レストラン・パンデモニウムのオーナー</schema:alternateName>
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Moroboshi_Kirari"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
@@ -4030,20 +3997,10 @@
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Yanagi_Kiyora"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
-  <rdf:Description rdf:about="detail/%E6%97%85%E4%BA%BA%E3%83%8E%E3%82%A2">
-    <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">旅人ノア</schema:name>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Takamine_Noa"/>
-    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
-  </rdf:Description>
   <rdf:Description rdf:about="detail/%E3%83%A9%E3%83%96%E3%83%AA%E3%83%BC%E3%83%92%E3%83%BC%E3%83%AD%E3%83%BC%E3%83%BB%E3%82%B5%E3%82%AF%E3%83%A9%EF%BC%86%E3%83%95%E3%82%A9%E3%83%BC%E3%83%81%E3%83%A5%E3%83%B3%E3%83%92%E3%83%BC%E3%83%AD%E3%83%BC%E3%83%BB%E3%83%88%E3%83%A2">
     <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">ラブリーヒーロー・サクラ＆フォーチュンヒーロー・トモ</schema:name>
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Fujii_Tomo"/>
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Matsumura_Sakura"/>
-    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="detail/%E3%83%90%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0%E3%83%92%E3%83%BC%E3%83%AD%E3%83%BC">
-    <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">バーニングヒーロー</schema:name>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Hino_Akane"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
   <rdf:Description rdf:about="detail/%E9%8D%B5%E3%81%AE%E5%A6%96%E7%B2%BE%E3%83%BB%E3%82%B3%E3%83%8F%E3%83%AB">
@@ -4144,11 +4101,6 @@
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Shiina_Noriko"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
-  <rdf:Description rdf:about="detail/%E3%82%B9%E3%82%BA%E3%83%9B%E3%82%B8%E3%83%A3%E3%83%90%E3%82%A6%E3%82%A9%E3%83%83%E3%82%AF">
-    <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">スズホジャバウォック</schema:name>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Ueda_Suzuho"/>
-    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
-  </rdf:Description>
   <rdf:Description rdf:about="detail/%E9%BB%92%E7%8C%AB%E3%81%A8%E7%99%BD%E7%8C%AB%E3%81%AE%E3%83%AF%E3%83%AB%E3%83%84">
     <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">黒猫と白猫のワルツ</schema:name>
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Sajo_Yukimi"/>
@@ -4202,11 +4154,6 @@
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Umeki_Otoha"/>
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Kimura_Natsuki"/>
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Fukuyama_Mai"/>
-    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="detail/%E5%8D%83%E4%B8%80%E5%A4%9C%E3%81%AE%E8%AA%9E%E3%82%8A%E9%83%A8%E3%83%BB%E3%83%98%E3%83%AC%E3%83%B3">
-    <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">千一夜の語り部・ヘレン</schema:name>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Helen"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
   <rdf:Description rdf:about="detail/%E5%B4%96%E3%81%A3%E3%81%B7%E3%81%A1%E3%81%AA%E5%85%B5%E9%9A%8A">
@@ -4272,6 +4219,7 @@
   </rdf:Description>
   <rdf:Description rdf:about="detail/%E3%82%AA%E3%82%AA%E3%82%AB%E3%83%9F%E3%83%8B%E3%83%8A">
     <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">オオカミニナ</schema:name>
+    <schema:alternateName rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">謎のふわもこ使い魔ニナ</schema:alternateName>
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Ichihara_Nina"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
@@ -4480,6 +4428,7 @@
   </rdf:Description>
   <rdf:Description rdf:about="detail/GHOSTGAME%2F%E4%B8%80%E4%BA%BA%E3%81%9A%E3%81%A4%E6%B6%88%E3%81%88%E3%81%A6%E3%81%84%E3%81%8F">
     <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">GhostGame/一人ずつ消えていく</schema:name>
+    <schema:alternateName rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">ガンスリンガー・シキ</schema:alternateName>
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Ichinose_Shiki"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
@@ -4496,11 +4445,6 @@
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Narumiya_Yume"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
-  <rdf:Description rdf:about="detail/%E5%8F%A4%E4%BA%95%E6%88%B8%E3%81%AE%E3%83%95%E3%83%9F%E3%82%AB">
-    <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">古井戸のフミカ</schema:name>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Sagisawa_Fumika"/>
-    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
-  </rdf:Description>
   <rdf:Description rdf:about="detail/%E7%95%B0%E9%83%B7%E3%81%AE%E9%80%80%E9%AD%94%E5%B8%AB">
     <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">異郷の退魔師</schema:name>
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Anastasia"/>
@@ -4513,11 +4457,6 @@
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Hayasaka_Mirei"/>
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Hoshi_Syoko"/>
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Yaguchi_Miu"/>
-    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="detail/%E5%B9%BD%E9%AC%BC%E3%83%8E%E3%82%A2">
-    <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">幽鬼ノア</schema:name>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Takamine_Noa"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
   <rdf:Description rdf:about="detail/GHOSTGAME%2F%E3%81%9D%E3%81%97%E3%81%A6%E8%AA%B0%E3%82%82%E3%81%84%E3%81%AA%E3%81%8F%E3%81%AA%E3%82%8B%E2%80%A6">
@@ -4808,11 +4747,6 @@
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Mizutani_Eri"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
-  <rdf:Description rdf:about="detail/%E3%83%AC%E3%82%A4%E3%83%8A%E3%82%B5%E3%83%9E%E3%81%AE%E3%83%AD%E3%82%B7%E3%82%A2%E3%83%B3%E3%83%81%E3%83%A7%E3%82%B3%E5%AF%BE%E6%B1%BA">
-    <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">レイナサマのロシアンチョコ対決</schema:name>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Kozeki_Reina"/>
-    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
-  </rdf:Description>
   <rdf:Description rdf:about="detail/%E3%83%81%E3%83%A7%E3%82%B3%E4%BD%9C%E3%82%8A%E5%BF%9C%E6%8F%B4%E9%9A%8A">
     <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">チョコ作り応援隊</schema:name>
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Shimamura_Uzuki"/>
@@ -4896,11 +4830,6 @@
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Sakurai_Momoka"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
-  <rdf:Description rdf:about="detail/%E3%83%9E%E3%82%AD%E3%83%8E%E3%83%BB%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88%20IN%20%E3%82%AC%E3%83%BC%E3%83%8A">
-    <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">マキノ・レポート in ガーナ</schema:name>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Yagami_Makino"/>
-    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
-  </rdf:Description>
   <rdf:Description rdf:about="detail/%E5%8A%A0%E5%8A%A0%E9%98%BF%E6%B5%AA%E6%BC%AB">
     <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">加加阿浪漫</schema:name>
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Aiba_Yumi"/>
@@ -4925,11 +4854,6 @@
     <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">柔の剣、剛の太刀</schema:name>
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Aino_Nagisa"/>
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Nishikawa_Honami"/>
-    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="detail/%E3%82%AB%E3%83%A9%E3%82%AF%E3%83%AA%E5%B8%AB%E3%82%A2%E3%82%AD%E3%83%8F">
-    <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">カラクリ師アキハ</schema:name>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Ikebukuro_Akiha"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
   <rdf:Description rdf:about="detail/%E6%99%B4%E8%8C%B6%E5%AE%97%E5%8C%A0%E3%83%8F%E3%83%AB">
@@ -5040,11 +4964,6 @@
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Matsumura_Sakura"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
-  <rdf:Description rdf:about="detail/%E5%B9%BB%E9%96%80%E5%AE%88%E8%AD%B7%E8%80%85N%2EO%2EA">
-    <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">幻門守護者N.O.A</schema:name>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Takamine_Noa"/>
-    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
-  </rdf:Description>
   <rdf:Description rdf:about="detail/%E3%83%9C%E3%82%B9%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%E3%83%95%E3%82%A9%E3%83%BC%E3%82%B9">
     <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">ボスラッシュ！スペシャルフォース</schema:name>
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Komatsu_Ibuki"/>
@@ -5114,6 +5033,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="detail/%E3%81%84%E3%81%9F%E3%81%9A%E3%82%89%E5%A6%96%E7%B2%BE%E3%83%AC%E3%82%A4%E3%83%8A">
     <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">いたずら妖精レイナ</schema:name>
+    <schema:alternateName rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">ザコマフィア</schema:alternateName>
+    <schema:alternateName rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">レイナサマのロシアンチョコ対決</schema:alternateName>
+    <schema:alternateName rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">ヴィラン・レイナ</schema:alternateName>
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Kozeki_Reina"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
@@ -5128,11 +5050,6 @@
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Shinohara_Rei"/>
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Nishijima_Kai"/>
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Munakata_Atsumi"/>
-    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="detail/%EF%BC%9F%EF%BC%9F%EF%BC%9F">
-    <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">？？？</schema:name>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Saionji_Kotoka"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
   <rdf:Description rdf:about="detail/%E3%82%A2%E3%83%B3%E3%83%87%E3%83%83%E3%83%89%20%C3%97%20%E3%82%BD%E3%83%AB%E3%82%B8%E3%83%A3%E3%83%BC">
@@ -5184,6 +5101,7 @@
   </rdf:Description>
   <rdf:Description rdf:about="detail/%E3%82%BB%E3%82%AF%E3%82%B7%E3%83%BC%E3%83%97%E3%83%AA%E3%82%BA%E3%83%8A%E3%83%BCNO%2E1">
     <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">セクシープリズナーNo.1</schema:name>
+    <schema:alternateName rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">ダーティー・マフィア</schema:alternateName>
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Katagiri_Sanae"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
@@ -5260,16 +5178,6 @@
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Sasaki_Chie"/>
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Hyodo_Rena"/>
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Matsumoto_Sarina"/>
-    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="detail/%E3%82%AF%E3%83%AC%E3%83%A8%E3%83%B3%E3%83%A2%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%BC%E2%98%86%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3">
-    <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">クレヨンモンスター☆スーパードラゴン</schema:name>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Ueda_Suzuho"/>
-    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="detail/%E8%AC%8E%E3%81%AE%E3%81%B5%E3%82%8F%E3%82%82%E3%81%93%E4%BD%BF%E3%81%84%E9%AD%94%E3%83%8B%E3%83%8A">
-    <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">謎のふわもこ使い魔ニナ</schema:name>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Ichihara_Nina"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
   <rdf:Description rdf:about="detail/%E6%9C%88%E5%A4%9C%E3%82%AD%E3%83%A9%E3%83%AA%E2%98%86%E3%83%88%E3%83%AA%E3%83%97%E3%83%AB%E3%81%86%E3%81%95%E3%81%8E">
@@ -7419,11 +7327,6 @@
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Zaizen_Tokiko"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
-  <rdf:Description rdf:about="detail/%E3%83%98%E3%83%AC%E3%83%B3%E7%94%9F%E8%AA%95%E7%A5%AD">
-    <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">ヘレン生誕祭</schema:name>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Helen"/>
-    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
-  </rdf:Description>
   <rdf:Description rdf:about="detail/%E3%83%95%E3%83%A9%E3%83%AF%E3%83%BC%E3%82%AC%E3%83%BC%E3%83%87%E3%83%B3%27S">
     <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">フラワーガーデン's</schema:name>
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Saionji_Kotoka"/>
@@ -7549,11 +7452,6 @@
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Kitami_Yuzu"/>
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Sakuma_Mayu"/>
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Takagaki_Kaede"/>
-    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="detail/%EF%BC%A4%EF%BC%8E%EF%BC%AC%EF%BC%8E%EF%BC%A6%E6%9D%91%E6%9D%BE%E3%81%95%E3%81%8F%E3%82%89">
-    <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">Ｄ．Ｌ．Ｆ村松さくら</schema:name>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Matsumura_Sakura"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
   <rdf:Description rdf:about="detail/%E3%82%B5%E3%83%9E%E3%83%BC%E3%82%B7%E3%83%BC%E3%82%BA%E3%83%B3">
