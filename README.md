@@ -19,5 +19,6 @@ SideM Lantis公式 http://www.lantis.jp/sidem/
 Wikipedia https://ja.wikipedia.org  
 DBpedia http://ja.dbpedia.org/  
 Music Forest http://www.minc.gr.jp  
-シンデレラガールズ ユニット相関図 https://imags-cg-unit.netlify.com  
+シンデレラガールズ ユニット相関図 https://imags-cg-unit.netlify.com    
+アイマスライブセトリ http://noahzero.web.fc2.com/imaslive.html   
 ご協力のみなさまの手作り資料
