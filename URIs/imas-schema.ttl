@@ -203,6 +203,6 @@ imas:Destination            a   rdf:Property ;
     rdfs:comment            "あて先を表すプロパティ" ;
     rdfs:label              "あて先"@ja .
     
-imas:Calle                  a   rdf:Property ;
+imas:Called                 a   rdf:Property ;
     rdfs:comment            "呼び方を表すプロパティ" ;
     rdfs:label              "呼び方"@ja .
