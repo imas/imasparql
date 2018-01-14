@@ -86,6 +86,10 @@ imas:Communication              a   rdfs:Class ;
     rdfs:comment                    "コミュを表すクラス" ;
     rdfs:label                      "コミュ"@ja .
     
+imas:CallName                   a   rdfs:Class ;
+    rdfs:comment                    "呼び名を表すクラス" ;
+    rdfs:label                      "呼び名"@ja .
+    
 # ここからはプロパティ
 imas:familyNameKana     a   rdf:Property ;
     rdfs:comment            "姓のよみがなを表すプロパティ" ;
@@ -194,3 +198,11 @@ imas:Source                 a   rdf:Property ;
 imas:SpeakerLabel           a   rdf:Property ;
     rdfs:comment            "発言者表記を表すプロパティ" ;
     rdfs:label              "発言者表記"@ja .
+    
+imas:Destination            a   rdf:Property ;
+    rdfs:comment            "あて先を表すプロパティ" ;
+    rdfs:label              "あて先"@ja .
+    
+imas:Called                 a   rdf:Property ;
+    rdfs:comment            "呼び方を表すプロパティ" ;
+    rdfs:label              "呼び方"@ja .
