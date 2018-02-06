@@ -9389,6 +9389,14 @@
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Mizumoto_Yukari"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
+  <rdf:Description rdf:about="detail/%E3%83%A1%E3%83%AB%E3%83%88%E3%83%BB%E3%83%81%E3%83%A7%E3%82%B3%E3%83%BB%E3%83%9D%E3%83%83%E3%83%88">
+    <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">メルト・チョコ・ポット</schema:name>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Yokoyama_Chika"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Niwa_Hitomi"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Wakui_Rumi"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Matoba_Risa"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
+  </rdf:Description>
 
   <rdf:Description rdf:about="detail/Jupiter">
     <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">Jupiter</schema:name>
