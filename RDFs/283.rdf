@@ -1,0 +1,95 @@
+<rdf:RDF
+    xmlns:jrrk="http://purl.org/jrrk#"
+    xmlns:ic="http://imi.ipa.go.jp/ns/core/rdf#"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:sac="http://statdb.nstac.go.jp/lod/sac/C"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:pc="http://purl.org/procurement/public-contracts#"
+    xmlns:odp="http://odp.jig.jp/odp/1.0#"
+    xmlns:schema="http://schema.org/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:bibo="http://purl.org/ontology/bibo/"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:gr="http://purl.org/goodrelations/v1#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+    xmlns:qb="http://purl.org/linked-data/cube#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:georss="http://www.georss.org/georss"
+    xmlns:cal="http://www.w3.org/2002/12/cal/icaltzd#"
+    xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    xmlns:imas="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#"
+    >
+
+  <rdf:Description rdf:about="detail/Sakuragi_Mano">
+    <schema:familyName xml:lang="ja">櫻木</schema:familyName>
+    <imas:familyNameKana xml:lang="ja">さくらぎ</imas:familyNameKana>
+    <schema:givenName xml:lang="ja">真乃</schema:givenName>
+    <imas:givenNameKana xml:lang="ja">まの</imas:givenNameKana>
+    <imas:nameKana xml:lang="ja">さくらぎまの</imas:nameKana>
+    <schema:name xml:lang="ja">櫻木真乃</schema:name>
+    <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</foaf:age>
+    <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">155.0</schema:height>
+    <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">48.0</schema:weight>
+    <imas:bust rdf:datatype="http://www.w3.org/2001/XMLSchema#float">86.0</imas:bust>
+    <imas:waist rdf:datatype="http://www.w3.org/2001/XMLSchema#float">58.0</imas:waist>
+    <imas:hip rdf:datatype="http://www.w3.org/2001/XMLSchema#float">88.0</imas:hip>
+    <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--04-25</schema:birthDate>
+    <imas:constellation xml:lang="ja">牡牛座</imas:constellation>
+    <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A</imas:BloodType>
+    <imas:cv xml:lang="ja">関根瞳</imas:cv>
+    <schema:birthPlace xml:lang="ja">東京都</schema:birthPlace>
+    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:memberOf xml:lang="en">283Pro</schema:memberOf>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="detail/Hachimiya_Meguru">
+    <schema:familyName xml:lang="ja">八宮</schema:familyName>
+    <imas:familyNameKana xml:lang="ja">はちみや</imas:familyNameKana>
+    <schema:givenName xml:lang="ja">めぐる</schema:givenName>
+    <imas:givenNameKana xml:lang="ja">めぐる</imas:givenNameKana>
+    <imas:nameKana xml:lang="ja">はちみやめぐる</imas:nameKana>
+    <schema:name xml:lang="ja">八宮めぐる</schema:name>
+    <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</foaf:age>
+    <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">157.0</schema:height>
+    <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">46.0</schema:weight>
+    <imas:bust rdf:datatype="http://www.w3.org/2001/XMLSchema#float">90.0</imas:bust>
+    <imas:waist rdf:datatype="http://www.w3.org/2001/XMLSchema#float">59.0</imas:waist>
+    <imas:hip rdf:datatype="http://www.w3.org/2001/XMLSchema#float">89.0</imas:hip>
+    <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--07-22</schema:birthDate>
+    <imas:constellation xml:lang="ja">蟹座</imas:constellation>
+    <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">O</imas:BloodType>
+    <imas:cv xml:lang="ja">峯田茉優</imas:cv>
+    <schema:birthPlace xml:lang="ja">アメリカ</schema:birthPlace>
+    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:memberOf xml:lang="en">283Pro</schema:memberOf>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+  </rdf:Description>
+  
+  <rdf:Description rdf:about="detail/Kazano_Hiori">
+    <schema:familyName xml:lang="ja">風野</schema:familyName>
+    <imas:familyNameKana xml:lang="ja">かざの</imas:familyNameKana>
+    <schema:givenName xml:lang="ja">灯織</schema:givenName>
+    <imas:givenNameKana xml:lang="ja">ひおり</imas:givenNameKana>
+    <imas:nameKana xml:lang="ja">かざのひおり</imas:nameKana>
+    <schema:name xml:lang="ja">風野灯織</schema:name>
+    <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</foaf:age>
+    <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">154.0</schema:height>
+    <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">43.0</schema:weight>
+    <imas:bust rdf:datatype="http://www.w3.org/2001/XMLSchema#float">75.0</imas:bust>
+    <imas:waist rdf:datatype="http://www.w3.org/2001/XMLSchema#float">55.0</imas:waist>
+    <imas:hip rdf:datatype="http://www.w3.org/2001/XMLSchema#float">78.0</imas:hip>
+    <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--03-04</schema:birthDate>
+    <imas:constellation xml:lang="ja">魚座</imas:constellation>
+    <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A</imas:BloodType>
+    <imas:cv xml:lang="ja">近藤玲奈</imas:cv>
+    <imas:cv rdf:resource="http://ja.dbpedia.org/resource/近藤玲奈"/>
+    <schema:birthPlace xml:lang="ja">東京都</schema:birthPlace>
+    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:memberOf xml:lang="en">283Pro</schema:memberOf>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+  </rdf:Description>
+
+</rdf:RDF>
