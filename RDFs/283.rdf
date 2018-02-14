@@ -42,6 +42,7 @@
     <schema:birthPlace xml:lang="ja">東京都</schema:birthPlace>
     <schema:gender xml:lang="en">female</schema:gender>
     <schema:memberOf xml:lang="en">283Pro</schema:memberOf>
+    <schema:description xml:lang="ja">ほんわかした癒し系の女の子で、心優しい性格。見ていて守りたくなるタイプで、一緒にいるだけで何となく幸せな気持ちになる。高校1年生。</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
@@ -65,6 +66,7 @@
     <schema:birthPlace xml:lang="ja">アメリカ</schema:birthPlace>
     <schema:gender xml:lang="en">female</schema:gender>
     <schema:memberOf xml:lang="en">283Pro</schema:memberOf>
+    <schema:description xml:lang="ja">天真爛漫な性格で、誰にでも積極的に話しかける。とにかく元気で友達想いの女の子。日本人の父とアメリカ人の母を持つ。高校1年生。</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
   
@@ -89,6 +91,129 @@
     <schema:birthPlace xml:lang="ja">東京都</schema:birthPlace>
     <schema:gender xml:lang="en">female</schema:gender>
     <schema:memberOf xml:lang="en">283Pro</schema:memberOf>
+    <schema:description xml:lang="ja">後ろでまとめた黒髪が印象的な、クール系美少女。自分が納得するまで努力を欠かさないストイックな性格の持ち主。高校1年生。</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+  </rdf:Description>
+  
+  <rdf:Description rdf:about="detail/Tsukioka_Kogane">
+    <schema:familyName xml:lang="ja">月岡</schema:familyName>
+    <imas:familyNameKana xml:lang="ja">>つきおか</imas:familyNameKana>
+    <schema:givenName xml:lang="ja">恋鐘</schema:givenName>
+    <imas:givenNameKana xml:lang="ja">こがね</imas:givenNameKana>
+    <imas:nameKana xml:lang="ja">つきおかこがね</imas:nameKana>
+    <schema:name xml:lang="ja">月岡恋鐘</schema:name>
+    <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</foaf:age>
+    <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">165.0</schema:height>
+    <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">58.0</schema:weight>
+    <imas:bust rdf:datatype="http://www.w3.org/2001/XMLSchema#float">93.0</imas:bust>
+    <imas:waist rdf:datatype="http://www.w3.org/2001/XMLSchema#float">60.0</imas:waist>
+    <imas:hip rdf:datatype="http://www.w3.org/2001/XMLSchema#float">91.0</imas:hip>
+    <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--02-25</schema:birthDate>
+    <imas:constellation xml:lang="ja">魚座</imas:constellation>
+    <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">B</imas:BloodType>
+    <imas:cv xml:lang="ja">磯部花凛</imas:cv>
+    <schema:birthPlace xml:lang="ja">長崎県</schema:birthPlace>
+    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:memberOf xml:lang="en">283Pro</schema:memberOf>
+    <schema:description xml:lang="ja">自信たっぷりで何があってもポジティブな性格。スタイルもよく人目を引く可愛さだが、よく転ぶ、ダンスを間違えるなどのドジな一面も併せ持つ。</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="detail/Mitsumine_Yuika">
+    <schema:familyName xml:lang="ja">三峰</schema:familyName>
+    <imas:familyNameKana xml:lang="ja">みつみね</imas:familyNameKana>
+    <schema:givenName xml:lang="ja">結華</schema:givenName>
+    <imas:givenNameKana xml:lang="ja">ゆいか</imas:givenNameKana>
+    <imas:nameKana xml:lang="ja">みつみねゆいか</imas:nameKana>
+    <schema:name xml:lang="ja">三峰結華</schema:name>
+    <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</foaf:age>
+    <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">158.0</schema:height>
+    <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">44.0</schema:weight>
+    <imas:bust rdf:datatype="http://www.w3.org/2001/XMLSchema#float">73.0</imas:bust>
+    <imas:waist rdf:datatype="http://www.w3.org/2001/XMLSchema#float">52.0</imas:waist>
+    <imas:hip rdf:datatype="http://www.w3.org/2001/XMLSchema#float">81.0</imas:hip>
+    <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--01-16</schema:birthDate>
+    <imas:constellation xml:lang="ja">山羊座</imas:constellation>
+    <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">O</imas:BloodType>
+    <imas:cv xml:lang="ja">成海瑠奈</imas:cv>
+    <schema:birthPlace xml:lang="ja">福島県</schema:birthPlace>
+    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:memberOf xml:lang="en">283Pro</schema:memberOf>
+    <schema:description xml:lang="ja">自由奔放で掴みどころのないサブカル系眼鏡女子。美人でノリもよく、初対面の人に対しても気後れせずに話しができる。大学1年生。</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="detail/Shirase_Sakuya">
+    <schema:familyName xml:lang="ja">白瀬</schema:familyName>
+    <imas:familyNameKana xml:lang="ja">しらせ</imas:familyNameKana>
+    <schema:givenName xml:lang="ja">咲耶</schema:givenName>
+    <imas:givenNameKana xml:lang="ja">さくや</imas:givenNameKana>
+    <imas:nameKana xml:lang="ja">しらせさくや</imas:nameKana>
+    <schema:name xml:lang="ja">白瀬咲耶</schema:name>
+    <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</foaf:age>
+    <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">175.0</schema:height>
+    <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">60.0</schema:weight>
+    <imas:bust rdf:datatype="http://www.w3.org/2001/XMLSchema#float">91.0</imas:bust>
+    <imas:waist rdf:datatype="http://www.w3.org/2001/XMLSchema#float">58.0</imas:waist>
+    <imas:hip rdf:datatype="http://www.w3.org/2001/XMLSchema#float">87.0</imas:hip>
+    <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--06-27</schema:birthDate>
+    <imas:constellation xml:lang="ja">蟹座</imas:constellation>
+    <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A</imas:BloodType>
+    <imas:cv xml:lang="ja">八巻アンナ</imas:cv>
+    <schema:birthPlace xml:lang="ja">高知県</schema:birthPlace>
+    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:memberOf xml:lang="en">283Pro</schema:memberOf>
+    <schema:description xml:lang="ja">女子校に通い、スポーツ万能、学業優秀、容姿端麗なモデル系美人。立ち居振舞いも王子様のようにかっこよく、女子からの人気が高い。高校3年生。</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="detail/Tanaka_Mamimi">
+    <schema:familyName xml:lang="ja">田中</schema:familyName>
+    <imas:familyNameKana xml:lang="ja">たなか</imas:familyNameKana>
+    <schema:givenName xml:lang="ja">摩美々</schema:givenName>
+    <imas:givenNameKana xml:lang="ja">まみみ</imas:givenNameKana>
+    <imas:nameKana xml:lang="ja">たなかまみみ</imas:nameKana>
+    <schema:name xml:lang="ja">田中摩美々</schema:name>
+    <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</foaf:age>
+    <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">161.0</schema:height>
+    <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">49.0</schema:weight>
+    <imas:bust rdf:datatype="http://www.w3.org/2001/XMLSchema#float">81.0</imas:bust>
+    <imas:waist rdf:datatype="http://www.w3.org/2001/XMLSchema#float">56.0</imas:waist>
+    <imas:hip rdf:datatype="http://www.w3.org/2001/XMLSchema#float">83.0</imas:hip>
+    <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--05-24</schema:birthDate>
+    <imas:constellation xml:lang="ja">双子座</imas:constellation>
+    <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">B</imas:BloodType>
+    <imas:cv xml:lang="ja">菅沼千紗</imas:cv>
+    <imas:cv rdf:resource="http://ja.dbpedia.org/resource/菅沼千紗"/>
+    <schema:birthPlace xml:lang="ja">神奈川県</schema:birthPlace>
+    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:memberOf xml:lang="en">283Pro</schema:memberOf>
+    <schema:description xml:lang="ja">ダウナー系で、面倒なことが嫌いなパンキッシュガール。顔もスタイルも抜群の美少女だが、自分の興味を持ったこと以外には無頓着な性格。高校3年生。</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="detail/Yukoku_Kiriko">
+    <schema:familyName xml:lang="ja">幽谷</schema:familyName>
+    <imas:familyNameKana xml:lang="ja">ゆうこく</imas:familyNameKana>
+    <schema:givenName xml:lang="ja">霧子</schema:givenName>
+    <imas:givenNameKana xml:lang="ja">きりこ</imas:givenNameKana>
+    <imas:nameKana xml:lang="ja">ゆうこくきりこ</imas:nameKana>
+    <schema:name xml:lang="ja">幽谷霧子</schema:name>
+    <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</foaf:age>
+    <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">160.0</schema:height>
+    <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">51.0</schema:weight>
+    <imas:bust rdf:datatype="http://www.w3.org/2001/XMLSchema#float">79.0</imas:bust>
+    <imas:waist rdf:datatype="http://www.w3.org/2001/XMLSchema#float">55.0</imas:waist>
+    <imas:hip rdf:datatype="http://www.w3.org/2001/XMLSchema#float">81.0</imas:hip>
+    <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--09-23</schema:birthDate>
+    <imas:constellation xml:lang="ja">天秤座</imas:constellation>
+    <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AB</imas:BloodType>
+    <imas:cv xml:lang="ja">結名美月</imas:cv>
+    <imas:cv rdf:resource="http://ja.dbpedia.org/resource/結名美月"/>
+    <schema:birthPlace xml:lang="ja">青森県</schema:birthPlace>
+    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:memberOf xml:lang="en">283Pro</schema:memberOf>
+    <schema:description xml:lang="ja">ミステリアスな雰囲気を醸し出す銀髪の女の子。儚げな雰囲気とぐるぐると巻いた包帯が特徴的。口数は少ないが、心優しい性格。高校2年生。</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 

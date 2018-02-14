@@ -22,6 +22,7 @@
     xmlns:imas="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#"
     >
 
+  <!--CinderellaGirls-->
   <rdf:Description rdf:about="detail/Rosenburg%20Engel">
     <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">Rosenburg Engel</schema:name>
     <schema:alternateName rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">ローゼンブルクエンゲル</schema:alternateName>
@@ -9398,6 +9399,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
 
+  <!--SideM-->
   <rdf:Description rdf:about="detail/Jupiter">
     <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">Jupiter</schema:name>
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Amagase_Toma"/>
@@ -9505,6 +9507,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
 
+  <!--765AS-->
   <rdf:Description rdf:about="detail/%E3%83%91%E3%83%BC%E3%83%95%E3%82%A7%E3%82%AF%E3%83%88%E3%82%B5%E3%83%B3">
     <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">パーフェクトサン</schema:name>
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Amami_haruka"/>
@@ -9679,6 +9682,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
 
+  <!--MillionLive-->
   <rdf:Description rdf:about="detail/765MillionStars">
     <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">765MillionStars</schema:name>
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Julia"/>
@@ -10214,8 +10218,14 @@
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Julia"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
+  <rdf:Description rdf:about="Cleasky">
+    <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">Cleasky</schema:name>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Miyao_Miya"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Shimabara_Erena"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
+  </rdf:Description>
 
-
+  <!--Collaboration-->
   <rdf:Description rdf:about="detail/%E3%81%AF%E3%81%84%E3%81%95%E3%81%84%E3%83%95%E3%83%A5%E3%83%BC%E3%83%81%E3%83%A3%E3%83%BC%E3%82%B9%E3%82%BF%E3%83%BC">
     <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">はいさいフューチャースター</schema:name>
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Ganaha_Hibiki"/>
@@ -10232,12 +10242,23 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
 
+  <!--ShinyColors-->
   <rdf:Description rdf:about="detail/illuminationSTARS">
     <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">illuminationSTARS</schema:name>
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Sakuragi_Mano"/>
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Hachimiya_Meguru"/>
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Kazano_Hiori"/>
     <schema:description xml:lang="ja">「瞳に輝く、無限の可能性」小さな光を宿す少女たちで結成された、新世代のアイドルユニット。今はまだかすかな輝きでも、時にぶつかり時に支え合いながら、一等星を目指して歩んでいく！</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="detail/L%27Antica">
+    <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">L'Antica</schema:name>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Tsukioka_Kogane"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Mitsumine_Yuika"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Tanaka_Mamimi"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Shirase_Sakuya"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Yukoku_Kiriko"/>
+    <schema:description xml:lang="ja">「回せ、錆びついた運命の鍵を」胸に燻る焔を「ウタ」に、孤独な泪を「ネガイ」に変える、新世界の革命的アイドルユニット。ゴシックなドレスを纏い、彼女たちは希望を謳い続ける―。</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
 </rdf:RDF>
