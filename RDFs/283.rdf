@@ -218,4 +218,77 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
+  <rdf:Description rdf:about="detail/Kuwayama_Chiyuki">
+    <schema:familyName xml:lang="ja">桑山</schema:familyName>
+    <imas:familyNameKana xml:lang="ja">くわやま</imas:familyNameKana>
+    <schema:givenName xml:lang="ja">千雪</schema:givenName>
+    <imas:givenNameKana xml:lang="ja">ちゆき</imas:givenNameKana>
+    <imas:nameKana xml:lang="ja">くわやまちゆき</imas:nameKana>
+    <schema:name xml:lang="ja">桑山千雪</schema:name>
+    <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">23</foaf:age>
+    <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">163.0</schema:height>
+    <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">47.0</schema:weight>
+    <imas:bust rdf:datatype="http://www.w3.org/2001/XMLSchema#float">89.0</imas:bust>
+    <imas:waist rdf:datatype="http://www.w3.org/2001/XMLSchema#float">58.0</imas:waist>
+    <imas:hip rdf:datatype="http://www.w3.org/2001/XMLSchema#float">92.0</imas:hip>
+    <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--04-18</schema:birthDate>
+    <imas:constellation xml:lang="ja">牡牛座</imas:constellation>
+    <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A</imas:BloodType>
+    <imas:cv xml:lang="ja">芝崎典子</imas:cv>
+    <imas:cv rdf:resource="http://ja.dbpedia.org/resource/芝崎典子"/>
+    <schema:birthPlace xml:lang="ja">山口県</schema:birthPlace>
+    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:memberOf xml:lang="en">283Pro</schema:memberOf>
+    <schema:description xml:lang="ja">優しい笑顔が印象的な、事務所のお姉さん的存在。母性溢れる落ち着いた佇まいが特徴。手先が器用で、かわいい小物を作るのが趣味。</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="detail/Osaki_Tenka">
+    <schema:familyName xml:lang="ja">大崎</schema:familyName>
+    <imas:familyNameKana xml:lang="ja">おおさき</imas:familyNameKana>
+    <schema:givenName xml:lang="ja">甜花</schema:givenName>
+    <imas:givenNameKana xml:lang="ja">てんか</imas:givenNameKana>
+    <imas:nameKana xml:lang="ja">おおさきてんか</imas:nameKana>
+    <schema:name xml:lang="ja">大崎甜花</schema:name>
+    <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</foaf:age>
+    <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">159.0</schema:height>
+    <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">44.0</schema:weight>
+    <imas:bust rdf:datatype="http://www.w3.org/2001/XMLSchema#float">81.0</imas:bust>
+    <imas:waist rdf:datatype="http://www.w3.org/2001/XMLSchema#float">58.0</imas:waist>
+    <imas:hip rdf:datatype="http://www.w3.org/2001/XMLSchema#float">83.0</imas:hip>
+    <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--12-25</schema:birthDate>
+    <imas:constellation xml:lang="ja">山羊座</imas:constellation>
+    <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A</imas:BloodType>
+    <imas:cv xml:lang="ja">前川涼子</imas:cv>
+    <imas:cv rdf:resource="http://ja.dbpedia.org/resource/前川涼子"/>
+    <schema:birthPlace xml:lang="ja">富山県</schema:birthPlace>
+    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:memberOf xml:lang="en">283Pro</schema:memberOf>
+    <schema:description xml:lang="ja">大崎姉妹の双子の姉。幼い頃から妹の甘奈に面倒を見てもらっている。人と話すのが苦手で、アニメやゲームなど、インドアな趣味が多い。高校2年生。</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="detail/Osaki_Amana">
+    <schema:familyName xml:lang="ja">大崎</schema:familyName>
+    <imas:familyNameKana xml:lang="ja">おおさき</imas:familyNameKana>
+    <schema:givenName xml:lang="ja">甘奈</schema:givenName>
+    <imas:givenNameKana xml:lang="ja">あまな</imas:givenNameKana>
+    <imas:nameKana xml:lang="ja">おおさきあまな</imas:nameKana>
+    <schema:name xml:lang="ja">大崎甘奈</schema:name>
+    <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</foaf:age>
+    <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">159.0</schema:height>
+    <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">43.0</schema:weight>
+    <imas:bust rdf:datatype="http://www.w3.org/2001/XMLSchema#float">80.0</imas:bust>
+    <imas:waist rdf:datatype="http://www.w3.org/2001/XMLSchema#float">56.0</imas:waist>
+    <imas:hip rdf:datatype="http://www.w3.org/2001/XMLSchema#float">80.0</imas:hip>
+    <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--12-25</schema:birthDate>
+    <imas:constellation xml:lang="ja">山羊座</imas:constellation>
+    <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A</imas:BloodType>
+    <imas:cv xml:lang="ja">黒木ほの香</imas:cv>
+    <schema:birthPlace xml:lang="ja">富山県</schema:birthPlace>
+    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:memberOf xml:lang="en">283Pro</schema:memberOf>
+    <schema:description xml:lang="ja">大崎姉妹の双子の妹。誰とでも分け隔てなく接する天真爛漫なギャル。今しかできないことを全力で楽しみたい今ドキの女の子。高校2年生。</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+  </rdf:Description>
 </rdf:RDF>
