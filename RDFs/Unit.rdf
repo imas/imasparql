@@ -10245,20 +10245,31 @@
   <!--ShinyColors-->
   <rdf:Description rdf:about="detail/illuminationSTARS">
     <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">illuminationSTARS</schema:name>
+    <schema:name xml:lang="ja">イルミネーションスターズ</schema:name>
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Sakuragi_Mano"/>
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Hachimiya_Meguru"/>
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Kazano_Hiori"/>
-    <schema:description xml:lang="ja">「瞳に輝く、無限の可能性」小さな光を宿す少女たちで結成された、新世代のアイドルユニット。今はまだかすかな輝きでも、時にぶつかり時に支え合いながら、一等星を目指して歩んでいく！</schema:description>
+    <schema:description xml:lang="ja">「瞳に輝く、無限の可能性」小さな光を宿す少女たちで結成された、新世代のアイドルユニット。今はまだかすかな輝きでも、時にぶつかり時に支え合いながら、一等星を目指して歩んでいく!</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
   <rdf:Description rdf:about="detail/L%27Antica">
     <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">L'Antica</schema:name>
+    <schema:name xml:lang="ja">アンティーカ</schema:name>
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Tsukioka_Kogane"/>
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Mitsumine_Yuika"/>
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Tanaka_Mamimi"/>
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Shirase_Sakuya"/>
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Yukoku_Kiriko"/>
     <schema:description xml:lang="ja">「回せ、錆びついた運命の鍵を」胸に燻る焔を「ウタ」に、孤独な泪を「ネガイ」に変える、新世界の革命的アイドルユニット。ゴシックなドレスを纏い、彼女たちは希望を謳い続ける―。</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="detail/ALSTROEMERIA">
+    <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">ALSTROEMERIA</schema:name>
+    <schema:name xml:lang="ja">アルストロメリア</schema:name>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Kuwayama_Chiyuki"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Osaki_Tenka"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Osaki_Amana"/>
+    <schema:description xml:lang="ja">「花ざかり、私達の幸福論」ポップでハッピーな3人組アイドルユニット。アルストロメリアの花言葉「未来への憧れ」を胸に抱き、今日もシアワセなパフォーマンスで会場に笑顔を咲かせます!</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
 </rdf:RDF>
