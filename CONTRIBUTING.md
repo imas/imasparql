@@ -32,6 +32,14 @@ DB整備に協力してくれるみなさまへ
 
 各主語に入る述語の種類、数は同クラスの別インスタンスと違っていても大丈夫です。765アイドルと1054アイドルを見てみれば分かると思います。
 
+### 検証
+Apache Jena Fuseki2をSPARQLのエンジンとして使っているので、それでエラーや警告がでなければOKです。  
+しかし、それをいちいちやらせるのも手間なので、RDF検証ツールを使用します。  
+**Eyeball**  
+https://jena.apache.org/documentation/tools/eyeball-getting-started.html  
+起動できない時はこれを参考にすると良いかも  
+https://cweiske.de/tagebuch/rdf-validation-eyeball.htm  
+
 ## 注意
 当DBは公式かつ、アイマス世界内の情報のみを扱います。
 カップリングといった二次創作や、声優さんの詳細といったアイマス世界外の情報は、無しとしています。
