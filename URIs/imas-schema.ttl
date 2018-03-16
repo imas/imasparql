@@ -25,7 +25,7 @@
 @prefix skos:  <http://www.w3.org/2004/02/skos/core#>.
 @prefix xsd:   <http://www.w3.org/2001/XMLSchema#>.
 @prefix reg: <http://purl.org/metainfo/terms/registry#> .
-@prefix imas: <https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#>
+@prefix imas: <https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#>.
 
 <https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#>
         a               owl:Ontology ;
