@@ -34,11 +34,6 @@ DB整備に協力してくれるみなさまへ
 
 ### 検証
 Apache Jena Fuseki2をSPARQLのエンジンとして使っているので、それでエラーや警告がでなければOKです。  
-しかし、それをいちいちやらせるのも手間なので、RDF検証ツールを使用します。  
-**Eyeball**  
-https://jena.apache.org/documentation/tools/eyeball-getting-started.html  
-起動できない時はこれを参考にすると良いかも  
-https://cweiske.de/tagebuch/rdf-validation-eyeball.htm  
 
 ## 注意
 当DBは公式かつ、アイマス世界内の情報のみを扱います。
