@@ -285,6 +285,10 @@
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--04-18</schema:birthDate>
     <imas:constellation xml:lang="ja">牡牛座</imas:constellation>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A</imas:BloodType>
+    <imas:Handedness xml:lang="en">right</imas:Handedness>
+    <imas:Hobby xml:lang="ja">雑貨作り</imas:Hobby>
+    <imas:Talent xml:lang="ja">裁縫</imas:Talent>
+    <imas:Talent xml:lang="ja">道案内</imas:Talent>
     <imas:cv xml:lang="ja">芝崎典子</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/芝崎典子"/>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">FBFBFB</imas:Color>
@@ -311,6 +315,12 @@
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--12-25</schema:birthDate>
     <imas:constellation xml:lang="ja">山羊座</imas:constellation>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A</imas:BloodType>
+    <imas:Handedness xml:lang="en">right</imas:Handedness>
+    <imas:Hobby xml:lang="ja">お昼寝</imas:Hobby>
+    <imas:Hobby xml:lang="ja">ネットサーフィン</imas:Hobby>
+    <imas:Hobby xml:lang="ja">アニメ</imas:Hobby>
+    <imas:Hobby xml:lang="ja">ゲーム</imas:Hobby>
+    <imas:Talent xml:lang="ja">特に無い</imas:Talent>
     <imas:cv xml:lang="ja">前川涼子</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/前川涼子"/>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">E75BEC</imas:Color>
@@ -337,6 +347,12 @@
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--12-25</schema:birthDate>
     <imas:constellation xml:lang="ja">山羊座</imas:constellation>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A</imas:BloodType>
+    <imas:Handedness xml:lang="en">right</imas:Handedness>
+    <imas:Hobby xml:lang="ja">ショッピング</imas:Hobby>
+    <imas:Hobby xml:lang="ja">ネイル</imas:Hobby>
+    <imas:Hobby xml:lang="ja">自撮り</imas:Hobby>
+    <imas:Talent xml:lang="ja">早起き</imas:Talent>
+    <imas:Talent xml:lang="ja">倹約</imas:Talent>
     <imas:cv xml:lang="ja">黒木ほの香</imas:cv>
     <!--<imas:cv rdf:resource="http://ja.dbpedia.org/resource/黒木ほの香"/>-->
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">F54275</imas:Color>
