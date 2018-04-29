@@ -90,6 +90,10 @@ imas:CallName                   a   rdfs:Class ;
     rdfs:comment                    "呼び名を表すクラス" ;
     rdfs:label                      "呼び名"@ja .
     
+imas:Introduction               a   rdfs:Class ;
+    rdfs:comment                    "シンデレラガールズ アイドル紹介を表すクラス" ;
+    rdfs:label                      "シンデレラガールズ アイドル紹介"@ja .
+    
 # ここからはプロパティ
 imas:familyNameKana     a   rdf:Property ;
     rdfs:comment            "姓のよみがなを表すプロパティ" ;
