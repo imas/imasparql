@@ -210,3 +210,7 @@ imas:Destination            a   rdf:Property ;
 imas:Called                 a   rdf:Property ;
     rdfs:comment            "呼び方を表すプロパティ" ;
     rdfs:label              "呼び方"@ja .
+    
+imas:Title                 a   rdf:Property ;
+    rdfs:comment            "所属コンテンツを表すプロパティ" ;
+    rdfs:label              "所属コンテンツ"@ja .
