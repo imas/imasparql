@@ -88,6 +88,33 @@
     <schema:position xml:lang="ja">社長</schema:position>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Staff"/>
   </rdf:Description>
+  <rdf:Description rdf:about="detail/Saito_Takashi">
+    <schema:familyName xml:lang="ja">齋藤</schema:familyName>
+    <imas:familyNameKana xml:lang="ja">さいとう</imas:familyNameKana>
+    <schema:givenName xml:lang="ja">孝司</schema:givenName>
+    <imas:givenNameKana xml:lang="ja">たかし</imas:givenNameKana>
+    <imas:nameKana xml:lang="ja">さいとうたかし</imas:nameKana>
+    <schema:name xml:lang="ja">齋藤孝司</schema:name>
+    <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ナイスミドル</foaf:age>
+    <imas:cv xml:lang="ja">立木文彦</imas:cv>
+    <imas:cv rdf:resource="http://ja.dbpedia.org/resource/立木文彦 "/>
+    <schema:gender xml:lang="en">male</schema:gender>
+    <schema:memberOf xml:lang="en">315Staff</schema:memberOf>
+    <schema:position xml:lang="ja">社長</schema:position>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Staff"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="detail/Ishikawa_Minori">
+    <schema:familyName xml:lang="ja">石川</schema:familyName>
+    <imas:familyNameKana xml:lang="ja">いしかわ</imas:familyNameKana>
+    <schema:givenName xml:lang="ja">実</schema:givenName>
+    <imas:givenNameKana xml:lang="ja">みのり</imas:givenNameKana>
+    <imas:nameKana xml:lang="ja">いしかわみのり</imas:nameKana>
+    <schema:name xml:lang="ja">石川実</schema:name>
+    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:memberOf xml:lang="en">876Staff</schema:memberOf>
+    <schema:position xml:lang="ja">社長</schema:position>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Staff"/>
+  </rdf:Description>
 
   <rdf:Description rdf:about="detail/Otonashi_Kotori">
     <schema:familyName xml:lang="ja">音無</schema:familyName>
