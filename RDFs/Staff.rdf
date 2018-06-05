@@ -311,4 +311,8 @@
     <schema:alternateName xml:lang="ja">ルーキートレーナー</schema:alternateName>
   </rdf:Description>
 
+  <rdf:Description rdf:about="detail/Producer">
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Staff"/>
+  </rdf:Description>
+
 </rdf:RDF>
