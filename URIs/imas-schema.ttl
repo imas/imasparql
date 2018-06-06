@@ -93,6 +93,10 @@ imas:Introduction               a   rdfs:Class ;
     rdfs:comment                    "シンデレラガールズ アイドル紹介を表すクラス" ;
     rdfs:label                      "シンデレラガールズ アイドル紹介"@ja .
     
+imas:Clothes                    a   rdfs:Class ;
+    rdfs:comment                    "衣装を表すクラス" ;
+    rdfs:label                      "衣装"@ja .
+    
 # ここからはプロパティ
 imas:familyNameKana     a   rdf:Property ;
     rdfs:comment            "姓のよみがなを表すプロパティ" ;
@@ -213,3 +217,7 @@ imas:Called                 a   rdf:Property ;
 imas:Title                 a   rdf:Property ;
     rdfs:comment            "所属コンテンツを表すプロパティ" ;
     rdfs:label              "所属コンテンツ"@ja .
+    
+imas:Whose                 a   rdf:Property ;
+    rdfs:comment            "所有者を表すプロパティ" ;
+    rdfs:label              "所有者"@ja .
