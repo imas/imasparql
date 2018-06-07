@@ -20,7 +20,7 @@ DB整備に協力してくれるみなさまへ
 外部の語彙は主に[schema.org](schema.org)を利用しています。
 使用語彙に関しては[#6](https://github.com/imas/imasparql/issues/6)で受け付けています。
 
-トリプルの主語となるrdf:Descriptionですが、"detail/"の後ろにschema:nameに入れる名前をURLエンコードしたもの入れていく形を取っています。(例外:アイドル名 例:Kisaragi_Chihaya)   
+トリプルの主語となるrdf:Descriptionですが、 ユニークなものを入れてください。
 使える文字は  
 - ラテン小文字(小文字アルファベット): a～z
 - 数字: 0～9
