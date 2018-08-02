@@ -378,11 +378,20 @@
     <schema:name xml:lang="ja">ブランエノワール</schema:name>
     <schema:description xml:lang="ja">白と黒。それは交わることのない悲しきモノトーン。どんなに遠くても、表裏一体。永遠に届かなくてもいいの...それが運命ならば。</schema:description>
     <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Nikaidou_Chizuru"/>
+    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Tokoro_Megumi"/>
+    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Tenkuubashi_Tomoka"/>
+    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Momose_Rio"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
   <rdf:Description rdf:about="detail/Beauty_Frozen">
     <schema:name xml:lang="ja">ビューティーフローズン</schema:name>
     <schema:description xml:lang="ja">真っ白な雪の世界を連想させる、魅惑的なドレス。穏やかに溶け込んだ、神秘的なアイスブルーにきっと癒やされることでしょう。</schema:description>
+    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Shijou_Takane"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="detail/Beauty_Frozen%2B">
+    <schema:name xml:lang="ja">ビューティーフローズン+</schema:name>
+    <schema:description xml:lang="ja">「ビューティーフローズン」のアナザー衣装です。</schema:description>
     <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Shijou_Takane"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
@@ -402,6 +411,48 @@
     <schema:name xml:lang="ja">あじさいドロップ</schema:name>
     <schema:description xml:lang="ja">雨の中で元気に咲く花をイメージしたドレス。衣装の花たちは、少女が次々と抱く、たくさんの小さな好奇心を表現しています。</schema:description>
     <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Kasuga_Mirai"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="detail/Blue_Sky_Fantasia">
+    <schema:name xml:lang="ja">ブルースカイファンタジア</schema:name>
+    <schema:description xml:lang="ja">雲一つない晴れやかな青空を思わせる、爽やかな青い衣装。いつでもあなたの心を明るく、元気で満たしてくれるでしょう。</schema:description>
+    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Satake_Minako"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="detail/Action_Spirits">
+    <schema:name xml:lang="ja">アクションスピリッツ</schema:name>
+    <schema:description xml:lang="ja">キュートとワイルドをあわせて、元気いっぱいな爽やかさを鮮やかに表現しました。ほら、そこのキミも、一緒にハジケちゃおっ！</schema:description>
+    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Fukuda_Noriko"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="detail/Green_Noble_Lady">
+    <schema:name xml:lang="ja">グリーンノーブルレディ</schema:name>
+    <schema:description xml:lang="ja">知的なグリーンをクラシカルにまとめた上品なドレス。小さなハットが、レディが持つキュートな少女の心を表現しています。</schema:description>
+    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Akizuki_Ritsuko"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="detail/Tropical_Sunflower">
+    <schema:name xml:lang="ja">トロピカルサンフラワー</schema:name>
+    <schema:description xml:lang="ja">元気いっぱい！トロピカルでキュートな衣装。爽やかな緑のパッションスタイルは、まるでお花畑に咲き誇る太陽のよう！</schema:description>
+    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Shimabara_Erena"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="detail/White_Ripple">
+    <schema:name xml:lang="ja">ホワイトリップル</schema:name>
+    <schema:description xml:lang="ja">優しいさざなみをイメージした衣装。静かな砂浜で聴いた優しい波の音を連想するようなカーデが貴方の心を優しく包み込みます。</schema:description>
+    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Shimabara_Erena"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="detail/Marchen_Lily">
+    <schema:name xml:lang="ja">メルヘンリリー</schema:name>
+    <schema:description xml:lang="ja">ゆりの花のお姫様が、童話の中から飛び出して、みんなの笑顔を咲かせます。</schema:description>
+    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Shiika"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="detail/Early_Summer_Girl">
+    <schema:name xml:lang="ja">アーリーサマーガール</schema:name>
+    <schema:description xml:lang="ja">初夏を思わせるキュートな衣装。清楚なデザインとカジュアルなショートブーツで、爽やかなダンスを一緒に踊りましょう♪</schema:description>
+    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Nagayoshi_Subaru"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
 
