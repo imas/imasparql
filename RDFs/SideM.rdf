@@ -766,12 +766,8 @@
 
   <rdf:Description rdf:about="detail/Asselin_BB_2">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">26</foaf:age>
-    <schema:name xml:lang="ja">アスラン=BBⅡ世</schema:name>
-    <imas:nameKana xml:lang="ja">あすらんべるぜびゅーとにせい</imas:nameKana>
-    <schema:familyName xml:lang="ja">アスラン</schema:familyName>
-    <schema:givenName xml:lang="ja">BB</schema:givenName>
-    <imas:familyNameKana xml:lang="ja">あすらん</imas:familyNameKana>
-    <imas:givenNameKana xml:lang="ja">べるぜびゅーと</imas:givenNameKana>
+    <schema:alternateName xml:lang="ja">アスラン=BBⅡ世</schema:alternateName>
+    <imas:alternateNameKana xml:lang="ja">あすらんべるぜびゅーとにせい</imas:alternateNameKana>
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--10-09</schema:birthDate>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A</imas:BloodType>
     <schema:birthPlace xml:lang="ja">ゲヘナ</schema:birthPlace>
