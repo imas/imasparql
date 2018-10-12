@@ -655,6 +655,18 @@
     <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Kikuchi_Makoto"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
+  <rdf:Description rdf:about="detail/Lioness_Whitia">
+    <schema:name xml:lang="ja">ライオネスホワイティア</schema:name>
+    <schema:description xml:lang="ja">その輝く白い衣装は、数多の獣を統べる誇り高き王のためのもの。麗しくも鋭い眼光にさらされた時全ての野生がひれ伏すという。</schema:description>
+    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Kikuchi_Makoto"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="detail/Lioness_Whitia%2B">
+    <schema:name xml:lang="ja">ライオネスホワイティア+</schema:name>
+    <schema:description xml:lang="ja">「ライオネスホワイティア」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Kikuchi_Makoto"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
   <rdf:Description rdf:about="detail/Passion_Energy">
     <schema:name xml:lang="ja">パッションエナジー！</schema:name>
     <schema:description xml:lang="ja">エネルギッシュなピンクが魅力のキュートな衣装。星の輝きにも負けないパワーで、みんなの心にトキメキをフルチャージ！</schema:description>
@@ -832,6 +844,18 @@
   <rdf:Description rdf:about="detail/Staring_Revolution%2B">
     <schema:name xml:lang="ja">スターリングレボリューション+</schema:name>
     <schema:description xml:lang="ja">「スターリングレボリューション」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Matsuda_Arisa"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="detail/Devils_Checker">
+    <schema:name xml:lang="ja">デビルズ★チェッカー</schema:name>
+    <schema:description xml:lang="ja">はーい、チェック、チェック！このドレスのアクマ的可愛さポイント、絶対に見逃さないで！見逃したら...悪戯しちゃいます★</schema:description>
+    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Matsuda_Arisa"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="detail/Devils_Checker%2B">
+    <schema:name xml:lang="ja">デビルズ★チェッカー+</schema:name>
+    <schema:description xml:lang="ja">「デビルズ★チェッカー」のアナザー衣装です。</schema:description>
     <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Matsuda_Arisa"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
@@ -1099,6 +1123,18 @@
     <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Maihama_Ayumu"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
+  <rdf:Description rdf:about="detail/Darkness_Amethyst">
+    <schema:name xml:lang="ja">ダークネス・アメジスト</schema:name>
+    <schema:description xml:lang="ja">闇に溶ける紫水晶をイメージしたドレス。その深く、ひそやかな輝きに触れた時、貴方は永遠の囚われ人となるでしょう...。</schema:description>
+    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Maihama_Ayumu"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="detail/Darkness_Amethyst%2B">
+    <schema:name xml:lang="ja">ダークネス・アメジスト+</schema:name>
+    <schema:description xml:lang="ja">「ダークネス・アメジスト」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Maihama_Ayumu"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
   <rdf:Description rdf:about="detail/Truely_Magic">
     <schema:name xml:lang="ja">トゥルーリーマジック</schema:name>
     <schema:description xml:lang="ja">紫のリボンがキュートな衣装。魔法をシルクハットに詰め込んで今宵は貴方を、ひとときの楽しいミラクルショータイムへご招待☆</schema:description>
@@ -1264,6 +1300,18 @@
   <rdf:Description rdf:about="detail/Lovely_Fruity%2B">
     <schema:name xml:lang="ja">ラブリーフルーティア	+</schema:name>
     <schema:description xml:lang="ja">「ラブリーフルーティア	」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Kinoshita_Hinata"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="detail/Country_Teddy">
+    <schema:name xml:lang="ja">カントリー♡テディ</schema:name>
+    <schema:description xml:lang="ja">ある日、森の中で出会ったのはキュートなクマでした♡一緒におやつを食べて、友達になったら、仲良く歌いましょう♪</schema:description>
+    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Kinoshita_Hinata"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="detail/Country_Teddy%2B">
+    <schema:name xml:lang="ja">カントリー♡テディ+</schema:name>
+    <schema:description xml:lang="ja">「カントリー♡テディ」のアナザー衣装です。</schema:description>
     <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Kinoshita_Hinata"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
@@ -1922,7 +1970,6 @@
     <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Hakozaki_Serika"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
-
   <!--デレステ共通衣装-->
   <rdf:Description rdf:about="detail/Show_Time_Illusion">
     <schema:name xml:lang="ja">ショータイム・イリュージョン</schema:name>
