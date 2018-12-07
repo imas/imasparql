@@ -32,7 +32,7 @@
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--03-03</schema:birthDate>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">B</imas:BloodType>
     <imas:Category xml:lang="ja">フィジカル</imas:Category>
-    <imas:constellation xml:lang="ja">魚座</imas:constellation>
+    <imas:Constellation xml:lang="ja">魚座</imas:Constellation>
     <schema:birthPlace xml:lang="ja">神奈川</schema:birthPlace>
     <imas:Handedness xml:lang="en">right</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">175.0</schema:height>
@@ -59,7 +59,7 @@
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14</foaf:age>
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--04-20</schema:birthDate>
     <schema:birthPlace xml:lang="ja">東京</schema:birthPlace>
-    <imas:constellation xml:lang="ja">牡牛座</imas:constellation>
+    <imas:Constellation xml:lang="ja">牡牛座</imas:Constellation>
     <imas:Category xml:lang="ja">メンタル</imas:Category>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AB</imas:BloodType>
     <imas:Handedness xml:lang="en">left</imas:Handedness>
@@ -87,7 +87,7 @@
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--02-14</schema:birthDate>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">O</imas:BloodType>
     <schema:birthPlace xml:lang="ja">京都</schema:birthPlace>
-    <imas:constellation xml:lang="ja">水瓶座</imas:constellation>
+    <imas:Constellation xml:lang="ja">水瓶座</imas:Constellation>
     <imas:Handedness xml:lang="en">right</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">180.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">64.0</schema:weight>
@@ -115,7 +115,7 @@
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--02-23</schema:birthDate>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">B</imas:BloodType>
     <schema:birthPlace xml:lang="ja">福島</schema:birthPlace>
-    <imas:constellation xml:lang="ja">魚座</imas:constellation>
+    <imas:Constellation xml:lang="ja">魚座</imas:Constellation>
     <imas:Handedness xml:lang="en">right</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">175.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">63.0</schema:weight>
@@ -142,7 +142,7 @@
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--09-24</schema:birthDate>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A</imas:BloodType>
     <schema:birthPlace xml:lang="ja">京都</schema:birthPlace>
-    <imas:constellation xml:lang="ja">天秤座</imas:constellation>
+    <imas:Constellation xml:lang="ja">天秤座</imas:Constellation>
     <imas:Handedness xml:lang="en">both</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">178.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">58.0</schema:weight>
@@ -168,7 +168,7 @@
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--06-02</schema:birthDate>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">O</imas:BloodType>
     <schema:birthPlace xml:lang="ja">新潟</schema:birthPlace>
-    <imas:constellation xml:lang="ja">双子座</imas:constellation>
+    <imas:Constellation xml:lang="ja">双子座</imas:Constellation>
     <imas:Handedness xml:lang="en">left</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">182.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">68.0</schema:weight>
@@ -197,7 +197,7 @@
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--04-02</schema:birthDate>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">O</imas:BloodType>
     <schema:birthPlace xml:lang="ja">ベルリン</schema:birthPlace>
-    <imas:constellation xml:lang="ja">牡牛座</imas:constellation>
+    <imas:Constellation xml:lang="ja">牡牛座</imas:Constellation>
     <imas:Handedness xml:lang="en">left</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">182.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">54.0</schema:weight>
@@ -222,7 +222,7 @@
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--06-17</schema:birthDate>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">B</imas:BloodType>
     <schema:birthPlace xml:lang="ja">東京</schema:birthPlace>
-    <imas:constellation xml:lang="ja">双子座</imas:constellation>
+    <imas:Constellation xml:lang="ja">双子座</imas:Constellation>
     <imas:Handedness xml:lang="en">right</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">165.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">52.0</schema:weight>
@@ -247,7 +247,7 @@
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--02-02</schema:birthDate>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A</imas:BloodType>
     <schema:birthPlace xml:lang="ja">東京</schema:birthPlace>
-    <imas:constellation xml:lang="ja">水瓶座</imas:constellation>
+    <imas:Constellation xml:lang="ja">水瓶座</imas:Constellation>
     <imas:Handedness xml:lang="en">right</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">182.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">62.0</schema:weight>
@@ -269,7 +269,7 @@
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--08-01</schema:birthDate>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">O</imas:BloodType>
     <schema:birthPlace xml:lang="ja">うみのむこう</schema:birthPlace>
-    <imas:constellation xml:lang="ja">獅子座</imas:constellation>
+    <imas:Constellation xml:lang="ja">獅子座</imas:Constellation>
     <imas:Handedness xml:lang="en">both</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">165.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">50.0</schema:weight>
@@ -295,7 +295,7 @@
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--03-22</schema:birthDate>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AB</imas:BloodType>
     <schema:birthPlace xml:lang="ja">茨城</schema:birthPlace>
-    <imas:constellation xml:lang="ja">牡羊座</imas:constellation>
+    <imas:Constellation xml:lang="ja">牡羊座</imas:Constellation>
     <imas:Handedness xml:lang="en">right</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">178.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">55.0</schema:weight>
@@ -321,7 +321,7 @@
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--07-07</schema:birthDate>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">B</imas:BloodType>
     <schema:birthPlace xml:lang="ja">長野</schema:birthPlace>
-    <imas:constellation xml:lang="ja">蟹座</imas:constellation>
+    <imas:Constellation xml:lang="ja">蟹座</imas:Constellation>
     <imas:Handedness xml:lang="en">left</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">161.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">52.0</schema:weight>
@@ -347,7 +347,7 @@
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--07-07</schema:birthDate>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">B</imas:BloodType>
     <schema:birthPlace xml:lang="ja">長野</schema:birthPlace>
-    <imas:constellation xml:lang="ja">蟹座</imas:constellation>
+    <imas:Constellation xml:lang="ja">蟹座</imas:Constellation>
     <imas:Handedness xml:lang="en">right</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">161.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">52.0</schema:weight>
@@ -374,7 +374,7 @@
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--03-07</schema:birthDate>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AB</imas:BloodType>
     <schema:birthPlace xml:lang="ja">神奈川</schema:birthPlace>
-    <imas:constellation xml:lang="ja">魚座</imas:constellation>
+    <imas:Constellation xml:lang="ja">魚座</imas:Constellation>
     <imas:Handedness xml:lang="en">left</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">171.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">67.0</schema:weight>
@@ -401,7 +401,7 @@
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--05-05</schema:birthDate>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">B</imas:BloodType>
     <schema:birthPlace xml:lang="ja">千葉</schema:birthPlace>
-    <imas:constellation xml:lang="ja">牡牛座</imas:constellation>
+    <imas:Constellation xml:lang="ja">牡牛座</imas:Constellation>
     <imas:Handedness xml:lang="en">right</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">175.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">70.0</schema:weight>
@@ -427,7 +427,7 @@
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--12-24</schema:birthDate>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">B</imas:BloodType>
     <schema:birthPlace xml:lang="ja">熊本</schema:birthPlace>
-    <imas:constellation xml:lang="ja">山羊座</imas:constellation>
+    <imas:Constellation xml:lang="ja">山羊座</imas:Constellation>
     <imas:Handedness xml:lang="en">right</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">185.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">78.0</schema:weight>
@@ -453,7 +453,7 @@
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--11-12</schema:birthDate>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AB</imas:BloodType>
     <schema:birthPlace xml:lang="ja">群馬</schema:birthPlace>
-    <imas:constellation xml:lang="ja">蠍座</imas:constellation>
+    <imas:Constellation xml:lang="ja">蠍座</imas:Constellation>
     <imas:Handedness xml:lang="en">both</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">165.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">54.0</schema:weight>
@@ -479,7 +479,7 @@
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--08-24</schema:birthDate>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AB</imas:BloodType>
     <schema:birthPlace xml:lang="ja">新潟</schema:birthPlace>
-    <imas:constellation xml:lang="ja">乙女座</imas:constellation>
+    <imas:Constellation xml:lang="ja">乙女座</imas:Constellation>
     <imas:Handedness xml:lang="en">left</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">174.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">55.0</schema:weight>
@@ -505,7 +505,7 @@
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--07-03</schema:birthDate>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A</imas:BloodType>
     <schema:birthPlace xml:lang="ja">鎌倉</schema:birthPlace>
-    <imas:constellation xml:lang="ja">蟹座</imas:constellation>
+    <imas:Constellation xml:lang="ja">蟹座</imas:Constellation>
     <imas:Handedness xml:lang="en">right</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">178.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">67.0</schema:weight>
@@ -532,7 +532,7 @@
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--11-22</schema:birthDate>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A</imas:BloodType>
     <schema:birthPlace xml:lang="ja">兵庫</schema:birthPlace>
-    <imas:constellation xml:lang="ja">蠍座</imas:constellation>
+    <imas:Constellation xml:lang="ja">蠍座</imas:Constellation>
     <imas:Handedness xml:lang="en">right</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">162.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">48.0</schema:weight>
@@ -559,7 +559,7 @@
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--01-02</schema:birthDate>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">B</imas:BloodType>
     <schema:birthPlace xml:lang="ja">山梨</schema:birthPlace>
-    <imas:constellation xml:lang="ja">山羊座</imas:constellation>
+    <imas:Constellation xml:lang="ja">山羊座</imas:Constellation>
     <imas:Handedness xml:lang="en">right</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">158.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">49.0</schema:weight>
@@ -585,7 +585,7 @@
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--06-18</schema:birthDate>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AB</imas:BloodType>
     <schema:birthPlace xml:lang="ja">札幌</schema:birthPlace>
-    <imas:constellation xml:lang="ja">双子座</imas:constellation>
+    <imas:Constellation xml:lang="ja">双子座</imas:Constellation>
     <imas:Handedness xml:lang="en">left</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">170.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">54.0</schema:weight>
@@ -612,7 +612,7 @@
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--03-30</schema:birthDate>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">O</imas:BloodType>
     <schema:birthPlace xml:lang="ja">石川</schema:birthPlace>
-    <imas:constellation xml:lang="ja">牡羊座</imas:constellation>
+    <imas:Constellation xml:lang="ja">牡羊座</imas:Constellation>
     <imas:Handedness xml:lang="en">right</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">173.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">56.0</schema:weight>
@@ -638,7 +638,7 @@
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--04-12</schema:birthDate>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A</imas:BloodType>
     <schema:birthPlace xml:lang="ja">青森</schema:birthPlace>
-    <imas:constellation xml:lang="ja">牡羊座</imas:constellation>
+    <imas:Constellation xml:lang="ja">牡羊座</imas:Constellation>
     <imas:Handedness xml:lang="en">left</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">169.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">52.0</schema:weight>
@@ -665,7 +665,7 @@
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--04-04</schema:birthDate>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A</imas:BloodType>
     <schema:birthPlace xml:lang="ja">北海道</schema:birthPlace>
-    <imas:constellation xml:lang="ja">牡羊座</imas:constellation>
+    <imas:Constellation xml:lang="ja">牡羊座</imas:Constellation>
     <imas:Handedness xml:lang="en">right</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">170.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">65.0</schema:weight>
@@ -691,7 +691,7 @@
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--07-22</schema:birthDate>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">B</imas:BloodType>
     <schema:birthPlace xml:lang="ja">京都</schema:birthPlace>
-    <imas:constellation xml:lang="ja">蟹座</imas:constellation>
+    <imas:Constellation xml:lang="ja">蟹座</imas:Constellation>
     <imas:Handedness xml:lang="en">left</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">190.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">65.0</schema:weight>
@@ -719,7 +719,7 @@
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--01-17</schema:birthDate>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AB</imas:BloodType>
     <schema:birthPlace xml:lang="ja">兵庫</schema:birthPlace>
-    <imas:constellation xml:lang="ja">山羊座</imas:constellation>
+    <imas:Constellation xml:lang="ja">山羊座</imas:Constellation>
     <imas:Handedness xml:lang="en">right</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">181.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">64.0</schema:weight>
@@ -747,7 +747,7 @@
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--11-08</schema:birthDate>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">B</imas:BloodType>
     <schema:birthPlace xml:lang="ja">大阪</schema:birthPlace>
-    <imas:constellation xml:lang="ja">蠍座</imas:constellation>
+    <imas:Constellation xml:lang="ja">蠍座</imas:Constellation>
     <imas:Handedness xml:lang="en">right</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">177.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">65.0</schema:weight>
@@ -771,7 +771,7 @@
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--10-09</schema:birthDate>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A</imas:BloodType>
     <schema:birthPlace xml:lang="ja">ゲヘナ</schema:birthPlace>
-    <imas:constellation xml:lang="ja">天秤座</imas:constellation>
+    <imas:Constellation xml:lang="ja">天秤座</imas:Constellation>
     <imas:Handedness xml:lang="en">both</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">174.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">66.0</schema:weight>
@@ -798,7 +798,7 @@
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--12-12</schema:birthDate>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AB</imas:BloodType>
     <schema:birthPlace xml:lang="ja">高知</schema:birthPlace>
-    <imas:constellation xml:lang="ja">射手座</imas:constellation>
+    <imas:Constellation xml:lang="ja">射手座</imas:Constellation>
     <imas:Handedness xml:lang="en">left</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">163.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">52.0</schema:weight>
@@ -825,7 +825,7 @@
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--08-19</schema:birthDate>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">B</imas:BloodType>
     <schema:birthPlace xml:lang="ja">千葉</schema:birthPlace>
-    <imas:constellation xml:lang="ja">獅子座</imas:constellation>
+    <imas:Constellation xml:lang="ja">獅子座</imas:Constellation>
     <imas:Handedness xml:lang="en">right</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">160.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">48.0</schema:weight>
@@ -851,7 +851,7 @@
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--03-25</schema:birthDate>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A</imas:BloodType>
     <schema:birthPlace xml:lang="ja">千葉</schema:birthPlace>
-    <imas:constellation xml:lang="ja">牡羊座</imas:constellation>
+    <imas:Constellation xml:lang="ja">牡羊座</imas:Constellation>
     <imas:Handedness xml:lang="en">right</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">143.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">33.0</schema:weight>
@@ -877,7 +877,7 @@
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--04-22</schema:birthDate>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">B</imas:BloodType>
     <schema:birthPlace xml:lang="ja">栃木</schema:birthPlace>
-    <imas:constellation xml:lang="ja">牡牛座</imas:constellation>
+    <imas:Constellation xml:lang="ja">牡牛座</imas:Constellation>
     <imas:Handedness xml:lang="en">left</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">139.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">34.0</schema:weight>
@@ -902,7 +902,7 @@
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--02-10</schema:birthDate>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">O</imas:BloodType>
     <schema:birthPlace xml:lang="ja">東京</schema:birthPlace>
-    <imas:constellation xml:lang="ja">水瓶座</imas:constellation>
+    <imas:Constellation xml:lang="ja">水瓶座</imas:Constellation>
     <imas:Handedness xml:lang="en">right</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">125.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">22.0</schema:weight>
@@ -928,7 +928,7 @@
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--01-13</schema:birthDate>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AB</imas:BloodType>
     <schema:birthPlace xml:lang="ja">淡路島</schema:birthPlace>
-    <imas:constellation xml:lang="ja">山羊座</imas:constellation>
+    <imas:Constellation xml:lang="ja">山羊座</imas:Constellation>
     <imas:Handedness xml:lang="en">left</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">178.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">65.0</schema:weight>
@@ -955,7 +955,7 @@
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--08-08</schema:birthDate>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">B</imas:BloodType>
     <schema:birthPlace xml:lang="ja">横須賀</schema:birthPlace>
-    <imas:constellation xml:lang="ja">獅子座</imas:constellation>
+    <imas:Constellation xml:lang="ja">獅子座</imas:Constellation>
     <imas:Handedness xml:lang="en">both</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">170.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">58.0</schema:weight>
@@ -983,7 +983,7 @@
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--09-01</schema:birthDate>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">O</imas:BloodType>
     <schema:birthPlace xml:lang="ja">石川</schema:birthPlace>
-    <imas:constellation xml:lang="ja">乙女座</imas:constellation>
+    <imas:Constellation xml:lang="ja">乙女座</imas:Constellation>
     <imas:Handedness xml:lang="en">right</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">185.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">70.0</schema:weight>
@@ -1010,7 +1010,7 @@
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--12-21</schema:birthDate>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">B</imas:BloodType>
     <schema:birthPlace xml:lang="ja">宮城</schema:birthPlace>
-    <imas:constellation xml:lang="ja">射手座</imas:constellation>
+    <imas:Constellation xml:lang="ja">射手座</imas:Constellation>
     <imas:Handedness xml:lang="en">left</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">165.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">52.0</schema:weight>
@@ -1038,7 +1038,7 @@
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--09-14</schema:birthDate>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">O</imas:BloodType>
     <schema:birthPlace xml:lang="ja">高知</schema:birthPlace>
-    <imas:constellation xml:lang="ja">乙女座</imas:constellation>
+    <imas:Constellation xml:lang="ja">乙女座</imas:Constellation>
     <imas:Handedness xml:lang="en">both</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">185.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">80.0</schema:weight>
@@ -1064,7 +1064,7 @@
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--05-14</schema:birthDate>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">不明</imas:BloodType>
     <schema:birthPlace xml:lang="ja">海外の何処か</schema:birthPlace>
-    <imas:constellation xml:lang="ja">牡牛座</imas:constellation>
+    <imas:Constellation xml:lang="ja">牡牛座</imas:Constellation>
     <imas:Handedness xml:lang="en">both</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">172.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">59.0</schema:weight>
@@ -1089,7 +1089,7 @@
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--09-15</schema:birthDate>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">O</imas:BloodType>
     <schema:birthPlace xml:lang="ja">東京</schema:birthPlace>
-    <imas:constellation xml:lang="ja">乙女座</imas:constellation>
+    <imas:Constellation xml:lang="ja">乙女座</imas:Constellation>
     <imas:Handedness xml:lang="en">right</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">164.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">54.0</schema:weight>
@@ -1117,7 +1117,7 @@
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--05-20</schema:birthDate>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AB</imas:BloodType>
     <schema:birthPlace xml:lang="ja">広島</schema:birthPlace>
-    <imas:constellation xml:lang="ja">牡牛座</imas:constellation>
+    <imas:Constellation xml:lang="ja">牡牛座</imas:Constellation>
     <imas:Handedness xml:lang="en">right</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">160.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">52.0</schema:weight>
@@ -1143,7 +1143,7 @@
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--10-13</schema:birthDate>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A</imas:BloodType>
     <schema:birthPlace xml:lang="ja">岐阜</schema:birthPlace>
-    <imas:constellation xml:lang="ja">天秤座</imas:constellation>
+    <imas:Constellation xml:lang="ja">天秤座</imas:Constellation>
     <imas:Handedness xml:lang="en">right</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">178.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">64.0</schema:weight>
@@ -1170,7 +1170,7 @@
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--10-31</schema:birthDate>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">O</imas:BloodType>
     <schema:birthPlace xml:lang="ja">奈良</schema:birthPlace>
-    <imas:constellation xml:lang="ja">蠍座</imas:constellation>
+    <imas:Constellation xml:lang="ja">蠍座</imas:Constellation>
     <imas:Handedness xml:lang="en">both</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">191.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">74.0</schema:weight>
@@ -1195,7 +1195,7 @@
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--11-28</schema:birthDate>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">B</imas:BloodType>
     <schema:birthPlace xml:lang="ja">三重</schema:birthPlace>
-    <imas:constellation xml:lang="ja">射手座</imas:constellation>
+    <imas:Constellation xml:lang="ja">射手座</imas:Constellation>
     <imas:Handedness xml:lang="en">right</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">174.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">62.0</schema:weight>
@@ -1220,7 +1220,7 @@
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--10-11</schema:birthDate>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AB</imas:BloodType>
     <schema:birthPlace xml:lang="ja">埼玉</schema:birthPlace>
-    <imas:constellation xml:lang="ja">天秤座</imas:constellation>
+    <imas:Constellation xml:lang="ja">天秤座</imas:Constellation>
     <imas:Handedness xml:lang="en">right</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">187.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">58.0</schema:weight>
