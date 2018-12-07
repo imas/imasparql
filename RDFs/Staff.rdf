@@ -33,7 +33,7 @@
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">180.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">76.0</schema:weight>
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--07-06</schema:birthDate>
-    <imas:constellation xml:lang="ja">蟹座</imas:constellation>
+    <imas:Constellation xml:lang="ja">蟹座</imas:Constellation>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AB</imas:BloodType>
     <imas:Hobby xml:lang="ja">クレナフレックス</imas:Hobby>
     <imas:Hobby xml:lang="ja">影踏み</imas:Hobby>
@@ -55,7 +55,7 @@
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">180.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">73.0</schema:weight>
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--07-06</schema:birthDate>
-    <imas:constellation xml:lang="ja">蟹座</imas:constellation>
+    <imas:Constellation xml:lang="ja">蟹座</imas:Constellation>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">B</imas:BloodType>
     <imas:Hobby xml:lang="ja">クレナフレックス</imas:Hobby>
     <imas:Hobby xml:lang="ja">カゲ絵</imas:Hobby>
@@ -77,7 +77,7 @@
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">178.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">74.0</schema:weight>
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--09-06</schema:birthDate>
-    <imas:constellation xml:lang="ja">乙女座</imas:constellation>
+    <imas:Constellation xml:lang="ja">乙女座</imas:Constellation>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A</imas:BloodType>
     <imas:Hobby xml:lang="ja">鏡を見ること</imas:Hobby>
     <imas:Hobby xml:lang="ja">フランス語</imas:Hobby>
@@ -141,7 +141,7 @@
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">159.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">49.0</schema:weight>
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--09-09</schema:birthDate>
-    <imas:constellation xml:lang="ja">乙女座</imas:constellation>
+    <imas:Constellation xml:lang="ja">乙女座</imas:Constellation>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AB</imas:BloodType>
     <imas:Handedness xml:lang="en">right</imas:Handedness>
     <imas:Hobby xml:lang="ja">TVを観ること</imas:Hobby>
@@ -170,7 +170,7 @@
     <imas:Waist rdf:datatype="http://www.w3.org/2001/XMLSchema#float">58.0</imas:Waist>
     <imas:Hip rdf:datatype="http://www.w3.org/2001/XMLSchema#float">84.0</imas:Hip>
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--11-28</schema:birthDate>
-    <imas:constellation xml:lang="ja">射手座</imas:constellation>
+    <imas:Constellation xml:lang="ja">射手座</imas:Constellation>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A</imas:BloodType>
     <imas:Handedness xml:lang="en">right</imas:Handedness>
     <imas:Hobby xml:lang="ja">コスプレ</imas:Hobby>
@@ -192,7 +192,7 @@
     <schema:name xml:lang="ja">山村賢</schema:name>
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--07-02</schema:birthDate>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A</imas:BloodType>
-    <imas:constellation xml:lang="ja">蟹座</imas:constellation>
+    <imas:Constellation xml:lang="ja">蟹座</imas:Constellation>
     <schema:birthPlace xml:lang="ja">神奈川</schema:birthPlace>
     <imas:Handedness xml:lang="en">both</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">176.0</schema:height>
@@ -216,7 +216,7 @@
     <schema:name xml:lang="ja">青羽美咲</schema:name>
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20</foaf:age>
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--06-29</schema:birthDate>
-    <imas:constellation xml:lang="ja">蟹座</imas:constellation>
+    <imas:Constellation xml:lang="ja">蟹座</imas:Constellation>
     <imas:cv xml:lang="ja">安済知佳</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/安済知佳"/>
     <schema:gender xml:lang="en">female</schema:gender>
@@ -261,7 +261,7 @@
     <imas:Bust rdf:datatype="http://www.w3.org/2001/XMLSchema#float">82.0</imas:Bust>
     <imas:Waist rdf:datatype="http://www.w3.org/2001/XMLSchema#float">56.0</imas:Waist>
     <imas:Hip rdf:datatype="http://www.w3.org/2001/XMLSchema#float">83.0</imas:Hip>
-    <imas:constellation xml:lang="ja">射手座</imas:constellation>
+    <imas:Constellation xml:lang="ja">射手座</imas:Constellation>
     <imas:cv xml:lang="ja">藤村歩</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/藤村歩"/>
     <schema:birthPlace xml:lang="ja">栃木</schema:birthPlace>
@@ -289,7 +289,7 @@
     <imas:Bust rdf:datatype="http://www.w3.org/2001/XMLSchema#float">83.0</imas:Bust>
     <imas:Waist rdf:datatype="http://www.w3.org/2001/XMLSchema#float">56.0</imas:Waist>
     <imas:Hip rdf:datatype="http://www.w3.org/2001/XMLSchema#float">84.0</imas:Hip>
-    <imas:constellation xml:lang="ja">乙女座</imas:constellation>
+    <imas:Constellation xml:lang="ja">乙女座</imas:Constellation>
     <imas:cv xml:lang="ja">藤村歩</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/藤村歩"/>
     <schema:birthPlace xml:lang="ja">栃木</schema:birthPlace>
@@ -317,7 +317,7 @@
     <imas:Bust rdf:datatype="http://www.w3.org/2001/XMLSchema#float">84.0</imas:Bust>
     <imas:Waist rdf:datatype="http://www.w3.org/2001/XMLSchema#float">56.0</imas:Waist>
     <imas:Hip rdf:datatype="http://www.w3.org/2001/XMLSchema#float">86.0</imas:Hip>
-    <imas:constellation xml:lang="ja">双子座</imas:constellation>
+    <imas:Constellation xml:lang="ja">双子座</imas:Constellation>
     <imas:cv xml:lang="ja">藤村歩</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/藤村歩"/>
     <schema:birthPlace xml:lang="ja">栃木</schema:birthPlace>
@@ -345,7 +345,7 @@
     <imas:Bust rdf:datatype="http://www.w3.org/2001/XMLSchema#float">77.0</imas:Bust>
     <imas:Waist rdf:datatype="http://www.w3.org/2001/XMLSchema#float">56.0</imas:Waist>
     <imas:Hip rdf:datatype="http://www.w3.org/2001/XMLSchema#float">82.0</imas:Hip>
-    <imas:constellation xml:lang="ja">魚座</imas:constellation>
+    <imas:Constellation xml:lang="ja">魚座</imas:Constellation>
     <imas:cv xml:lang="ja">藤村歩</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/藤村歩"/>
     <schema:birthPlace xml:lang="ja">栃木</schema:birthPlace>
