@@ -186,6 +186,10 @@ imas:TuneNumber         a   rdf:Property ;
     rdfs:comment            "セットリスト内番号を表すプロパティ" ;
     rdfs:label              "セットリスト内番号"@ja .
     
+imas:Performance     a   rdf:Property ;
+    rdfs:comment            "披露した曲を表すプロパティ" ;
+    rdfs:label              "披露した曲"@ja .
+    
 imas:NumPerformance     a   rdf:Property ;
     rdfs:comment            "披露した曲数を表すプロパティ" ;
     rdfs:label              "披露した曲数"@ja .
