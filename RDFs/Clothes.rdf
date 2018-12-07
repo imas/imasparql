@@ -2027,6 +2027,48 @@
     <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Hakozaki_Serika"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
+  <rdf:Description rdf:about="detail/Milliion_House_Dress">
+    <schema:name xml:lang="ja">ミリオン座ドレス</schema:name>
+    <schema:description xml:lang="ja">ミリオン座に所属する女優たちのドレス。それぞれの個性が最大限に引き出されるように考えられた色やデザインとなっている。</schema:description>
+    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Tanaka_Kotoha"/>
+    <!--<imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Suou_Momoko"/>
+    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Baba_Konomi"/>
+    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Shiraishi_Tsumugi"/>
+    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Makabe_Mizuki"/>-->
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="detail/Milliion_House_Dress%2B">
+    <schema:name xml:lang="ja">ミリオン座ドレス+</schema:name>
+    <schema:description xml:lang="ja">「ミリオン座ドレス」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Tanaka_Kotoha"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="detail/Jumpin%27_Jungle">
+    <schema:name xml:lang="ja">ジャンピン・ジャングル</schema:name>
+    <schema:description xml:lang="ja">元気いっぱい！自然がいっぱい！ワイルドなのに、カワイさ満点。体が勝手に踊り出して、雄叫びをあげちゃうよ！ＳＡＹウンババ！</schema:description>
+    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Ogami_Tamaki"/>
+    <!--<imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Futami_Mami"/>-->
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="detail/Jumpin%27_Jungle%2B">
+    <schema:name xml:lang="ja">ジャンピン・ジャングル+</schema:name>
+    <schema:description xml:lang="ja">「ジャンピン・ジャングル」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Ogami_Tamaki"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="detail/Bloody_Beat">
+    <schema:name xml:lang="ja">ブラッディ・ビート</schema:name>
+    <schema:description xml:lang="ja">『ロック』は音楽のジャンル名に留まらない。熱い魂が響きあって体の奥からつながる感覚。それは二人が刻む、燃えるような律動</schema:description>
+    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Julia"/>
+    <!--<imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Mogami_Shizuka"/>-->
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="detail/Bloody_Beat%2B">
+    <schema:name xml:lang="ja">ブラッディ・ビート+</schema:name>
+    <schema:description xml:lang="ja">「ブラッディ・ビート」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Julia"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
   <!--デレステ共通衣装-->
   <rdf:Description rdf:about="detail/Show_Time_Illusion">
     <schema:name xml:lang="ja">ショータイム・イリュージョン</schema:name>
