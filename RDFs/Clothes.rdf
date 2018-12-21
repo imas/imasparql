@@ -1273,6 +1273,18 @@
     <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Nikaidou_Chizuru"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
+  <rdf:Description rdf:about="detail/Prism_Grace">
+    <schema:name xml:lang="ja">プリズム・グレイス</schema:name>
+    <schema:description xml:lang="ja">七色の輝きを閉じこめたドレスを纏い、女神は歌い始める。聖なるひととき、彼女が愛する世界を祝福で包み込むために。</schema:description>
+    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Nikaidou_Chizuru"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="detail/Prism_Grace%2B">
+    <schema:name xml:lang="ja">プリズム・グレイス+</schema:name>
+    <schema:description xml:lang="ja">「プリズム・グレイス」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Nikaidou_Chizuru"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
   <rdf:Description rdf:about="detail/Shaking_Beat">
     <schema:name xml:lang="ja">シェイキングビート！</schema:name>
     <schema:description xml:lang="ja">クールなミュージックが流れたらそこはいつだってホットサマー！リズムに合わせて揺れるアクセがハートビートをシェイキング！</schema:description>
@@ -1621,6 +1633,18 @@
     <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Takatsuki_Yayoi"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
+  <rdf:Description rdf:about="detail/Angel_On_Ice">
+    <schema:name xml:lang="ja">エンジェル・オン・アイス</schema:name>
+    <schema:description xml:lang="ja">ふわふわ粉雪がテーマの衣装。天使が落とした羽根のように冬の空を軽やかに舞いながら、見る人の心を弾ませます♪</schema:description>
+    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Takatsuki_Yayoi"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="detail/Angel_On_Ice%2B">
+    <schema:name xml:lang="ja">エンジェル・オン・アイス+</schema:name>
+    <schema:description xml:lang="ja">「エンジェル・オン・アイス」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Takatsuki_Yayoi"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
   <rdf:Description rdf:about="detail/Floral_Aqua">
     <schema:name xml:lang="ja">フローラルアクア</schema:name>
     <schema:description xml:lang="ja">流れる水のようにカットされたスカートと、散りばめられた淡い色の花たちが、あなたの心を優しく包んで癒してくれます。</schema:description>
@@ -1786,6 +1810,18 @@
   <rdf:Description rdf:about="detail/Barista_Brown%2B">
     <schema:name xml:lang="ja">バリスタブラウン+</schema:name>
     <schema:description xml:lang="ja">「バリスタブラウン」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Miura_Azusa"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="detail/Frozen_Crystal">
+    <schema:name xml:lang="ja">フローズン・クリスタル</schema:name>
+    <schema:description xml:lang="ja">あたたかい部屋で、椅子にゆられて......薪がはじける音を......聞いてると......どんどん......眠く......。あっ、いけない。プロデューサーさんを、待って......いなくちゃ......ん......、すぅ......。</schema:description>
+    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Miura_Azusa"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="detail/Frozen_Crystal%2B">
+    <schema:name xml:lang="ja">フローズン・クリスタル+</schema:name>
+    <schema:description xml:lang="ja">「フローズン・クリスタル」のアナザー衣装です。</schema:description>
     <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Miura_Azusa"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
