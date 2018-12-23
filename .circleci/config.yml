@@ -1,0 +1,14 @@
+version: 2
+jobs:
+  build:
+    docker:
+    - image: circleci/openjdk:8
+    working_directory: ~/repo
+    steps:
+    - checkout
+    - run:
+        name: run rdflint
+        command: |
+          export RDFLINT_VERSION=0.0.2
+          wget https://jitpack.io/com/github/takemikami/rdflint/$RDFLINT_VERSION/rdflint-$RDFLINT_VERSION-all.jar
+          java -jar rdflint-$RDFLINT_VERSION-all.jar -config .circleci/rdflint-config.yml
