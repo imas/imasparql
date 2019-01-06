@@ -482,6 +482,7 @@
   <rdf:Description rdf:about="detail/Top%21_Clover">
     <schema:name xml:lang="ja">トップ！クローバー</schema:name>
     <schema:description xml:lang="ja">夢を追う女の子たちに幸あれと、クローバーの意匠が施されています。</schema:description>
+    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Shiika"/>
     <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Nonohara_Akane"/>
     <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Yokoyama_Nao"/>
     <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Minase_Iori"/>
@@ -539,6 +540,7 @@
   <rdf:Description rdf:about="detail/Top%21_Clover%2B">
     <schema:name xml:lang="ja">トップ！クローバー+</schema:name>
     <schema:description xml:lang="ja">「トップ！クローバー」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Shiika"/>
     <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Nonohara_Akane"/>
     <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Yokoyama_Nao"/>
     <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Minase_Iori"/>
@@ -658,6 +660,43 @@
     <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Kikuchi_Makoto"/>
     <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Yabuki_Kana"/>
     <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Amami_Haruka"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="detail/Merry_Dream_Night">
+    <schema:name xml:lang="ja">メリー・ドリームナイト</schema:name>
+    <schema:description xml:lang="ja">聖夜の祝福がドレスになって届きました。きっと貴方も私も誰かへと幸せをプレゼントするサンタクロースになれるはず。</schema:description>
+    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Amami_Haruka"/>
+    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Kisaragi_Chihaya"/>
+    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Hoshii_Miki"/>
+    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Hagiwara_Yukiho"/>
+    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Takatsuki_Yayoi"/>
+    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Kikuchi_Makoto"/>
+    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Minase_Iori"/>
+    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Shijou_Takane"/>
+    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Akizuki_Ritsuko"/>
+    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Miura_Azusa"/>
+    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Futami_Ami"/>
+    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Futami_Mami"/>
+    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Ganaha_Hibiki"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="detail/Kiraboshisouka">
+    <schema:name xml:lang="ja">煌星装華</schema:name>
+    <schema:description xml:lang="ja">新春の夜空で光り輝く初星が麗しく咲き誇る花たちへ降り注ぎまるで願いを叶える流星のように優美高妙な衣装を紡ぎました。</schema:description>
+    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Shiika"/>
+    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Amami_Haruka"/>
+    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Kisaragi_Chihaya"/>
+    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Hoshii_Miki"/>
+    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Hagiwara_Yukiho"/>
+    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Takatsuki_Yayoi"/>
+    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Kikuchi_Makoto"/>
+    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Minase_Iori"/>
+    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Shijou_Takane"/>
+    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Akizuki_Ritsuko"/>
+    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Miura_Azusa"/>
+    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Futami_Ami"/>
+    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Futami_Mami"/>
+    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Ganaha_Hibiki"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
   <!--ミリシタ個人衣装-->
@@ -853,6 +892,18 @@
     <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Takayama_Sayoko"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
+  <rdf:Description rdf:about="detail/Noel_Joyeux">
+    <schema:name xml:lang="ja">ノエル・ジョワイユ</schema:name>
+    <schema:description xml:lang="ja">最高のプレゼントは赤いドレスとベルの音色とともに...。聖夜に舞い降りた、ひとりの少女の歌声が、人々に幸せを届けます。</schema:description>
+    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Takayama_Sayoko"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="detail/Noel_Joyeux%2B">
+    <schema:name xml:lang="ja">ノエル・ジョワイユ+</schema:name>
+    <schema:description xml:lang="ja">「ノエル・ジョワイユ」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Takayama_Sayoko"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
   <rdf:Description rdf:about="detail/Purely_Bloom">
     <schema:name xml:lang="ja">ピュアリーブルーム</schema:name>
     <schema:description xml:lang="ja">「私もいつか素敵な女性に...」純粋な少女の中でほのかに潜む、大人の階段への淡い好奇心を肩出しドレスで表現しました。</schema:description>
@@ -961,6 +1012,18 @@
     <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Fukuda_Noriko"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
+  <rdf:Description rdf:about="detail/God_Red_String">
+    <schema:name xml:lang="ja">ゴッド・レッドストリング</schema:name>
+    <schema:description xml:lang="ja">燃える炎のように鮮やかな赤は、みんなとアタシを結ぶ縁の色！神様も思わずうなる、一期一会のドリームタッグマッチ！</schema:description>
+    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Fukuda_Noriko"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="detail/God_Red_String%2B">
+    <schema:name xml:lang="ja">ゴッド・レッドストリング+</schema:name>
+    <schema:description xml:lang="ja">「ゴッド・レッドストリング」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Fukuda_Noriko"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
   <rdf:Description rdf:about="detail/Staring_Revolution">
     <schema:name xml:lang="ja">スターリングレボリューション</schema:name>
     <schema:description xml:lang="ja">思わず目を引くチェックの衣装。優しい色の中にそっと添えられた星のグラデーションはまるで流星のように輝く姿を表しています。</schema:description>
@@ -994,6 +1057,18 @@
   <rdf:Description rdf:about="detail/Flowering_Parade%2B">
     <schema:name xml:lang="ja">フラワーリングパレード+</schema:name>
     <schema:description xml:lang="ja">「フラワーリングパレード」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Yabuki_Kana"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="detail/Delight_Snow_Drop">
+    <schema:name xml:lang="ja">ディライト・スノードロップ</schema:name>
+    <schema:description xml:lang="ja">私が輝けるのは、雪原に降り注ぐオーロラの光のように、あなたが照らしてくれるから。ねえ、一緒にみんなを笑顔にしよう！</schema:description>
+    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Yabuki_Kana"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="detail/Delight_Snow_Drop%2B">
+    <schema:name xml:lang="ja">ディライト・スノードロップ+</schema:name>
+    <schema:description xml:lang="ja">「ディライト・スノードロップ」のアナザー衣装です。</schema:description>
     <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Yabuki_Kana"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
@@ -1093,6 +1168,18 @@
     <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Kitazawa_Shiho"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
+  <rdf:Description rdf:about="detail/Blight_Aurora_Jewel">
+    <schema:name xml:lang="ja">ブライト・オーロラジュエル</schema:name>
+    <schema:description xml:lang="ja">冴え冴えとしたオーロラの光は、少女の強い決意の色。まっすぐに前へと進み続ける彼女の願いは、ただ雪だけが知っている...。</schema:description>
+    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Kitazawa_Shiho"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="detail/Blight_Aurora_Jewel%2B">
+    <schema:name xml:lang="ja">ブライト・オーロラジュエル+</schema:name>
+    <schema:description xml:lang="ja">「ブライト・オーロラジュエル」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Kitazawa_Shiho"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
   <rdf:Description rdf:about="detail/Twilight_Eternity">
     <schema:name xml:lang="ja">トワイライトエタニティ</schema:name>
     <schema:description xml:lang="ja">夕暮れと夜の幻想的なドレス。妖艶な空も、ミステリアスな表情も、トワイライトの一瞬だけ。だから目を逸らさないで...。</schema:description>
@@ -1126,6 +1213,18 @@
   <rdf:Description rdf:about="detail/Sparking_Music%2B">
     <schema:name xml:lang="ja">スパーキングミュージック+</schema:name>
     <schema:description xml:lang="ja">「スパーキングミュージック」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Julia"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="detail/New_Wind_Crimson">
+    <schema:name xml:lang="ja">ニューウィンド・クリムゾン</schema:name>
+    <schema:description xml:lang="ja">巫女装束をコンセプトにした、思いきったコスチューム。型にはまらない彼女の周りには、つねに新しい風が吹いている！</schema:description>
+    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Julia"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="detail/New_Wind_Crimson%2B">
+    <schema:name xml:lang="ja">ニューウィンド・クリムゾン+</schema:name>
+    <schema:description xml:lang="ja">「ニューウィンド・クリムゾン」のアナザー衣装です。</schema:description>
     <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Julia"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
@@ -1813,15 +1912,15 @@
     <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Miura_Azusa"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
-  <rdf:Description rdf:about="detail/Frozen_Crystal">
-    <schema:name xml:lang="ja">フローズン・クリスタル</schema:name>
-    <schema:description xml:lang="ja">あたたかい部屋で、椅子にゆられて......薪がはじける音を......聞いてると......どんどん......眠く......。あっ、いけない。プロデューサーさんを、待って......いなくちゃ......ん......、すぅ......。</schema:description>
+  <rdf:Description rdf:about="detail/Mystic_Azure">
+    <schema:name xml:lang="ja">ミスティック・アズール</schema:name>
+    <schema:description xml:lang="ja">氷雪を想起させるミステリアスなドレス。雪の女王の透き通った美しい旋律は、あなたを幻想と神秘の世界へ導くことでしょう。</schema:description>
     <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Miura_Azusa"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
-  <rdf:Description rdf:about="detail/Frozen_Crystal%2B">
-    <schema:name xml:lang="ja">フローズン・クリスタル+</schema:name>
-    <schema:description xml:lang="ja">「フローズン・クリスタル」のアナザー衣装です。</schema:description>
+  <rdf:Description rdf:about="detail/Mystic_Azure%2B">
+    <schema:name xml:lang="ja">ミスティック・アズール+</schema:name>
+    <schema:description xml:lang="ja">「ミスティック・アズール」のアナザー衣装です。</schema:description>
     <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Miura_Azusa"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
@@ -3599,7 +3698,7 @@
     <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Yusa_Kozue"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
-  <!--デレステユニット使用-->
+  <!--デレステユニット衣装-->
   <rdf:Description rdf:about="detail/Present_Of_Snow">
     <schema:name xml:lang="ja">プレゼントオブスノウ</schema:name>
     <schema:description xml:lang="ja">赤や緑のリボンで包んだ雪のようなドレス。星の光が煌めく夜、季節の扉が開いて届いた真っ白なプレゼント。そのドレスを翼にしてファンの元へ駆けだす少女達は天使のよう。</schema:description>
