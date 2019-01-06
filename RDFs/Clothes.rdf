@@ -2223,10 +2223,10 @@
     <schema:name xml:lang="ja">フロウイングハーモニー</schema:name>
     <schema:description xml:lang="ja">美しい泉から優しく湧き出る神秘的な水をイメージしたドレス。それは、どんな思いも美しいメロディに乗せて歌う彼女達のよう。</schema:description>
     <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Emily_Stewart"/>
-    <!--<imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Julia"/>
+    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Julia"/>
     <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Kisaragi_Chihaya"/>
     <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Toyokawa_Fuka"/>
-    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Tokugawa_Matsuri"/>-->
+    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Tokugawa_Matsuri"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
   <rdf:Description rdf:about="detail/Flowing_Harmony%2B">
@@ -2239,10 +2239,10 @@
     <schema:name xml:lang="ja">全力！チアガール</schema:name>
     <schema:description xml:lang="ja">いつだって全力でキミを応援したい！そんな少女たちの想いを、燃える赤と無垢な白で表現！せーので一緒に空までジャンプ！</schema:description>
     <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Takayama_Sayoko"/>
-    <!--<imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Kousaka_Umi"/>
+    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Kousaka_Umi"/>
     <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Yokoyama_Nao"/>
     <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Fukuda_Noriko"/>
-    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Satake_Minako"/>-->
+    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Satake_Minako"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
   <rdf:Description rdf:about="detail/Zenryoku%21_Cheer_Girl%2B">
@@ -2379,6 +2379,36 @@
     <schema:name xml:lang="ja">ブラッディ・ビート+</schema:name>
     <schema:description xml:lang="ja">「ブラッディ・ビート」のアナザー衣装です。</schema:description>
     <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Julia"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="detail/Active_Mind">
+    <schema:name xml:lang="ja">アクティブ・マイフレンド</schema:name>
+    <schema:description xml:lang="ja">夢追う少女はエネルギッシュ！大事な人たちの声援を背に受けて仲間と共に励まし競い合いながらトップを目指して走り続ける！</schema:description>
+    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Ganaha_Hibiki"/>
+    <!--<imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Yokoyama_Nao"/>
+    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Toyokawa_Fuka"/>
+    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Mochizuki_Anna"/>
+    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Kasuga_Mirai"/>-->
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="detail/Active_Mind%2B">
+    <schema:name xml:lang="ja">アクティブ・マイフレンド+</schema:name>
+    <schema:description xml:lang="ja">「アクティブ・マイフレンド」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Ganaha_Hibiki"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="detail/Yumemiru_Little_Lady">
+    <schema:name xml:lang="ja">夢見るリトルレディ</schema:name>
+    <schema:description xml:lang="ja">大人の女性への憧れが、ほんのりのぞくガーリーなアンサンブル。女の子はいつだって『自分らしくカワイイ』を更新していきたい♡</schema:description>
+    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Shinomiya_Karen"/>
+    <!--<imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Nonohara_Akane"/>
+    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Ibuki_Tsubasa"/>-->
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="detail/Yumemiru_Little_Lady%2B">
+    <schema:name xml:lang="ja">夢見るリトルレディ+</schema:name>
+    <schema:description xml:lang="ja">「夢見るリトルレディ」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Shinomiya_Karen"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
   <!--デレステ共通衣装-->
