@@ -73,7 +73,7 @@ imas:Live                       a   rdfs:Class ;
     rdfs:label                      "ライブ"@ja ;
     rdfs:subClassOf                 schema:MusicEvent .
     
-imas:SetlistNumer               a   rdfs:Class ;
+imas:SetlistNumber               a   rdfs:Class ;
     rdfs:comment                    "セットリスト楽曲を表すクラス" ;
     rdfs:label                      "セットリスト楽曲"@ja .
     
