@@ -9398,6 +9398,32 @@
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Matoba_Risa"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
+  <rdf:Description rdf:about="detail/%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%83%BB%E3%82%A6%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9">
+    <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">ジェットブラック・ウィングス</schema:name>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Matoba_Risa"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Nitta_Minami"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Natalia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="detail/%E3%82%B7%E3%83%BC%E3%82%AF%E3%83%AC%E3%83%83%E3%83%88%7BCipher%7D%2C">
+    <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">シークレット{Cipher},</schema:name>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Sagisawa_Fumika"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Kamiya_Nao"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Ohishi_Izumi"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="detail/%E3%83%95%E3%83%AC%E3%83%BC%E3%82%BA*%E3%83%9F%E3%83%A5%E3%83%AB%E3%83%9F%E3%83%A5%E3%83%BC%E3%83%AB">
+    <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">フレーズ*ミュルミュール</schema:name>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Yusa_Kozue"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Ryuzaki_Kaoru"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Matoba_Risa"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Sakurai_Momoka"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="detail/2WINKLE%204OR%20INFINITY%E2%88%9E">
+    <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">2WINKLE 4OR INFINITY∞</schema:name>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Matoba_Risa"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Ikebukuro_Akiha"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Mary_Cochran"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Nakano_Yuka"/>
+  </rdf:Description>
 
   <!--SideM-->
   <rdf:Description rdf:about="detail/Jupiter">
