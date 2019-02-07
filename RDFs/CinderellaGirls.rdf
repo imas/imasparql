@@ -1,4 +1,4 @@
-<rdf:RDF
+﻿<rdf:RDF
     xmlns:jrrk="http://purl.org/jrrk#"
     xmlns:ic="http://imi.ipa.go.jp/ns/core/rdf#"
     xmlns:skos="http://www.w3.org/2004/02/skos/core#"
@@ -4888,14 +4888,14 @@
   <rdf:Description rdf:about="detail/Eve_Santaclaus">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pa</imas:Type>
     <schema:familyName xml:lang="ja">イヴ</schema:familyName>
-    <imas:familyNameKana xml:lang="ja">いうﾞ</imas:familyNameKana>
+    <imas:familyNameKana xml:lang="ja">いゔ</imas:familyNameKana>
     <schema:givenName xml:lang="ja">サンタクロース</schema:givenName>
     <imas:givenNameKana xml:lang="ja">サンタクロース</imas:givenNameKana>
     <schema:gender xml:lang="en">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">イヴ・サンタクロース</schema:name>
-    <imas:nameKana xml:lang="ja">いうﾞ・さんたくろーす</imas:nameKana>
+    <imas:nameKana xml:lang="ja">いゔ・さんたくろーす</imas:nameKana>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">165.0</schema:height>
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</foaf:age>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">44.0</schema:weight>
@@ -4908,6 +4908,32 @@
     <imas:Constellation xml:lang="ja">山羊座</imas:Constellation>
     <schema:birthPlace xml:lang="ja">グリーンランド</schema:birthPlace>
     <imas:Hobby xml:lang="ja">煙突探し</imas:Hobby>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="detail/Yumemi_Riamu">
+    <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pa</imas:Type>
+    <schema:familyName xml:lang="ja">夢見</schema:familyName>
+    <imas:familyNameKana xml:lang="ja">ゆめみ</imas:familyNameKana>
+    <schema:givenName xml:lang="ja">りあむ</schema:givenName>
+    <imas:givenNameKana xml:lang="ja">りあむ</imas:givenNameKana>
+    <schema:gender xml:lang="en">female</schema:gender>
+    <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <schema:name xml:lang="ja">夢見りあむ</schema:name>
+    <imas:nameKana xml:lang="ja">ゆめみりあむ</imas:nameKana>
+    <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">149.0</schema:height>
+    <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</foaf:age>
+    <schema:weight xml:lang="ja">リンゴたくさん</schema:weight>
+    <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--09-12</schema:birthDate>
+    <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AB</imas:BloodType>
+    <imas:Handedness xml:lang="en">right</imas:Handedness>
+    <imas:Bust xml:lang="ja">でっかい</imas:Bust>
+    <imas:Waist xml:lang="ja">ふつう</imas:Waist>
+    <imas:Hip xml:lang="ja">たぶんふつう</imas:Hip>
+    <imas:Constellation xml:lang="ja">乙女座</imas:Constellation>
+    <schema:birthPlace xml:lang="ja">やさしい世界</schema:birthPlace>
+    <imas:Hobby xml:lang="ja">夜中の意味深ポエム</imas:Hobby>
+    <imas:Hobby xml:lang="ja">現場参戦</imas:Hobby>
   </rdf:Description>
 
 </rdf:RDF>
