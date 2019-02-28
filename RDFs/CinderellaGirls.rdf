@@ -4936,7 +4936,7 @@
     <imas:Hobby xml:lang="ja">現場参戦</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/shirayuki_chiyo">
+  <rdf:Description rdf:about="detail/Shirayuki_Chiyo">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cu</imas:Type>
     <schema:familyName xml:lang="ja">白雪</schema:familyName>
     <imas:familyNameKana xml:lang="ja">しらゆき</imas:familyNameKana>
@@ -4958,13 +4958,13 @@
     <imas:Hip xml:lang="ja">74</imas:Hip>
     <imas:Constellation xml:lang="ja">水瓶座</imas:Constellation>
     <imas:cv xml:lang="ja">関口理咲</imas:cv>
-    <imas:cv rdf:resource="http://ja.dbpedia.org/resource/関口理咲"/>
+    # <imas:cv rdf:resource="http://ja.dbpedia.org/resource/関口理咲"/>
     <schema:birthPlace xml:lang="ja">北海道</schema:birthPlace>
     <imas:Hobby xml:lang="ja">料理</imas:Hobby>
     <imas:Hobby xml:lang="ja">睡眠</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/kurosaki_chitose">
+  <rdf:Description rdf:about="detail/Kurosaki_Chitose">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cu</imas:Type>
     <schema:familyName xml:lang="ja">黒崎</schema:familyName>
     <imas:familyNameKana xml:lang="ja">くろさき</imas:familyNameKana>
