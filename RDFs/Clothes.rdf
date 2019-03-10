@@ -4104,4 +4104,57 @@
     <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Hoshi_Syoko"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
+  <!--シャニマス衣装-->
+  <rdf:Description rdf:about="detail/Beyond_The_Blue_Sky">
+    <schema:name xml:lang="ja">ビヨンドザブルースカイ</schema:name>
+    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Sakuragi_Mano"/>
+    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Komiya_Kaho"/>
+    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Arisugawa_Natsuha"/>
+    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Tsukioka_Kogane"/>
+    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Mitsumine_Yuika"/>
+    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Kuwayama_Chiyuki"/>
+    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Osaki_Amana"/>
+    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Saijo_Juri"/>
+    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Morino_Rinze"/>
+    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Yukoku_Kiriko"/>
+    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Hachimiya_Meguru"/>
+    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Sonoda_Chiyoko"/>
+    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Kazano_Hiori"/>
+    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Shirase_Sakuya"/>
+    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Tanaka_Mamimi"/>
+    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Osaki_Tenka"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="detail/Sparkle_Illumination">
+    <schema:name xml:lang="ja">スパークルイルミネーション</schema:name>
+    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Sakuragi_Mano"/>
+    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Hachimiya_Meguru"/>
+    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Kazano_Hiori"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="detail/Symphonic_Steam">
+    <schema:name xml:lang="ja">シンフォニックスチーム</schema:name>
+    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Tsukioka_Kogane"/>
+    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Mitsumine_Yuika"/>
+    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Yukoku_Kiriko"/>
+    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Shirase_Sakuya"/>
+    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Tanaka_Mamimi"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="detail/Brave_Hero_Jogging_Suits">
+    <schema:name xml:lang="ja">ブレイブヒーロージャージ</schema:name>
+    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Komiya_Kaho"/>
+    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Arisugawa_Natsuha"/>
+    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Saijo_Juri"/>
+    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Morino_Rinze"/>
+    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Sonoda_Chiyoko"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="detail/Wishful_Lily">
+    <schema:name xml:lang="ja">ウィッシュフルリリー</schema:name>
+    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Kuwayama_Chiyuki"/>
+    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Osaki_Amana"/>
+    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Osaki_Tenka"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
 </rdf:RDF>
