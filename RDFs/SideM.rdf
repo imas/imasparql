@@ -1,4 +1,4 @@
-<rdf:RDF
+﻿<rdf:RDF
     xmlns:jrrk="http://purl.org/jrrk#"
     xmlns:ic="http://imi.ipa.go.jp/ns/core/rdf#"
     xmlns:skos="http://www.w3.org/2004/02/skos/core#"
@@ -40,6 +40,7 @@
     <imas:ShoeSize rdf:datatype="http://www.w3.org/2001/XMLSchema#float">25.5</imas:ShoeSize>
     <imas:cv xml:lang="ja">寺島拓篤</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/寺島拓篤"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q1041912"/>
     <imas:Hobby xml:lang="ja">サッカー</imas:Hobby>
     <imas:Hobby xml:lang="ja">料理</imas:Hobby>
     <imas:Hobby xml:lang="ja">フィギュア集め</imas:Hobby>
@@ -68,6 +69,7 @@
     <imas:ShoeSize rdf:datatype="http://www.w3.org/2001/XMLSchema#float">24.5</imas:ShoeSize>
     <imas:cv xml:lang="ja">松岡禎丞</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/松岡禎丞"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q957795"/>
     <imas:Hobby xml:lang="ja">寝ること</imas:Hobby>
     <imas:Hobby xml:lang="ja">親孝行♪</imas:Hobby>
     <imas:Talent xml:lang="ja">バク転</imas:Talent>
@@ -95,6 +97,7 @@
     <imas:Category xml:lang="ja">インテリ</imas:Category>
     <imas:cv xml:lang="ja">神原大地</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/神原大地"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q8977305"/>
     <imas:Hobby xml:lang="ja">ピアノ</imas:Hobby>
     <imas:Hobby xml:lang="ja">ヴァイオリン</imas:Hobby>
     <imas:Hobby xml:lang="ja">デート</imas:Hobby>
@@ -123,6 +126,7 @@
     <imas:Category xml:lang="ja">フィジカル</imas:Category>
     <imas:cv xml:lang="ja">仲村宗悟</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/仲村宗悟"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q22125229"/>
     <imas:Hobby xml:lang="ja">特撮</imas:Hobby>
     <imas:Hobby xml:lang="ja">ダーツ</imas:Hobby>
     <imas:Talent xml:lang="ja">料理</imas:Talent>
@@ -150,6 +154,7 @@
     <imas:Category xml:lang="ja">インテリ</imas:Category>
     <imas:cv xml:lang="ja">内田雄馬</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/内田雄馬"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q17349748"/>
     <imas:Hobby xml:lang="ja">姉の形見の擦り切れた詩集を読む</imas:Hobby>
     <imas:Talent xml:lang="ja">手品</imas:Talent>
     <schema:gender xml:lang="en">male</schema:gender>
@@ -176,6 +181,7 @@
     <imas:Category xml:lang="ja">メンタル</imas:Category>
     <imas:cv xml:lang="ja">八代拓</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/八代拓"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q23846671"/>
     <imas:Hobby xml:lang="ja">テニス</imas:Hobby>
     <imas:Hobby xml:lang="ja">読書</imas:Hobby>
     <imas:Hobby xml:lang="ja">エコノミークラスで世界を旅する</imas:Hobby>
@@ -205,6 +211,7 @@
     <imas:Category xml:lang="ja">メンタル</imas:Category>
     <imas:cv xml:lang="ja">土岐隼一</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/土岐隼一"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q18457703"/>
     <imas:Talent xml:lang="ja">ピアノ</imas:Talent>
     <schema:gender xml:lang="en">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
@@ -229,6 +236,8 @@
     <imas:ShoeSize rdf:datatype="http://www.w3.org/2001/XMLSchema#float">24.5</imas:ShoeSize>
     <imas:Category xml:lang="ja">インテリ</imas:Category>
     <imas:cv xml:lang="ja">永野由祐</imas:cv>
+    <!--<imas:cv rdf:resource="http://ja.dbpedia.org/resource/永野由祐"/>-->
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q26043734"/>
     <imas:Hobby xml:lang="ja">ハンドクリームを塗ること</imas:Hobby>
     <imas:Talent xml:lang="ja">1回聞いた音楽を正確にヴァイオリンで奏でることができる</imas:Talent>
     <schema:gender xml:lang="en">male</schema:gender>
@@ -255,6 +264,7 @@
     <imas:Category xml:lang="ja">インテリ</imas:Category>
     <imas:cv xml:lang="ja">梅原裕一郎</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/梅原裕一郎"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q18225739"/>
     <imas:Hobby xml:lang="ja">洗濯</imas:Hobby>
     <imas:Talent xml:lang="ja">暗算</imas:Talent>
     <schema:gender xml:lang="en">male</schema:gender>
@@ -277,6 +287,7 @@
     <imas:Category xml:lang="ja">メンタル</imas:Category>
     <imas:cv xml:lang="ja">堀江瞬</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/堀江瞬"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q22129969"/>
     <imas:Hobby xml:lang="ja">きぐるみとのしゃしんさつえい</imas:Hobby>
     <imas:Talent xml:lang="ja">みかんのはやむき</imas:Talent>
     <schema:gender xml:lang="en">male</schema:gender>
@@ -303,6 +314,7 @@
     <imas:Category xml:lang="ja">フィジカル</imas:Category>
     <imas:cv xml:lang="ja">高塚智人</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/高塚智人"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q21019125"/>
     <imas:Hobby xml:lang="ja">ハンドクリーム集め</imas:Hobby>
     <imas:Talent xml:lang="ja">運転時の抜け道探し</imas:Talent>
     <schema:gender xml:lang="en">male</schema:gender>
@@ -329,6 +341,7 @@
     <imas:Category xml:lang="ja">メンタル</imas:Category>
     <imas:cv xml:lang="ja">菊池勇成</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/菊池勇成"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q24865828"/>
     <imas:Hobby xml:lang="ja">サッカー</imas:Hobby>
     <imas:Talent xml:lang="ja">サッカー</imas:Talent>
     <schema:gender xml:lang="en">male</schema:gender>
@@ -353,8 +366,9 @@
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">52.0</schema:weight>
     <imas:ShoeSize rdf:datatype="http://www.w3.org/2001/XMLSchema#float">24.0</imas:ShoeSize>
     <imas:Category xml:lang="ja">インテリ</imas:Category>
-    <imas:cv xml:lang="ja">山谷祥生</imas:cv>
+    <imas:cv xml:lang="ja"></imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/山谷祥生"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q16746698"/>
     <imas:Hobby xml:lang="ja">知恵の輪</imas:Hobby>
     <imas:Talent xml:lang="ja">練習メニューの組み立て</imas:Talent>
     <imas:Talent xml:lang="ja">コーチング</imas:Talent>
@@ -382,6 +396,7 @@
     <imas:Category xml:lang="ja">インテリ</imas:Category>
     <imas:cv xml:lang="ja">熊谷健太郎</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/熊谷健太郎"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q24865804"/>
     <imas:Hobby xml:lang="ja">トレラン</imas:Hobby>
     <imas:Talent xml:lang="ja">警察犬の訓練</imas:Talent>
     <imas:Talent xml:lang="ja">動物全般の躾</imas:Talent>
@@ -409,6 +424,7 @@
     <imas:Category xml:lang="ja">フィジカル</imas:Category>
     <imas:cv xml:lang="ja">濱健人</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/濱健人"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q20042322"/>
     <imas:Hobby xml:lang="ja">昼寝</imas:Hobby>
     <imas:Talent xml:lang="ja">裁縫</imas:Talent>
     <schema:gender xml:lang="en">male</schema:gender>
@@ -435,6 +451,7 @@
     <imas:Category xml:lang="ja">メンタル</imas:Category>
     <imas:cv xml:lang="ja">増元拓也</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/増元拓也"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q17230347"/>
     <imas:Hobby xml:lang="ja">料理</imas:Hobby>
     <imas:Talent xml:lang="ja">銃器類の早解体</imas:Talent>
     <schema:gender xml:lang="en">male</schema:gender>
@@ -461,6 +478,7 @@
     <imas:Category xml:lang="ja">インテリ</imas:Category>
     <imas:cv xml:lang="ja">山下大輝</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/山下大輝"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q15975368"/>
     <imas:Hobby xml:lang="ja">珍獣観察</imas:Hobby>
     <imas:Talent xml:lang="ja">人間・動物からマンガやアニメのキャラクターのモノマネや形態模写</imas:Talent>
     <schema:gender xml:lang="en">male</schema:gender>
@@ -487,6 +505,7 @@
     <imas:Category xml:lang="ja">メンタル</imas:Category>
     <imas:cv xml:lang="ja">バレッタ裕</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/バレッタ裕"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q24865667"/>
     <imas:Hobby xml:lang="ja">メイド喫茶巡り</imas:Hobby>
     <imas:Talent xml:lang="ja">和太鼓演奏</imas:Talent>
     <schema:gender xml:lang="en">male</schema:gender>
@@ -513,6 +532,7 @@
     <imas:Category xml:lang="ja">メンタル</imas:Category>
     <imas:cv xml:lang="ja">中田祐矢</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/中田祐矢"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q11366741"/>
     <imas:Hobby xml:lang="ja">いろいろな入浴剤収集</imas:Hobby>
     <imas:Talent xml:lang="ja">競技かるた</imas:Talent>
     <imas:Talent xml:lang="ja">投扇興</imas:Talent>
@@ -540,6 +560,7 @@
     <imas:Category xml:lang="ja">フィジカル</imas:Category>
     <imas:cv xml:lang="ja">千葉翔也</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/千葉翔也"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q11406719"/>
     <imas:Hobby xml:lang="ja">ゲーム</imas:Hobby>
     <imas:Hobby xml:lang="ja">ギター</imas:Hobby>
     <imas:Talent xml:lang="ja">野球選手のモノマネ</imas:Talent>
@@ -567,6 +588,7 @@
     <imas:Category xml:lang="ja">インテリ</imas:Category>
     <imas:cv xml:lang="ja">永塚拓馬</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/永塚拓馬"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q20760484"/>
     <imas:Hobby xml:lang="ja">読書</imas:Hobby>
     <imas:Talent xml:lang="ja">ピアノ</imas:Talent>
     <schema:gender xml:lang="en">male</schema:gender>
@@ -593,6 +615,7 @@
     <imas:Category xml:lang="ja">インテリ</imas:Category>
     <imas:cv xml:lang="ja">渡辺紘</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/渡辺紘"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q17217594"/>
     <imas:Hobby xml:lang="ja">人間観察</imas:Hobby>
     <imas:Hobby xml:lang="ja">ヴァイオリン</imas:Hobby>
     <imas:Talent xml:lang="ja">気配を消すこと</imas:Talent>
@@ -620,6 +643,7 @@
     <imas:Category xml:lang="ja">メンタル</imas:Category>
     <imas:cv xml:lang="ja">白井悠介</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/白井悠介"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q11579372"/>
     <imas:Hobby xml:lang="ja">散歩</imas:Hobby>
     <imas:Talent xml:lang="ja">ヘアメイク</imas:Talent>
     <schema:gender xml:lang="en">male</schema:gender>
@@ -646,6 +670,7 @@
     <imas:Category xml:lang="ja">フィジカル</imas:Category>
     <imas:cv xml:lang="ja">野上翔</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/野上翔"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q18460273"/>
     <imas:Hobby xml:lang="ja">カラオケ</imas:Hobby>
     <imas:Hobby xml:lang="ja">ハデパン集め</imas:Hobby>
     <imas:Talent xml:lang="ja">カラオケ採点で意のままの点数を出せる</imas:Talent>
@@ -673,6 +698,7 @@
     <imas:Category xml:lang="ja">フィジカル</imas:Category>
     <imas:cv xml:lang="ja">益山武明</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/益山武明"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q17222626"/>
     <imas:Hobby xml:lang="ja">頭に「にゃこ」を乗せて散歩</imas:Hobby>
     <imas:Talent xml:lang="ja">天空朱雀落とし</imas:Talent>
     <schema:gender xml:lang="en">male</schema:gender>
@@ -699,6 +725,7 @@
     <imas:Category xml:lang="ja">インテリ</imas:Category>
     <imas:cv xml:lang="ja">深町寿成</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/深町寿成"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q17230037"/>
     <imas:Hobby xml:lang="ja">メガネ集め</imas:Hobby>
     <imas:Hobby xml:lang="ja">分厚い本を読むこと(最近は家庭の医学を読んでいる)</imas:Hobby>
     <imas:Talent xml:lang="ja">天玄氷刃波</imas:Talent>
@@ -727,6 +754,7 @@
     <imas:Category xml:lang="ja">メンタル</imas:Category>
     <imas:cv xml:lang="ja">狩野翔</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/狩野翔"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q17686378"/>
     <imas:Hobby xml:lang="ja">バックパック</imas:Hobby>
     <imas:Hobby xml:lang="ja">世界旅行</imas:Hobby>
     <imas:Talent xml:lang="ja">早着替え</imas:Talent>
@@ -755,6 +783,7 @@
     <imas:Category xml:lang="ja">インテリ</imas:Category>
     <imas:cv xml:lang="ja">天崎滉平</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/天崎滉平"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q20038507"/>
     <imas:Hobby xml:lang="ja">畳の目を数える</imas:Hobby>
     <imas:Hobby xml:lang="ja">ジグソーパズル</imas:Hobby>
     <imas:Talent xml:lang="ja">飴細工</imas:Talent>
@@ -779,6 +808,7 @@
     <imas:Category xml:lang="ja">フィジカル</imas:Category>
     <imas:cv xml:lang="ja">古川慎</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/古川慎"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q11411149"/>
     <imas:Hobby xml:lang="ja">禁じられた新たなるレシピの発見</imas:Hobby>
     <imas:Talent xml:lang="ja">召喚術</imas:Talent>
     <imas:Talent xml:lang="ja">詠唱</imas:Talent>
@@ -806,6 +836,7 @@
     <imas:Category xml:lang="ja">メンタル</imas:Category>
     <imas:cv xml:lang="ja">児玉卓也</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/児玉卓也"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q24865377"/>
     <imas:Hobby xml:lang="ja">全国ケーキ食べ歩き</imas:Hobby>
     <imas:Talent xml:lang="ja">利きケーキ</imas:Talent>
     <imas:Talent xml:lang="ja">一輪車</imas:Talent>
@@ -833,6 +864,7 @@
     <imas:Category xml:lang="ja">フィジカル</imas:Category>
     <imas:cv xml:lang="ja">小林大紀</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/小林大紀"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q24865397"/>
     <imas:Hobby xml:lang="ja">手品</imas:Hobby>
     <imas:Talent xml:lang="ja">逆立ち</imas:Talent>
     <schema:gender xml:lang="en">male</schema:gender>
@@ -859,6 +891,7 @@
     <imas:Category xml:lang="ja">インテリ</imas:Category>
     <imas:cv xml:lang="ja">矢野奨吾</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/矢野奨吾"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q24897980"/>
     <imas:Hobby xml:lang="ja">将棋</imas:Hobby>
     <imas:Talent xml:lang="ja">編み物</imas:Talent>
     <schema:gender xml:lang="en">male</schema:gender>
@@ -884,6 +917,8 @@
     <imas:ShoeSize rdf:datatype="http://www.w3.org/2001/XMLSchema#float">20.5</imas:ShoeSize>
     <imas:Category xml:lang="ja">フィジカル</imas:Category>
     <imas:cv xml:lang="ja">古畑恵介</imas:cv>
+    <imas:cv rdf:resource="http://ja.dbpedia.org/resource/古畑恵介"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q27150521"/>
     <imas:Hobby xml:lang="ja">バスケ</imas:Hobby>
     <imas:Talent xml:lang="ja">ブレイクダンス</imas:Talent>
     <schema:gender xml:lang="en">male</schema:gender>
@@ -910,6 +945,7 @@
     <imas:Category xml:lang="ja">メンタル</imas:Category>
     <imas:cv xml:lang="ja">村瀬歩</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/村瀬歩"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q11523377"/>
     <imas:Hobby xml:lang="ja">お散歩</imas:Hobby>
     <imas:Talent xml:lang="ja">ピアノ</imas:Talent>
     <schema:gender xml:lang="en">male</schema:gender>
@@ -936,6 +972,7 @@
     <imas:Category xml:lang="ja">インテリ</imas:Category>
     <imas:cv xml:lang="ja">伊東健人</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/伊東健人"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q16264168"/>
     <imas:Hobby xml:lang="ja">掃除</imas:Hobby>
     <imas:Hobby xml:lang="ja">パズル</imas:Hobby>
     <imas:Talent xml:lang="ja">円周率の暗唱</imas:Talent>
@@ -963,6 +1000,7 @@
     <imas:Category xml:lang="ja">メンタル</imas:Category>
     <imas:cv xml:lang="ja">榎木淳弥</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/榎木淳弥"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q16264591"/>
     <imas:Hobby xml:lang="ja">スキー</imas:Hobby>
     <imas:Hobby xml:lang="ja">スノボ</imas:Hobby>
     <imas:Hobby xml:lang="ja">サーフィン</imas:Hobby>
@@ -991,6 +1029,7 @@
     <imas:Category xml:lang="ja">インテリ</imas:Category>
     <imas:cv xml:lang="ja">中島ヨシキ</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/中島ヨシキ"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q11364383"/>
     <imas:Hobby xml:lang="ja">猫カフェ巡り</imas:Hobby>
     <imas:Hobby xml:lang="ja">競馬</imas:Hobby>
     <imas:Talent xml:lang="ja">ラジオ体操</imas:Talent>
@@ -1018,6 +1057,7 @@
     <imas:Category xml:lang="ja">フィジカル</imas:Category>
     <imas:cv xml:lang="ja">寺島惇太</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/寺島惇太"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q17161534"/>
     <imas:Hobby xml:lang="ja">近所の猫に餌付け</imas:Hobby>
     <imas:Hobby xml:lang="ja">ランニング</imas:Hobby>
     <imas:Talent xml:lang="ja">体を動かすことならなんでも</imas:Talent>
@@ -1046,6 +1086,7 @@
     <imas:Category xml:lang="ja">フィジカル</imas:Category>
     <imas:cv xml:lang="ja">濱野大輝</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/濱野大輝"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q20042330"/>
     <imas:Hobby xml:lang="ja">資格取得</imas:Hobby>
     <imas:Talent xml:lang="ja">たくさんありすぎてかけないが､最近はあみぐるみにハマっている</imas:Talent>
     <schema:gender xml:lang="en">male</schema:gender>
@@ -1071,6 +1112,8 @@
     <imas:ShoeSize rdf:datatype="http://www.w3.org/2001/XMLSchema#float">25.5</imas:ShoeSize>
     <imas:Category xml:lang="ja">フィジカル</imas:Category>
     <imas:cv xml:lang="ja">小松昌平</imas:cv>
+    <imas:cv rdf:resource="http://ja.dbpedia.org/resource/小松昌平"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q24877064"/>
     <imas:Hobby xml:lang="ja">なんでんなことｵﾏｴに教えないといけねｰんだ? バァーカ!</imas:Hobby>
     <imas:Talent xml:lang="ja">相手をぶったおすことにきまっ てんだろ!</imas:Talent>
     <schema:gender xml:lang="en">male</schema:gender>
@@ -1097,6 +1140,7 @@
     <imas:Category xml:lang="ja">メンタル</imas:Category>
     <imas:cv xml:lang="ja">三瓶由布子</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/三瓶由布子"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q958874"/>
     <imas:Hobby xml:lang="ja">掃除</imas:Hobby>
     <imas:Hobby xml:lang="ja">お料理</imas:Hobby>
     <imas:Talent xml:lang="ja">ダンス</imas:Talent>
@@ -1124,6 +1168,8 @@
     <imas:ShoeSize rdf:datatype="http://www.w3.org/2001/XMLSchema#float">24.0</imas:ShoeSize>
     <imas:Category xml:lang="ja">フィジカル</imas:Category>
     <imas:cv xml:lang="ja">浦尾岳大</imas:cv>
+    <!--<imas:cv rdf:resource="http://ja.dbpedia.org/resource/浦尾岳大"/>-->
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q27150535"/>
     <imas:Hobby xml:lang="ja">格ゲー</imas:Hobby>
     <imas:Talent xml:lang="ja">居合道</imas:Talent>
     <imas:Talent xml:lang="ja">かつらむき</imas:Talent>
@@ -1150,6 +1196,8 @@
     <imas:ShoeSize rdf:datatype="http://www.w3.org/2001/XMLSchema#float">26.5</imas:ShoeSize>
     <imas:Category xml:lang="ja">インテリ</imas:Category>
     <imas:cv xml:lang="ja">徳武竜也</imas:cv>
+    <imas:cv rdf:resource="http://ja.dbpedia.org/resource/徳武竜也"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q26043911"/>
     <imas:Hobby xml:lang="ja">キャンプ</imas:Hobby>
     <imas:Hobby xml:lang="ja">読書</imas:Hobby>
     <imas:Talent xml:lang="ja">一度読んだ本の内容は大体覚えている</imas:Talent>
@@ -1177,6 +1225,8 @@
     <imas:ShoeSize rdf:datatype="http://www.w3.org/2001/XMLSchema#float">28.0</imas:ShoeSize>
     <imas:Category xml:lang="ja">インテリ</imas:Category>
     <imas:cv xml:lang="ja">笠間淳</imas:cv>
+    <imas:cv rdf:resource="http://ja.dbpedia.org/resource/笠間淳"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q27150536"/>
     <imas:Hobby xml:lang="ja">星占い</imas:Hobby>
     <imas:Talent xml:lang="ja">折紙</imas:Talent>
     <schema:gender xml:lang="en">male</schema:gender>
@@ -1202,6 +1252,8 @@
     <imas:ShoeSize rdf:datatype="http://www.w3.org/2001/XMLSchema#float">26.5</imas:ShoeSize>
     <imas:Category xml:lang="ja">メンタル</imas:Category>
     <imas:cv xml:lang="ja">汐谷文康</imas:cv>
+    <imas:cv rdf:resource="http://ja.dbpedia.org/resource/汐谷文康"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q27150533"/>
     <imas:Hobby xml:lang="ja">一人旅</imas:Hobby>
     <imas:Talent xml:lang="ja">書道</imas:Talent>
     <schema:gender xml:lang="en">male</schema:gender>
@@ -1228,6 +1280,7 @@
     <imas:Category xml:lang="ja">インテリ</imas:Category>
     <imas:cv xml:lang="ja">駒田航</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/駒田航"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q20040112"/>
     <imas:Hobby xml:lang="ja">水族館めぐり</imas:Hobby>
     <imas:Talent xml:lang="ja">素潜り(水中息止め)</imas:Talent>
     <schema:gender xml:lang="en">male</schema:gender>

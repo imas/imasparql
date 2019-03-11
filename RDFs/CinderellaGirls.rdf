@@ -22,6 +22,7 @@
     xmlns:imas="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#"
   >
 
+<!--Cute-->
   <rdf:Description rdf:about="detail/Shimamura_Uzuki">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cu</imas:Type>
     <schema:familyName xml:lang="ja">島村</schema:familyName>
@@ -45,6 +46,7 @@
     <imas:Constellation xml:lang="ja">牡牛座</imas:Constellation>
     <imas:cv xml:lang="ja">大橋彩香</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/大橋彩香"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q9125022"/>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">EC7092</imas:Color>
     <schema:birthPlace xml:lang="ja">東京</schema:birthPlace>
     <imas:Hobby xml:lang="ja">友達と長電話</imas:Hobby>
@@ -74,6 +76,7 @@
     <schema:birthPlace xml:lang="ja">東京</schema:birthPlace>
     <imas:cv xml:lang="ja">下地紫野</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/下地紫野"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q17159583"/>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">CB78D0</imas:Color>
     <imas:Hobby xml:lang="ja">空手</imas:Hobby>
   </rdf:Description>
@@ -102,6 +105,7 @@
     <schema:birthPlace xml:lang="ja">青森</schema:birthPlace>
     <imas:cv xml:lang="ja">藤田茜</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/藤田茜"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q17211589"/>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">E8BAD6</imas:Color>
     <imas:Hobby xml:lang="ja">フルート</imas:Hobby>
   </rdf:Description>
@@ -155,6 +159,7 @@
     <schema:birthPlace xml:lang="ja">大阪</schema:birthPlace>
     <imas:cv xml:lang="ja">都丸ちよ</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/都丸ちよ"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q17161754"/>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">EA495B</imas:Color>
     <imas:Hobby xml:lang="ja">新作ドーナツの試食</imas:Hobby>
   </rdf:Description>
@@ -233,6 +238,7 @@
     <schema:birthPlace xml:lang="ja">東京</schema:birthPlace>
     <imas:cv xml:lang="ja">大坪由佳</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/大坪由佳"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q3211762"/>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">F4ABB4</imas:Color>
     <imas:Hobby xml:lang="ja">お菓子作り</imas:Hobby>
   </rdf:Description>
@@ -311,6 +317,7 @@
     <schema:birthPlace xml:lang="ja">熊本</schema:birthPlace>
     <imas:cv xml:lang="ja">津田美波</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/津田美波"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q901835"/>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">C64796</imas:Color>
     <imas:Hobby xml:lang="ja">ひなたぼっこ</imas:Hobby>
   </rdf:Description>
@@ -339,6 +346,7 @@
     <schema:birthPlace xml:lang="ja">三重</schema:birthPlace>
     <imas:cv xml:lang="ja">大空直美</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/大空直美"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q15731362"/>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">69B64C</imas:Color>
     <imas:Hobby xml:lang="ja">四葉のクローバー集め</imas:Hobby>
   </rdf:Description>
@@ -367,6 +375,7 @@
     <schema:birthPlace xml:lang="ja">鳥取</schema:birthPlace>
     <imas:cv xml:lang="ja">種崎敦美</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/種崎敦美"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q3183413"/>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">F567C6</imas:Color>
     <imas:Hobby xml:lang="ja">家事全般</imas:Hobby>
   </rdf:Description>
@@ -420,6 +429,7 @@
     <schema:birthPlace xml:lang="ja">神戸</schema:birthPlace>
     <imas:cv xml:lang="ja">照井春佳</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/照井春佳"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q11567752"/>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">EF93BC</imas:Color>
     <imas:Hobby xml:lang="ja">ティータイム</imas:Hobby>
   </rdf:Description>
@@ -524,6 +534,7 @@
     <schema:birthPlace xml:lang="ja">富山</schema:birthPlace>
     <imas:cv xml:lang="ja">会沢紗弥</imas:cv>
     <!--<imas:cv rdf:resource="http://ja.dbpedia.org/resource/会沢紗弥"/>-->
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q41585491"/>
     <imas:Hobby xml:lang="ja">アクセサリー作り</imas:Hobby>
   </rdf:Description>
 
@@ -577,6 +588,7 @@
     <schema:birthPlace xml:lang="ja">青森</schema:birthPlace>
     <imas:cv xml:lang="ja">藤本彩花</imas:cv>
     <!--<imas:cv rdf:resource="http://ja.dbpedia.org/resource/藤本彩花"/>-->
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q56118632"/>
     <imas:Hobby xml:lang="ja">指の運動</imas:Hobby>
   </rdf:Description>
 
@@ -604,6 +616,7 @@
     <schema:birthPlace xml:lang="ja">湘南</schema:birthPlace>
     <imas:cv xml:lang="ja">金子真由美</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/金子真由美"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q41695472"/>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">653A2A</imas:Color>
     <imas:Hobby xml:lang="ja">単車乗り</imas:Hobby>
     <imas:Hobby xml:lang="ja">コンビニで立ち読み</imas:Hobby>
@@ -709,6 +722,7 @@
     <schema:birthPlace xml:lang="ja">岩手</schema:birthPlace>
     <imas:cv xml:lang="ja">藍原ことみ</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/藍原ことみ"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q24875182"/>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">A01B50</imas:Color>
     <imas:Hobby xml:lang="ja">失踪</imas:Hobby>
     <imas:Hobby xml:lang="ja">アヤしい科学実験</imas:Hobby>
@@ -739,6 +753,7 @@
     <schema:birthPlace xml:lang="ja">大阪</schema:birthPlace>
     <imas:cv xml:lang="ja">高森奈津美</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/高森奈津美"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q1107456"/>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">CA113A</imas:Color>
     <imas:Hobby xml:lang="ja">猫カフェ巡り</imas:Hobby>
   </rdf:Description>
@@ -842,6 +857,7 @@
     <schema:birthPlace xml:lang="ja">パリ</schema:birthPlace>
     <imas:cv xml:lang="ja">髙野麻美</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/髙野麻美"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q62024404"/>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">9E1861</imas:Color>
     <imas:Hobby xml:lang="ja">ファッション</imas:Hobby>
   </rdf:Description>
@@ -870,6 +886,7 @@
     <schema:birthPlace xml:lang="ja">京都</schema:birthPlace>
     <imas:cv xml:lang="ja">立花理香</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/立花理香"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q9046310"/>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">D967A3</imas:Color>
     <imas:Hobby xml:lang="ja">日本舞踊</imas:Hobby>
   </rdf:Description>
@@ -923,6 +940,7 @@
     <schema:birthPlace xml:lang="ja">北海道</schema:birthPlace>
     <imas:cv xml:lang="ja">五十嵐裕美</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/五十嵐裕美"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q5770504"/>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">F19DB4</imas:Color>
     <imas:Hobby xml:lang="ja">なし</imas:Hobby>
   </rdf:Description>
@@ -1102,6 +1120,7 @@
     <schema:birthPlace xml:lang="ja">奈良</schema:birthPlace>
     <imas:cv xml:lang="ja">新田ひより</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/新田ひより"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q17212219"/>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">CC252D</imas:Color>
     <imas:Hobby xml:lang="ja">境内のお掃除</imas:Hobby>
   </rdf:Description>
@@ -1230,6 +1249,7 @@
     <schema:birthPlace xml:lang="ja">山梨</schema:birthPlace>
     <imas:cv xml:lang="ja">竹達彩奈</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/竹達彩奈"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q1204576"/>
     <imas:Hobby xml:lang="ja">勉強ノートの清書</imas:Hobby>
   </rdf:Description>
 
@@ -1334,6 +1354,7 @@
     <schema:birthPlace xml:lang="ja">ウサミン星</schema:birthPlace>
     <imas:cv xml:lang="ja">三宅麻理恵</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/三宅麻理恵"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q6127820"/>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">E64A79</imas:Color>
     <imas:Hobby xml:lang="ja">ウサミン星との交信</imas:Hobby>
   </rdf:Description>
@@ -1460,6 +1481,7 @@
     <schema:birthPlace xml:lang="ja">仙台</schema:birthPlace>
     <imas:cv xml:lang="ja">牧野由依</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/牧野由依"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q1372615"/>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">D1197B</imas:Color>
     <imas:Hobby xml:lang="ja">お料理</imas:Hobby>
     <imas:Hobby xml:lang="ja">編み物</imas:Hobby>
@@ -1512,6 +1534,9 @@
     <imas:Hip rdf:datatype="http://www.w3.org/2001/XMLSchema#float">79.0</imas:Hip>
     <imas:Constellation xml:lang="ja">牡羊座</imas:Constellation>
     <schema:birthPlace xml:lang="ja">鳥取</schema:birthPlace>
+    <imas:cv xml:lang="ja">天野聡美</imas:cv>
+    <imas:cv rdf:resource="http://ja.dbpedia.org/resource/天野聡美"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q62023684"/>
     <imas:Hobby xml:lang="ja">アイドルレッスン</imas:Hobby>
     <imas:Hobby xml:lang="ja">笑顔の練習</imas:Hobby>
   </rdf:Description>
@@ -1540,6 +1565,7 @@
     <schema:birthPlace xml:lang="ja">宮城</schema:birthPlace>
     <imas:cv xml:lang="ja">朝井彩加</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/朝井彩加"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q17685820"/>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">B72089</imas:Color>
     <imas:Hobby xml:lang="ja">ぬいぐるみ集め</imas:Hobby>
   </rdf:Description>
@@ -1593,6 +1619,7 @@
     <schema:birthPlace xml:lang="ja">岡山</schema:birthPlace>
     <imas:cv xml:lang="ja">中島由貴</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/中島由貴"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q22123863"/>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">F2C0C1</imas:Color>
     <imas:Hobby xml:lang="ja">ミックスジュース作り</imas:Hobby>
     <imas:Hobby xml:lang="ja">スクラップブック作り</imas:Hobby>
@@ -1675,6 +1702,65 @@
     <imas:Hobby xml:lang="ja">編み物</imas:Hobby>
   </rdf:Description>
 
+  <rdf:Description rdf:about="detail/Shirayuki_Chiyo">
+    <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cu</imas:Type>
+    <schema:familyName xml:lang="ja">白雪</schema:familyName>
+    <imas:familyNameKana xml:lang="ja">しらゆき</imas:familyNameKana>
+    <schema:givenName xml:lang="ja">千夜</schema:givenName>
+    <imas:givenNameKana xml:lang="ja">ちよ</imas:givenNameKana>
+    <schema:gender xml:lang="en">female</schema:gender>
+    <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <schema:name xml:lang="ja">白雪千夜</schema:name>
+    <imas:nameKana xml:lang="ja">しらゆきちよ</imas:nameKana>
+    <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">157.0</schema:height>
+    <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</foaf:age>
+    <schema:weight xml:lang="ja">40.0</schema:weight>
+    <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--02-04</schema:birthDate>
+    <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">O</imas:BloodType>
+    <imas:Handedness xml:lang="en">right</imas:Handedness>
+    <imas:Bust xml:lang="ja">72</imas:Bust>
+    <imas:Waist xml:lang="ja">52</imas:Waist>
+    <imas:Hip xml:lang="ja">74</imas:Hip>
+    <imas:Constellation xml:lang="ja">水瓶座</imas:Constellation>
+    <imas:cv xml:lang="ja">関口理咲</imas:cv>
+    <!-- <imas:cv rdf:resource="http://ja.dbpedia.org/resource/関口理咲"/> -->
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q62024487"/>
+    <schema:birthPlace xml:lang="ja">北海道</schema:birthPlace>
+    <imas:Hobby xml:lang="ja">料理</imas:Hobby>
+    <imas:Hobby xml:lang="ja">睡眠</imas:Hobby>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="detail/Kurosaki_Chitose">
+    <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cu</imas:Type>
+    <schema:familyName xml:lang="ja">黒埼</schema:familyName>
+    <imas:familyNameKana xml:lang="ja">くろさき</imas:familyNameKana>
+    <schema:givenName xml:lang="ja">ちとせ</schema:givenName>
+    <imas:givenNameKana xml:lang="ja">ちとせ</imas:givenNameKana>
+    <schema:gender xml:lang="en">female</schema:gender>
+    <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <schema:name xml:lang="ja">黒埼ちとせ</schema:name>
+    <imas:nameKana xml:lang="ja">くろさきちとせ</imas:nameKana>
+    <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">164.0</schema:height>
+    <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</foaf:age>
+    <schema:weight xml:lang="ja">44.0</schema:weight>
+    <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--11-10</schema:birthDate>
+    <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">O</imas:BloodType>
+    <imas:Handedness xml:lang="en">right</imas:Handedness>
+    <imas:Bust xml:lang="ja">86</imas:Bust>
+    <imas:Waist xml:lang="ja">58</imas:Waist>
+    <imas:Hip xml:lang="ja">84</imas:Hip>
+    <imas:Constellation xml:lang="ja">蠍座</imas:Constellation>
+    <imas:cv xml:lang="ja">佐倉薫</imas:cv>
+    <imas:cv rdf:resource="http://ja.dbpedia.org/resource/佐倉薫"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q11383006"/>
+    <schema:birthPlace xml:lang="ja">東京</schema:birthPlace>
+    <imas:Hobby xml:lang="ja">美味しいものを食べること</imas:Hobby>
+    <imas:Hobby xml:lang="ja">月光浴</imas:Hobby>
+  </rdf:Description>
+
+<!--Cool-->
   <rdf:Description rdf:about="detail/Shibuya_Rin">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Co</imas:Type>
     <schema:familyName xml:lang="ja">渋谷</schema:familyName>
@@ -1699,6 +1785,7 @@
     <schema:birthPlace xml:lang="ja">東京</schema:birthPlace>
     <imas:cv xml:lang="ja">福原綾香</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/福原綾香"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q11591879"/>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">1C90CD</imas:Color>
     <imas:Hobby xml:lang="ja">犬の散歩</imas:Hobby>
   </rdf:Description>
@@ -1852,6 +1939,7 @@
     <schema:birthPlace xml:lang="ja">大阪</schema:birthPlace>
     <imas:cv xml:lang="ja">東山奈央</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/東山奈央"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q865906"/>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">3F59A6</imas:Color>
     <imas:Hobby xml:lang="ja">掃除</imas:Hobby>
     <imas:Hobby xml:lang="ja">洗濯</imas:Hobby>
@@ -1881,6 +1969,7 @@
     <schema:birthPlace xml:lang="ja">千葉</schema:birthPlace>
     <imas:cv xml:lang="ja">松井恵理子</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/松井恵理子"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q11529115"/>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">8D75B3</imas:Color>
     <imas:Hobby xml:lang="ja">アニメ鑑賞</imas:Hobby>
   </rdf:Description>
@@ -1909,6 +1998,7 @@
     <schema:birthPlace xml:lang="ja">静岡</schema:birthPlace>
     <imas:cv xml:lang="ja">長島光那</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/長島光那"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q20041809"/>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">59B7DB</imas:Color>
     <imas:Hobby xml:lang="ja">猫と縁側でお昼寝</imas:Hobby>
   </rdf:Description>
@@ -1937,6 +2027,7 @@
     <schema:birthPlace xml:lang="ja">神奈川</schema:birthPlace>
     <imas:cv xml:lang="ja">田辺留依</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/田辺留依"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q16336231"/>
     <imas:Hobby xml:lang="ja">漫画描く</imas:Hobby>
   </rdf:Description>
 
@@ -1989,6 +2080,7 @@
     <schema:birthPlace xml:lang="ja">東京</schema:birthPlace>
     <imas:cv xml:lang="ja">青木瑠璃子</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/青木瑠璃子"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q11661791"/>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">006DB2</imas:Color>
     <imas:Hobby xml:lang="ja">音楽鑑賞</imas:Hobby>
   </rdf:Description>
@@ -2042,6 +2134,7 @@
     <schema:birthPlace xml:lang="ja">富山</schema:birthPlace>
     <imas:cv xml:lang="ja">今井麻夏</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/今井麻夏"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q8972760"/>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">006AB6</imas:Color>
     <imas:Hobby xml:lang="ja">裁縫</imas:Hobby>
   </rdf:Description>
@@ -2070,6 +2163,7 @@
     <schema:birthPlace xml:lang="ja">岩手</schema:birthPlace>
     <imas:cv xml:lang="ja">原田彩楓</imas:cv>
     <!--<imas:cv rdf:resource="http://ja.dbpedia.org/resource/原田彩楓"/>-->
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q27507360"/>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">01AAA5</imas:Color>
     <imas:Hobby xml:lang="ja">アロマテラピー</imas:Hobby>
   </rdf:Description>
@@ -2150,6 +2244,7 @@
     <schema:birthPlace xml:lang="ja">岡山</schema:birthPlace>
     <imas:cv xml:lang="ja">鈴木みのり</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/鈴木みのり"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q22129371"/>
     <imas:Hobby xml:lang="ja">陶芸</imas:Hobby>
     <imas:Hobby xml:lang="ja">釣り</imas:Hobby>
   </rdf:Description>
@@ -2178,6 +2273,7 @@
     <schema:birthPlace xml:lang="ja">広島</schema:birthPlace>
     <imas:cv xml:lang="ja">洲崎綾</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/洲崎綾"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q888218"/>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">6DBCDB</imas:Color>
     <imas:Hobby xml:lang="ja">ラクロス</imas:Hobby>
     <imas:Hobby xml:lang="ja">資格取得</imas:Hobby>
@@ -2258,6 +2354,7 @@
     <schema:birthPlace xml:lang="ja">兵庫</schema:birthPlace>
     <imas:cv xml:lang="ja">佐藤亜美菜</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/佐藤亜美菜"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q1150583"/>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">5881C1</imas:Color>
     <imas:Hobby xml:lang="ja">読書（ミステリー）</imas:Hobby>
     <imas:Hobby xml:lang="ja">ゲーム</imas:Hobby>
@@ -2287,6 +2384,7 @@
     <schema:birthPlace xml:lang="ja">長野</schema:birthPlace>
     <imas:cv xml:lang="ja">Ｍ・Ａ・Ｏ</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/市道真央"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q1186964"/>
     <imas:Hobby xml:lang="ja">本屋めぐり</imas:Hobby>
     <imas:Hobby xml:lang="ja">栞作り</imas:Hobby>
   </rdf:Description>
@@ -2408,6 +2506,7 @@
     <schema:birthPlace xml:lang="ja">東京</schema:birthPlace>
     <imas:cv xml:lang="ja">千菅春香</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/千菅春香"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q6356324"/>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">202449</imas:Color>
     <imas:Hobby xml:lang="ja">ホラー映画鑑賞</imas:Hobby>
   </rdf:Description>
@@ -2486,6 +2585,7 @@
     <schema:birthPlace xml:lang="ja">和歌山</schema:birthPlace>
     <imas:cv xml:lang="ja">早見沙織</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/早見沙織"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q1153079"/>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">33D5AC</imas:Color>
     <imas:Hobby xml:lang="ja">温泉めぐり</imas:Hobby>
   </rdf:Description>
@@ -2514,6 +2614,7 @@
     <schema:birthPlace xml:lang="ja">熊本</schema:birthPlace>
     <imas:cv xml:lang="ja">内田真礼</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/内田真礼"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q44552"/>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">7E3188</imas:Color>
     <imas:Hobby xml:lang="ja">絵を描くこと</imas:Hobby>
   </rdf:Description>
@@ -2592,6 +2693,7 @@
     <schema:birthPlace xml:lang="ja">東京</schema:birthPlace>
     <imas:cv xml:lang="ja">渕上舞</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/渕上舞"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q9307208"/>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">38BAB8</imas:Color>
     <imas:Hobby xml:lang="ja">ネイル</imas:Hobby>
   </rdf:Description>
@@ -2817,6 +2919,7 @@
     <schema:birthPlace xml:lang="ja">兵庫</schema:birthPlace>
     <imas:cv xml:lang="ja">桜咲千依</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/桜咲千依"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q19653797"/>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">AAC5E2</imas:Color>
     <imas:Hobby xml:lang="ja">心霊スポット巡り</imas:Hobby>
     <imas:Hobby xml:lang="ja">ホラー・スプラッタ映画鑑賞</imas:Hobby>
@@ -2976,6 +3079,7 @@
     <schema:birthPlace xml:lang="ja">京都</schema:birthPlace>
     <imas:cv xml:lang="ja">ルゥ・ティン</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/ルゥ・ティン"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q24869202"/>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">DEE2EB</imas:Color>
     <imas:Hobby xml:lang="ja">献血</imas:Hobby>
     <imas:Hobby xml:lang="ja">ダーツ</imas:Hobby>
@@ -3005,6 +3109,7 @@
     <schema:birthPlace xml:lang="ja">佐賀</schema:birthPlace>
     <imas:cv xml:lang="ja">嘉山未紗</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/嘉山未紗"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q18701078"/>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">3A75BB</imas:Color>
     <imas:Hobby xml:lang="ja">時代小説を読むこと</imas:Hobby>
     <imas:Hobby xml:lang="ja">剣道</imas:Hobby>
@@ -3059,6 +3164,7 @@
     <schema:birthPlace xml:lang="ja">東京</schema:birthPlace>
     <imas:cv xml:lang="ja">飯田友子</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/飯田友子"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q11666486"/>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">0D386D</imas:Color>
     <imas:Hobby xml:lang="ja">映画鑑賞</imas:Hobby>
   </rdf:Description>
@@ -3138,6 +3244,7 @@
     <schema:birthPlace xml:lang="ja">神奈川</schema:birthPlace>
     <imas:cv xml:lang="ja">高橋花林</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/高橋花林"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q20041113"/>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">9763D3</imas:Color>
     <imas:Hobby xml:lang="ja">ポエム作り</imas:Hobby>
     <imas:Hobby xml:lang="ja">少女漫画集め</imas:Hobby>
@@ -3163,6 +3270,7 @@
     <schema:birthPlace xml:lang="ja">北海道</schema:birthPlace>
     <imas:cv xml:lang="ja">上坂すみれ</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/上坂すみれ"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q874605"/>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">B0C5E4</imas:Color>
     <imas:Hobby xml:lang="ja">ホームパーティ</imas:Hobby>
     <imas:Hobby xml:lang="ja">天体観測</imas:Hobby>
@@ -3192,6 +3300,7 @@
     <schema:birthPlace xml:lang="ja">福岡</schema:birthPlace>
     <imas:cv xml:lang="ja">村中知</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/村中知"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q11522955"/>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">276E4E</imas:Color>
     <imas:Hobby xml:lang="ja">サバゲー</imas:Hobby>
     <imas:Hobby xml:lang="ja">プラモ収集</imas:Hobby>
@@ -3221,6 +3330,7 @@
     <schema:birthPlace xml:lang="ja">愛媛</schema:birthPlace>
     <imas:cv xml:lang="ja">小市眞琴</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/小市眞琴"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q20039931"/>
     <imas:Hobby xml:lang="ja">サッカー</imas:Hobby>
   </rdf:Description>
 
@@ -3248,6 +3358,7 @@
     <schema:birthPlace xml:lang="ja">静岡</schema:birthPlace>
     <imas:cv xml:lang="ja">青木志貴</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/青木志貴"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q23948723"/>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">552A7C</imas:Color>
     <imas:Hobby xml:lang="ja">ヘアアレンジ</imas:Hobby>
     <imas:Hobby xml:lang="ja">ラジオを聴くこと</imas:Hobby>
@@ -3330,6 +3441,7 @@
     <schema:birthPlace xml:lang="ja">島根</schema:birthPlace>
     <imas:cv xml:lang="ja">森下来奈</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/森下来奈"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q55875405"/>
     <imas:Hobby xml:lang="ja">隠し芸</imas:Hobby>
   </rdf:Description>
 
@@ -3360,6 +3472,7 @@
     <imas:Hobby xml:lang="ja">FPS</imas:Hobby>
   </rdf:Description>
 
+<!--Passion-->
   <rdf:Description rdf:about="detail/Honda_Mio">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pa</imas:Type>
     <schema:familyName xml:lang="ja">本田</schema:familyName>
@@ -3384,6 +3497,7 @@
     <schema:birthPlace xml:lang="ja">千葉</schema:birthPlace>
     <imas:cv xml:lang="ja">原紗友里</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/原紗友里"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q333320"/>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">F6B128</imas:Color>
     <imas:Hobby xml:lang="ja">ショッピング</imas:Hobby>
   </rdf:Description>
@@ -3412,6 +3526,7 @@
     <schema:birthPlace xml:lang="ja">東京</schema:birthPlace>
     <imas:cv xml:lang="ja">金子有希</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/金子有希"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q4358562"/>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">C5DD7F</imas:Color>
     <imas:Hobby xml:lang="ja">近所の公園をお散歩</imas:Hobby>
   </rdf:Description>
@@ -3465,6 +3580,7 @@
     <schema:birthPlace xml:lang="ja">愛媛</schema:birthPlace>
     <imas:cv xml:lang="ja">春瀬なつみ</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/春瀬なつみ"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q24875141"/>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">F4B956</imas:Color>
     <imas:Hobby xml:lang="ja">料理</imas:Hobby>
   </rdf:Description>
@@ -3493,6 +3609,7 @@
     <schema:birthPlace xml:lang="ja">茨城</schema:birthPlace>
     <imas:cv xml:lang="ja">安野希世乃</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/安野希世乃"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q11451654"/>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">55565A</imas:Color>
     <imas:Hobby xml:lang="ja">ツーリング</imas:Hobby>
   </rdf:Description>
@@ -3621,6 +3738,7 @@
     <schema:birthPlace xml:lang="ja">東京</schema:birthPlace>
     <imas:cv xml:lang="ja">黒沢ともよ</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/黒沢ともよ"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q1955926"/>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">F8C715</imas:Color>
     <imas:Hobby xml:lang="ja">おしゃべり</imas:Hobby>
   </rdf:Description>
@@ -3699,6 +3817,7 @@
     <schema:birthPlace xml:lang="ja">埼玉</schema:birthPlace>
     <imas:cv xml:lang="ja">山下七海</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/山下七海"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q17223371"/>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">EFB817</imas:Color>
     <imas:Hobby xml:lang="ja">カラオケ</imas:Hobby>
   </rdf:Description>
@@ -3727,6 +3846,7 @@
     <schema:birthPlace xml:lang="ja">宮崎</schema:birthPlace>
     <imas:cv xml:lang="ja">杜野まこ</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/杜野まこ"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q11523609"/>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">E9870C</imas:Color>
     <imas:Hobby xml:lang="ja">野球観戦</imas:Hobby>
   </rdf:Description>
@@ -3755,6 +3875,7 @@
     <schema:birthPlace xml:lang="ja">埼玉</schema:birthPlace>
     <imas:cv xml:lang="ja">武田羅梨沙多胡</imas:cv>
     <!--<imas:cv rdf:resource="http://ja.dbpedia.org/resource/武田羅梨沙多胡"/>-->
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q40039788"/>
     <imas:Hobby xml:lang="ja">バドミントン</imas:Hobby>
   </rdf:Description>
 
@@ -3782,6 +3903,7 @@
     <schema:birthPlace xml:lang="ja">福岡</schema:birthPlace>
     <imas:cv xml:lang="ja">春野ななみ</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/春野ななみ"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q18818006"/>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">C9870F</imas:Color>
     <imas:Hobby xml:lang="ja">裁縫</imas:Hobby>
   </rdf:Description>
@@ -3836,6 +3958,7 @@
     <schema:birthPlace xml:lang="ja">岩手</schema:birthPlace>
     <imas:cv xml:lang="ja">のぐちゆり</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/のぐちゆり"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q28690535"/>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">FFFFFF</imas:Color>
     <imas:Hobby xml:lang="ja">乳搾り</imas:Hobby>
     <imas:Hobby xml:lang="ja">トラクターの運転</imas:Hobby>
@@ -3916,6 +4039,7 @@
     <schema:birthPlace xml:lang="ja">福島</schema:birthPlace>
     <imas:cv xml:lang="ja">松田颯水</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/松田颯水"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q17230362"/>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">A21D3C</imas:Color>
     <imas:Hobby xml:lang="ja">キノコ栽培</imas:Hobby>
   </rdf:Description>
@@ -3944,6 +4068,7 @@
     <schema:birthPlace xml:lang="ja">新潟</schema:birthPlace>
     <imas:cv xml:lang="ja">和氣あず未</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/和氣あず未"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q23948485"/>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">E94D1A</imas:Color>
     <imas:Hobby xml:lang="ja">マッサージ</imas:Hobby>
     <imas:Hobby xml:lang="ja">スーパー銭湯</imas:Hobby>
@@ -3973,6 +4098,7 @@
     <schema:birthPlace xml:lang="ja">福井</schema:birthPlace>
     <imas:cv xml:lang="ja">鈴木絵理</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/鈴木絵理"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q17160003"/>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">E89B55</imas:Color>
     <imas:Hobby xml:lang="ja">サイキックトレーニング</imas:Hobby>
   </rdf:Description>
@@ -4078,6 +4204,7 @@
     <schema:birthPlace xml:lang="ja">鹿児島</schema:birthPlace>
     <imas:cv xml:lang="ja">高田憂希</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/高田憂希"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q22125278"/>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">C7BAB4</imas:Color>
     <imas:Hobby xml:lang="ja">悩み事解決</imas:Hobby>
     <imas:Hobby xml:lang="ja">石ころ集め</imas:Hobby>
@@ -4108,6 +4235,7 @@
     <schema:birthPlace xml:lang="ja">神奈川</schema:birthPlace>
     <imas:cv xml:lang="ja">木村珠莉</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/木村珠莉"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q18048266"/>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">EAE28D</imas:Color>
     <imas:Hobby xml:lang="ja">ガーデニング</imas:Hobby>
   </rdf:Description>
@@ -4211,6 +4339,7 @@
     <schema:birthPlace xml:lang="ja">埼玉</schema:birthPlace>
     <imas:cv xml:lang="ja">佳村はるか</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/佳村はるか"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q11385438"/>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">F4982B</imas:Color>
     <imas:Hobby xml:lang="ja">カラオケ</imas:Hobby>
   </rdf:Description>
@@ -4239,6 +4368,7 @@
     <schema:birthPlace xml:lang="ja">埼玉</schema:birthPlace>
     <imas:cv xml:lang="ja">山本希望</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/山本希望"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q9080262"/>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">F7D30D</imas:Color>
     <imas:Hobby xml:lang="ja">シール集め</imas:Hobby>
   </rdf:Description>
@@ -4292,6 +4422,7 @@
     <schema:birthPlace xml:lang="ja">栃木</schema:birthPlace>
     <imas:cv xml:lang="ja">赤﨑千夏</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/赤﨑千夏"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q5100189"/>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">EA4F21</imas:Color>
     <imas:Hobby xml:lang="ja">ラグビー観戦</imas:Hobby>
   </rdf:Description>
@@ -4320,6 +4451,7 @@
     <schema:birthPlace xml:lang="ja">東京</schema:birthPlace>
     <imas:cv xml:lang="ja">松嵜麗</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/松嵜麗"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q391799"/>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">F8CA02</imas:Color>
     <imas:Hobby xml:lang="ja">かわいい物集め</imas:Hobby>
   </rdf:Description>
@@ -4348,6 +4480,7 @@
     <schema:birthPlace xml:lang="ja">秋田</schema:birthPlace>
     <imas:cv xml:lang="ja">原田ひとみ</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/原田ひとみ"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q1046994"/>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">E9425C</imas:Color>
     <imas:Hobby xml:lang="ja">ケーキ作り</imas:Hobby>
   </rdf:Description>
@@ -4447,6 +4580,7 @@
     <schema:birthPlace xml:lang="ja">神奈川</schema:birthPlace>
     <imas:cv xml:lang="ja">原優子</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/原優子"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q17221306"/>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">A90582</imas:Color>
     <imas:Hobby xml:lang="ja">バイクいじり</imas:Hobby>
   </rdf:Description>
@@ -4475,6 +4609,7 @@
     <schema:birthPlace xml:lang="ja">静岡</schema:birthPlace>
     <imas:cv xml:lang="ja">久野美咲</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/久野美咲"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q11369771"/>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">F7DE8C</imas:Color>
     <imas:Hobby xml:lang="ja">着ぐるみ集め</imas:Hobby>
   </rdf:Description>
@@ -4503,6 +4638,7 @@
     <schema:birthPlace xml:lang="ja">秋田</schema:birthPlace>
     <imas:cv xml:lang="ja">深川芹亜</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/深川芹亜"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q17209690"/>
     <imas:Hobby xml:lang="ja">妄想</imas:Hobby>
   </rdf:Description>
 
@@ -4687,6 +4823,7 @@
     <schema:birthPlace xml:lang="ja">大阪</schema:birthPlace>
     <imas:cv xml:lang="ja">伊達朱里紗</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/伊達朱里紗"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q17160797"/>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">E9463D</imas:Color>
     <imas:Hobby xml:lang="ja">お笑いライブ巡り</imas:Hobby>
     <imas:Hobby xml:lang="ja">モノマネ</imas:Hobby>
@@ -4716,6 +4853,7 @@
     <schema:birthPlace xml:lang="ja">三重</schema:birthPlace>
     <imas:cv xml:lang="ja">田澤茉純</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/田澤茉純"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q18048349"/>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">471C87</imas:Color>
     <imas:Hobby xml:lang="ja">撮影所巡り</imas:Hobby>
     <imas:Hobby xml:lang="ja">忍者グッズ収集</imas:Hobby>
@@ -4746,6 +4884,7 @@
     <schema:birthPlace xml:lang="ja">広島</schema:birthPlace>
     <imas:cv xml:lang="ja">花井美春</imas:cv>
     <!--<imas:cv rdf:resource="http://ja.dbpedia.org/resource/花井美春"/>-->
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q44395473"/>
     <imas:Hobby xml:lang="ja">演歌</imas:Hobby>
     <imas:Hobby xml:lang="ja">将棋</imas:Hobby>
   </rdf:Description>
@@ -4852,6 +4991,7 @@
     <schema:birthPlace xml:lang="ja">長野</schema:birthPlace>
     <imas:cv xml:lang="ja">花守ゆみり</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/花守ゆみり"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q17219891"/>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">E44E8E</imas:Color>
     <imas:Hobby xml:lang="ja">ドレスアップ</imas:Hobby>
     <imas:Hobby xml:lang="ja">衣装作り</imas:Hobby>
@@ -4881,6 +5021,7 @@
     <schema:birthPlace xml:lang="ja">徳島</schema:birthPlace>
     <imas:cv xml:lang="ja">神谷早矢佳</imas:cv>
     <!--<imas:cv rdf:resource="http://ja.dbpedia.org/resource/神谷早矢佳"/>-->
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q60296629"/>
     <imas:Hobby xml:lang="ja">特撮番組鑑賞</imas:Hobby>
     <imas:Hobby xml:lang="ja">特撮ごっこ</imas:Hobby>
   </rdf:Description>
@@ -4935,61 +5076,5 @@
     <imas:Hobby xml:lang="ja">夜中の意味深ポエム</imas:Hobby>
     <imas:Hobby xml:lang="ja">現場参戦</imas:Hobby>
   </rdf:Description>
-
-  <rdf:Description rdf:about="detail/Shirayuki_Chiyo">
-    <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cu</imas:Type>
-    <schema:familyName xml:lang="ja">白雪</schema:familyName>
-    <imas:familyNameKana xml:lang="ja">しらゆき</imas:familyNameKana>
-    <schema:givenName xml:lang="ja">千夜</schema:givenName>
-    <imas:givenNameKana xml:lang="ja">ちよ</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
-    <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
-    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
-    <schema:name xml:lang="ja">白雪千夜</schema:name>
-    <imas:nameKana xml:lang="ja">しらゆきちよ</imas:nameKana>
-    <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">157.0</schema:height>
-    <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</foaf:age>
-    <schema:weight xml:lang="ja">40.0</schema:weight>
-    <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--02-04</schema:birthDate>
-    <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">O</imas:BloodType>
-    <imas:Handedness xml:lang="en">right</imas:Handedness>
-    <imas:Bust xml:lang="ja">72</imas:Bust>
-    <imas:Waist xml:lang="ja">52</imas:Waist>
-    <imas:Hip xml:lang="ja">74</imas:Hip>
-    <imas:Constellation xml:lang="ja">水瓶座</imas:Constellation>
-    <imas:cv xml:lang="ja">関口理咲</imas:cv>
-    <!-- <imas:cv rdf:resource="http://ja.dbpedia.org/resource/関口理咲"/> -->
-    <schema:birthPlace xml:lang="ja">北海道</schema:birthPlace>
-    <imas:Hobby xml:lang="ja">料理</imas:Hobby>
-    <imas:Hobby xml:lang="ja">睡眠</imas:Hobby>
-  </rdf:Description>
-
-  <rdf:Description rdf:about="detail/Kurosaki_Chitose">
-    <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cu</imas:Type>
-    <schema:familyName xml:lang="ja">黒埼</schema:familyName>
-    <imas:familyNameKana xml:lang="ja">くろさき</imas:familyNameKana>
-    <schema:givenName xml:lang="ja">ちとせ</schema:givenName>
-    <imas:givenNameKana xml:lang="ja">ちとせ</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
-    <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
-    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
-    <schema:name xml:lang="ja">黒埼ちとせ</schema:name>
-    <imas:nameKana xml:lang="ja">くろさきちとせ</imas:nameKana>
-    <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">164.0</schema:height>
-    <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</foaf:age>
-    <schema:weight xml:lang="ja">44.0</schema:weight>
-    <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--11-10</schema:birthDate>
-    <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">O</imas:BloodType>
-    <imas:Handedness xml:lang="en">right</imas:Handedness>
-    <imas:Bust xml:lang="ja">86</imas:Bust>
-    <imas:Waist xml:lang="ja">58</imas:Waist>
-    <imas:Hip xml:lang="ja">84</imas:Hip>
-    <imas:Constellation xml:lang="ja">蠍座</imas:Constellation>
-    <imas:cv xml:lang="ja">佐倉薫</imas:cv>
-    <imas:cv rdf:resource="http://ja.dbpedia.org/resource/佐倉薫"/>
-    <schema:birthPlace xml:lang="ja">東京</schema:birthPlace>
-    <imas:Hobby xml:lang="ja">美味しいものを食べること</imas:Hobby>
-    <imas:Hobby xml:lang="ja">月光浴</imas:Hobby>
-  </rdf:Description>
-
+  
 </rdf:RDF>
