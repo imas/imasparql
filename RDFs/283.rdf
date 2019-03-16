@@ -529,4 +529,94 @@
     <schema:description xml:lang="ja">クラスに一人はいるごく普通の女の子。明るく親しみやすい性格で、甘いものが大好き。名前にちなんで、チョコ好きアイドルを売りにしている。高校2年生。</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
+
+  <rdf:Description rdf:about="detail/Mayuzumi_Fuyuko">
+    <schema:familyName xml:lang="ja">黛</schema:familyName>
+    <imas:familyNameKana xml:lang="ja">まゆずみ</imas:familyNameKana>
+    <schema:givenName xml:lang="ja">冬優子</schema:givenName>
+    <imas:givenNameKana xml:lang="ja">ふゆこ</imas:givenNameKana>
+    <imas:nameKana xml:lang="ja">まゆずみふゆこ</imas:nameKana>
+    <schema:name xml:lang="ja">黛冬優子</schema:name>
+    <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</foaf:age>
+    <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">163.0</schema:height>
+    <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">55.0</schema:weight>
+    <imas:Bust rdf:datatype="http://www.w3.org/2001/XMLSchema#float">78.0</imas:Bust>
+    <imas:Waist rdf:datatype="http://www.w3.org/2001/XMLSchema#float">59.0</imas:Waist>
+    <imas:Hip rdf:datatype="http://www.w3.org/2001/XMLSchema#float">81.0</imas:Hip>
+    <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--12-04</schema:birthDate>
+    <imas:Constellation xml:lang="ja">射手座</imas:Constellation>
+    <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A</imas:BloodType>
+    <!--<imas:Handedness xml:lang="en"></imas:Handedness>-->
+    <!--<imas:Hobby xml:lang="ja"></imas:Hobby>-->
+    <!--<imas:Talent xml:lang="ja"></imas:Talent>-->
+    <imas:cv xml:lang="ja">幸村恵理</imas:cv>
+    <!--<imas:cv rdf:resource="http://ja.dbpedia.org/resource/幸村恵理"/>-->
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q59141816"/>
+    <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">5CE626</imas:Color>
+    <schema:birthPlace xml:lang="ja">茨城</schema:birthPlace>
+    <schema:gender xml:lang="en">female</schema:gender>
+    <imas:Title xml:lang="en">283Pro</imas:Title>
+    <schema:description xml:lang="ja">常に控えめな笑顔で、清楚な女の子。可愛いものが大好きで、周囲への気配りもできるため人に好かれる性格。専門学校1年生。</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="detail/Serizawa_Asahi">
+    <schema:familyName xml:lang="ja">芹沢</schema:familyName>
+    <imas:familyNameKana xml:lang="ja">せりざわ</imas:familyNameKana>
+    <schema:givenName xml:lang="ja">あさひ</schema:givenName>
+    <imas:givenNameKana xml:lang="ja">あさひ</imas:givenNameKana>
+    <imas:nameKana xml:lang="ja">せりざわあさひ</imas:nameKana>
+    <schema:name xml:lang="ja">芹沢あさひ</schema:name>
+    <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14</foaf:age>
+    <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">153.0</schema:height>
+    <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">47.0</schema:weight>
+    <imas:Bust rdf:datatype="http://www.w3.org/2001/XMLSchema#float">78.0</imas:Bust>
+    <imas:Waist rdf:datatype="http://www.w3.org/2001/XMLSchema#float">58.0</imas:Waist>
+    <imas:Hip rdf:datatype="http://www.w3.org/2001/XMLSchema#float">77.0</imas:Hip>
+    <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--01-04</schema:birthDate>
+    <imas:Constellation xml:lang="ja">山羊座</imas:Constellation>
+    <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AB</imas:BloodType>
+    <!--<imas:Handedness xml:lang="en"></imas:Handedness>-->
+    <!--<imas:Hobby xml:lang="ja"></imas:Hobby>-->
+    <!--<imas:Talent xml:lang="ja"></imas:Talent>-->
+    <imas:cv xml:lang="ja">田中有紀 </imas:cv>
+    <imas:cv rdf:resource="http://ja.dbpedia.org/resource/田中有紀"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q62078438"/>
+    <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">F30100</imas:Color>
+    <schema:birthPlace xml:lang="ja"> 東京</schema:birthPlace>
+    <schema:gender xml:lang="en">female</schema:gender>
+    <imas:Title xml:lang="en">283Pro</imas:Title>
+    <schema:description xml:lang="ja">常に面白いことを探し、じっとしていることがない、探究心の強い女の子。興味を持ったら一直線だが、飽きっぽい一面も持つ中学2年生。</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="detail/Izumi_Mei">
+    <schema:familyName xml:lang="ja">和泉</schema:familyName>
+    <imas:familyNameKana xml:lang="ja">いずみ</imas:familyNameKana>
+    <schema:givenName xml:lang="ja">愛依</schema:givenName>
+    <imas:givenNameKana xml:lang="ja">めい</imas:givenNameKana>
+    <imas:nameKana xml:lang="ja">いずみめい</imas:nameKana>
+    <schema:name xml:lang="ja">和泉愛依</schema:name>
+    <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</foaf:age>
+    <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">162.0</schema:height>
+    <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">51.0</schema:weight>
+    <imas:Bust rdf:datatype="http://www.w3.org/2001/XMLSchema#float">90.0</imas:Bust>
+    <imas:Waist rdf:datatype="http://www.w3.org/2001/XMLSchema#float">58.0</imas:Waist>
+    <imas:Hip rdf:datatype="http://www.w3.org/2001/XMLSchema#float">88.0</imas:Hip>
+    <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--08-02</schema:birthDate>
+    <imas:Constellation xml:lang="ja">獅子座</imas:Constellation>
+    <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">O</imas:BloodType>
+    <!--<imas:Handedness xml:lang="en"></imas:Handedness>-->
+    <!--<imas:Hobby xml:lang="ja"></imas:Hobby>-->
+    <!--<imas:Talent xml:lang="ja"></imas:Talent>-->
+    <imas:cv xml:lang="ja">北原沙弥香</imas:cv>
+    <imas:cv rdf:resource="http://ja.dbpedia.org/resource/北原沙弥香"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q1050949"/>
+    <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">FF00FF</imas:Color>
+    <schema:birthPlace xml:lang="ja">埼玉</schema:birthPlace>
+    <schema:gender xml:lang="en">female</schema:gender>
+    <imas:Title xml:lang="en">283Pro</imas:Title>
+    <schema:description xml:lang="ja">ノリがよく、楽天的で大雑把な性格の女の子。難しいことを考えるのは苦手だが、親しみやすい高校3年生。</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+  </rdf:Description>
 </rdf:RDF>
