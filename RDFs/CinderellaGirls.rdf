@@ -32,7 +32,7 @@
     <schema:gender xml:lang="en">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
-    <schema:name xml:lang="ja">島村卯月</schema:name>
+    <schema:name xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">島村卯月</schema:name>
     <imas:nameKana xml:lang="ja">しまむらうづき</imas:nameKana>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">159.0</schema:height>
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</foaf:age>
