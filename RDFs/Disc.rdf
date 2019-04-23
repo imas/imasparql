@@ -22,7 +22,7 @@
     xmlns:imas="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#"
     xmlns:mo="http://purl.org/ontology/mo/"
     >
-  
+
   <rdf:Description rdf:about="detail/THE%20IDOLM%40STER%20MASTERPIECE%2001">
     <rdf:type rdf:resource="https://schema.org/MusicAlbum"/>
     <schema:albumReleaseType xml:lang="ja">アルバム</schema:albumReleaseType>
@@ -52,6 +52,4 @@
     <schema:musicReleaseFormat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CD12cm</schema:musicReleaseFormat>
     <schema:releaseOf rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/THE%20IDOLM%40STER%20MASTERPIECE%2001"/>
   </rdf:Description>
-  
-  
 </rdf:RDF>
