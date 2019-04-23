@@ -63,40 +63,40 @@ imas:Facility                   a   rdfs:Class ;
     rdfs:comment                    "施設を表すクラス" ;
     rdfs:label                      "施設"@ja ;
     rdfs:subClassOf                 schema:Place .
-    
+
 imas:CinderellaRankingResult    a   rdfs:Class ;
     rdfs:comment                    "シンデレラガールズ総選挙結果を表すクラス" ;
     rdfs:label                      "シンデレラガールズ総選挙結果"@ja .
-    
+
 imas:Live                       a   rdfs:Class ;
     rdfs:comment                    "ライブを表すクラス" ;
     rdfs:label                      "ライブ"@ja ;
     rdfs:subClassOf                 schema:MusicEvent .
-    
+
 imas:SetlistNumber               a   rdfs:Class ;
     rdfs:comment                    "セットリスト楽曲を表すクラス" ;
     rdfs:label                      "セットリスト楽曲"@ja .
-    
+
 imas:ScriptText                 a   rdfs:Class ;
     rdfs:comment                    "セリフを表すクラス" ;
     rdfs:label                      "セリフ"@ja .
-    
+
 imas:Communication              a   rdfs:Class ;
     rdfs:comment                    "コミュを表すクラス" ;
     rdfs:label                      "コミュ"@ja .
-    
+
 imas:CallName                   a   rdfs:Class ;
     rdfs:comment                    "呼び名を表すクラス" ;
     rdfs:label                      "呼び名"@ja .
-    
+
 imas:Introduction               a   rdfs:Class ;
     rdfs:comment                    "シンデレラガールズ アイドル紹介を表すクラス" ;
     rdfs:label                      "シンデレラガールズ アイドル紹介"@ja .
-    
+
 imas:Clothes                    a   rdfs:Class ;
     rdfs:comment                    "衣装を表すクラス" ;
     rdfs:label                      "衣装"@ja .
-    
+
 # ここからはプロパティ
 imas:familyNameKana     a   rdf:Property ;
     rdfs:comment            "姓のよみがなを表すプロパティ" ;
@@ -117,115 +117,115 @@ imas:alternateNameKana  a   rdf:Property ;
 imas:Attribute          a   rdf:Property ;
     rdfs:comment            "属性(Vo,Da,Vi)を表すプロパティ" ;
     rdfs:label              "属性"@ja .
-    
+
 imas:Type               a   rdf:Property ;
     rdfs:comment            "タイプ(Cu,Co,Pa)を表すプロパティ" ;
     rdfs:label              "タイプ"@ja .
-    
+
 imas:Category           a   rdf:Property ;
     rdfs:comment            "カテゴリ(メンタル・フィジカル・インテリ)を表すプロパティ" ;
     rdfs:label              "カテゴリ"@ja .
-    
+
 imas:Division           a   rdf:Property ;
     rdfs:comment            "区分(Princess・Fairy・Angel)を表すプロパティ" ;
     rdfs:label              "区分"@ja .
-    
+
 imas:BloodType          a   rdf:Property ;
     rdfs:comment            "血液型を表すプロパティ" ;
     rdfs:label              "血液型"@ja .
-    
+
 imas:Bust               a   rdf:Property ;
     rdfs:comment            "胸囲を表すプロパティ" ;
     rdfs:label              "胸囲"@ja .
-    
+
 imas:Waist              a   rdf:Property ;
     rdfs:comment            "腹囲を表すプロパティ" ;
     rdfs:label              "腹囲"@ja .
-    
+
 imas:ShoeSize           a   rdf:Property ;
     rdfs:comment            "靴のサイズを表すプロパティ" ;
     rdfs:label              "靴のサイズ"@ja .
-    
+
 imas:Hip                a   rdf:Property ;
     rdfs:comment            "臀囲(尻囲)を表すプロパティ" ;
     rdfs:label              "臀囲"@ja .
-    
+
 imas:Handedness         a   rdf:Property ;
     rdfs:comment            "利き手を表すプロパティ" ;
     rdfs:label              "利き手"@ja .
-    
+
 imas:Hobby              a   rdf:Property ;
     rdfs:comment            "趣味を表すプロパティ" ;
     rdfs:label              "趣味"@ja .
-    
+
 imas:Talent             a   rdf:Property ;
     rdfs:comment            "特技を表すプロパティ" ;
     rdfs:label              "特技"@ja .
-    
+
 imas:Favorite           a   rdf:Property ;
     rdfs:comment            "好きなものを表すプロパティ" ;
     rdfs:label              "好きなもの"@ja .
-    
+
 imas:Color              a   rdf:Property ;
     rdfs:comment            "イメージカラーを表すプロパティ" ;
     rdfs:label              "イメージカラー"@ja .
-    
+
 imas:cv                 a   rdf:Property ;
     rdfs:comment            "担当声優を表すプロパティ" ;
     rdfs:label              "担当声優"@ja .
-    
+
 imas:Constellation      a   rdf:Property ;
     rdfs:comment            "星座を表すプロパティ" ;
     rdfs:label              "星座"@ja .
-    
+
 imas:VoteNumber         a   rdf:Property ;
     rdfs:comment            "得票数を表すプロパティ" ;
     rdfs:label              "得票数"@ja .
-    
+
 imas:TuneNumber         a   rdf:Property ;
     rdfs:comment            "セットリスト内番号を表すプロパティ" ;
     rdfs:label              "セットリスト内番号"@ja .
-    
+
 imas:Performance     a   rdf:Property ;
     rdfs:comment            "披露した曲を表すプロパティ" ;
     rdfs:label              "披露した曲"@ja .
-    
+
 imas:NumPerformance     a   rdf:Property ;
     rdfs:comment            "披露した曲数を表すプロパティ" ;
     rdfs:label              "披露した曲数"@ja .
-    
+
 imas:NumPerformanceEncore   a   rdf:Property ;
     rdfs:comment            "披露したアンコール曲数を表すプロパティ" ;
     rdfs:label              "披露したアンコール曲数"@ja .
-    
+
 imas:Script                 a   rdf:Property ;
     rdfs:comment            "セリフテキストを表すプロパティ" ;
     rdfs:label              "セリフテキスト"@ja .
-    
+
 imas:ScriptNumber           a   rdf:Property ;
     rdfs:comment            "セリフテキスト番号を表すプロパティ" ;
     rdfs:label              "セリフテキスト番号"@ja .
-    
+
 imas:Source                 a   rdf:Property ;
     rdfs:comment            "出どころを表すプロパティ" ;
     rdfs:label              "出どころ"@ja .
-    
+
 imas:SpeakerLabel           a   rdf:Property ;
     rdfs:comment            "発言者表記を表すプロパティ" ;
     rdfs:label              "発言者表記"@ja .
-    
+
 imas:Destination            a   rdf:Property ;
     rdfs:comment            "あて先を表すプロパティ" ;
     rdfs:label              "あて先"@ja .
-    
+
 imas:Called                 a   rdf:Property ;
     rdfs:comment            "呼び方を表すプロパティ" ;
     rdfs:label              "呼び方"@ja .
-    
+
 imas:Title                  a   rdf:Property ;
     rdfs:comment            "所属コンテンツを表すプロパティ" ;
     rdfs:label              "所属コンテンツ"@ja .
-    
+
 imas:Whose                  a   rdf:Property ;
     rdfs:comment            "所有者を表すプロパティ" ;
     rdfs:label              "所有者"@ja .
