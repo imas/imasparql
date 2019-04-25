@@ -24,7 +24,7 @@
     >
 
   <rdf:Description rdf:about="detail/NBGI%28%E7%A5%9E%E5%89%8D%E6%9A%81%29%EF%BC%86NBGI%28%E7%A5%9E%E5%89%8D%E6%9A%81%29">
-    <rdf:type rdf:resource="https://schema.org/MusicComposition"/>
+    <rdf:type rdf:resource="http://schema.org/MusicComposition"/>
     <schema:composer xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">NBGI(神前暁)</schema:composer>
     <schema:lyricist xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">NBGI(神前暁)</schema:lyricist>
     <schema:musicCompositionForm xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">ゲーム</schema:musicCompositionForm>
@@ -34,7 +34,7 @@
     <schema:name xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">NBGI(神前暁)＆NBGI(神前暁)</schema:name>
   </rdf:Description>
   <rdf:Description rdf:about="detail/NBGI%28%E4%BD%90%E3%80%85%E6%9C%A8%E5%AE%8F%E4%BA%BA%29%EF%BC%86%E4%B8%AD%E6%9D%91%E6%81%B5">
-    <rdf:type rdf:resource="https://schema.org/MusicComposition"/>
+    <rdf:type rdf:resource="http://schema.org/MusicComposition"/>
     <schema:composer xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">NBGI(佐々木宏人)</schema:composer>
     <schema:lyricist xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">中村恵</schema:lyricist>
     <schema:musicCompositionForm xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">ゲーム</schema:musicCompositionForm>
@@ -44,7 +44,7 @@
     <schema:name xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">NBGI(佐々木宏人)＆中村恵</schema:name>
   </rdf:Description>
   <rdf:Description rdf:about="detail/NBGI%28%E6%A4%8E%E5%90%8D%E8%B1%AA%29%EF%BC%86%E6%A3%AE%E7%94%B1%E9%87%8C%E5%AD%90">
-    <rdf:type rdf:resource="https://schema.org/MusicComposition"/>
+    <rdf:type rdf:resource="http://schema.org/MusicComposition"/>
     <schema:composer xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">NBGI(椎名豪)</schema:composer>
     <schema:lyricist xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">森由里子</schema:lyricist>
     <schema:musicCompositionForm xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">ゲーム</schema:musicCompositionForm>
