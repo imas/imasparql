@@ -34,7 +34,7 @@
     <imas:Category xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">フィジカル</imas:Category>
     <imas:Constellation xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">魚座</imas:Constellation>
     <schema:birthPlace xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">神奈川</schema:birthPlace>
-    <imas:Handedness xml:lang="en">right</imas:Handedness>
+    <imas:Handedness xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">right</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">175.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">57.0</schema:weight>
     <imas:ShoeSize rdf:datatype="http://www.w3.org/2001/XMLSchema#float">25.5</imas:ShoeSize>
@@ -45,8 +45,8 @@
     <imas:Hobby xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">料理</imas:Hobby>
     <imas:Hobby xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">フィギュア集め</imas:Hobby>
     <imas:Talent xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">スパイスからのカレー作り</imas:Talent>
-    <schema:gender xml:lang="en">male</schema:gender>
-    <imas:Title xml:lang="en">315ProIdols</imas:Title>
+    <schema:gender xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">male</schema:gender>
+    <imas:Title xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
@@ -63,7 +63,7 @@
     <imas:Constellation xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">牡牛座</imas:Constellation>
     <imas:Category xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">メンタル</imas:Category>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AB</imas:BloodType>
-    <imas:Handedness xml:lang="en">left</imas:Handedness>
+    <imas:Handedness xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">left</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">163.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">49.0</schema:weight>
     <imas:ShoeSize rdf:datatype="http://www.w3.org/2001/XMLSchema#float">24.5</imas:ShoeSize>
@@ -73,8 +73,8 @@
     <imas:Hobby xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">寝ること</imas:Hobby>
     <imas:Hobby xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">親孝行♪</imas:Hobby>
     <imas:Talent xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">バク転</imas:Talent>
-    <schema:gender xml:lang="en">male</schema:gender>
-    <imas:Title xml:lang="en">315ProIdols</imas:Title>
+    <schema:gender xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">male</schema:gender>
+    <imas:Title xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
@@ -90,7 +90,7 @@
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">O</imas:BloodType>
     <schema:birthPlace xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">京都</schema:birthPlace>
     <imas:Constellation xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">水瓶座</imas:Constellation>
-    <imas:Handedness xml:lang="en">right</imas:Handedness>
+    <imas:Handedness xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">right</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">180.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">64.0</schema:weight>
     <imas:ShoeSize rdf:datatype="http://www.w3.org/2001/XMLSchema#float">26.5</imas:ShoeSize>
@@ -102,8 +102,8 @@
     <imas:Hobby xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">ヴァイオリン</imas:Hobby>
     <imas:Hobby xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">デート</imas:Hobby>
     <imas:Talent xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">高速ネコふんじゃった</imas:Talent>
-    <schema:gender xml:lang="en">male</schema:gender>
-    <imas:Title xml:lang="en">315ProIdols</imas:Title>
+    <schema:gender xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">male</schema:gender>
+    <imas:Title xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
@@ -119,7 +119,7 @@
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">B</imas:BloodType>
     <schema:birthPlace xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">福島</schema:birthPlace>
     <imas:Constellation xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">魚座</imas:Constellation>
-    <imas:Handedness xml:lang="en">right</imas:Handedness>
+    <imas:Handedness xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">right</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">175.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">63.0</schema:weight>
     <imas:ShoeSize rdf:datatype="http://www.w3.org/2001/XMLSchema#float">26.0</imas:ShoeSize>
@@ -130,8 +130,8 @@
     <imas:Hobby xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">特撮</imas:Hobby>
     <imas:Hobby xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">ダーツ</imas:Hobby>
     <imas:Talent xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">料理</imas:Talent>
-    <schema:gender xml:lang="en">male</schema:gender>
-    <imas:Title xml:lang="en">315ProIdols</imas:Title>
+    <schema:gender xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">male</schema:gender>
+    <imas:Title xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
@@ -147,7 +147,7 @@
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A</imas:BloodType>
     <schema:birthPlace xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">京都</schema:birthPlace>
     <imas:Constellation xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">天秤座</imas:Constellation>
-    <imas:Handedness xml:lang="en">both</imas:Handedness>
+    <imas:Handedness xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">both</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">178.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">58.0</schema:weight>
     <imas:ShoeSize rdf:datatype="http://www.w3.org/2001/XMLSchema#float">26.5</imas:ShoeSize>
@@ -157,8 +157,8 @@
     <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q17349748"/>
     <imas:Hobby xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">姉の形見の擦り切れた詩集を読む</imas:Hobby>
     <imas:Talent xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">手品</imas:Talent>
-    <schema:gender xml:lang="en">male</schema:gender>
-    <imas:Title xml:lang="en">315ProIdols</imas:Title>
+    <schema:gender xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">male</schema:gender>
+    <imas:Title xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
@@ -174,7 +174,7 @@
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">O</imas:BloodType>
     <schema:birthPlace xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">新潟</schema:birthPlace>
     <imas:Constellation xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">双子座</imas:Constellation>
-    <imas:Handedness xml:lang="en">left</imas:Handedness>
+    <imas:Handedness xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">left</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">182.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">68.0</schema:weight>
     <imas:ShoeSize rdf:datatype="http://www.w3.org/2001/XMLSchema#float">27.0</imas:ShoeSize>
@@ -187,8 +187,8 @@
     <imas:Hobby xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">エコノミークラスで世界を旅する</imas:Hobby>
     <imas:Talent xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">大食い</imas:Talent>
     <imas:Talent xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">天気読み</imas:Talent>
-    <schema:gender xml:lang="en">male</schema:gender>
-    <imas:Title xml:lang="en">315ProIdols</imas:Title>
+    <schema:gender xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">male</schema:gender>
+    <imas:Title xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
@@ -204,7 +204,7 @@
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">O</imas:BloodType>
     <schema:birthPlace xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">ベルリン</schema:birthPlace>
     <imas:Constellation xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">牡牛座</imas:Constellation>
-    <imas:Handedness xml:lang="en">left</imas:Handedness>
+    <imas:Handedness xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">left</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">182.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">54.0</schema:weight>
     <imas:ShoeSize rdf:datatype="http://www.w3.org/2001/XMLSchema#float">27.0</imas:ShoeSize>
@@ -214,8 +214,8 @@
     <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q18457703"/>
     <imas:Hobby xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">なし</imas:Hobby>
     <imas:Talent xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">ピアノ</imas:Talent>
-    <schema:gender xml:lang="en">male</schema:gender>
-    <imas:Title xml:lang="en">315ProIdols</imas:Title>
+    <schema:gender xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">male</schema:gender>
+    <imas:Title xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
@@ -231,7 +231,7 @@
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">B</imas:BloodType>
     <schema:birthPlace xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">東京</schema:birthPlace>
     <imas:Constellation xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">双子座</imas:Constellation>
-    <imas:Handedness xml:lang="en">right</imas:Handedness>
+    <imas:Handedness xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">right</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">165.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">52.0</schema:weight>
     <imas:ShoeSize rdf:datatype="http://www.w3.org/2001/XMLSchema#float">24.5</imas:ShoeSize>
@@ -241,8 +241,8 @@
     <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q26043734"/>
     <imas:Hobby xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">ハンドクリームを塗ること</imas:Hobby>
     <imas:Talent xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">1回聞いた音楽を正確にヴァイオリンで奏でることができる</imas:Talent>
-    <schema:gender xml:lang="en">male</schema:gender>
-    <imas:Title xml:lang="en">315ProIdols</imas:Title>
+    <schema:gender xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">male</schema:gender>
+    <imas:Title xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
@@ -258,7 +258,7 @@
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A</imas:BloodType>
     <schema:birthPlace xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">東京</schema:birthPlace>
     <imas:Constellation xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">水瓶座</imas:Constellation>
-    <imas:Handedness xml:lang="en">right</imas:Handedness>
+    <imas:Handedness xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">right</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">182.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">62.0</schema:weight>
     <imas:ShoeSize rdf:datatype="http://www.w3.org/2001/XMLSchema#float">27.0</imas:ShoeSize>
@@ -268,8 +268,8 @@
     <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q18225739"/>
     <imas:Hobby xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">洗濯</imas:Hobby>
     <imas:Talent xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">暗算</imas:Talent>
-    <schema:gender xml:lang="en">male</schema:gender>
-    <imas:Title xml:lang="en">315ProIdols</imas:Title>
+    <schema:gender xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">male</schema:gender>
+    <imas:Title xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
@@ -281,7 +281,7 @@
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">O</imas:BloodType>
     <schema:birthPlace xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">うみのむこう</schema:birthPlace>
     <imas:Constellation xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">獅子座</imas:Constellation>
-    <imas:Handedness xml:lang="en">both</imas:Handedness>
+    <imas:Handedness xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">both</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">165.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">50.0</schema:weight>
     <imas:ShoeSize rdf:datatype="http://www.w3.org/2001/XMLSchema#float">24.5</imas:ShoeSize>
@@ -291,8 +291,8 @@
     <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q22129969"/>
     <imas:Hobby xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">きぐるみとのしゃしんさつえい</imas:Hobby>
     <imas:Talent xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">みかんのはやむき</imas:Talent>
-    <schema:gender xml:lang="en">male</schema:gender>
-    <imas:Title xml:lang="en">315ProIdols</imas:Title>
+    <schema:gender xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">male</schema:gender>
+    <imas:Title xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
@@ -308,7 +308,7 @@
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AB</imas:BloodType>
     <schema:birthPlace xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">茨城</schema:birthPlace>
     <imas:Constellation xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">牡羊座</imas:Constellation>
-    <imas:Handedness xml:lang="en">right</imas:Handedness>
+    <imas:Handedness xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">right</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">178.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">55.0</schema:weight>
     <imas:ShoeSize rdf:datatype="http://www.w3.org/2001/XMLSchema#float">26.5</imas:ShoeSize>
@@ -318,8 +318,8 @@
     <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q21019125"/>
     <imas:Hobby xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">ハンドクリーム集め</imas:Hobby>
     <imas:Talent xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">運転時の抜け道探し</imas:Talent>
-    <schema:gender xml:lang="en">male</schema:gender>
-    <imas:Title xml:lang="en">315ProIdols</imas:Title>
+    <schema:gender xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">male</schema:gender>
+    <imas:Title xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
@@ -335,7 +335,7 @@
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">B</imas:BloodType>
     <schema:birthPlace xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">長野</schema:birthPlace>
     <imas:Constellation xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">蟹座</imas:Constellation>
-    <imas:Handedness xml:lang="en">left</imas:Handedness>
+    <imas:Handedness xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">left</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">161.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">52.0</schema:weight>
     <imas:ShoeSize rdf:datatype="http://www.w3.org/2001/XMLSchema#float">24.0</imas:ShoeSize>
@@ -345,8 +345,8 @@
     <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q24865828"/>
     <imas:Hobby xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">サッカー</imas:Hobby>
     <imas:Talent xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">サッカー</imas:Talent>
-    <schema:gender xml:lang="en">male</schema:gender>
-    <imas:Title xml:lang="en">315ProIdols</imas:Title>
+    <schema:gender xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">male</schema:gender>
+    <imas:Title xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
@@ -362,7 +362,7 @@
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">B</imas:BloodType>
     <schema:birthPlace xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">長野</schema:birthPlace>
     <imas:Constellation xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">蟹座</imas:Constellation>
-    <imas:Handedness xml:lang="en">right</imas:Handedness>
+    <imas:Handedness xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">right</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">161.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">52.0</schema:weight>
     <imas:ShoeSize rdf:datatype="http://www.w3.org/2001/XMLSchema#float">24.0</imas:ShoeSize>
@@ -373,8 +373,8 @@
     <imas:Hobby xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">知恵の輪</imas:Hobby>
     <imas:Talent xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">練習メニューの組み立て</imas:Talent>
     <imas:Talent xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">コーチング</imas:Talent>
-    <schema:gender xml:lang="en">male</schema:gender>
-    <imas:Title xml:lang="en">315ProIdols</imas:Title>
+    <schema:gender xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">male</schema:gender>
+    <imas:Title xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
@@ -390,7 +390,7 @@
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AB</imas:BloodType>
     <schema:birthPlace xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">神奈川</schema:birthPlace>
     <imas:Constellation xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">魚座</imas:Constellation>
-    <imas:Handedness xml:lang="en">left</imas:Handedness>
+    <imas:Handedness xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">left</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">171.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">67.0</schema:weight>
     <imas:ShoeSize rdf:datatype="http://www.w3.org/2001/XMLSchema#float">25.5</imas:ShoeSize>
@@ -401,8 +401,8 @@
     <imas:Hobby xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">トレラン</imas:Hobby>
     <imas:Talent xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">警察犬の訓練</imas:Talent>
     <imas:Talent xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">動物全般の躾</imas:Talent>
-    <schema:gender xml:lang="en">male</schema:gender>
-    <imas:Title xml:lang="en">315ProIdols</imas:Title>
+    <schema:gender xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">male</schema:gender>
+    <imas:Title xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
@@ -418,7 +418,7 @@
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">B</imas:BloodType>
     <schema:birthPlace xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">千葉</schema:birthPlace>
     <imas:Constellation xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">牡牛座</imas:Constellation>
-    <imas:Handedness xml:lang="en">right</imas:Handedness>
+    <imas:Handedness xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">right</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">175.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">70.0</schema:weight>
     <imas:ShoeSize rdf:datatype="http://www.w3.org/2001/XMLSchema#float">26.0</imas:ShoeSize>
@@ -428,8 +428,8 @@
     <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q20042322"/>
     <imas:Hobby xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">昼寝</imas:Hobby>
     <imas:Talent xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">裁縫</imas:Talent>
-    <schema:gender xml:lang="en">male</schema:gender>
-    <imas:Title xml:lang="en">315ProIdols</imas:Title>
+    <schema:gender xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">male</schema:gender>
+    <imas:Title xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
@@ -445,7 +445,7 @@
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">B</imas:BloodType>
     <schema:birthPlace xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">熊本</schema:birthPlace>
     <imas:Constellation xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">山羊座</imas:Constellation>
-    <imas:Handedness xml:lang="en">right</imas:Handedness>
+    <imas:Handedness xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">right</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">185.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">78.0</schema:weight>
     <imas:ShoeSize rdf:datatype="http://www.w3.org/2001/XMLSchema#float">27.0</imas:ShoeSize>
@@ -455,8 +455,8 @@
     <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q17230347"/>
     <imas:Hobby xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">料理</imas:Hobby>
     <imas:Talent xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">銃器類の早解体</imas:Talent>
-    <schema:gender xml:lang="en">male</schema:gender>
-    <imas:Title xml:lang="en">315ProIdols</imas:Title>
+    <schema:gender xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">male</schema:gender>
+    <imas:Title xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
@@ -472,7 +472,7 @@
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AB</imas:BloodType>
     <schema:birthPlace xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">群馬</schema:birthPlace>
     <imas:Constellation xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">蠍座</imas:Constellation>
-    <imas:Handedness xml:lang="en">both</imas:Handedness>
+    <imas:Handedness xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">both</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">165.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">54.0</schema:weight>
     <imas:ShoeSize rdf:datatype="http://www.w3.org/2001/XMLSchema#float">24.5</imas:ShoeSize>
@@ -482,8 +482,8 @@
     <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q15975368"/>
     <imas:Hobby xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">珍獣観察</imas:Hobby>
     <imas:Talent xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">人間・動物からマンガやアニメのキャラクターのモノマネや形態模写</imas:Talent>
-    <schema:gender xml:lang="en">male</schema:gender>
-    <imas:Title xml:lang="en">315ProIdols</imas:Title>
+    <schema:gender xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">male</schema:gender>
+    <imas:Title xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
@@ -499,7 +499,7 @@
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AB</imas:BloodType>
     <schema:birthPlace xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">新潟</schema:birthPlace>
     <imas:Constellation xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">乙女座</imas:Constellation>
-    <imas:Handedness xml:lang="en">left</imas:Handedness>
+    <imas:Handedness xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">left</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">174.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">55.0</schema:weight>
     <imas:ShoeSize rdf:datatype="http://www.w3.org/2001/XMLSchema#float">25.5</imas:ShoeSize>
@@ -509,8 +509,8 @@
     <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q24865667"/>
     <imas:Hobby xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">メイド喫茶巡り</imas:Hobby>
     <imas:Talent xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">和太鼓演奏</imas:Talent>
-    <schema:gender xml:lang="en">male</schema:gender>
-    <imas:Title xml:lang="en">315ProIdols</imas:Title>
+    <schema:gender xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">male</schema:gender>
+    <imas:Title xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
@@ -526,7 +526,7 @@
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A</imas:BloodType>
     <schema:birthPlace xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">鎌倉</schema:birthPlace>
     <imas:Constellation xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">蟹座</imas:Constellation>
-    <imas:Handedness xml:lang="en">right</imas:Handedness>
+    <imas:Handedness xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">right</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">178.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">67.0</schema:weight>
     <imas:ShoeSize rdf:datatype="http://www.w3.org/2001/XMLSchema#float">26.5</imas:ShoeSize>
@@ -537,8 +537,8 @@
     <imas:Hobby xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">いろいろな入浴剤収集</imas:Hobby>
     <imas:Talent xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">競技かるた</imas:Talent>
     <imas:Talent xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">投扇興</imas:Talent>
-    <schema:gender xml:lang="en">male</schema:gender>
-    <imas:Title xml:lang="en">315ProIdols</imas:Title>
+    <schema:gender xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">male</schema:gender>
+    <imas:Title xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
@@ -554,7 +554,7 @@
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A</imas:BloodType>
     <schema:birthPlace xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">兵庫</schema:birthPlace>
     <imas:Constellation xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">蠍座</imas:Constellation>
-    <imas:Handedness xml:lang="en">right</imas:Handedness>
+    <imas:Handedness xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">right</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">162.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">48.0</schema:weight>
     <imas:ShoeSize rdf:datatype="http://www.w3.org/2001/XMLSchema#float">24.0</imas:ShoeSize>
@@ -565,8 +565,8 @@
     <imas:Hobby xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">ゲーム</imas:Hobby>
     <imas:Hobby xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">ギター</imas:Hobby>
     <imas:Talent xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">野球選手のモノマネ</imas:Talent>
-    <schema:gender xml:lang="en">male</schema:gender>
-    <imas:Title xml:lang="en">315ProIdols</imas:Title>
+    <schema:gender xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">male</schema:gender>
+    <imas:Title xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
@@ -582,7 +582,7 @@
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">B</imas:BloodType>
     <schema:birthPlace xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">山梨</schema:birthPlace>
     <imas:Constellation xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">山羊座</imas:Constellation>
-    <imas:Handedness xml:lang="en">right</imas:Handedness>
+    <imas:Handedness xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">right</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">158.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">49.0</schema:weight>
     <imas:ShoeSize rdf:datatype="http://www.w3.org/2001/XMLSchema#float">23.5</imas:ShoeSize>
@@ -592,8 +592,8 @@
     <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q20760484"/>
     <imas:Hobby xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">読書</imas:Hobby>
     <imas:Talent xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">ピアノ</imas:Talent>
-    <schema:gender xml:lang="en">male</schema:gender>
-    <imas:Title xml:lang="en">315ProIdols</imas:Title>
+    <schema:gender xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">male</schema:gender>
+    <imas:Title xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
@@ -609,7 +609,7 @@
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AB</imas:BloodType>
     <schema:birthPlace xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">札幌</schema:birthPlace>
     <imas:Constellation xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">双子座</imas:Constellation>
-    <imas:Handedness xml:lang="en">left</imas:Handedness>
+    <imas:Handedness xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">left</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">170.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">54.0</schema:weight>
     <imas:ShoeSize rdf:datatype="http://www.w3.org/2001/XMLSchema#float">25.5</imas:ShoeSize>
@@ -620,8 +620,8 @@
     <imas:Hobby xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">人間観察</imas:Hobby>
     <imas:Hobby xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">ヴァイオリン</imas:Hobby>
     <imas:Talent xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">気配を消すこと</imas:Talent>
-    <schema:gender xml:lang="en">male</schema:gender>
-    <imas:Title xml:lang="en">315ProIdols</imas:Title>
+    <schema:gender xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">male</schema:gender>
+    <imas:Title xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
@@ -637,7 +637,7 @@
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">O</imas:BloodType>
     <schema:birthPlace xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">石川</schema:birthPlace>
     <imas:Constellation xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">牡羊座</imas:Constellation>
-    <imas:Handedness xml:lang="en">right</imas:Handedness>
+    <imas:Handedness xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">right</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">173.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">56.0</schema:weight>
     <imas:ShoeSize rdf:datatype="http://www.w3.org/2001/XMLSchema#float">25.5</imas:ShoeSize>
@@ -647,8 +647,8 @@
     <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q11579372"/>
     <imas:Hobby xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">散歩</imas:Hobby>
     <imas:Talent xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">ヘアメイク</imas:Talent>
-    <schema:gender xml:lang="en">male</schema:gender>
-    <imas:Title xml:lang="en">315ProIdols</imas:Title>
+    <schema:gender xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">male</schema:gender>
+    <imas:Title xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
@@ -664,7 +664,7 @@
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A</imas:BloodType>
     <schema:birthPlace xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">青森</schema:birthPlace>
     <imas:Constellation xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">牡羊座</imas:Constellation>
-    <imas:Handedness xml:lang="en">left</imas:Handedness>
+    <imas:Handedness xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">left</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">169.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">52.0</schema:weight>
     <imas:ShoeSize rdf:datatype="http://www.w3.org/2001/XMLSchema#float">25.0</imas:ShoeSize>
@@ -675,8 +675,8 @@
     <imas:Hobby xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">カラオケ</imas:Hobby>
     <imas:Hobby xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">ハデパン集め</imas:Hobby>
     <imas:Talent xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">カラオケ採点で意のままの点数を出せる</imas:Talent>
-    <schema:gender xml:lang="en">male</schema:gender>
-    <imas:Title xml:lang="en">315ProIdols</imas:Title>
+    <schema:gender xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">male</schema:gender>
+    <imas:Title xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
@@ -692,7 +692,7 @@
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A</imas:BloodType>
     <schema:birthPlace xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">北海道</schema:birthPlace>
     <imas:Constellation xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">牡羊座</imas:Constellation>
-    <imas:Handedness xml:lang="en">right</imas:Handedness>
+    <imas:Handedness xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">right</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">170.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">65.0</schema:weight>
     <imas:ShoeSize rdf:datatype="http://www.w3.org/2001/XMLSchema#float">25.5</imas:ShoeSize>
@@ -702,8 +702,8 @@
     <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q17222626"/>
     <imas:Hobby xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">頭に「にゃこ」を乗せて散歩</imas:Hobby>
     <imas:Talent xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">天空朱雀落とし</imas:Talent>
-    <schema:gender xml:lang="en">male</schema:gender>
-    <imas:Title xml:lang="en">315ProIdols</imas:Title>
+    <schema:gender xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">male</schema:gender>
+    <imas:Title xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
@@ -719,7 +719,7 @@
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">B</imas:BloodType>
     <schema:birthPlace xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">京都</schema:birthPlace>
     <imas:Constellation xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">蟹座</imas:Constellation>
-    <imas:Handedness xml:lang="en">left</imas:Handedness>
+    <imas:Handedness xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">left</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">190.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">65.0</schema:weight>
     <imas:ShoeSize rdf:datatype="http://www.w3.org/2001/XMLSchema#float">28.0</imas:ShoeSize>
@@ -731,8 +731,8 @@
     <imas:Hobby xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">分厚い本を読むこと(最近は家庭の医学を読んでいる)</imas:Hobby>
     <imas:Talent xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">天玄氷刃波</imas:Talent>
     <imas:Talent xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">全国一斉テスト・統一模試全科目1位</imas:Talent>
-    <schema:gender xml:lang="en">male</schema:gender>
-    <imas:Title xml:lang="en">315ProIdols</imas:Title>
+    <schema:gender xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">male</schema:gender>
+    <imas:Title xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
@@ -748,7 +748,7 @@
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AB</imas:BloodType>
     <schema:birthPlace xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">兵庫</schema:birthPlace>
     <imas:Constellation xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">山羊座</imas:Constellation>
-    <imas:Handedness xml:lang="en">right</imas:Handedness>
+    <imas:Handedness xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">right</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">181.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">64.0</schema:weight>
     <imas:ShoeSize rdf:datatype="http://www.w3.org/2001/XMLSchema#float">27.0</imas:ShoeSize>
@@ -760,8 +760,8 @@
     <imas:Hobby xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">世界旅行</imas:Hobby>
     <imas:Talent xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">早着替え</imas:Talent>
     <imas:Talent xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">華麗なスプーンフォーク捌きによるサーバー技</imas:Talent>
-    <schema:gender xml:lang="en">male</schema:gender>
-    <imas:Title xml:lang="en">315ProIdols</imas:Title>
+    <schema:gender xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">male</schema:gender>
+    <imas:Title xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
@@ -777,7 +777,7 @@
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">B</imas:BloodType>
     <schema:birthPlace xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">大阪</schema:birthPlace>
     <imas:Constellation xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">蠍座</imas:Constellation>
-    <imas:Handedness xml:lang="en">right</imas:Handedness>
+    <imas:Handedness xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">right</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">177.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">65.0</schema:weight>
     <imas:ShoeSize rdf:datatype="http://www.w3.org/2001/XMLSchema#float">26.0</imas:ShoeSize>
@@ -789,8 +789,8 @@
     <imas:Hobby xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">ジグソーパズル</imas:Hobby>
     <imas:Talent xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">飴細工</imas:Talent>
     <imas:Talent xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">折紙</imas:Talent>
-    <schema:gender xml:lang="en">male</schema:gender>
-    <imas:Title xml:lang="en">315ProIdols</imas:Title>
+    <schema:gender xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">male</schema:gender>
+    <imas:Title xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
@@ -802,7 +802,7 @@
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A</imas:BloodType>
     <schema:birthPlace xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">ゲヘナ</schema:birthPlace>
     <imas:Constellation xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">天秤座</imas:Constellation>
-    <imas:Handedness xml:lang="en">both</imas:Handedness>
+    <imas:Handedness xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">both</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">174.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">66.0</schema:weight>
     <imas:ShoeSize rdf:datatype="http://www.w3.org/2001/XMLSchema#float">25.5</imas:ShoeSize>
@@ -813,8 +813,8 @@
     <imas:Hobby xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">禁じられた新たなるレシピの発見</imas:Hobby>
     <imas:Talent xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">召喚術</imas:Talent>
     <imas:Talent xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">詠唱</imas:Talent>
-    <schema:gender xml:lang="en">male</schema:gender>
-    <imas:Title xml:lang="en">315ProIdols</imas:Title>
+    <schema:gender xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">male</schema:gender>
+    <imas:Title xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
@@ -830,7 +830,7 @@
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AB</imas:BloodType>
     <schema:birthPlace xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">高知</schema:birthPlace>
     <imas:Constellation xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">射手座</imas:Constellation>
-    <imas:Handedness xml:lang="en">left</imas:Handedness>
+    <imas:Handedness xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">left</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">163.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">52.0</schema:weight>
     <imas:ShoeSize rdf:datatype="http://www.w3.org/2001/XMLSchema#float">24.5</imas:ShoeSize>
@@ -841,8 +841,8 @@
     <imas:Hobby xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">全国ケーキ食べ歩き</imas:Hobby>
     <imas:Talent xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">利きケーキ</imas:Talent>
     <imas:Talent xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">一輪車</imas:Talent>
-    <schema:gender xml:lang="en">male</schema:gender>
-    <imas:Title xml:lang="en">315ProIdols</imas:Title>
+    <schema:gender xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">male</schema:gender>
+    <imas:Title xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
@@ -858,7 +858,7 @@
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">B</imas:BloodType>
     <schema:birthPlace xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">千葉</schema:birthPlace>
     <imas:Constellation xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">獅子座</imas:Constellation>
-    <imas:Handedness xml:lang="en">right</imas:Handedness>
+    <imas:Handedness xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">right</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">160.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">48.0</schema:weight>
     <imas:ShoeSize rdf:datatype="http://www.w3.org/2001/XMLSchema#float">24.0</imas:ShoeSize>
@@ -868,8 +868,8 @@
     <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q24865397"/>
     <imas:Hobby xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">手品</imas:Hobby>
     <imas:Talent xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">逆立ち</imas:Talent>
-    <schema:gender xml:lang="en">male</schema:gender>
-    <imas:Title xml:lang="en">315ProIdols</imas:Title>
+    <schema:gender xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">male</schema:gender>
+    <imas:Title xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
@@ -885,7 +885,7 @@
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A</imas:BloodType>
     <schema:birthPlace xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">千葉</schema:birthPlace>
     <imas:Constellation xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">牡羊座</imas:Constellation>
-    <imas:Handedness xml:lang="en">right</imas:Handedness>
+    <imas:Handedness xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">right</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">143.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">33.0</schema:weight>
     <imas:ShoeSize rdf:datatype="http://www.w3.org/2001/XMLSchema#float">21.0</imas:ShoeSize>
@@ -895,8 +895,8 @@
     <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q24897980"/>
     <imas:Hobby xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">将棋</imas:Hobby>
     <imas:Talent xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">編み物</imas:Talent>
-    <schema:gender xml:lang="en">male</schema:gender>
-    <imas:Title xml:lang="en">315ProIdols</imas:Title>
+    <schema:gender xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">male</schema:gender>
+    <imas:Title xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
@@ -912,7 +912,7 @@
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">B</imas:BloodType>
     <schema:birthPlace xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">栃木</schema:birthPlace>
     <imas:Constellation xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">牡牛座</imas:Constellation>
-    <imas:Handedness xml:lang="en">left</imas:Handedness>
+    <imas:Handedness xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">left</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">139.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">34.0</schema:weight>
     <imas:ShoeSize rdf:datatype="http://www.w3.org/2001/XMLSchema#float">20.5</imas:ShoeSize>
@@ -922,8 +922,8 @@
     <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q27150521"/>
     <imas:Hobby xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">バスケ</imas:Hobby>
     <imas:Talent xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">ブレイクダンス</imas:Talent>
-    <schema:gender xml:lang="en">male</schema:gender>
-    <imas:Title xml:lang="en">315ProIdols</imas:Title>
+    <schema:gender xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">male</schema:gender>
+    <imas:Title xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
@@ -939,7 +939,7 @@
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">O</imas:BloodType>
     <schema:birthPlace xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">東京</schema:birthPlace>
     <imas:Constellation xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">水瓶座</imas:Constellation>
-    <imas:Handedness xml:lang="en">right</imas:Handedness>
+    <imas:Handedness xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">right</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">125.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">22.0</schema:weight>
     <imas:ShoeSize rdf:datatype="http://www.w3.org/2001/XMLSchema#float">20.0</imas:ShoeSize>
@@ -949,8 +949,8 @@
     <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q11523377"/>
     <imas:Hobby xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">お散歩</imas:Hobby>
     <imas:Talent xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">ピアノ</imas:Talent>
-    <schema:gender xml:lang="en">male</schema:gender>
-    <imas:Title xml:lang="en">315ProIdols</imas:Title>
+    <schema:gender xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">male</schema:gender>
+    <imas:Title xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
@@ -966,7 +966,7 @@
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AB</imas:BloodType>
     <schema:birthPlace xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">淡路島</schema:birthPlace>
     <imas:Constellation xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">山羊座</imas:Constellation>
-    <imas:Handedness xml:lang="en">left</imas:Handedness>
+    <imas:Handedness xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">left</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">178.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">65.0</schema:weight>
     <imas:ShoeSize rdf:datatype="http://www.w3.org/2001/XMLSchema#float">26.5</imas:ShoeSize>
@@ -977,8 +977,8 @@
     <imas:Hobby xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">掃除</imas:Hobby>
     <imas:Hobby xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">パズル</imas:Hobby>
     <imas:Talent xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">円周率の暗唱</imas:Talent>
-    <schema:gender xml:lang="en">male</schema:gender>
-    <imas:Title xml:lang="en">315ProIdols</imas:Title>
+    <schema:gender xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">male</schema:gender>
+    <imas:Title xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
@@ -994,7 +994,7 @@
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">B</imas:BloodType>
     <schema:birthPlace xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">横須賀</schema:birthPlace>
     <imas:Constellation xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">獅子座</imas:Constellation>
-    <imas:Handedness xml:lang="en">both</imas:Handedness>
+    <imas:Handedness xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">both</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">170.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">58.0</schema:weight>
     <imas:ShoeSize rdf:datatype="http://www.w3.org/2001/XMLSchema#float">25.5</imas:ShoeSize>
@@ -1006,8 +1006,8 @@
     <imas:Hobby xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">スノボ</imas:Hobby>
     <imas:Hobby xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">サーフィン</imas:Hobby>
     <imas:Talent xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">けん玉</imas:Talent>
-    <schema:gender xml:lang="en">male</schema:gender>
-    <imas:Title xml:lang="en">315ProIdols</imas:Title>
+    <schema:gender xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">male</schema:gender>
+    <imas:Title xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
@@ -1023,7 +1023,7 @@
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">O</imas:BloodType>
     <schema:birthPlace xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">石川</schema:birthPlace>
     <imas:Constellation xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">乙女座</imas:Constellation>
-    <imas:Handedness xml:lang="en">right</imas:Handedness>
+    <imas:Handedness xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">right</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">185.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">70.0</schema:weight>
     <imas:ShoeSize rdf:datatype="http://www.w3.org/2001/XMLSchema#float">27.0</imas:ShoeSize>
@@ -1034,8 +1034,8 @@
     <imas:Hobby xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">猫カフェ巡り</imas:Hobby>
     <imas:Hobby xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">競馬</imas:Hobby>
     <imas:Talent xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">ラジオ体操</imas:Talent>
-    <schema:gender xml:lang="en">male</schema:gender>
-    <imas:Title xml:lang="en">315ProIdols</imas:Title>
+    <schema:gender xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">male</schema:gender>
+    <imas:Title xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
@@ -1051,7 +1051,7 @@
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">B</imas:BloodType>
     <schema:birthPlace xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">宮城</schema:birthPlace>
     <imas:Constellation xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">射手座</imas:Constellation>
-    <imas:Handedness xml:lang="en">left</imas:Handedness>
+    <imas:Handedness xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">left</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">165.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">52.0</schema:weight>
     <imas:ShoeSize rdf:datatype="http://www.w3.org/2001/XMLSchema#float">24.5</imas:ShoeSize>
@@ -1063,8 +1063,8 @@
     <imas:Hobby xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">ランニング</imas:Hobby>
     <imas:Talent xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">体を動かすことならなんでも</imas:Talent>
     <imas:Talent xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">シューティングゲーム</imas:Talent>
-    <schema:gender xml:lang="en">male</schema:gender>
-    <imas:Title xml:lang="en">315ProIdols</imas:Title>
+    <schema:gender xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">male</schema:gender>
+    <imas:Title xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
@@ -1080,7 +1080,7 @@
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">O</imas:BloodType>
     <schema:birthPlace xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">高知</schema:birthPlace>
     <imas:Constellation xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">乙女座</imas:Constellation>
-    <imas:Handedness xml:lang="en">both</imas:Handedness>
+    <imas:Handedness xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">both</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">185.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">80.0</schema:weight>
     <imas:ShoeSize rdf:datatype="http://www.w3.org/2001/XMLSchema#float">28.5</imas:ShoeSize>
@@ -1090,8 +1090,8 @@
     <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q20042330"/>
     <imas:Hobby xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">資格取得</imas:Hobby>
     <imas:Talent xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">たくさんありすぎてかけないが､最近はあみぐるみにハマっている</imas:Talent>
-    <schema:gender xml:lang="en">male</schema:gender>
-    <imas:Title xml:lang="en">315ProIdols</imas:Title>
+    <schema:gender xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">male</schema:gender>
+    <imas:Title xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
@@ -1107,7 +1107,7 @@
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">不明</imas:BloodType>
     <schema:birthPlace xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">海外の何処か</schema:birthPlace>
     <imas:Constellation xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">牡牛座</imas:Constellation>
-    <imas:Handedness xml:lang="en">both</imas:Handedness>
+    <imas:Handedness xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">both</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">172.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">59.0</schema:weight>
     <imas:ShoeSize rdf:datatype="http://www.w3.org/2001/XMLSchema#float">25.5</imas:ShoeSize>
@@ -1117,8 +1117,8 @@
     <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q24877064"/>
     <imas:Hobby xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">なんでんなことｵﾏｴに教えないといけねｰんだ? バァーカ!</imas:Hobby>
     <imas:Talent xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">相手をぶったおすことにきまっ てんだろ!</imas:Talent>
-    <schema:gender xml:lang="en">male</schema:gender>
-    <imas:Title xml:lang="en">315ProIdols</imas:Title>
+    <schema:gender xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">male</schema:gender>
+    <imas:Title xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
@@ -1134,7 +1134,7 @@
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">O</imas:BloodType>
     <schema:birthPlace xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">東京</schema:birthPlace>
     <imas:Constellation xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">乙女座</imas:Constellation>
-    <imas:Handedness xml:lang="en">right</imas:Handedness>
+    <imas:Handedness xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">right</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">164.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">54.0</schema:weight>
     <imas:ShoeSize rdf:datatype="http://www.w3.org/2001/XMLSchema#float">24.5</imas:ShoeSize>
@@ -1146,8 +1146,8 @@
     <imas:Hobby xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">お料理</imas:Hobby>
     <imas:Talent xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">ダンス</imas:Talent>
     <imas:Talent xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">変装</imas:Talent>
-    <schema:gender xml:lang="en">male</schema:gender>
-    <imas:Title xml:lang="en">315ProIdols</imas:Title>
+    <schema:gender xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">male</schema:gender>
+    <imas:Title xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
@@ -1163,7 +1163,7 @@
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AB</imas:BloodType>
     <schema:birthPlace xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">広島</schema:birthPlace>
     <imas:Constellation xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">牡牛座</imas:Constellation>
-    <imas:Handedness xml:lang="en">right</imas:Handedness>
+    <imas:Handedness xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">right</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">160.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">52.0</schema:weight>
     <imas:ShoeSize rdf:datatype="http://www.w3.org/2001/XMLSchema#float">24.0</imas:ShoeSize>
@@ -1174,8 +1174,8 @@
     <imas:Hobby xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">格ゲー</imas:Hobby>
     <imas:Talent xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">居合道</imas:Talent>
     <imas:Talent xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">かつらむき</imas:Talent>
-    <schema:gender xml:lang="en">male</schema:gender>
-    <imas:Title xml:lang="en">315ProIdols</imas:Title>
+    <schema:gender xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">male</schema:gender>
+    <imas:Title xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
@@ -1191,7 +1191,7 @@
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A</imas:BloodType>
     <schema:birthPlace xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">岐阜</schema:birthPlace>
     <imas:Constellation xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">天秤座</imas:Constellation>
-    <imas:Handedness xml:lang="en">right</imas:Handedness>
+    <imas:Handedness xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">right</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">178.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">64.0</schema:weight>
     <imas:ShoeSize rdf:datatype="http://www.w3.org/2001/XMLSchema#float">26.5</imas:ShoeSize>
@@ -1203,8 +1203,8 @@
     <imas:Hobby xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">読書</imas:Hobby>
     <imas:Talent xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">一度読んだ本の内容は大体覚えている</imas:Talent>
     <imas:Talent xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">食べれるキノコを見分けられる</imas:Talent>
-    <schema:gender xml:lang="en">male</schema:gender>
-    <imas:Title xml:lang="en">315ProIdols</imas:Title>
+    <schema:gender xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">male</schema:gender>
+    <imas:Title xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
@@ -1220,7 +1220,7 @@
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">O</imas:BloodType>
     <schema:birthPlace xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">奈良</schema:birthPlace>
     <imas:Constellation xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">蠍座</imas:Constellation>
-    <imas:Handedness xml:lang="en">both</imas:Handedness>
+    <imas:Handedness xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">both</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">191.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">74.0</schema:weight>
     <imas:ShoeSize rdf:datatype="http://www.w3.org/2001/XMLSchema#float">28.0</imas:ShoeSize>
@@ -1230,8 +1230,8 @@
     <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q27150536"/>
     <imas:Hobby xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">星占い</imas:Hobby>
     <imas:Talent xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">折紙</imas:Talent>
-    <schema:gender xml:lang="en">male</schema:gender>
-    <imas:Title xml:lang="en">315ProIdols</imas:Title>
+    <schema:gender xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">male</schema:gender>
+    <imas:Title xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
@@ -1247,7 +1247,7 @@
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">B</imas:BloodType>
     <schema:birthPlace xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">三重</schema:birthPlace>
     <imas:Constellation xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">射手座</imas:Constellation>
-    <imas:Handedness xml:lang="en">right</imas:Handedness>
+    <imas:Handedness xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">right</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">174.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">62.0</schema:weight>
     <imas:ShoeSize rdf:datatype="http://www.w3.org/2001/XMLSchema#float">26.5</imas:ShoeSize>
@@ -1257,8 +1257,8 @@
     <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q27150533"/>
     <imas:Hobby xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">一人旅</imas:Hobby>
     <imas:Talent xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">書道</imas:Talent>
-    <schema:gender xml:lang="en">male</schema:gender>
-    <imas:Title xml:lang="en">315ProIdols</imas:Title>
+    <schema:gender xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">male</schema:gender>
+    <imas:Title xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
@@ -1274,7 +1274,7 @@
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AB</imas:BloodType>
     <schema:birthPlace xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">埼玉</schema:birthPlace>
     <imas:Constellation xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">天秤座</imas:Constellation>
-    <imas:Handedness xml:lang="en">right</imas:Handedness>
+    <imas:Handedness xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">right</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">187.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">58.0</schema:weight>
     <imas:ShoeSize rdf:datatype="http://www.w3.org/2001/XMLSchema#float">27.5</imas:ShoeSize>
@@ -1284,8 +1284,8 @@
     <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q20040112"/>
     <imas:Hobby xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">水族館めぐり</imas:Hobby>
     <imas:Talent xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">素潜り(水中息止め)</imas:Talent>
-    <schema:gender xml:lang="en">male</schema:gender>
-    <imas:Title xml:lang="en">315ProIdols</imas:Title>
+    <schema:gender xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">male</schema:gender>
+    <imas:Title xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
