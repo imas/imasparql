@@ -10197,14 +10197,6 @@
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Makabe_Mizuki"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
-  <rdf:Description rdf:about="detail/%E5%A4%9C%E6%83%B3%E4%BB%A4%E5%AC%A2%20%2DGRAC%26E%20NOCTURNE%2D">
-    <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">夜想令嬢 -GRAC&amp;E NOCTURNE-</schema:name>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Tokoro_Megumi"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Tenkubashi_Tomoka"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Nikaidou_Chizuru"/>
-    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Momose_Rio"/>
-    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
-  </rdf:Description>
   <rdf:Description rdf:about="detail/Princess%20Stars">
     <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">Princess Stars</schema:name>
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Matsuda_Arisa"/>
@@ -10254,6 +10246,14 @@
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Nikaidou_Chizuru"/>
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Kitazawa_Shiho"/>
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Julia"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="detail/%E5%A4%9C%E6%83%B3%E4%BB%A4%E5%AC%A2%20%2DGRAC%26E%20NOCTURNE%2D">
+    <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">夜想令嬢 -GRAC&amp;E NOCTURNE-</schema:name>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Tokoro_Megumi"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Tenkubashi_Tomoka"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Nikaidou_Chizuru"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Momose_Rio"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
   <rdf:Description rdf:about="detail/Cleasky">
@@ -10310,6 +10310,38 @@
     <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">Charlotte・Charlotte</schema:name>
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Tokugawa_Matsuri"/>
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Emily_Stewart"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="detail/Jelly%20PoP%20Beans">
+    <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">Jelly PoP Beans</schema:name>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Handa_Roko"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Maihama_Ayumu"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Nagayoshi_Subaru"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Suou_Momoko"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="detail/%E3%83%94%E3%82%B3%E3%83%94%E3%82%B3%E3%83%97%E3%83%A9%E3%83%8D%E3%83%83%E3%83%84">
+    <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">ピコピコプラネッツ</schema:name>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Kinoshita_Hinata"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Hakozaki_Serika"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Ogami_Tamaki"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Mochizuki_Anna"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="detail/STAR%20ELEMENTS">
+    <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">STAR ELEMENTS</schema:name>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Kasuga_Mirai"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Yabuki_Kana"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Tanaka_Kotoha"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="detail/%E3%82%B8%E3%82%A7%E3%83%8D%E3%82%B7%E3%82%B9%C3%97%E3%83%A1%E3%83%8D%E3%82%B7%E3%82%B9">
+    <schema:name rdf:datatype="https://www.w3.org/TR/xmlschema11-2/#string">ジェネシス×ネメシス</schema:name>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Shiraishi_Tsumugi"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Sakuramori_Kaori"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Julia"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Kikuchi_Makoto"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Nonohara_Akane"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
 
