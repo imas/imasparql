@@ -22,13 +22,16 @@
     xmlns:imas="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#"
     >
 
-  <rdf:Description rdf:about="detail/Takagi_Junichirou">
+  <rdf:Description rdf:about="detail/Takagi_Junichiro">
     <schema:familyName xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">高木</schema:familyName>
+    <schema:familyName xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Takagi</schema:familyName>
     <imas:familyNameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">たかぎ</imas:familyNameKana>
     <schema:givenName xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">順一朗</schema:givenName>
+    <schema:givenName xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Junichiro</schema:givenName>
     <imas:givenNameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">じゅんいちろう</imas:givenNameKana>
     <imas:nameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">たかぎじゅんいちろう</imas:nameKana>
     <schema:name xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">高木順一朗</schema:name>
+    <schema:name xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Takagi Junichiro</schema:name>
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">55</foaf:age>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">180.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">76.0</schema:weight>
@@ -45,13 +48,16 @@
     <schema:position xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">会長</schema:position>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Staff"/>
   </rdf:Description>
-  <rdf:Description rdf:about="detail/Takagi_Junjirou">
+  <rdf:Description rdf:about="detail/Takagi_Junjiro">
     <schema:familyName xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">高木</schema:familyName>
+    <schema:familyName xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Takagi</schema:familyName>
     <imas:familyNameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">たかぎ</imas:familyNameKana>
     <schema:givenName xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">順二朗</schema:givenName>
+    <schema:givenName xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Junjiro</schema:givenName>
     <imas:givenNameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">じゅんじろう</imas:givenNameKana>
     <imas:nameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">たかぎじゅんじろう</imas:nameKana>
     <schema:name xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">高木順二朗</schema:name>
+    <schema:name xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Takagi Junjiro</schema:name>
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">56</foaf:age>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">180.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">73.0</schema:weight>
@@ -70,11 +76,14 @@
   </rdf:Description>
   <rdf:Description rdf:about="detail/Kuroi_Takao">
     <schema:familyName xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">黒井</schema:familyName>
+    <schema:familyName xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Kuroi</schema:familyName>
     <imas:familyNameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">くろい</imas:familyNameKana>
     <schema:givenName xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">崇男</schema:givenName>
+    <schema:givenName xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Takao</schema:givenName>
     <imas:givenNameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">たかお</imas:givenNameKana>
     <imas:nameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">くろいたかお</imas:nameKana>
     <schema:name xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">黒井崇男</schema:name>
+    <schema:name xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Kuroi Takao</schema:name>
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">54</foaf:age>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">178.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">74.0</schema:weight>
@@ -93,11 +102,14 @@
   </rdf:Description>
   <rdf:Description rdf:about="detail/Saito_Takashi">
     <schema:familyName xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">齋藤</schema:familyName>
+    <schema:familyName xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Ssaito</schema:familyName>
     <imas:familyNameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">さいとう</imas:familyNameKana>
     <schema:givenName xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">孝司</schema:givenName>
+    <schema:givenName xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Takashi</schema:givenName>
     <imas:givenNameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">たかし</imas:givenNameKana>
     <imas:nameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">さいとうたかし</imas:nameKana>
     <schema:name xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">齋藤孝司</schema:name>
+    <schema:name xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Saito Takashi</schema:name>
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ナイスミドル</foaf:age>
     <imas:cv xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">立木文彦</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/立木文彦"/>
@@ -109,11 +121,14 @@
   </rdf:Description>
   <rdf:Description rdf:about="detail/Ishikawa_Minori">
     <schema:familyName xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">石川</schema:familyName>
+    <schema:familyName xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Ishikawa</schema:familyName>
     <imas:familyNameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">いしかわ</imas:familyNameKana>
     <schema:givenName xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">実</schema:givenName>
+    <schema:givenName xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Minori</schema:givenName>
     <imas:givenNameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">みのり</imas:givenNameKana>
     <imas:nameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">いしかわみのり</imas:nameKana>
     <schema:name xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">石川実</schema:name>
+    <schema:name xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Ishikawa Minori</schema:name>
     <schema:gender xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">female</schema:gender>
     <schema:memberOf xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">876Staff</schema:memberOf>
     <schema:position xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">社長</schema:position>
@@ -121,11 +136,14 @@
   </rdf:Description>
   <rdf:Description rdf:about="detail/Amai_Tsutomu">
     <schema:familyName xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">天井</schema:familyName>
+    <schema:familyName xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Amai</schema:familyName>
     <imas:familyNameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">あまい</imas:familyNameKana>
     <schema:givenName xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">努</schema:givenName>
+    <schema:givenName xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Tsutomu</schema:givenName>
     <imas:givenNameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">つとむ</imas:givenNameKana>
     <imas:nameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">あまいつとむ</imas:nameKana>
     <schema:name xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">天井努</schema:name>
+    <schema:name xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Amai Tsutomu</schema:name>
     <imas:cv xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">津田健次郎</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/津田健次郎"/>
     <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q1255370"/>
@@ -137,11 +155,14 @@
 
   <rdf:Description rdf:about="detail/Otonashi_Kotori">
     <schema:familyName xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">音無</schema:familyName>
+    <schema:familyName xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Otonashi</schema:familyName>
     <imas:familyNameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">おとなし</imas:familyNameKana>
     <schema:givenName xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">小鳥</schema:givenName>
+    <schema:givenName xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Kotori</schema:givenName>
     <imas:givenNameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">ことり</imas:givenNameKana>
     <imas:nameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">おとなしことり</imas:nameKana>
     <schema:name xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">音無小鳥</schema:name>
+    <schema:name xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Otonashi Kotori</schema:name>
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#string">?</foaf:age>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">159.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">49.0</schema:weight>
@@ -164,11 +185,14 @@
   </rdf:Description>
   <rdf:Description rdf:about="detail/Senkawa_Chihiro">
     <schema:familyName xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">千川</schema:familyName>
+    <schema:familyName xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Senkawa</schema:familyName>
     <imas:familyNameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">せんかわ</imas:familyNameKana>
     <schema:givenName xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">ちひろ</schema:givenName>
+    <schema:givenName xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Chihiro</schema:givenName>
     <imas:givenNameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">ちひろ</imas:givenNameKana>
     <imas:nameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">せんかわちひろ</imas:nameKana>
     <schema:name xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">千川ちひろ</schema:name>
+    <schema:name xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Senkawa Chihiro</schema:name>
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#string">?</foaf:age>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">154.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ひ・み・つ</schema:weight>
@@ -192,11 +216,14 @@
   </rdf:Description>
   <rdf:Description rdf:about="detail/Yamamura_Ken">
     <schema:familyName xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">山村</schema:familyName>
+    <schema:familyName xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Yamamura</schema:familyName>
     <imas:familyNameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">やまむら</imas:familyNameKana>
     <schema:givenName xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">賢</schema:givenName>
+    <schema:givenName xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Ken</schema:givenName>
     <imas:givenNameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">けん</imas:givenNameKana>
     <imas:nameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">やまむらけん</imas:nameKana>
     <schema:name xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">山村賢</schema:name>
+    <schema:name xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Yamamura Ken</schema:name>
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--07-02</schema:birthDate>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A</imas:BloodType>
     <imas:Constellation xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">蟹座</imas:Constellation>
@@ -217,11 +244,14 @@
   </rdf:Description>
   <rdf:Description rdf:about="detail/Aoba_Misaki">
     <schema:familyName xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">青羽</schema:familyName>
+    <schema:familyName xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Aoba</schema:familyName>
     <imas:familyNameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">あおば</imas:familyNameKana>
     <schema:givenName xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">美咲</schema:givenName>
+    <schema:givenName xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Misaki</schema:givenName>
     <imas:givenNameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">みさき</imas:givenNameKana>
     <imas:nameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">あおばみさき</imas:nameKana>
     <schema:name xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">青羽美咲</schema:name>
+    <schema:name xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Aoba Misaki</schema:name>
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20</foaf:age>
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--06-29</schema:birthDate>
     <imas:Constellation xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">蟹座</imas:Constellation>
@@ -235,11 +265,14 @@
   </rdf:Description>
   <rdf:Description rdf:about="detail/Nanakusa_Hazuki">
     <schema:familyName xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">七草</schema:familyName>
+    <schema:familyName xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Nanakusa</schema:familyName>
     <imas:familyNameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">ななくさ</imas:familyNameKana>
     <schema:givenName xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">はづき</schema:givenName>
+    <schema:givenName xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Hazuki</schema:givenName>
     <imas:givenNameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">はづき</imas:givenNameKana>
     <imas:nameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">ななくさはづき</imas:nameKana>
     <schema:name xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">七草はづき</schema:name>
+    <schema:name xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Nanakusa Hazuki</schema:name>
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--02-03</schema:birthDate>
     <imas:Constellation xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">水瓶座</imas:Constellation>
     <imas:cv xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">山村響</imas:cv>
@@ -254,11 +287,14 @@
 
   <rdf:Description rdf:about="detail/Hayasaka_Sora">
     <schema:familyName xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">早坂</schema:familyName>
+    <schema:familyName xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Hayasaka</schema:familyName>
     <imas:familyNameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">はやさか</imas:familyNameKana>
     <schema:givenName xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">そら</schema:givenName>
+    <schema:givenName xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Sora</schema:givenName>
     <imas:givenNameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">そら</imas:givenNameKana>
     <imas:nameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">はやさかそら</imas:nameKana>
     <schema:name xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">早坂そら</schema:name>
+    <schema:name xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Hayasaka Sora</schema:name>
     <imas:Hobby xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">旅行</imas:Hobby>
     <imas:Talent xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">ランニング</imas:Talent>
     <imas:Favorite xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">気ままに散歩</imas:Favorite>
@@ -271,13 +307,16 @@
   <rdf:Description rdf:about="detail/Aoki_Rei">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pa</imas:Type>
     <schema:familyName xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">青木</schema:familyName>
+    <schema:familyName xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Aoki</schema:familyName>
     <imas:familyNameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">あおき</imas:familyNameKana>
     <schema:givenName xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">麗</schema:givenName>
+    <schema:givenName xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Rei</schema:givenName>
     <imas:givenNameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">れい</imas:givenNameKana>
     <schema:gender xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">female</schema:gender>
     <schema:memberOf xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">CinderellaGirlsStaff</schema:memberOf>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Staff"/>
     <schema:name xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">青木麗</schema:name>
+    <schema:name xml:lang="jena" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Aoki Rei</schema:name>
     <imas:nameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">あおきれい</imas:nameKana>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">166.0</schema:height>
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">28</foaf:age>
@@ -301,13 +340,16 @@
   <rdf:Description rdf:about="detail/Aoki_Sei">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pa</imas:Type>
     <schema:familyName xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">青木</schema:familyName>
+    <schema:familyName xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Aoki</schema:familyName>
     <imas:familyNameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">あおき</imas:familyNameKana>
     <schema:givenName xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">聖</schema:givenName>
+    <schema:givenName xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Sei</schema:givenName>
     <imas:givenNameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">せい</imas:givenNameKana>
     <schema:gender xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">female</schema:gender>
     <schema:memberOf xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">CinderellaGirlsStaff</schema:memberOf>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Staff"/>
     <schema:name xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">青木聖</schema:name>
+    <schema:name xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Aoki Sei</schema:name>
     <imas:nameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">あおきせい</imas:nameKana>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">163.0</schema:height>
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">26</foaf:age>
@@ -330,13 +372,16 @@
   <rdf:Description rdf:about="detail/Aoki_Mei">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pa</imas:Type>
     <schema:familyName xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">青木</schema:familyName>
+    <schema:familyName xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Aoki</schema:familyName>
     <imas:familyNameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">あおき</imas:familyNameKana>
     <schema:givenName xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">明</schema:givenName>
+    <schema:givenName xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Mei</schema:givenName>
     <imas:givenNameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">めい</imas:givenNameKana>
     <schema:gender xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">female</schema:gender>
     <schema:memberOf xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">CinderellaGirlsStaff</schema:memberOf>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Staff"/>
     <schema:name xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">青木明</schema:name>
+    <schema:name xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Aoki Mei</schema:name>
     <imas:nameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">あおきめい</imas:nameKana>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">160.0</schema:height>
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">23</foaf:age>
@@ -359,13 +404,16 @@
   <rdf:Description rdf:about="detail/Aoki_Kei">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pa</imas:Type>
     <schema:familyName xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">青木</schema:familyName>
+    <schema:familyName xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Aoki</schema:familyName>
     <imas:familyNameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">あおき</imas:familyNameKana>
     <schema:givenName xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">慶</schema:givenName>
+    <schema:givenName xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Kei</schema:givenName>
     <imas:givenNameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">けい</imas:givenNameKana>
     <schema:gender xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">female</schema:gender>
     <schema:memberOf xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">CinderellaGirlsStaff</schema:memberOf>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Staff"/>
     <schema:name xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">青木慶</schema:name>
+    <schema:name xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Aoki Kei</schema:name>
     <imas:nameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">あおきけい</imas:nameKana>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">157.0</schema:height>
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</foaf:age>

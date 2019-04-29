@@ -24,9 +24,12 @@
 
   <rdf:Description rdf:about="detail/Leon">
     <imas:familyNameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">かみいずみ</imas:familyNameKana>
+    <schema:name xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Kamiizumi</schema:name>
     <schema:givenName xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">玲音</schema:givenName>
+    <schema:givenName xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Leon</schema:givenName>
     <imas:givenNameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">れおん</imas:givenNameKana>
     <schema:alternateName xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">玲音</schema:alternateName>
+    <schema:alternateName xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Leon</schema:alternateName>
     <imas:alternateNameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">れおん</imas:alternateNameKana>
     <imas:cv xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">茅原実里</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/茅原実里"/>
@@ -38,8 +41,10 @@
 
   <rdf:Description rdf:about="detail/Shiika">
     <schema:givenName xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">詩花</schema:givenName>
+    <schema:givenName xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Shiika</schema:givenName>
     <imas:givenNameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">しいか</imas:givenNameKana>
     <schema:alternateName xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">詩花</schema:alternateName>
+    <schema:alternateName xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Shiika</schema:alternateName>
     <imas:alternateNameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">しいか</imas:alternateNameKana>
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</foaf:age>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">158.0</schema:height>
