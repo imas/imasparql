@@ -22,1403 +22,1403 @@
     xmlns:imas="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#"
     >
   <rdf:Description rdf:about="detail/Amagase_Toma">
-    <schema:name xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">天ヶ瀬冬馬</schema:name>
-    <schema:name xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Amagase Toma</schema:name>
-    <schema:familyName xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">天ヶ瀬</schema:familyName>
-    <schema:familyName xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Amagase</schema:familyName>
-    <schema:givenName xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">冬馬</schema:givenName>
-    <schema:givenName xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Toma</schema:givenName>
-    <imas:nameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">あまがせとうま</imas:nameKana>
-    <imas:familyNameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">あまがせ</imas:familyNameKana>
-    <imas:givenNameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">とうま</imas:givenNameKana>
+    <schema:name xml:lang="ja">天ヶ瀬冬馬</schema:name>
+    <schema:name xml:lang="en">Amagase Toma</schema:name>
+    <schema:familyName xml:lang="ja">天ヶ瀬</schema:familyName>
+    <schema:familyName xml:lang="en">Amagase</schema:familyName>
+    <schema:givenName xml:lang="ja">冬馬</schema:givenName>
+    <schema:givenName xml:lang="en">Toma</schema:givenName>
+    <imas:nameKana xml:lang="ja">あまがせとうま</imas:nameKana>
+    <imas:familyNameKana xml:lang="ja">あまがせ</imas:familyNameKana>
+    <imas:givenNameKana xml:lang="ja">とうま</imas:givenNameKana>
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</foaf:age>
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--03-03</schema:birthDate>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">B</imas:BloodType>
-    <imas:Category xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">フィジカル</imas:Category>
-    <imas:Constellation xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">魚座</imas:Constellation>
-    <schema:birthPlace xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">神奈川</schema:birthPlace>
-    <imas:Handedness xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">right</imas:Handedness>
+    <imas:Category xml:lang="ja">フィジカル</imas:Category>
+    <imas:Constellation xml:lang="ja">魚座</imas:Constellation>
+    <schema:birthPlace xml:lang="ja">神奈川</schema:birthPlace>
+    <imas:Handedness xml:lang="en">right</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">175.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">57.0</schema:weight>
     <imas:ShoeSize rdf:datatype="http://www.w3.org/2001/XMLSchema#float">25.5</imas:ShoeSize>
-    <imas:cv xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">寺島拓篤</imas:cv>
+    <imas:cv xml:lang="ja">寺島拓篤</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/寺島拓篤"/>
     <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q1041912"/>
-    <imas:Hobby xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">サッカー</imas:Hobby>
-    <imas:Hobby xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">料理</imas:Hobby>
-    <imas:Hobby xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">フィギュア集め</imas:Hobby>
-    <imas:Talent xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">スパイスからのカレー作り</imas:Talent>
-    <schema:gender xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">male</schema:gender>
-    <imas:Title xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">315ProIdols</imas:Title>
+    <imas:Hobby xml:lang="ja">サッカー</imas:Hobby>
+    <imas:Hobby xml:lang="ja">料理</imas:Hobby>
+    <imas:Hobby xml:lang="ja">フィギュア集め</imas:Hobby>
+    <imas:Talent xml:lang="ja">スパイスからのカレー作り</imas:Talent>
+    <schema:gender xml:lang="en">male</schema:gender>
+    <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="detail/Mitarai_Shota">
-    <schema:name xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">御手洗翔太</schema:name>
-    <schema:name xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Mitarai Shota</schema:name>
-    <imas:nameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">みたらいしょうた</imas:nameKana>
-    <imas:familyNameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">みたらい</imas:familyNameKana>
-    <imas:givenNameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">しょうた</imas:givenNameKana>
-    <schema:familyName xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">御手洗</schema:familyName>
-    <schema:familyName xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Mitarai</schema:familyName>
-    <schema:givenName xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">翔太</schema:givenName>
-    <schema:givenName xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Shota</schema:givenName>
+    <schema:name xml:lang="ja">御手洗翔太</schema:name>
+    <schema:name xml:lang="en">Mitarai Shota</schema:name>
+    <imas:nameKana xml:lang="ja">みたらいしょうた</imas:nameKana>
+    <imas:familyNameKana xml:lang="ja">みたらい</imas:familyNameKana>
+    <imas:givenNameKana xml:lang="ja">しょうた</imas:givenNameKana>
+    <schema:familyName xml:lang="ja">御手洗</schema:familyName>
+    <schema:familyName xml:lang="en">Mitarai</schema:familyName>
+    <schema:givenName xml:lang="ja">翔太</schema:givenName>
+    <schema:givenName xml:lang="en">Shota</schema:givenName>
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14</foaf:age>
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--04-20</schema:birthDate>
-    <schema:birthPlace xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">東京</schema:birthPlace>
-    <imas:Constellation xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">牡牛座</imas:Constellation>
-    <imas:Category xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">メンタル</imas:Category>
+    <schema:birthPlace xml:lang="ja">東京</schema:birthPlace>
+    <imas:Constellation xml:lang="ja">牡牛座</imas:Constellation>
+    <imas:Category xml:lang="ja">メンタル</imas:Category>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AB</imas:BloodType>
-    <imas:Handedness xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">left</imas:Handedness>
+    <imas:Handedness xml:lang="en">left</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">163.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">49.0</schema:weight>
     <imas:ShoeSize rdf:datatype="http://www.w3.org/2001/XMLSchema#float">24.5</imas:ShoeSize>
-    <imas:cv xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">松岡禎丞</imas:cv>
+    <imas:cv xml:lang="ja">松岡禎丞</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/松岡禎丞"/>
     <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q957795"/>
-    <imas:Hobby xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">寝ること</imas:Hobby>
-    <imas:Hobby xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">親孝行♪</imas:Hobby>
-    <imas:Talent xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">バク転</imas:Talent>
-    <schema:gender xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">male</schema:gender>
-    <imas:Title xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">315ProIdols</imas:Title>
+    <imas:Hobby xml:lang="ja">寝ること</imas:Hobby>
+    <imas:Hobby xml:lang="ja">親孝行♪</imas:Hobby>
+    <imas:Talent xml:lang="ja">バク転</imas:Talent>
+    <schema:gender xml:lang="en">male</schema:gender>
+    <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="detail/Ijuin_Hokuto">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</foaf:age>
-    <schema:name xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">伊集院北斗</schema:name>
-    <schema:name xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Ijuin Hokuto</schema:name>
-    <imas:nameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">いじゅういんほくと</imas:nameKana>
-    <schema:familyName xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">伊集院</schema:familyName>
-    <schema:familyName xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Ijuin</schema:familyName>
-    <schema:givenName xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">北斗</schema:givenName>
-    <schema:givenName xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Hokuto</schema:givenName>
-    <imas:familyNameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">いじゅういん</imas:familyNameKana>
-    <imas:givenNameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">ほくと</imas:givenNameKana>
+    <schema:name xml:lang="ja">伊集院北斗</schema:name>
+    <schema:name xml:lang="en">Ijuin Hokuto</schema:name>
+    <imas:nameKana xml:lang="ja">いじゅういんほくと</imas:nameKana>
+    <schema:familyName xml:lang="ja">伊集院</schema:familyName>
+    <schema:familyName xml:lang="en">Ijuin</schema:familyName>
+    <schema:givenName xml:lang="ja">北斗</schema:givenName>
+    <schema:givenName xml:lang="en">Hokuto</schema:givenName>
+    <imas:familyNameKana xml:lang="ja">いじゅういん</imas:familyNameKana>
+    <imas:givenNameKana xml:lang="ja">ほくと</imas:givenNameKana>
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--02-14</schema:birthDate>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">O</imas:BloodType>
-    <schema:birthPlace xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">京都</schema:birthPlace>
-    <imas:Constellation xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">水瓶座</imas:Constellation>
-    <imas:Handedness xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">right</imas:Handedness>
+    <schema:birthPlace xml:lang="ja">京都</schema:birthPlace>
+    <imas:Constellation xml:lang="ja">水瓶座</imas:Constellation>
+    <imas:Handedness xml:lang="en">right</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">180.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">64.0</schema:weight>
     <imas:ShoeSize rdf:datatype="http://www.w3.org/2001/XMLSchema#float">26.5</imas:ShoeSize>
-    <imas:Category xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">インテリ</imas:Category>
-    <imas:cv xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">神原大地</imas:cv>
+    <imas:Category xml:lang="ja">インテリ</imas:Category>
+    <imas:cv xml:lang="ja">神原大地</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/神原大地"/>
     <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q8977305"/>
-    <imas:Hobby xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">ピアノ</imas:Hobby>
-    <imas:Hobby xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">ヴァイオリン</imas:Hobby>
-    <imas:Hobby xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">デート</imas:Hobby>
-    <imas:Talent xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">高速ネコふんじゃった</imas:Talent>
-    <schema:gender xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">male</schema:gender>
-    <imas:Title xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">315ProIdols</imas:Title>
+    <imas:Hobby xml:lang="ja">ピアノ</imas:Hobby>
+    <imas:Hobby xml:lang="ja">ヴァイオリン</imas:Hobby>
+    <imas:Hobby xml:lang="ja">デート</imas:Hobby>
+    <imas:Talent xml:lang="ja">高速ネコふんじゃった</imas:Talent>
+    <schema:gender xml:lang="en">male</schema:gender>
+    <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="detail/Tendo_Teru">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">28</foaf:age>
-    <schema:name xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">天道輝</schema:name>
-    <schema:name xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Tendo Teru</schema:name>
-    <imas:nameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">てんどうてる</imas:nameKana>
-    <schema:familyName xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">天道</schema:familyName>
-    <schema:familyName xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Tendo</schema:familyName>
-    <schema:givenName xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">輝</schema:givenName>
-    <schema:givenName xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Teru</schema:givenName>
-    <imas:familyNameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">てんどうてる</imas:familyNameKana>
-    <imas:givenNameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">てる</imas:givenNameKana>
+    <schema:name xml:lang="ja">天道輝</schema:name>
+    <schema:name xml:lang="en">Tendo Teru</schema:name>
+    <imas:nameKana xml:lang="ja">てんどうてる</imas:nameKana>
+    <schema:familyName xml:lang="ja">天道</schema:familyName>
+    <schema:familyName xml:lang="en">Tendo</schema:familyName>
+    <schema:givenName xml:lang="ja">輝</schema:givenName>
+    <schema:givenName xml:lang="en">Teru</schema:givenName>
+    <imas:familyNameKana xml:lang="ja">てんどうてる</imas:familyNameKana>
+    <imas:givenNameKana xml:lang="ja">てる</imas:givenNameKana>
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--02-23</schema:birthDate>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">B</imas:BloodType>
-    <schema:birthPlace xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">福島</schema:birthPlace>
-    <imas:Constellation xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">魚座</imas:Constellation>
-    <imas:Handedness xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">right</imas:Handedness>
+    <schema:birthPlace xml:lang="ja">福島</schema:birthPlace>
+    <imas:Constellation xml:lang="ja">魚座</imas:Constellation>
+    <imas:Handedness xml:lang="en">right</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">175.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">63.0</schema:weight>
     <imas:ShoeSize rdf:datatype="http://www.w3.org/2001/XMLSchema#float">26.0</imas:ShoeSize>
-    <imas:Category xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">フィジカル</imas:Category>
-    <imas:cv xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">仲村宗悟</imas:cv>
+    <imas:Category xml:lang="ja">フィジカル</imas:Category>
+    <imas:cv xml:lang="ja">仲村宗悟</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/仲村宗悟"/>
     <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q22125229"/>
-    <imas:Hobby xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">特撮</imas:Hobby>
-    <imas:Hobby xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">ダーツ</imas:Hobby>
-    <imas:Talent xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">料理</imas:Talent>
-    <schema:gender xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">male</schema:gender>
-    <imas:Title xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">315ProIdols</imas:Title>
+    <imas:Hobby xml:lang="ja">特撮</imas:Hobby>
+    <imas:Hobby xml:lang="ja">ダーツ</imas:Hobby>
+    <imas:Talent xml:lang="ja">料理</imas:Talent>
+    <schema:gender xml:lang="en">male</schema:gender>
+    <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="detail/Sakuraba_Kaoru">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">26</foaf:age>
-    <schema:name xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">桜庭薫</schema:name>
-    <schema:name xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Sakuraba</schema:name>
-    <imas:nameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">さくらばかおる</imas:nameKana>
-    <schema:familyName xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">桜庭</schema:familyName>
-    <schema:familyName xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Sakuraba</schema:familyName>
-    <schema:givenName xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">薫</schema:givenName>
-    <schema:givenName xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Kaoru</schema:givenName>
-    <imas:familyNameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">さくらば</imas:familyNameKana>
-    <imas:givenNameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">かおる</imas:givenNameKana>
+    <schema:name xml:lang="ja">桜庭薫</schema:name>
+    <schema:name xml:lang="en">Sakuraba</schema:name>
+    <imas:nameKana xml:lang="ja">さくらばかおる</imas:nameKana>
+    <schema:familyName xml:lang="ja">桜庭</schema:familyName>
+    <schema:familyName xml:lang="en">Sakuraba</schema:familyName>
+    <schema:givenName xml:lang="ja">薫</schema:givenName>
+    <schema:givenName xml:lang="en">Kaoru</schema:givenName>
+    <imas:familyNameKana xml:lang="ja">さくらば</imas:familyNameKana>
+    <imas:givenNameKana xml:lang="ja">かおる</imas:givenNameKana>
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--09-24</schema:birthDate>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A</imas:BloodType>
-    <schema:birthPlace xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">京都</schema:birthPlace>
-    <imas:Constellation xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">天秤座</imas:Constellation>
-    <imas:Handedness xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">both</imas:Handedness>
+    <schema:birthPlace xml:lang="ja">京都</schema:birthPlace>
+    <imas:Constellation xml:lang="ja">天秤座</imas:Constellation>
+    <imas:Handedness xml:lang="en">both</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">178.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">58.0</schema:weight>
     <imas:ShoeSize rdf:datatype="http://www.w3.org/2001/XMLSchema#float">26.5</imas:ShoeSize>
-    <imas:Category xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">インテリ</imas:Category>
-    <imas:cv xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">内田雄馬</imas:cv>
+    <imas:Category xml:lang="ja">インテリ</imas:Category>
+    <imas:cv xml:lang="ja">内田雄馬</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/内田雄馬"/>
     <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q17349748"/>
-    <imas:Hobby xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">姉の形見の擦り切れた詩集を読む</imas:Hobby>
-    <imas:Talent xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">手品</imas:Talent>
-    <schema:gender xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">male</schema:gender>
-    <imas:Title xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">315ProIdols</imas:Title>
+    <imas:Hobby xml:lang="ja">姉の形見の擦り切れた詩集を読む</imas:Hobby>
+    <imas:Talent xml:lang="ja">手品</imas:Talent>
+    <schema:gender xml:lang="en">male</schema:gender>
+    <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="detail/Kashiwagi_Tsubasa">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</foaf:age>
-    <schema:name xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">柏木翼</schema:name>
-    <schema:name xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Kashiwagi Tsubasa</schema:name>
-    <imas:nameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">かしわぎつばさ</imas:nameKana>
-    <schema:familyName xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">柏木</schema:familyName>
-    <schema:familyName xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Kashiwagi</schema:familyName>
-    <schema:givenName xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">翼</schema:givenName>
-    <schema:givenName xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Tsubasa</schema:givenName>
-    <imas:familyNameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">かしわぎ</imas:familyNameKana>
-    <imas:givenNameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">つばさ</imas:givenNameKana>
+    <schema:name xml:lang="ja">柏木翼</schema:name>
+    <schema:name xml:lang="en">Kashiwagi Tsubasa</schema:name>
+    <imas:nameKana xml:lang="ja">かしわぎつばさ</imas:nameKana>
+    <schema:familyName xml:lang="ja">柏木</schema:familyName>
+    <schema:familyName xml:lang="en">Kashiwagi</schema:familyName>
+    <schema:givenName xml:lang="ja">翼</schema:givenName>
+    <schema:givenName xml:lang="en">Tsubasa</schema:givenName>
+    <imas:familyNameKana xml:lang="ja">かしわぎ</imas:familyNameKana>
+    <imas:givenNameKana xml:lang="ja">つばさ</imas:givenNameKana>
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--06-02</schema:birthDate>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">O</imas:BloodType>
-    <schema:birthPlace xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">新潟</schema:birthPlace>
-    <imas:Constellation xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">双子座</imas:Constellation>
-    <imas:Handedness xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">left</imas:Handedness>
+    <schema:birthPlace xml:lang="ja">新潟</schema:birthPlace>
+    <imas:Constellation xml:lang="ja">双子座</imas:Constellation>
+    <imas:Handedness xml:lang="en">left</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">182.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">68.0</schema:weight>
     <imas:ShoeSize rdf:datatype="http://www.w3.org/2001/XMLSchema#float">27.0</imas:ShoeSize>
-    <imas:Category xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">メンタル</imas:Category>
-    <imas:cv xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">八代拓</imas:cv>
+    <imas:Category xml:lang="ja">メンタル</imas:Category>
+    <imas:cv xml:lang="ja">八代拓</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/八代拓"/>
     <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q23846671"/>
-    <imas:Hobby xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">テニス</imas:Hobby>
-    <imas:Hobby xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">読書</imas:Hobby>
-    <imas:Hobby xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">エコノミークラスで世界を旅する</imas:Hobby>
-    <imas:Talent xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">大食い</imas:Talent>
-    <imas:Talent xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">天気読み</imas:Talent>
-    <schema:gender xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">male</schema:gender>
-    <imas:Title xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">315ProIdols</imas:Title>
+    <imas:Hobby xml:lang="ja">テニス</imas:Hobby>
+    <imas:Hobby xml:lang="ja">読書</imas:Hobby>
+    <imas:Hobby xml:lang="ja">エコノミークラスで世界を旅する</imas:Hobby>
+    <imas:Talent xml:lang="ja">大食い</imas:Talent>
+    <imas:Talent xml:lang="ja">天気読み</imas:Talent>
+    <schema:gender xml:lang="en">male</schema:gender>
+    <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="detail/Tsuzuki_Kei">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#string">??</foaf:age>
-    <schema:name xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">都築圭</schema:name>
-    <schema:name xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Tsuzuki Kei</schema:name>
-    <imas:nameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">つづきけい</imas:nameKana>
-    <schema:familyName xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">都築</schema:familyName>
-    <schema:familyName xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Tsuzuki</schema:familyName>
-    <schema:givenName xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">圭</schema:givenName>
-    <schema:givenName xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Kei</schema:givenName>
-    <imas:familyNameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">つづき</imas:familyNameKana>
-    <imas:givenNameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">けい</imas:givenNameKana>
+    <schema:name xml:lang="ja">都築圭</schema:name>
+    <schema:name xml:lang="en">Tsuzuki Kei</schema:name>
+    <imas:nameKana xml:lang="ja">つづきけい</imas:nameKana>
+    <schema:familyName xml:lang="ja">都築</schema:familyName>
+    <schema:familyName xml:lang="en">Tsuzuki</schema:familyName>
+    <schema:givenName xml:lang="ja">圭</schema:givenName>
+    <schema:givenName xml:lang="en">Kei</schema:givenName>
+    <imas:familyNameKana xml:lang="ja">つづき</imas:familyNameKana>
+    <imas:givenNameKana xml:lang="ja">けい</imas:givenNameKana>
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--04-02</schema:birthDate>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">O</imas:BloodType>
-    <schema:birthPlace xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">ベルリン</schema:birthPlace>
-    <imas:Constellation xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">牡牛座</imas:Constellation>
-    <imas:Handedness xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">left</imas:Handedness>
+    <schema:birthPlace xml:lang="ja">ベルリン</schema:birthPlace>
+    <imas:Constellation xml:lang="ja">牡牛座</imas:Constellation>
+    <imas:Handedness xml:lang="en">left</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">182.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">54.0</schema:weight>
     <imas:ShoeSize rdf:datatype="http://www.w3.org/2001/XMLSchema#float">27.0</imas:ShoeSize>
-    <imas:Category xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">メンタル</imas:Category>
-    <imas:cv xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">土岐隼一</imas:cv>
+    <imas:Category xml:lang="ja">メンタル</imas:Category>
+    <imas:cv xml:lang="ja">土岐隼一</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/土岐隼一"/>
     <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q18457703"/>
-    <imas:Hobby xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">なし</imas:Hobby>
-    <imas:Talent xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">ピアノ</imas:Talent>
-    <schema:gender xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">male</schema:gender>
-    <imas:Title xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">315ProIdols</imas:Title>
+    <imas:Hobby xml:lang="ja">なし</imas:Hobby>
+    <imas:Talent xml:lang="ja">ピアノ</imas:Talent>
+    <schema:gender xml:lang="en">male</schema:gender>
+    <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="detail/Kagura_Rei">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</foaf:age>
-    <schema:name xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">神楽麗</schema:name>
-    <schema:name xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Kagura Rei</schema:name>
-    <imas:nameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">かぐられい</imas:nameKana>
-    <schema:familyName xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">神楽</schema:familyName>
-    <schema:familyName xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Kagura</schema:familyName>
-    <schema:givenName xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">麗</schema:givenName>
-    <schema:givenName xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Rei</schema:givenName>
-    <imas:familyNameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">かぐら</imas:familyNameKana>
-    <imas:givenNameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">れい</imas:givenNameKana>
+    <schema:name xml:lang="ja">神楽麗</schema:name>
+    <schema:name xml:lang="en">Kagura Rei</schema:name>
+    <imas:nameKana xml:lang="ja">かぐられい</imas:nameKana>
+    <schema:familyName xml:lang="ja">神楽</schema:familyName>
+    <schema:familyName xml:lang="en">Kagura</schema:familyName>
+    <schema:givenName xml:lang="ja">麗</schema:givenName>
+    <schema:givenName xml:lang="en">Rei</schema:givenName>
+    <imas:familyNameKana xml:lang="ja">かぐら</imas:familyNameKana>
+    <imas:givenNameKana xml:lang="ja">れい</imas:givenNameKana>
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--06-17</schema:birthDate>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">B</imas:BloodType>
-    <schema:birthPlace xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">東京</schema:birthPlace>
-    <imas:Constellation xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">双子座</imas:Constellation>
-    <imas:Handedness xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">right</imas:Handedness>
+    <schema:birthPlace xml:lang="ja">東京</schema:birthPlace>
+    <imas:Constellation xml:lang="ja">双子座</imas:Constellation>
+    <imas:Handedness xml:lang="en">right</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">165.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">52.0</schema:weight>
     <imas:ShoeSize rdf:datatype="http://www.w3.org/2001/XMLSchema#float">24.5</imas:ShoeSize>
-    <imas:Category xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">インテリ</imas:Category>
-    <imas:cv xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">永野由祐</imas:cv>
+    <imas:Category xml:lang="ja">インテリ</imas:Category>
+    <imas:cv xml:lang="ja">永野由祐</imas:cv>
     <!--<imas:cv rdf:resource="http://ja.dbpedia.org/resource/永野由祐"/>-->
     <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q26043734"/>
-    <imas:Hobby xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">ハンドクリームを塗ること</imas:Hobby>
-    <imas:Talent xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">1回聞いた音楽を正確にヴァイオリンで奏でることができる</imas:Talent>
-    <schema:gender xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">male</schema:gender>
-    <imas:Title xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">315ProIdols</imas:Title>
+    <imas:Hobby xml:lang="ja">ハンドクリームを塗ること</imas:Hobby>
+    <imas:Talent xml:lang="ja">1回聞いた音楽を正確にヴァイオリンで奏でることができる</imas:Talent>
+    <schema:gender xml:lang="en">male</schema:gender>
+    <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="detail/Takajo_Kyoji">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</foaf:age>
-    <schema:name xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">鷹城恭二</schema:name>
-    <schema:name xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Takajo Kyoji</schema:name>
-    <imas:nameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">たかじょうきょうじ</imas:nameKana>
-    <schema:familyName xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">鷹城</schema:familyName>
-    <schema:familyName xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Takajo</schema:familyName>
-    <schema:givenName xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">恭二</schema:givenName>
-    <schema:givenName xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Kyoji</schema:givenName>
-    <imas:familyNameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">たかじょう</imas:familyNameKana>
-    <imas:givenNameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">きょうじ</imas:givenNameKana>
+    <schema:name xml:lang="ja">鷹城恭二</schema:name>
+    <schema:name xml:lang="en">Takajo Kyoji</schema:name>
+    <imas:nameKana xml:lang="ja">たかじょうきょうじ</imas:nameKana>
+    <schema:familyName xml:lang="ja">鷹城</schema:familyName>
+    <schema:familyName xml:lang="en">Takajo</schema:familyName>
+    <schema:givenName xml:lang="ja">恭二</schema:givenName>
+    <schema:givenName xml:lang="en">Kyoji</schema:givenName>
+    <imas:familyNameKana xml:lang="ja">たかじょう</imas:familyNameKana>
+    <imas:givenNameKana xml:lang="ja">きょうじ</imas:givenNameKana>
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--02-02</schema:birthDate>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A</imas:BloodType>
-    <schema:birthPlace xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">東京</schema:birthPlace>
-    <imas:Constellation xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">水瓶座</imas:Constellation>
-    <imas:Handedness xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">right</imas:Handedness>
+    <schema:birthPlace xml:lang="ja">東京</schema:birthPlace>
+    <imas:Constellation xml:lang="ja">水瓶座</imas:Constellation>
+    <imas:Handedness xml:lang="en">right</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">182.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">62.0</schema:weight>
     <imas:ShoeSize rdf:datatype="http://www.w3.org/2001/XMLSchema#float">27.0</imas:ShoeSize>
-    <imas:Category xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">インテリ</imas:Category>
-    <imas:cv xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">梅原裕一郎</imas:cv>
+    <imas:Category xml:lang="ja">インテリ</imas:Category>
+    <imas:cv xml:lang="ja">梅原裕一郎</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/梅原裕一郎"/>
     <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q18225739"/>
-    <imas:Hobby xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">洗濯</imas:Hobby>
-    <imas:Talent xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">暗算</imas:Talent>
-    <schema:gender xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">male</schema:gender>
-    <imas:Title xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">315ProIdols</imas:Title>
+    <imas:Hobby xml:lang="ja">洗濯</imas:Hobby>
+    <imas:Talent xml:lang="ja">暗算</imas:Talent>
+    <schema:gender xml:lang="en">male</schema:gender>
+    <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="detail/Pierre">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</foaf:age>
-    <schema:name xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">ピエール</schema:name>
-    <schema:name xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Pierre</schema:name>
-    <imas:nameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">ぴえーる</imas:nameKana>
+    <schema:name xml:lang="ja">ピエール</schema:name>
+    <schema:name xml:lang="en">Pierre</schema:name>
+    <imas:nameKana xml:lang="ja">ぴえーる</imas:nameKana>
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--08-01</schema:birthDate>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">O</imas:BloodType>
-    <schema:birthPlace xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">うみのむこう</schema:birthPlace>
-    <imas:Constellation xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">獅子座</imas:Constellation>
-    <imas:Handedness xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">both</imas:Handedness>
+    <schema:birthPlace xml:lang="ja">うみのむこう</schema:birthPlace>
+    <imas:Constellation xml:lang="ja">獅子座</imas:Constellation>
+    <imas:Handedness xml:lang="en">both</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">165.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">50.0</schema:weight>
     <imas:ShoeSize rdf:datatype="http://www.w3.org/2001/XMLSchema#float">24.5</imas:ShoeSize>
-    <imas:Category xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">メンタル</imas:Category>
-    <imas:cv xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">堀江瞬</imas:cv>
+    <imas:Category xml:lang="ja">メンタル</imas:Category>
+    <imas:cv xml:lang="ja">堀江瞬</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/堀江瞬"/>
     <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q22129969"/>
-    <imas:Hobby xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">きぐるみとのしゃしんさつえい</imas:Hobby>
-    <imas:Talent xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">みかんのはやむき</imas:Talent>
-    <schema:gender xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">male</schema:gender>
-    <imas:Title xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">315ProIdols</imas:Title>
+    <imas:Hobby xml:lang="ja">きぐるみとのしゃしんさつえい</imas:Hobby>
+    <imas:Talent xml:lang="ja">みかんのはやむき</imas:Talent>
+    <schema:gender xml:lang="en">male</schema:gender>
+    <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="detail/Watanabe_Minori">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">31</foaf:age>
-    <schema:name xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Watanabe Minori</schema:name>
-    <imas:nameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">わたなべみのり</imas:nameKana>
-    <schema:familyName xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">渡辺</schema:familyName>
-    <schema:familyName xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Watanabe</schema:familyName>
-    <schema:givenName xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">みのり</schema:givenName>
-    <schema:givenName xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Minori</schema:givenName>
-    <imas:familyNameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">わたなべ</imas:familyNameKana>
-    <imas:givenNameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">みのり</imas:givenNameKana>
+    <schema:name xml:lang="en">Watanabe Minori</schema:name>
+    <imas:nameKana xml:lang="ja">わたなべみのり</imas:nameKana>
+    <schema:familyName xml:lang="ja">渡辺</schema:familyName>
+    <schema:familyName xml:lang="en">Watanabe</schema:familyName>
+    <schema:givenName xml:lang="ja">みのり</schema:givenName>
+    <schema:givenName xml:lang="en">Minori</schema:givenName>
+    <imas:familyNameKana xml:lang="ja">わたなべ</imas:familyNameKana>
+    <imas:givenNameKana xml:lang="ja">みのり</imas:givenNameKana>
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--03-22</schema:birthDate>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AB</imas:BloodType>
-    <schema:birthPlace xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">茨城</schema:birthPlace>
-    <imas:Constellation xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">牡羊座</imas:Constellation>
-    <imas:Handedness xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">right</imas:Handedness>
+    <schema:birthPlace xml:lang="ja">茨城</schema:birthPlace>
+    <imas:Constellation xml:lang="ja">牡羊座</imas:Constellation>
+    <imas:Handedness xml:lang="en">right</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">178.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">55.0</schema:weight>
     <imas:ShoeSize rdf:datatype="http://www.w3.org/2001/XMLSchema#float">26.5</imas:ShoeSize>
-    <imas:Category xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">フィジカル</imas:Category>
-    <imas:cv xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">高塚智人</imas:cv>
+    <imas:Category xml:lang="ja">フィジカル</imas:Category>
+    <imas:cv xml:lang="ja">高塚智人</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/高塚智人"/>
     <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q21019125"/>
-    <imas:Hobby xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">ハンドクリーム集め</imas:Hobby>
-    <imas:Talent xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">運転時の抜け道探し</imas:Talent>
-    <schema:gender xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">male</schema:gender>
-    <imas:Title xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">315ProIdols</imas:Title>
+    <imas:Hobby xml:lang="ja">ハンドクリーム集め</imas:Hobby>
+    <imas:Talent xml:lang="ja">運転時の抜け道探し</imas:Talent>
+    <schema:gender xml:lang="en">male</schema:gender>
+    <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="detail/Aoi_Yusuke">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</foaf:age>
-    <schema:name xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">蒼井悠介</schema:name>
-    <schema:name xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Aoi Yusuke</schema:name>
-    <imas:nameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">あおいゆうすけ</imas:nameKana>
-    <schema:familyName xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">蒼井</schema:familyName>
-    <schema:familyName xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Aoi</schema:familyName>
-    <schema:givenName xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">悠介</schema:givenName>
-    <schema:givenName xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Yusuke</schema:givenName>
-    <imas:familyNameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">あおい</imas:familyNameKana>
-    <imas:givenNameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">ゆうすけ</imas:givenNameKana>
+    <schema:name xml:lang="ja">蒼井悠介</schema:name>
+    <schema:name xml:lang="en">Aoi Yusuke</schema:name>
+    <imas:nameKana xml:lang="ja">あおいゆうすけ</imas:nameKana>
+    <schema:familyName xml:lang="ja">蒼井</schema:familyName>
+    <schema:familyName xml:lang="en">Aoi</schema:familyName>
+    <schema:givenName xml:lang="ja">悠介</schema:givenName>
+    <schema:givenName xml:lang="en">Yusuke</schema:givenName>
+    <imas:familyNameKana xml:lang="ja">あおい</imas:familyNameKana>
+    <imas:givenNameKana xml:lang="ja">ゆうすけ</imas:givenNameKana>
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--07-07</schema:birthDate>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">B</imas:BloodType>
-    <schema:birthPlace xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">長野</schema:birthPlace>
-    <imas:Constellation xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">蟹座</imas:Constellation>
-    <imas:Handedness xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">left</imas:Handedness>
+    <schema:birthPlace xml:lang="ja">長野</schema:birthPlace>
+    <imas:Constellation xml:lang="ja">蟹座</imas:Constellation>
+    <imas:Handedness xml:lang="en">left</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">161.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">52.0</schema:weight>
     <imas:ShoeSize rdf:datatype="http://www.w3.org/2001/XMLSchema#float">24.0</imas:ShoeSize>
-    <imas:Category xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">メンタル</imas:Category>
-    <imas:cv xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">菊池勇成</imas:cv>
+    <imas:Category xml:lang="ja">メンタル</imas:Category>
+    <imas:cv xml:lang="ja">菊池勇成</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/菊池勇成"/>
     <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q24865828"/>
-    <imas:Hobby xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">サッカー</imas:Hobby>
-    <imas:Talent xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">サッカー</imas:Talent>
-    <schema:gender xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">male</schema:gender>
-    <imas:Title xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">315ProIdols</imas:Title>
+    <imas:Hobby xml:lang="ja">サッカー</imas:Hobby>
+    <imas:Talent xml:lang="ja">サッカー</imas:Talent>
+    <schema:gender xml:lang="en">male</schema:gender>
+    <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="detail/Aoi_Kyosuke">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</foaf:age>
-    <schema:name xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">蒼井享介</schema:name>
-    <schema:name xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Aoi Kyosuke</schema:name>
-    <imas:nameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">あおいきょうすけ</imas:nameKana>
-    <schema:familyName xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">蒼井</schema:familyName>
-    <schema:familyName xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Aoi</schema:familyName>
-    <schema:givenName xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">享介</schema:givenName>
-    <schema:givenName xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Kyosuke</schema:givenName>
-    <imas:familyNameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">あおい</imas:familyNameKana>
-    <imas:givenNameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">きょうすけ</imas:givenNameKana>
+    <schema:name xml:lang="ja">蒼井享介</schema:name>
+    <schema:name xml:lang="en">Aoi Kyosuke</schema:name>
+    <imas:nameKana xml:lang="ja">あおいきょうすけ</imas:nameKana>
+    <schema:familyName xml:lang="ja">蒼井</schema:familyName>
+    <schema:familyName xml:lang="en">Aoi</schema:familyName>
+    <schema:givenName xml:lang="ja">享介</schema:givenName>
+    <schema:givenName xml:lang="en">Kyosuke</schema:givenName>
+    <imas:familyNameKana xml:lang="ja">あおい</imas:familyNameKana>
+    <imas:givenNameKana xml:lang="ja">きょうすけ</imas:givenNameKana>
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--07-07</schema:birthDate>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">B</imas:BloodType>
-    <schema:birthPlace xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">長野</schema:birthPlace>
-    <imas:Constellation xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">蟹座</imas:Constellation>
-    <imas:Handedness xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">right</imas:Handedness>
+    <schema:birthPlace xml:lang="ja">長野</schema:birthPlace>
+    <imas:Constellation xml:lang="ja">蟹座</imas:Constellation>
+    <imas:Handedness xml:lang="en">right</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">161.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">52.0</schema:weight>
     <imas:ShoeSize rdf:datatype="http://www.w3.org/2001/XMLSchema#float">24.0</imas:ShoeSize>
-    <imas:Category xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">インテリ</imas:Category>
-    <imas:cv xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"></imas:cv>
+    <imas:Category xml:lang="ja">インテリ</imas:Category>
+    <imas:cv xml:lang="ja"></imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/山谷祥生"/>
     <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q16746698"/>
-    <imas:Hobby xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">知恵の輪</imas:Hobby>
-    <imas:Talent xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">練習メニューの組み立て</imas:Talent>
-    <imas:Talent xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">コーチング</imas:Talent>
-    <schema:gender xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">male</schema:gender>
-    <imas:Title xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">315ProIdols</imas:Title>
+    <imas:Hobby xml:lang="ja">知恵の輪</imas:Hobby>
+    <imas:Talent xml:lang="ja">練習メニューの組み立て</imas:Talent>
+    <imas:Talent xml:lang="ja">コーチング</imas:Talent>
+    <schema:gender xml:lang="en">male</schema:gender>
+    <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="detail/Akuno_Hideo">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">23</foaf:age>
-    <schema:name xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">握野英雄</schema:name>
-    <schema:name xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Akuno Hideo</schema:name>
-    <imas:nameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">あくのひでお</imas:nameKana>
-    <schema:familyName xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">握野</schema:familyName>
-    <schema:familyName xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Akuno</schema:familyName>
-    <schema:givenName xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">英雄</schema:givenName>
-    <schema:givenName xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Hideo</schema:givenName>
-    <imas:familyNameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">あくの</imas:familyNameKana>
-    <imas:givenNameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">ひでお</imas:givenNameKana>
+    <schema:name xml:lang="ja">握野英雄</schema:name>
+    <schema:name xml:lang="en">Akuno Hideo</schema:name>
+    <imas:nameKana xml:lang="ja">あくのひでお</imas:nameKana>
+    <schema:familyName xml:lang="ja">握野</schema:familyName>
+    <schema:familyName xml:lang="en">Akuno</schema:familyName>
+    <schema:givenName xml:lang="ja">英雄</schema:givenName>
+    <schema:givenName xml:lang="en">Hideo</schema:givenName>
+    <imas:familyNameKana xml:lang="ja">あくの</imas:familyNameKana>
+    <imas:givenNameKana xml:lang="ja">ひでお</imas:givenNameKana>
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--03-07</schema:birthDate>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AB</imas:BloodType>
-    <schema:birthPlace xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">神奈川</schema:birthPlace>
-    <imas:Constellation xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">魚座</imas:Constellation>
-    <imas:Handedness xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">left</imas:Handedness>
+    <schema:birthPlace xml:lang="ja">神奈川</schema:birthPlace>
+    <imas:Constellation xml:lang="ja">魚座</imas:Constellation>
+    <imas:Handedness xml:lang="en">left</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">171.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">67.0</schema:weight>
     <imas:ShoeSize rdf:datatype="http://www.w3.org/2001/XMLSchema#float">25.5</imas:ShoeSize>
-    <imas:Category xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">インテリ</imas:Category>
-    <imas:cv xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">熊谷健太郎</imas:cv>
+    <imas:Category xml:lang="ja">インテリ</imas:Category>
+    <imas:cv xml:lang="ja">熊谷健太郎</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/熊谷健太郎"/>
     <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q24865804"/>
-    <imas:Hobby xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">トレラン</imas:Hobby>
-    <imas:Talent xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">警察犬の訓練</imas:Talent>
-    <imas:Talent xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">動物全般の躾</imas:Talent>
-    <schema:gender xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">male</schema:gender>
-    <imas:Title xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">315ProIdols</imas:Title>
+    <imas:Hobby xml:lang="ja">トレラン</imas:Hobby>
+    <imas:Talent xml:lang="ja">警察犬の訓練</imas:Talent>
+    <imas:Talent xml:lang="ja">動物全般の躾</imas:Talent>
+    <schema:gender xml:lang="en">male</schema:gender>
+    <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="detail/Kimura_Ryu">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</foaf:age>
-    <schema:name xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">木村龍</schema:name>
-    <schema:name xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Kimura Ryu</schema:name>
-    <imas:nameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">きむらりゅう</imas:nameKana>
-    <schema:familyName xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">木村</schema:familyName>
-    <schema:familyName xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Kimura</schema:familyName>
-    <schema:givenName xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">龍</schema:givenName>
-    <schema:givenName xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Ryu</schema:givenName>
-    <imas:familyNameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">きむら</imas:familyNameKana>
-    <imas:givenNameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">りゅう</imas:givenNameKana>
+    <schema:name xml:lang="ja">木村龍</schema:name>
+    <schema:name xml:lang="en">Kimura Ryu</schema:name>
+    <imas:nameKana xml:lang="ja">きむらりゅう</imas:nameKana>
+    <schema:familyName xml:lang="ja">木村</schema:familyName>
+    <schema:familyName xml:lang="en">Kimura</schema:familyName>
+    <schema:givenName xml:lang="ja">龍</schema:givenName>
+    <schema:givenName xml:lang="en">Ryu</schema:givenName>
+    <imas:familyNameKana xml:lang="ja">きむら</imas:familyNameKana>
+    <imas:givenNameKana xml:lang="ja">りゅう</imas:givenNameKana>
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--05-05</schema:birthDate>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">B</imas:BloodType>
-    <schema:birthPlace xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">千葉</schema:birthPlace>
-    <imas:Constellation xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">牡牛座</imas:Constellation>
-    <imas:Handedness xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">right</imas:Handedness>
+    <schema:birthPlace xml:lang="ja">千葉</schema:birthPlace>
+    <imas:Constellation xml:lang="ja">牡牛座</imas:Constellation>
+    <imas:Handedness xml:lang="en">right</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">175.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">70.0</schema:weight>
     <imas:ShoeSize rdf:datatype="http://www.w3.org/2001/XMLSchema#float">26.0</imas:ShoeSize>
-    <imas:Category xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">フィジカル</imas:Category>
-    <imas:cv xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">濱健人</imas:cv>
+    <imas:Category xml:lang="ja">フィジカル</imas:Category>
+    <imas:cv xml:lang="ja">濱健人</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/濱健人"/>
     <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q20042322"/>
-    <imas:Hobby xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">昼寝</imas:Hobby>
-    <imas:Talent xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">裁縫</imas:Talent>
-    <schema:gender xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">male</schema:gender>
-    <imas:Title xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">315ProIdols</imas:Title>
+    <imas:Hobby xml:lang="ja">昼寝</imas:Hobby>
+    <imas:Talent xml:lang="ja">裁縫</imas:Talent>
+    <schema:gender xml:lang="en">male</schema:gender>
+    <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="detail/Shingen_Seiji">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">31</foaf:age>
-    <schema:name xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">信玄誠司</schema:name>
-    <schema:name xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Shingen Seiji</schema:name>
-    <imas:nameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">しんげんせいじ</imas:nameKana>
-    <schema:familyName xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">信玄</schema:familyName>
-    <schema:familyName xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Shingen</schema:familyName>
-    <schema:givenName xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">誠司</schema:givenName>
-    <schema:givenName xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Seiji</schema:givenName>
-    <imas:familyNameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">しんげん</imas:familyNameKana>
-    <imas:givenNameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">せいじ</imas:givenNameKana>
+    <schema:name xml:lang="ja">信玄誠司</schema:name>
+    <schema:name xml:lang="en">Shingen Seiji</schema:name>
+    <imas:nameKana xml:lang="ja">しんげんせいじ</imas:nameKana>
+    <schema:familyName xml:lang="ja">信玄</schema:familyName>
+    <schema:familyName xml:lang="en">Shingen</schema:familyName>
+    <schema:givenName xml:lang="ja">誠司</schema:givenName>
+    <schema:givenName xml:lang="en">Seiji</schema:givenName>
+    <imas:familyNameKana xml:lang="ja">しんげん</imas:familyNameKana>
+    <imas:givenNameKana xml:lang="ja">せいじ</imas:givenNameKana>
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--12-24</schema:birthDate>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">B</imas:BloodType>
-    <schema:birthPlace xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">熊本</schema:birthPlace>
-    <imas:Constellation xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">山羊座</imas:Constellation>
-    <imas:Handedness xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">right</imas:Handedness>
+    <schema:birthPlace xml:lang="ja">熊本</schema:birthPlace>
+    <imas:Constellation xml:lang="ja">山羊座</imas:Constellation>
+    <imas:Handedness xml:lang="en">right</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">185.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">78.0</schema:weight>
     <imas:ShoeSize rdf:datatype="http://www.w3.org/2001/XMLSchema#float">27.0</imas:ShoeSize>
-    <imas:Category xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">メンタル</imas:Category>
-    <imas:cv xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">増元拓也</imas:cv>
+    <imas:Category xml:lang="ja">メンタル</imas:Category>
+    <imas:cv xml:lang="ja">増元拓也</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/増元拓也"/>
     <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q17230347"/>
-    <imas:Hobby xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">料理</imas:Hobby>
-    <imas:Talent xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">銃器類の早解体</imas:Talent>
-    <schema:gender xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">male</schema:gender>
-    <imas:Title xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">315ProIdols</imas:Title>
+    <imas:Hobby xml:lang="ja">料理</imas:Hobby>
+    <imas:Talent xml:lang="ja">銃器類の早解体</imas:Talent>
+    <schema:gender xml:lang="en">male</schema:gender>
+    <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="detail/Nekoyanagi_Kirio">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</foaf:age>
-    <schema:name xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">猫柳キリオ</schema:name>
-    <schema:name xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Nekoyanagi Kirio</schema:name>
-    <imas:nameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">ねこやなぎきりお</imas:nameKana>
-    <schema:familyName xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">猫柳</schema:familyName>
-    <schema:familyName xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Nekoyanagi</schema:familyName>
-    <schema:givenName xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">キリオ</schema:givenName>
-    <schema:givenName xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Kirio</schema:givenName>
-    <imas:familyNameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">ねこやなぎ</imas:familyNameKana>
-    <imas:givenNameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">きりお</imas:givenNameKana>
+    <schema:name xml:lang="ja">猫柳キリオ</schema:name>
+    <schema:name xml:lang="en">Nekoyanagi Kirio</schema:name>
+    <imas:nameKana xml:lang="ja">ねこやなぎきりお</imas:nameKana>
+    <schema:familyName xml:lang="ja">猫柳</schema:familyName>
+    <schema:familyName xml:lang="en">Nekoyanagi</schema:familyName>
+    <schema:givenName xml:lang="ja">キリオ</schema:givenName>
+    <schema:givenName xml:lang="en">Kirio</schema:givenName>
+    <imas:familyNameKana xml:lang="ja">ねこやなぎ</imas:familyNameKana>
+    <imas:givenNameKana xml:lang="ja">きりお</imas:givenNameKana>
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--11-12</schema:birthDate>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AB</imas:BloodType>
-    <schema:birthPlace xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">群馬</schema:birthPlace>
-    <imas:Constellation xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">蠍座</imas:Constellation>
-    <imas:Handedness xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">both</imas:Handedness>
+    <schema:birthPlace xml:lang="ja">群馬</schema:birthPlace>
+    <imas:Constellation xml:lang="ja">蠍座</imas:Constellation>
+    <imas:Handedness xml:lang="en">both</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">165.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">54.0</schema:weight>
     <imas:ShoeSize rdf:datatype="http://www.w3.org/2001/XMLSchema#float">24.5</imas:ShoeSize>
-    <imas:Category xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">インテリ</imas:Category>
-    <imas:cv xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">山下大輝</imas:cv>
+    <imas:Category xml:lang="ja">インテリ</imas:Category>
+    <imas:cv xml:lang="ja">山下大輝</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/山下大輝"/>
     <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q15975368"/>
-    <imas:Hobby xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">珍獣観察</imas:Hobby>
-    <imas:Talent xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">人間・動物からマンガやアニメのキャラクターのモノマネや形態模写</imas:Talent>
-    <schema:gender xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">male</schema:gender>
-    <imas:Title xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">315ProIdols</imas:Title>
+    <imas:Hobby xml:lang="ja">珍獣観察</imas:Hobby>
+    <imas:Talent xml:lang="ja">人間・動物からマンガやアニメのキャラクターのモノマネや形態模写</imas:Talent>
+    <schema:gender xml:lang="en">male</schema:gender>
+    <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="detail/Hanamura_Shoma">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">27</foaf:age>
-    <schema:name xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">華村翔真</schema:name>
-    <schema:name xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Hanamura Shoma</schema:name>
-    <imas:nameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">はなむらしょうま</imas:nameKana>
-    <schema:familyName xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">華村</schema:familyName>
-    <schema:familyName xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Hanamura</schema:familyName>
-    <schema:givenName xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">翔真</schema:givenName>
-    <schema:givenName xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Shoma</schema:givenName>
-    <imas:familyNameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">はなむら</imas:familyNameKana>
-    <imas:givenNameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">しょうま</imas:givenNameKana>
+    <schema:name xml:lang="ja">華村翔真</schema:name>
+    <schema:name xml:lang="en">Hanamura Shoma</schema:name>
+    <imas:nameKana xml:lang="ja">はなむらしょうま</imas:nameKana>
+    <schema:familyName xml:lang="ja">華村</schema:familyName>
+    <schema:familyName xml:lang="en">Hanamura</schema:familyName>
+    <schema:givenName xml:lang="ja">翔真</schema:givenName>
+    <schema:givenName xml:lang="en">Shoma</schema:givenName>
+    <imas:familyNameKana xml:lang="ja">はなむら</imas:familyNameKana>
+    <imas:givenNameKana xml:lang="ja">しょうま</imas:givenNameKana>
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--08-24</schema:birthDate>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AB</imas:BloodType>
-    <schema:birthPlace xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">新潟</schema:birthPlace>
-    <imas:Constellation xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">乙女座</imas:Constellation>
-    <imas:Handedness xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">left</imas:Handedness>
+    <schema:birthPlace xml:lang="ja">新潟</schema:birthPlace>
+    <imas:Constellation xml:lang="ja">乙女座</imas:Constellation>
+    <imas:Handedness xml:lang="en">left</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">174.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">55.0</schema:weight>
     <imas:ShoeSize rdf:datatype="http://www.w3.org/2001/XMLSchema#float">25.5</imas:ShoeSize>
-    <imas:Category xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">メンタル</imas:Category>
-    <imas:cv xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">バレッタ裕</imas:cv>
+    <imas:Category xml:lang="ja">メンタル</imas:Category>
+    <imas:cv xml:lang="ja">バレッタ裕</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/バレッタ裕"/>
     <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q24865667"/>
-    <imas:Hobby xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">メイド喫茶巡り</imas:Hobby>
-    <imas:Talent xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">和太鼓演奏</imas:Talent>
-    <schema:gender xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">male</schema:gender>
-    <imas:Title xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">315ProIdols</imas:Title>
+    <imas:Hobby xml:lang="ja">メイド喫茶巡り</imas:Hobby>
+    <imas:Talent xml:lang="ja">和太鼓演奏</imas:Talent>
+    <schema:gender xml:lang="en">male</schema:gender>
+    <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="detail/Kiyosumi_Kuro">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</foaf:age>
-    <schema:name xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">清澄九郎</schema:name>
-    <schema:name xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Kiyosumi Kuro</schema:name>
-    <imas:nameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">きよすみくろう</imas:nameKana>
-    <schema:familyName xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">清澄</schema:familyName>
-    <schema:familyName xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Kiyosumi</schema:familyName>
-    <schema:givenName xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">九郎</schema:givenName>
-    <schema:givenName xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Kuro</schema:givenName>
-    <imas:familyNameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">きよすみ</imas:familyNameKana>
-    <imas:givenNameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">くろう</imas:givenNameKana>
+    <schema:name xml:lang="ja">清澄九郎</schema:name>
+    <schema:name xml:lang="en">Kiyosumi Kuro</schema:name>
+    <imas:nameKana xml:lang="ja">きよすみくろう</imas:nameKana>
+    <schema:familyName xml:lang="ja">清澄</schema:familyName>
+    <schema:familyName xml:lang="en">Kiyosumi</schema:familyName>
+    <schema:givenName xml:lang="ja">九郎</schema:givenName>
+    <schema:givenName xml:lang="en">Kuro</schema:givenName>
+    <imas:familyNameKana xml:lang="ja">きよすみ</imas:familyNameKana>
+    <imas:givenNameKana xml:lang="ja">くろう</imas:givenNameKana>
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--07-03</schema:birthDate>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A</imas:BloodType>
-    <schema:birthPlace xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">鎌倉</schema:birthPlace>
-    <imas:Constellation xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">蟹座</imas:Constellation>
-    <imas:Handedness xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">right</imas:Handedness>
+    <schema:birthPlace xml:lang="ja">鎌倉</schema:birthPlace>
+    <imas:Constellation xml:lang="ja">蟹座</imas:Constellation>
+    <imas:Handedness xml:lang="en">right</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">178.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">67.0</schema:weight>
     <imas:ShoeSize rdf:datatype="http://www.w3.org/2001/XMLSchema#float">26.5</imas:ShoeSize>
-    <imas:Category xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">メンタル</imas:Category>
-    <imas:cv xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">中田祐矢</imas:cv>
+    <imas:Category xml:lang="ja">メンタル</imas:Category>
+    <imas:cv xml:lang="ja">中田祐矢</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/中田祐矢"/>
     <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q11366741"/>
-    <imas:Hobby xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">いろいろな入浴剤収集</imas:Hobby>
-    <imas:Talent xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">競技かるた</imas:Talent>
-    <imas:Talent xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">投扇興</imas:Talent>
-    <schema:gender xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">male</schema:gender>
-    <imas:Title xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">315ProIdols</imas:Title>
+    <imas:Hobby xml:lang="ja">いろいろな入浴剤収集</imas:Hobby>
+    <imas:Talent xml:lang="ja">競技かるた</imas:Talent>
+    <imas:Talent xml:lang="ja">投扇興</imas:Talent>
+    <schema:gender xml:lang="en">male</schema:gender>
+    <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="detail/Akiyama_Hayato">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</foaf:age>
-    <schema:name xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">秋山隼人</schema:name>
-    <schema:name xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Akiyama Hayato</schema:name>
-    <imas:nameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">あきやまはやと</imas:nameKana>
-    <schema:familyName xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">秋山</schema:familyName>
-    <schema:familyName xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Akiyama</schema:familyName>
-    <schema:givenName xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">隼人</schema:givenName>
-    <schema:givenName xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Hayato</schema:givenName>
-    <imas:familyNameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">あきやま</imas:familyNameKana>
-    <imas:givenNameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">はやと</imas:givenNameKana>
+    <schema:name xml:lang="ja">秋山隼人</schema:name>
+    <schema:name xml:lang="en">Akiyama Hayato</schema:name>
+    <imas:nameKana xml:lang="ja">あきやまはやと</imas:nameKana>
+    <schema:familyName xml:lang="ja">秋山</schema:familyName>
+    <schema:familyName xml:lang="en">Akiyama</schema:familyName>
+    <schema:givenName xml:lang="ja">隼人</schema:givenName>
+    <schema:givenName xml:lang="en">Hayato</schema:givenName>
+    <imas:familyNameKana xml:lang="ja">あきやま</imas:familyNameKana>
+    <imas:givenNameKana xml:lang="ja">はやと</imas:givenNameKana>
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--11-22</schema:birthDate>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A</imas:BloodType>
-    <schema:birthPlace xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">兵庫</schema:birthPlace>
-    <imas:Constellation xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">蠍座</imas:Constellation>
-    <imas:Handedness xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">right</imas:Handedness>
+    <schema:birthPlace xml:lang="ja">兵庫</schema:birthPlace>
+    <imas:Constellation xml:lang="ja">蠍座</imas:Constellation>
+    <imas:Handedness xml:lang="en">right</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">162.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">48.0</schema:weight>
     <imas:ShoeSize rdf:datatype="http://www.w3.org/2001/XMLSchema#float">24.0</imas:ShoeSize>
-    <imas:Category xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">フィジカル</imas:Category>
-    <imas:cv xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">千葉翔也</imas:cv>
+    <imas:Category xml:lang="ja">フィジカル</imas:Category>
+    <imas:cv xml:lang="ja">千葉翔也</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/千葉翔也"/>
     <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q11406719"/>
-    <imas:Hobby xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">ゲーム</imas:Hobby>
-    <imas:Hobby xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">ギター</imas:Hobby>
-    <imas:Talent xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">野球選手のモノマネ</imas:Talent>
-    <schema:gender xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">male</schema:gender>
-    <imas:Title xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">315ProIdols</imas:Title>
+    <imas:Hobby xml:lang="ja">ゲーム</imas:Hobby>
+    <imas:Hobby xml:lang="ja">ギター</imas:Hobby>
+    <imas:Talent xml:lang="ja">野球選手のモノマネ</imas:Talent>
+    <schema:gender xml:lang="en">male</schema:gender>
+    <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="detail/Fuyumi_Jun">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</foaf:age>
-    <schema:name xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">冬美旬</schema:name>
-    <schema:name xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Fuyumi Jun</schema:name>
-    <imas:nameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">ふゆみじゅん</imas:nameKana>
-    <schema:familyName xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">冬美</schema:familyName>
-    <schema:familyName xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Fuyumi</schema:familyName>
-    <schema:givenName xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">旬</schema:givenName>
-    <schema:givenName xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Jun</schema:givenName>
-    <imas:familyNameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">ふゆみ</imas:familyNameKana>
-    <imas:givenNameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">じゅん</imas:givenNameKana>
+    <schema:name xml:lang="ja">冬美旬</schema:name>
+    <schema:name xml:lang="en">Fuyumi Jun</schema:name>
+    <imas:nameKana xml:lang="ja">ふゆみじゅん</imas:nameKana>
+    <schema:familyName xml:lang="ja">冬美</schema:familyName>
+    <schema:familyName xml:lang="en">Fuyumi</schema:familyName>
+    <schema:givenName xml:lang="ja">旬</schema:givenName>
+    <schema:givenName xml:lang="en">Jun</schema:givenName>
+    <imas:familyNameKana xml:lang="ja">ふゆみ</imas:familyNameKana>
+    <imas:givenNameKana xml:lang="ja">じゅん</imas:givenNameKana>
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--01-02</schema:birthDate>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">B</imas:BloodType>
-    <schema:birthPlace xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">山梨</schema:birthPlace>
-    <imas:Constellation xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">山羊座</imas:Constellation>
-    <imas:Handedness xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">right</imas:Handedness>
+    <schema:birthPlace xml:lang="ja">山梨</schema:birthPlace>
+    <imas:Constellation xml:lang="ja">山羊座</imas:Constellation>
+    <imas:Handedness xml:lang="en">right</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">158.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">49.0</schema:weight>
     <imas:ShoeSize rdf:datatype="http://www.w3.org/2001/XMLSchema#float">23.5</imas:ShoeSize>
-    <imas:Category xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">インテリ</imas:Category>
-    <imas:cv xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">永塚拓馬</imas:cv>
+    <imas:Category xml:lang="ja">インテリ</imas:Category>
+    <imas:cv xml:lang="ja">永塚拓馬</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/永塚拓馬"/>
     <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q20760484"/>
-    <imas:Hobby xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">読書</imas:Hobby>
-    <imas:Talent xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">ピアノ</imas:Talent>
-    <schema:gender xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">male</schema:gender>
-    <imas:Title xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">315ProIdols</imas:Title>
+    <imas:Hobby xml:lang="ja">読書</imas:Hobby>
+    <imas:Talent xml:lang="ja">ピアノ</imas:Talent>
+    <schema:gender xml:lang="en">male</schema:gender>
+    <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="detail/Sakaki_Natsuki">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</foaf:age>
-    <schema:name xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">榊夏来</schema:name>
-    <schema:name xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Sakaki Natsuki</schema:name>
-    <imas:nameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">さかきなつき</imas:nameKana>
-    <schema:familyName xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">榊</schema:familyName>
-    <schema:familyName xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Sakaki</schema:familyName>
-    <schema:givenName xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">夏来</schema:givenName>
-    <schema:givenName xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Natsuki</schema:givenName>
-    <imas:familyNameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">さかき</imas:familyNameKana>
-    <imas:givenNameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">なつき</imas:givenNameKana>
+    <schema:name xml:lang="ja">榊夏来</schema:name>
+    <schema:name xml:lang="en">Sakaki Natsuki</schema:name>
+    <imas:nameKana xml:lang="ja">さかきなつき</imas:nameKana>
+    <schema:familyName xml:lang="ja">榊</schema:familyName>
+    <schema:familyName xml:lang="en">Sakaki</schema:familyName>
+    <schema:givenName xml:lang="ja">夏来</schema:givenName>
+    <schema:givenName xml:lang="en">Natsuki</schema:givenName>
+    <imas:familyNameKana xml:lang="ja">さかき</imas:familyNameKana>
+    <imas:givenNameKana xml:lang="ja">なつき</imas:givenNameKana>
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--06-18</schema:birthDate>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AB</imas:BloodType>
-    <schema:birthPlace xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">札幌</schema:birthPlace>
-    <imas:Constellation xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">双子座</imas:Constellation>
-    <imas:Handedness xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">left</imas:Handedness>
+    <schema:birthPlace xml:lang="ja">札幌</schema:birthPlace>
+    <imas:Constellation xml:lang="ja">双子座</imas:Constellation>
+    <imas:Handedness xml:lang="en">left</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">170.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">54.0</schema:weight>
     <imas:ShoeSize rdf:datatype="http://www.w3.org/2001/XMLSchema#float">25.5</imas:ShoeSize>
-    <imas:Category xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">インテリ</imas:Category>
-    <imas:cv xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">渡辺紘</imas:cv>
+    <imas:Category xml:lang="ja">インテリ</imas:Category>
+    <imas:cv xml:lang="ja">渡辺紘</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/渡辺紘"/>
     <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q17217594"/>
-    <imas:Hobby xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">人間観察</imas:Hobby>
-    <imas:Hobby xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">ヴァイオリン</imas:Hobby>
-    <imas:Talent xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">気配を消すこと</imas:Talent>
-    <schema:gender xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">male</schema:gender>
-    <imas:Title xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">315ProIdols</imas:Title>
+    <imas:Hobby xml:lang="ja">人間観察</imas:Hobby>
+    <imas:Hobby xml:lang="ja">ヴァイオリン</imas:Hobby>
+    <imas:Talent xml:lang="ja">気配を消すこと</imas:Talent>
+    <schema:gender xml:lang="en">male</schema:gender>
+    <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="detail/Wakazato_Haruna">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</foaf:age>
-    <schema:name xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">若里春名</schema:name>
-    <schema:name xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Wakazato Haruna</schema:name>
-    <imas:nameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">わかざとはるな</imas:nameKana>
-    <schema:familyName xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">若里</schema:familyName>
-    <schema:familyName xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Wakazato</schema:familyName>
-    <schema:givenName xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">春名</schema:givenName>
-    <schema:givenName xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Haruna</schema:givenName>
-    <imas:familyNameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">わかざと</imas:familyNameKana>
-    <imas:givenNameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">はるな</imas:givenNameKana>
+    <schema:name xml:lang="ja">若里春名</schema:name>
+    <schema:name xml:lang="en">Wakazato Haruna</schema:name>
+    <imas:nameKana xml:lang="ja">わかざとはるな</imas:nameKana>
+    <schema:familyName xml:lang="ja">若里</schema:familyName>
+    <schema:familyName xml:lang="en">Wakazato</schema:familyName>
+    <schema:givenName xml:lang="ja">春名</schema:givenName>
+    <schema:givenName xml:lang="en">Haruna</schema:givenName>
+    <imas:familyNameKana xml:lang="ja">わかざと</imas:familyNameKana>
+    <imas:givenNameKana xml:lang="ja">はるな</imas:givenNameKana>
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--03-30</schema:birthDate>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">O</imas:BloodType>
-    <schema:birthPlace xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">石川</schema:birthPlace>
-    <imas:Constellation xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">牡羊座</imas:Constellation>
-    <imas:Handedness xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">right</imas:Handedness>
+    <schema:birthPlace xml:lang="ja">石川</schema:birthPlace>
+    <imas:Constellation xml:lang="ja">牡羊座</imas:Constellation>
+    <imas:Handedness xml:lang="en">right</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">173.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">56.0</schema:weight>
     <imas:ShoeSize rdf:datatype="http://www.w3.org/2001/XMLSchema#float">25.5</imas:ShoeSize>
-    <imas:Category xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">メンタル</imas:Category>
-    <imas:cv xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">白井悠介</imas:cv>
+    <imas:Category xml:lang="ja">メンタル</imas:Category>
+    <imas:cv xml:lang="ja">白井悠介</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/白井悠介"/>
     <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q11579372"/>
-    <imas:Hobby xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">散歩</imas:Hobby>
-    <imas:Talent xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">ヘアメイク</imas:Talent>
-    <schema:gender xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">male</schema:gender>
-    <imas:Title xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">315ProIdols</imas:Title>
+    <imas:Hobby xml:lang="ja">散歩</imas:Hobby>
+    <imas:Talent xml:lang="ja">ヘアメイク</imas:Talent>
+    <schema:gender xml:lang="en">male</schema:gender>
+    <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="detail/Iseya_Shiki">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</foaf:age>
-    <schema:name xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">伊瀬谷四季</schema:name>
-    <schema:name xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Iseya Shiki</schema:name>
-    <imas:nameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">いせやしき</imas:nameKana>
-    <schema:familyName xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">伊瀬谷</schema:familyName>
-    <schema:familyName xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Iseya</schema:familyName>
-    <schema:givenName xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">四季</schema:givenName>
-    <schema:givenName xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Shiki</schema:givenName>
-    <imas:familyNameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">いせや</imas:familyNameKana>
-    <imas:givenNameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">しき</imas:givenNameKana>
+    <schema:name xml:lang="ja">伊瀬谷四季</schema:name>
+    <schema:name xml:lang="en">Iseya Shiki</schema:name>
+    <imas:nameKana xml:lang="ja">いせやしき</imas:nameKana>
+    <schema:familyName xml:lang="ja">伊瀬谷</schema:familyName>
+    <schema:familyName xml:lang="en">Iseya</schema:familyName>
+    <schema:givenName xml:lang="ja">四季</schema:givenName>
+    <schema:givenName xml:lang="en">Shiki</schema:givenName>
+    <imas:familyNameKana xml:lang="ja">いせや</imas:familyNameKana>
+    <imas:givenNameKana xml:lang="ja">しき</imas:givenNameKana>
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--04-12</schema:birthDate>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A</imas:BloodType>
-    <schema:birthPlace xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">青森</schema:birthPlace>
-    <imas:Constellation xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">牡羊座</imas:Constellation>
-    <imas:Handedness xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">left</imas:Handedness>
+    <schema:birthPlace xml:lang="ja">青森</schema:birthPlace>
+    <imas:Constellation xml:lang="ja">牡羊座</imas:Constellation>
+    <imas:Handedness xml:lang="en">left</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">169.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">52.0</schema:weight>
     <imas:ShoeSize rdf:datatype="http://www.w3.org/2001/XMLSchema#float">25.0</imas:ShoeSize>
-    <imas:Category xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">フィジカル</imas:Category>
-    <imas:cv xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">野上翔</imas:cv>
+    <imas:Category xml:lang="ja">フィジカル</imas:Category>
+    <imas:cv xml:lang="ja">野上翔</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/野上翔"/>
     <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q18460273"/>
-    <imas:Hobby xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">カラオケ</imas:Hobby>
-    <imas:Hobby xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">ハデパン集め</imas:Hobby>
-    <imas:Talent xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">カラオケ採点で意のままの点数を出せる</imas:Talent>
-    <schema:gender xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">male</schema:gender>
-    <imas:Title xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">315ProIdols</imas:Title>
+    <imas:Hobby xml:lang="ja">カラオケ</imas:Hobby>
+    <imas:Hobby xml:lang="ja">ハデパン集め</imas:Hobby>
+    <imas:Talent xml:lang="ja">カラオケ採点で意のままの点数を出せる</imas:Talent>
+    <schema:gender xml:lang="en">male</schema:gender>
+    <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="detail/Akai_Suzaku">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</foaf:age>
-    <schema:name xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">紅井朱雀</schema:name>
-    <schema:name xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Akai Suzaku</schema:name>
-    <imas:nameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">あかいすざく</imas:nameKana>
-    <schema:familyName xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">紅井</schema:familyName>
-    <schema:familyName xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Akai</schema:familyName>
-    <schema:givenName xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">朱雀</schema:givenName>
-    <schema:givenName xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Suzaku</schema:givenName>
-    <imas:familyNameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">あかい</imas:familyNameKana>
-    <imas:givenNameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">すざく</imas:givenNameKana>
+    <schema:name xml:lang="ja">紅井朱雀</schema:name>
+    <schema:name xml:lang="en">Akai Suzaku</schema:name>
+    <imas:nameKana xml:lang="ja">あかいすざく</imas:nameKana>
+    <schema:familyName xml:lang="ja">紅井</schema:familyName>
+    <schema:familyName xml:lang="en">Akai</schema:familyName>
+    <schema:givenName xml:lang="ja">朱雀</schema:givenName>
+    <schema:givenName xml:lang="en">Suzaku</schema:givenName>
+    <imas:familyNameKana xml:lang="ja">あかい</imas:familyNameKana>
+    <imas:givenNameKana xml:lang="ja">すざく</imas:givenNameKana>
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--04-04</schema:birthDate>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A</imas:BloodType>
-    <schema:birthPlace xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">北海道</schema:birthPlace>
-    <imas:Constellation xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">牡羊座</imas:Constellation>
-    <imas:Handedness xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">right</imas:Handedness>
+    <schema:birthPlace xml:lang="ja">北海道</schema:birthPlace>
+    <imas:Constellation xml:lang="ja">牡羊座</imas:Constellation>
+    <imas:Handedness xml:lang="en">right</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">170.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">65.0</schema:weight>
     <imas:ShoeSize rdf:datatype="http://www.w3.org/2001/XMLSchema#float">25.5</imas:ShoeSize>
-    <imas:Category xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">フィジカル</imas:Category>
-    <imas:cv xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">益山武明</imas:cv>
+    <imas:Category xml:lang="ja">フィジカル</imas:Category>
+    <imas:cv xml:lang="ja">益山武明</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/益山武明"/>
     <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q17222626"/>
-    <imas:Hobby xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">頭に「にゃこ」を乗せて散歩</imas:Hobby>
-    <imas:Talent xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">天空朱雀落とし</imas:Talent>
-    <schema:gender xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">male</schema:gender>
-    <imas:Title xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">315ProIdols</imas:Title>
+    <imas:Hobby xml:lang="ja">頭に「にゃこ」を乗せて散歩</imas:Hobby>
+    <imas:Talent xml:lang="ja">天空朱雀落とし</imas:Talent>
+    <schema:gender xml:lang="en">male</schema:gender>
+    <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="detail/Kurono_Genbu">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</foaf:age>
-    <schema:name xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">黒野玄武</schema:name>
-    <schema:name xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Kurono Genbu</schema:name>
-    <imas:nameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">くろのげんぶ</imas:nameKana>
-    <schema:familyName xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">黒野</schema:familyName>
-    <schema:familyName xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Kurono</schema:familyName>
-    <schema:givenName xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">玄武</schema:givenName>
-    <schema:givenName xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Genbu</schema:givenName>
-    <imas:familyNameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">くろの</imas:familyNameKana>
-    <imas:givenNameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">げんぶ</imas:givenNameKana>
+    <schema:name xml:lang="ja">黒野玄武</schema:name>
+    <schema:name xml:lang="en">Kurono Genbu</schema:name>
+    <imas:nameKana xml:lang="ja">くろのげんぶ</imas:nameKana>
+    <schema:familyName xml:lang="ja">黒野</schema:familyName>
+    <schema:familyName xml:lang="en">Kurono</schema:familyName>
+    <schema:givenName xml:lang="ja">玄武</schema:givenName>
+    <schema:givenName xml:lang="en">Genbu</schema:givenName>
+    <imas:familyNameKana xml:lang="ja">くろの</imas:familyNameKana>
+    <imas:givenNameKana xml:lang="ja">げんぶ</imas:givenNameKana>
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--07-22</schema:birthDate>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">B</imas:BloodType>
-    <schema:birthPlace xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">京都</schema:birthPlace>
-    <imas:Constellation xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">蟹座</imas:Constellation>
-    <imas:Handedness xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">left</imas:Handedness>
+    <schema:birthPlace xml:lang="ja">京都</schema:birthPlace>
+    <imas:Constellation xml:lang="ja">蟹座</imas:Constellation>
+    <imas:Handedness xml:lang="en">left</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">190.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">65.0</schema:weight>
     <imas:ShoeSize rdf:datatype="http://www.w3.org/2001/XMLSchema#float">28.0</imas:ShoeSize>
-    <imas:Category xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">インテリ</imas:Category>
-    <imas:cv xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">深町寿成</imas:cv>
+    <imas:Category xml:lang="ja">インテリ</imas:Category>
+    <imas:cv xml:lang="ja">深町寿成</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/深町寿成"/>
     <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q17230037"/>
-    <imas:Hobby xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">メガネ集め</imas:Hobby>
-    <imas:Hobby xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">分厚い本を読むこと(最近は家庭の医学を読んでいる)</imas:Hobby>
-    <imas:Talent xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">天玄氷刃波</imas:Talent>
-    <imas:Talent xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">全国一斉テスト・統一模試全科目1位</imas:Talent>
-    <schema:gender xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">male</schema:gender>
-    <imas:Title xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">315ProIdols</imas:Title>
+    <imas:Hobby xml:lang="ja">メガネ集め</imas:Hobby>
+    <imas:Hobby xml:lang="ja">分厚い本を読むこと(最近は家庭の医学を読んでいる)</imas:Hobby>
+    <imas:Talent xml:lang="ja">天玄氷刃波</imas:Talent>
+    <imas:Talent xml:lang="ja">全国一斉テスト・統一模試全科目1位</imas:Talent>
+    <schema:gender xml:lang="en">male</schema:gender>
+    <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="detail/Kamiya_Yukihiro">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">21</foaf:age>
-    <schema:name xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">神谷幸広</schema:name>
-    <schema:name xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Kamiya Yukihiro</schema:name>
-    <imas:nameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">かみやゆきひろ</imas:nameKana>
-    <schema:familyName xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">神谷</schema:familyName>
-    <schema:familyName xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Kamiya</schema:familyName>
-    <schema:givenName xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">幸広</schema:givenName>
-    <schema:givenName xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Yukihiro</schema:givenName>
-    <imas:familyNameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">かみや</imas:familyNameKana>
-    <imas:givenNameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">ゆきひろ</imas:givenNameKana>
+    <schema:name xml:lang="ja">神谷幸広</schema:name>
+    <schema:name xml:lang="en">Kamiya Yukihiro</schema:name>
+    <imas:nameKana xml:lang="ja">かみやゆきひろ</imas:nameKana>
+    <schema:familyName xml:lang="ja">神谷</schema:familyName>
+    <schema:familyName xml:lang="en">Kamiya</schema:familyName>
+    <schema:givenName xml:lang="ja">幸広</schema:givenName>
+    <schema:givenName xml:lang="en">Yukihiro</schema:givenName>
+    <imas:familyNameKana xml:lang="ja">かみや</imas:familyNameKana>
+    <imas:givenNameKana xml:lang="ja">ゆきひろ</imas:givenNameKana>
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--01-17</schema:birthDate>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AB</imas:BloodType>
-    <schema:birthPlace xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">兵庫</schema:birthPlace>
-    <imas:Constellation xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">山羊座</imas:Constellation>
-    <imas:Handedness xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">right</imas:Handedness>
+    <schema:birthPlace xml:lang="ja">兵庫</schema:birthPlace>
+    <imas:Constellation xml:lang="ja">山羊座</imas:Constellation>
+    <imas:Handedness xml:lang="en">right</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">181.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">64.0</schema:weight>
     <imas:ShoeSize rdf:datatype="http://www.w3.org/2001/XMLSchema#float">27.0</imas:ShoeSize>
-    <imas:Category xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">メンタル</imas:Category>
-    <imas:cv xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">狩野翔</imas:cv>
+    <imas:Category xml:lang="ja">メンタル</imas:Category>
+    <imas:cv xml:lang="ja">狩野翔</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/狩野翔"/>
     <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q17686378"/>
-    <imas:Hobby xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">バックパック</imas:Hobby>
-    <imas:Hobby xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">世界旅行</imas:Hobby>
-    <imas:Talent xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">早着替え</imas:Talent>
-    <imas:Talent xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">華麗なスプーンフォーク捌きによるサーバー技</imas:Talent>
-    <schema:gender xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">male</schema:gender>
-    <imas:Title xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">315ProIdols</imas:Title>
+    <imas:Hobby xml:lang="ja">バックパック</imas:Hobby>
+    <imas:Hobby xml:lang="ja">世界旅行</imas:Hobby>
+    <imas:Talent xml:lang="ja">早着替え</imas:Talent>
+    <imas:Talent xml:lang="ja">華麗なスプーンフォーク捌きによるサーバー技</imas:Talent>
+    <schema:gender xml:lang="en">male</schema:gender>
+    <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="detail/Shinonome_Soichiro">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">21</foaf:age>
-    <schema:name xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">東雲荘一郎</schema:name>
-    <schema:name xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Shinonome Soichiro</schema:name>
-    <imas:nameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">しののめそういちろう</imas:nameKana>
-    <schema:familyName xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">東雲</schema:familyName>
-    <schema:familyName xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Shinonome</schema:familyName>
-    <schema:givenName xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">荘一郎</schema:givenName>
-    <schema:givenName xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Soichiro</schema:givenName>
-    <imas:familyNameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">しののめ</imas:familyNameKana>
-    <imas:givenNameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">そういちろう</imas:givenNameKana>
+    <schema:name xml:lang="ja">東雲荘一郎</schema:name>
+    <schema:name xml:lang="en">Shinonome Soichiro</schema:name>
+    <imas:nameKana xml:lang="ja">しののめそういちろう</imas:nameKana>
+    <schema:familyName xml:lang="ja">東雲</schema:familyName>
+    <schema:familyName xml:lang="en">Shinonome</schema:familyName>
+    <schema:givenName xml:lang="ja">荘一郎</schema:givenName>
+    <schema:givenName xml:lang="en">Soichiro</schema:givenName>
+    <imas:familyNameKana xml:lang="ja">しののめ</imas:familyNameKana>
+    <imas:givenNameKana xml:lang="ja">そういちろう</imas:givenNameKana>
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--11-08</schema:birthDate>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">B</imas:BloodType>
-    <schema:birthPlace xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">大阪</schema:birthPlace>
-    <imas:Constellation xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">蠍座</imas:Constellation>
-    <imas:Handedness xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">right</imas:Handedness>
+    <schema:birthPlace xml:lang="ja">大阪</schema:birthPlace>
+    <imas:Constellation xml:lang="ja">蠍座</imas:Constellation>
+    <imas:Handedness xml:lang="en">right</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">177.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">65.0</schema:weight>
     <imas:ShoeSize rdf:datatype="http://www.w3.org/2001/XMLSchema#float">26.0</imas:ShoeSize>
-    <imas:Category xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">インテリ</imas:Category>
-    <imas:cv xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">天崎滉平</imas:cv>
+    <imas:Category xml:lang="ja">インテリ</imas:Category>
+    <imas:cv xml:lang="ja">天崎滉平</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/天崎滉平"/>
     <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q20038507"/>
-    <imas:Hobby xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">畳の目を数える</imas:Hobby>
-    <imas:Hobby xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">ジグソーパズル</imas:Hobby>
-    <imas:Talent xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">飴細工</imas:Talent>
-    <imas:Talent xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">折紙</imas:Talent>
-    <schema:gender xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">male</schema:gender>
-    <imas:Title xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">315ProIdols</imas:Title>
+    <imas:Hobby xml:lang="ja">畳の目を数える</imas:Hobby>
+    <imas:Hobby xml:lang="ja">ジグソーパズル</imas:Hobby>
+    <imas:Talent xml:lang="ja">飴細工</imas:Talent>
+    <imas:Talent xml:lang="ja">折紙</imas:Talent>
+    <schema:gender xml:lang="en">male</schema:gender>
+    <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="detail/Asselin_BB_2">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">26</foaf:age>
-    <schema:alternateName xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">アスラン=BBⅡ世</schema:alternateName>
-    <schema:alternateName xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Asselin-BB 2</schema:alternateName>
-    <imas:alternateNameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">あすらんべるぜびゅーとにせい</imas:alternateNameKana>
+    <schema:alternateName xml:lang="ja">アスラン=BBⅡ世</schema:alternateName>
+    <schema:alternateName xml:lang="en">Asselin-BB 2</schema:alternateName>
+    <imas:alternateNameKana xml:lang="ja">あすらんべるぜびゅーとにせい</imas:alternateNameKana>
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--10-09</schema:birthDate>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A</imas:BloodType>
-    <schema:birthPlace xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">ゲヘナ</schema:birthPlace>
-    <imas:Constellation xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">天秤座</imas:Constellation>
-    <imas:Handedness xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">both</imas:Handedness>
+    <schema:birthPlace xml:lang="ja">ゲヘナ</schema:birthPlace>
+    <imas:Constellation xml:lang="ja">天秤座</imas:Constellation>
+    <imas:Handedness xml:lang="en">both</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">174.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">66.0</schema:weight>
     <imas:ShoeSize rdf:datatype="http://www.w3.org/2001/XMLSchema#float">25.5</imas:ShoeSize>
-    <imas:Category xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">フィジカル</imas:Category>
-    <imas:cv xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">古川慎</imas:cv>
+    <imas:Category xml:lang="ja">フィジカル</imas:Category>
+    <imas:cv xml:lang="ja">古川慎</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/古川慎"/>
     <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q11411149"/>
-    <imas:Hobby xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">禁じられた新たなるレシピの発見</imas:Hobby>
-    <imas:Talent xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">召喚術</imas:Talent>
-    <imas:Talent xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">詠唱</imas:Talent>
-    <schema:gender xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">male</schema:gender>
-    <imas:Title xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">315ProIdols</imas:Title>
+    <imas:Hobby xml:lang="ja">禁じられた新たなるレシピの発見</imas:Hobby>
+    <imas:Talent xml:lang="ja">召喚術</imas:Talent>
+    <imas:Talent xml:lang="ja">詠唱</imas:Talent>
+    <schema:gender xml:lang="en">male</schema:gender>
+    <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="detail/Uzuki_Makio">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</foaf:age>
-    <schema:name xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">卯月巻緒</schema:name>
-    <schema:name xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Uzuki Makio</schema:name>
-    <imas:nameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">うづきまきお</imas:nameKana>
-    <schema:familyName xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">卯月</schema:familyName>
-    <schema:familyName xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Uzuki</schema:familyName>
-    <schema:givenName xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">巻緒</schema:givenName>
-    <schema:givenName xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Makio</schema:givenName>
-    <imas:familyNameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">うづき</imas:familyNameKana>
-    <imas:givenNameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">まきお</imas:givenNameKana>
+    <schema:name xml:lang="ja">卯月巻緒</schema:name>
+    <schema:name xml:lang="en">Uzuki Makio</schema:name>
+    <imas:nameKana xml:lang="ja">うづきまきお</imas:nameKana>
+    <schema:familyName xml:lang="ja">卯月</schema:familyName>
+    <schema:familyName xml:lang="en">Uzuki</schema:familyName>
+    <schema:givenName xml:lang="ja">巻緒</schema:givenName>
+    <schema:givenName xml:lang="en">Makio</schema:givenName>
+    <imas:familyNameKana xml:lang="ja">うづき</imas:familyNameKana>
+    <imas:givenNameKana xml:lang="ja">まきお</imas:givenNameKana>
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--12-12</schema:birthDate>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AB</imas:BloodType>
-    <schema:birthPlace xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">高知</schema:birthPlace>
-    <imas:Constellation xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">射手座</imas:Constellation>
-    <imas:Handedness xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">left</imas:Handedness>
+    <schema:birthPlace xml:lang="ja">高知</schema:birthPlace>
+    <imas:Constellation xml:lang="ja">射手座</imas:Constellation>
+    <imas:Handedness xml:lang="en">left</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">163.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">52.0</schema:weight>
     <imas:ShoeSize rdf:datatype="http://www.w3.org/2001/XMLSchema#float">24.5</imas:ShoeSize>
-    <imas:Category xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">メンタル</imas:Category>
-    <imas:cv xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">児玉卓也</imas:cv>
+    <imas:Category xml:lang="ja">メンタル</imas:Category>
+    <imas:cv xml:lang="ja">児玉卓也</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/児玉卓也"/>
     <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q24865377"/>
-    <imas:Hobby xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">全国ケーキ食べ歩き</imas:Hobby>
-    <imas:Talent xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">利きケーキ</imas:Talent>
-    <imas:Talent xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">一輪車</imas:Talent>
-    <schema:gender xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">male</schema:gender>
-    <imas:Title xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">315ProIdols</imas:Title>
+    <imas:Hobby xml:lang="ja">全国ケーキ食べ歩き</imas:Hobby>
+    <imas:Talent xml:lang="ja">利きケーキ</imas:Talent>
+    <imas:Talent xml:lang="ja">一輪車</imas:Talent>
+    <schema:gender xml:lang="en">male</schema:gender>
+    <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="detail/Mizushima_Saki">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</foaf:age>
-    <schema:name xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">水嶋咲</schema:name>
-    <schema:name xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Mizushima Saki</schema:name>
-    <imas:nameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">みずしまさき</imas:nameKana>
-    <schema:familyName xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">水嶋</schema:familyName>
-    <schema:familyName xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Mizushima</schema:familyName>
-    <schema:givenName xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">咲</schema:givenName>
-    <schema:givenName xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Saki</schema:givenName>
-    <imas:familyNameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">みずしま</imas:familyNameKana>
-    <imas:givenNameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">さき</imas:givenNameKana>
+    <schema:name xml:lang="ja">水嶋咲</schema:name>
+    <schema:name xml:lang="en">Mizushima Saki</schema:name>
+    <imas:nameKana xml:lang="ja">みずしまさき</imas:nameKana>
+    <schema:familyName xml:lang="ja">水嶋</schema:familyName>
+    <schema:familyName xml:lang="en">Mizushima</schema:familyName>
+    <schema:givenName xml:lang="ja">咲</schema:givenName>
+    <schema:givenName xml:lang="en">Saki</schema:givenName>
+    <imas:familyNameKana xml:lang="ja">みずしま</imas:familyNameKana>
+    <imas:givenNameKana xml:lang="ja">さき</imas:givenNameKana>
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--08-19</schema:birthDate>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">B</imas:BloodType>
-    <schema:birthPlace xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">千葉</schema:birthPlace>
-    <imas:Constellation xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">獅子座</imas:Constellation>
-    <imas:Handedness xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">right</imas:Handedness>
+    <schema:birthPlace xml:lang="ja">千葉</schema:birthPlace>
+    <imas:Constellation xml:lang="ja">獅子座</imas:Constellation>
+    <imas:Handedness xml:lang="en">right</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">160.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">48.0</schema:weight>
     <imas:ShoeSize rdf:datatype="http://www.w3.org/2001/XMLSchema#float">24.0</imas:ShoeSize>
-    <imas:Category xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">フィジカル</imas:Category>
-    <imas:cv xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">小林大紀</imas:cv>
+    <imas:Category xml:lang="ja">フィジカル</imas:Category>
+    <imas:cv xml:lang="ja">小林大紀</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/小林大紀"/>
     <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q24865397"/>
-    <imas:Hobby xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">手品</imas:Hobby>
-    <imas:Talent xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">逆立ち</imas:Talent>
-    <schema:gender xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">male</schema:gender>
-    <imas:Title xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">315ProIdols</imas:Title>
+    <imas:Hobby xml:lang="ja">手品</imas:Hobby>
+    <imas:Talent xml:lang="ja">逆立ち</imas:Talent>
+    <schema:gender xml:lang="en">male</schema:gender>
+    <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="detail/Okamura_Nao">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</foaf:age>
-    <schema:name xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">岡村直央</schema:name>
-    <schema:name xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Okamura Nao</schema:name>
-    <imas:nameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">おかむらなお</imas:nameKana>
-    <schema:familyName xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">岡村</schema:familyName>
-    <schema:familyName xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Okamura</schema:familyName>
-    <schema:givenName xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">直央</schema:givenName>
-    <schema:givenName xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Nao</schema:givenName>
-    <imas:familyNameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">おかむら</imas:familyNameKana>
-    <imas:givenNameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">なお</imas:givenNameKana>
+    <schema:name xml:lang="ja">岡村直央</schema:name>
+    <schema:name xml:lang="en">Okamura Nao</schema:name>
+    <imas:nameKana xml:lang="ja">おかむらなお</imas:nameKana>
+    <schema:familyName xml:lang="ja">岡村</schema:familyName>
+    <schema:familyName xml:lang="en">Okamura</schema:familyName>
+    <schema:givenName xml:lang="ja">直央</schema:givenName>
+    <schema:givenName xml:lang="en">Nao</schema:givenName>
+    <imas:familyNameKana xml:lang="ja">おかむら</imas:familyNameKana>
+    <imas:givenNameKana xml:lang="ja">なお</imas:givenNameKana>
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--03-25</schema:birthDate>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A</imas:BloodType>
-    <schema:birthPlace xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">千葉</schema:birthPlace>
-    <imas:Constellation xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">牡羊座</imas:Constellation>
-    <imas:Handedness xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">right</imas:Handedness>
+    <schema:birthPlace xml:lang="ja">千葉</schema:birthPlace>
+    <imas:Constellation xml:lang="ja">牡羊座</imas:Constellation>
+    <imas:Handedness xml:lang="en">right</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">143.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">33.0</schema:weight>
     <imas:ShoeSize rdf:datatype="http://www.w3.org/2001/XMLSchema#float">21.0</imas:ShoeSize>
-    <imas:Category xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">インテリ</imas:Category>
-    <imas:cv xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">矢野奨吾</imas:cv>
+    <imas:Category xml:lang="ja">インテリ</imas:Category>
+    <imas:cv xml:lang="ja">矢野奨吾</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/矢野奨吾"/>
     <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q24897980"/>
-    <imas:Hobby xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">将棋</imas:Hobby>
-    <imas:Talent xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">編み物</imas:Talent>
-    <schema:gender xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">male</schema:gender>
-    <imas:Title xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">315ProIdols</imas:Title>
+    <imas:Hobby xml:lang="ja">将棋</imas:Hobby>
+    <imas:Talent xml:lang="ja">編み物</imas:Talent>
+    <schema:gender xml:lang="en">male</schema:gender>
+    <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="detail/Tachibana_Shiro">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</foaf:age>
-    <schema:name xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">橘志狼</schema:name>
-    <schema:name xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Tachibana Shiro</schema:name>
-    <imas:nameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">たちばなしろう</imas:nameKana>
-    <schema:familyName xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">橘</schema:familyName>
-    <schema:familyName xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Tachibana</schema:familyName>
-    <schema:givenName xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">志狼</schema:givenName>
-    <schema:givenName xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Shiro</schema:givenName>
-    <imas:familyNameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">たちばな</imas:familyNameKana>
-    <imas:givenNameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">しろう</imas:givenNameKana>
+    <schema:name xml:lang="ja">橘志狼</schema:name>
+    <schema:name xml:lang="en">Tachibana Shiro</schema:name>
+    <imas:nameKana xml:lang="ja">たちばなしろう</imas:nameKana>
+    <schema:familyName xml:lang="ja">橘</schema:familyName>
+    <schema:familyName xml:lang="en">Tachibana</schema:familyName>
+    <schema:givenName xml:lang="ja">志狼</schema:givenName>
+    <schema:givenName xml:lang="en">Shiro</schema:givenName>
+    <imas:familyNameKana xml:lang="ja">たちばな</imas:familyNameKana>
+    <imas:givenNameKana xml:lang="ja">しろう</imas:givenNameKana>
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--04-22</schema:birthDate>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">B</imas:BloodType>
-    <schema:birthPlace xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">栃木</schema:birthPlace>
-    <imas:Constellation xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">牡牛座</imas:Constellation>
-    <imas:Handedness xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">left</imas:Handedness>
+    <schema:birthPlace xml:lang="ja">栃木</schema:birthPlace>
+    <imas:Constellation xml:lang="ja">牡牛座</imas:Constellation>
+    <imas:Handedness xml:lang="en">left</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">139.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">34.0</schema:weight>
     <imas:ShoeSize rdf:datatype="http://www.w3.org/2001/XMLSchema#float">20.5</imas:ShoeSize>
-    <imas:Category xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">フィジカル</imas:Category>
-    <imas:cv xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">古畑恵介</imas:cv>
+    <imas:Category xml:lang="ja">フィジカル</imas:Category>
+    <imas:cv xml:lang="ja">古畑恵介</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/古畑恵介"/>
     <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q27150521"/>
-    <imas:Hobby xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">バスケ</imas:Hobby>
-    <imas:Talent xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">ブレイクダンス</imas:Talent>
-    <schema:gender xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">male</schema:gender>
-    <imas:Title xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">315ProIdols</imas:Title>
+    <imas:Hobby xml:lang="ja">バスケ</imas:Hobby>
+    <imas:Talent xml:lang="ja">ブレイクダンス</imas:Talent>
+    <schema:gender xml:lang="en">male</schema:gender>
+    <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="detail/Himeno_Kanon">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</foaf:age>
-    <schema:name xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">姫野かのん</schema:name>
-    <schema:name xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Himeno Kanon</schema:name>
-    <imas:nameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">ひめのかのん</imas:nameKana>
-    <schema:familyName xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">姫野</schema:familyName>
-    <schema:familyName xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Himeno</schema:familyName>
-    <schema:givenName xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">かのん</schema:givenName>
-    <schema:givenName xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Kanon</schema:givenName>
-    <imas:familyNameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">ひめの</imas:familyNameKana>
-    <imas:givenNameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">かのん</imas:givenNameKana>
+    <schema:name xml:lang="ja">姫野かのん</schema:name>
+    <schema:name xml:lang="en">Himeno Kanon</schema:name>
+    <imas:nameKana xml:lang="ja">ひめのかのん</imas:nameKana>
+    <schema:familyName xml:lang="ja">姫野</schema:familyName>
+    <schema:familyName xml:lang="en">Himeno</schema:familyName>
+    <schema:givenName xml:lang="ja">かのん</schema:givenName>
+    <schema:givenName xml:lang="en">Kanon</schema:givenName>
+    <imas:familyNameKana xml:lang="ja">ひめの</imas:familyNameKana>
+    <imas:givenNameKana xml:lang="ja">かのん</imas:givenNameKana>
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--02-10</schema:birthDate>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">O</imas:BloodType>
-    <schema:birthPlace xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">東京</schema:birthPlace>
-    <imas:Constellation xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">水瓶座</imas:Constellation>
-    <imas:Handedness xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">right</imas:Handedness>
+    <schema:birthPlace xml:lang="ja">東京</schema:birthPlace>
+    <imas:Constellation xml:lang="ja">水瓶座</imas:Constellation>
+    <imas:Handedness xml:lang="en">right</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">125.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">22.0</schema:weight>
     <imas:ShoeSize rdf:datatype="http://www.w3.org/2001/XMLSchema#float">20.0</imas:ShoeSize>
-    <imas:Category xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">メンタル</imas:Category>
-    <imas:cv xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">村瀬歩</imas:cv>
+    <imas:Category xml:lang="ja">メンタル</imas:Category>
+    <imas:cv xml:lang="ja">村瀬歩</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/村瀬歩"/>
     <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q11523377"/>
-    <imas:Hobby xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">お散歩</imas:Hobby>
-    <imas:Talent xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">ピアノ</imas:Talent>
-    <schema:gender xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">male</schema:gender>
-    <imas:Title xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">315ProIdols</imas:Title>
+    <imas:Hobby xml:lang="ja">お散歩</imas:Hobby>
+    <imas:Talent xml:lang="ja">ピアノ</imas:Talent>
+    <schema:gender xml:lang="en">male</schema:gender>
+    <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="detail/Hazama_Michio">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">32</foaf:age>
-    <schema:name xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">硲道夫</schema:name>
-    <schema:name xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Hazama Michio</schema:name>
-    <imas:nameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">はざまみちお</imas:nameKana>
-    <schema:familyName xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">硲</schema:familyName>
-    <schema:familyName xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Hazama</schema:familyName>
-    <schema:givenName xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">道夫</schema:givenName>
-    <schema:givenName xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Michio</schema:givenName>
-    <imas:familyNameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">はざま</imas:familyNameKana>
-    <imas:givenNameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">みちお</imas:givenNameKana>
+    <schema:name xml:lang="ja">硲道夫</schema:name>
+    <schema:name xml:lang="en">Hazama Michio</schema:name>
+    <imas:nameKana xml:lang="ja">はざまみちお</imas:nameKana>
+    <schema:familyName xml:lang="ja">硲</schema:familyName>
+    <schema:familyName xml:lang="en">Hazama</schema:familyName>
+    <schema:givenName xml:lang="ja">道夫</schema:givenName>
+    <schema:givenName xml:lang="en">Michio</schema:givenName>
+    <imas:familyNameKana xml:lang="ja">はざま</imas:familyNameKana>
+    <imas:givenNameKana xml:lang="ja">みちお</imas:givenNameKana>
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--01-13</schema:birthDate>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AB</imas:BloodType>
-    <schema:birthPlace xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">淡路島</schema:birthPlace>
-    <imas:Constellation xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">山羊座</imas:Constellation>
-    <imas:Handedness xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">left</imas:Handedness>
+    <schema:birthPlace xml:lang="ja">淡路島</schema:birthPlace>
+    <imas:Constellation xml:lang="ja">山羊座</imas:Constellation>
+    <imas:Handedness xml:lang="en">left</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">178.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">65.0</schema:weight>
     <imas:ShoeSize rdf:datatype="http://www.w3.org/2001/XMLSchema#float">26.5</imas:ShoeSize>
-    <imas:Category xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">インテリ</imas:Category>
-    <imas:cv xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">伊東健人</imas:cv>
+    <imas:Category xml:lang="ja">インテリ</imas:Category>
+    <imas:cv xml:lang="ja">伊東健人</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/伊東健人"/>
     <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q16264168"/>
-    <imas:Hobby xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">掃除</imas:Hobby>
-    <imas:Hobby xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">パズル</imas:Hobby>
-    <imas:Talent xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">円周率の暗唱</imas:Talent>
-    <schema:gender xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">male</schema:gender>
-    <imas:Title xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">315ProIdols</imas:Title>
+    <imas:Hobby xml:lang="ja">掃除</imas:Hobby>
+    <imas:Hobby xml:lang="ja">パズル</imas:Hobby>
+    <imas:Talent xml:lang="ja">円周率の暗唱</imas:Talent>
+    <schema:gender xml:lang="en">male</schema:gender>
+    <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="detail/Maita_Rui">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">23</foaf:age>
-    <schema:name xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">舞田類</schema:name>
-    <schema:name xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Maita Rui</schema:name>
-    <imas:nameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">まいたるい</imas:nameKana>
-    <schema:familyName xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">舞田</schema:familyName>
-    <schema:familyName xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Maita</schema:familyName>
-    <schema:givenName xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">類</schema:givenName>
-    <schema:givenName xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Rui</schema:givenName>
-    <imas:familyNameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">まいた</imas:familyNameKana>
-    <imas:givenNameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">るい</imas:givenNameKana>
+    <schema:name xml:lang="ja">舞田類</schema:name>
+    <schema:name xml:lang="en">Maita Rui</schema:name>
+    <imas:nameKana xml:lang="ja">まいたるい</imas:nameKana>
+    <schema:familyName xml:lang="ja">舞田</schema:familyName>
+    <schema:familyName xml:lang="en">Maita</schema:familyName>
+    <schema:givenName xml:lang="ja">類</schema:givenName>
+    <schema:givenName xml:lang="en">Rui</schema:givenName>
+    <imas:familyNameKana xml:lang="ja">まいた</imas:familyNameKana>
+    <imas:givenNameKana xml:lang="ja">るい</imas:givenNameKana>
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--08-08</schema:birthDate>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">B</imas:BloodType>
-    <schema:birthPlace xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">横須賀</schema:birthPlace>
-    <imas:Constellation xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">獅子座</imas:Constellation>
-    <imas:Handedness xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">both</imas:Handedness>
+    <schema:birthPlace xml:lang="ja">横須賀</schema:birthPlace>
+    <imas:Constellation xml:lang="ja">獅子座</imas:Constellation>
+    <imas:Handedness xml:lang="en">both</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">170.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">58.0</schema:weight>
     <imas:ShoeSize rdf:datatype="http://www.w3.org/2001/XMLSchema#float">25.5</imas:ShoeSize>
-    <imas:Category xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">メンタル</imas:Category>
-    <imas:cv xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">榎木淳弥</imas:cv>
+    <imas:Category xml:lang="ja">メンタル</imas:Category>
+    <imas:cv xml:lang="ja">榎木淳弥</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/榎木淳弥"/>
     <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q16264591"/>
-    <imas:Hobby xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">スキー</imas:Hobby>
-    <imas:Hobby xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">スノボ</imas:Hobby>
-    <imas:Hobby xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">サーフィン</imas:Hobby>
-    <imas:Talent xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">けん玉</imas:Talent>
-    <schema:gender xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">male</schema:gender>
-    <imas:Title xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">315ProIdols</imas:Title>
+    <imas:Hobby xml:lang="ja">スキー</imas:Hobby>
+    <imas:Hobby xml:lang="ja">スノボ</imas:Hobby>
+    <imas:Hobby xml:lang="ja">サーフィン</imas:Hobby>
+    <imas:Talent xml:lang="ja">けん玉</imas:Talent>
+    <schema:gender xml:lang="en">male</schema:gender>
+    <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="detail/Yamashita_Jiro">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">30</foaf:age>
-    <schema:name xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">山下次郎</schema:name>
-    <schema:name xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Yamashita Jiro</schema:name>
-    <imas:nameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">やましたじろう</imas:nameKana>
-    <schema:familyName xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">山下</schema:familyName>
-    <schema:familyName xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Yamashita</schema:familyName>
-    <schema:givenName xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">次郎</schema:givenName>
-    <schema:givenName xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Jiro</schema:givenName>
-    <imas:familyNameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">やました</imas:familyNameKana>
-    <imas:givenNameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">じろう</imas:givenNameKana>
+    <schema:name xml:lang="ja">山下次郎</schema:name>
+    <schema:name xml:lang="en">Yamashita Jiro</schema:name>
+    <imas:nameKana xml:lang="ja">やましたじろう</imas:nameKana>
+    <schema:familyName xml:lang="ja">山下</schema:familyName>
+    <schema:familyName xml:lang="en">Yamashita</schema:familyName>
+    <schema:givenName xml:lang="ja">次郎</schema:givenName>
+    <schema:givenName xml:lang="en">Jiro</schema:givenName>
+    <imas:familyNameKana xml:lang="ja">やました</imas:familyNameKana>
+    <imas:givenNameKana xml:lang="ja">じろう</imas:givenNameKana>
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--09-01</schema:birthDate>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">O</imas:BloodType>
-    <schema:birthPlace xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">石川</schema:birthPlace>
-    <imas:Constellation xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">乙女座</imas:Constellation>
-    <imas:Handedness xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">right</imas:Handedness>
+    <schema:birthPlace xml:lang="ja">石川</schema:birthPlace>
+    <imas:Constellation xml:lang="ja">乙女座</imas:Constellation>
+    <imas:Handedness xml:lang="en">right</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">185.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">70.0</schema:weight>
     <imas:ShoeSize rdf:datatype="http://www.w3.org/2001/XMLSchema#float">27.0</imas:ShoeSize>
-    <imas:Category xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">インテリ</imas:Category>
-    <imas:cv xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">中島ヨシキ</imas:cv>
+    <imas:Category xml:lang="ja">インテリ</imas:Category>
+    <imas:cv xml:lang="ja">中島ヨシキ</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/中島ヨシキ"/>
     <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q11364383"/>
-    <imas:Hobby xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">猫カフェ巡り</imas:Hobby>
-    <imas:Hobby xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">競馬</imas:Hobby>
-    <imas:Talent xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">ラジオ体操</imas:Talent>
-    <schema:gender xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">male</schema:gender>
-    <imas:Title xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">315ProIdols</imas:Title>
+    <imas:Hobby xml:lang="ja">猫カフェ巡り</imas:Hobby>
+    <imas:Hobby xml:lang="ja">競馬</imas:Hobby>
+    <imas:Talent xml:lang="ja">ラジオ体操</imas:Talent>
+    <schema:gender xml:lang="en">male</schema:gender>
+    <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="detail/Taiga_Takeru">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</foaf:age>
-    <schema:name xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">大河タケル</schema:name>
-    <schema:name xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Taiga Takeru</schema:name>
-    <imas:nameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">たいがたける</imas:nameKana>
-    <schema:familyName xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">大河</schema:familyName>
-    <schema:familyName xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Taiga</schema:familyName>
-    <schema:givenName xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">タケル</schema:givenName>
-    <schema:givenName xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Takeru</schema:givenName>
-    <imas:familyNameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">たいが</imas:familyNameKana>
-    <imas:givenNameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">たける</imas:givenNameKana>
+    <schema:name xml:lang="ja">大河タケル</schema:name>
+    <schema:name xml:lang="en">Taiga Takeru</schema:name>
+    <imas:nameKana xml:lang="ja">たいがたける</imas:nameKana>
+    <schema:familyName xml:lang="ja">大河</schema:familyName>
+    <schema:familyName xml:lang="en">Taiga</schema:familyName>
+    <schema:givenName xml:lang="ja">タケル</schema:givenName>
+    <schema:givenName xml:lang="en">Takeru</schema:givenName>
+    <imas:familyNameKana xml:lang="ja">たいが</imas:familyNameKana>
+    <imas:givenNameKana xml:lang="ja">たける</imas:givenNameKana>
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--12-21</schema:birthDate>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">B</imas:BloodType>
-    <schema:birthPlace xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">宮城</schema:birthPlace>
-    <imas:Constellation xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">射手座</imas:Constellation>
-    <imas:Handedness xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">left</imas:Handedness>
+    <schema:birthPlace xml:lang="ja">宮城</schema:birthPlace>
+    <imas:Constellation xml:lang="ja">射手座</imas:Constellation>
+    <imas:Handedness xml:lang="en">left</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">165.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">52.0</schema:weight>
     <imas:ShoeSize rdf:datatype="http://www.w3.org/2001/XMLSchema#float">24.5</imas:ShoeSize>
-    <imas:Category xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">フィジカル</imas:Category>
-    <imas:cv xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">寺島惇太</imas:cv>
+    <imas:Category xml:lang="ja">フィジカル</imas:Category>
+    <imas:cv xml:lang="ja">寺島惇太</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/寺島惇太"/>
     <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q17161534"/>
-    <imas:Hobby xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">近所の猫に餌付け</imas:Hobby>
-    <imas:Hobby xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">ランニング</imas:Hobby>
-    <imas:Talent xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">体を動かすことならなんでも</imas:Talent>
-    <imas:Talent xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">シューティングゲーム</imas:Talent>
-    <schema:gender xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">male</schema:gender>
-    <imas:Title xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">315ProIdols</imas:Title>
+    <imas:Hobby xml:lang="ja">近所の猫に餌付け</imas:Hobby>
+    <imas:Hobby xml:lang="ja">ランニング</imas:Hobby>
+    <imas:Talent xml:lang="ja">体を動かすことならなんでも</imas:Talent>
+    <imas:Talent xml:lang="ja">シューティングゲーム</imas:Talent>
+    <schema:gender xml:lang="en">male</schema:gender>
+    <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="detail/Enjoji_Michiru">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</foaf:age>
-    <schema:name xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">円城寺道流</schema:name>
-    <schema:name xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Enjoji Michiru</schema:name>
-    <imas:nameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">えんじょうじみちる</imas:nameKana>
-    <schema:familyName xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">円城寺</schema:familyName>
-    <schema:familyName xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Enjoji</schema:familyName>
-    <schema:givenName xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">道流</schema:givenName>
-    <schema:givenName xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Michiru</schema:givenName>
-    <imas:familyNameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">えんじょうじ</imas:familyNameKana>
-    <imas:givenNameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">みちる</imas:givenNameKana>
+    <schema:name xml:lang="ja">円城寺道流</schema:name>
+    <schema:name xml:lang="en">Enjoji Michiru</schema:name>
+    <imas:nameKana xml:lang="ja">えんじょうじみちる</imas:nameKana>
+    <schema:familyName xml:lang="ja">円城寺</schema:familyName>
+    <schema:familyName xml:lang="en">Enjoji</schema:familyName>
+    <schema:givenName xml:lang="ja">道流</schema:givenName>
+    <schema:givenName xml:lang="en">Michiru</schema:givenName>
+    <imas:familyNameKana xml:lang="ja">えんじょうじ</imas:familyNameKana>
+    <imas:givenNameKana xml:lang="ja">みちる</imas:givenNameKana>
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--09-14</schema:birthDate>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">O</imas:BloodType>
-    <schema:birthPlace xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">高知</schema:birthPlace>
-    <imas:Constellation xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">乙女座</imas:Constellation>
-    <imas:Handedness xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">both</imas:Handedness>
+    <schema:birthPlace xml:lang="ja">高知</schema:birthPlace>
+    <imas:Constellation xml:lang="ja">乙女座</imas:Constellation>
+    <imas:Handedness xml:lang="en">both</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">185.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">80.0</schema:weight>
     <imas:ShoeSize rdf:datatype="http://www.w3.org/2001/XMLSchema#float">28.5</imas:ShoeSize>
-    <imas:Category xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">フィジカル</imas:Category>
-    <imas:cv xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">濱野大輝</imas:cv>
+    <imas:Category xml:lang="ja">フィジカル</imas:Category>
+    <imas:cv xml:lang="ja">濱野大輝</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/濱野大輝"/>
     <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q20042330"/>
-    <imas:Hobby xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">資格取得</imas:Hobby>
-    <imas:Talent xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">たくさんありすぎてかけないが､最近はあみぐるみにハマっている</imas:Talent>
-    <schema:gender xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">male</schema:gender>
-    <imas:Title xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">315ProIdols</imas:Title>
+    <imas:Hobby xml:lang="ja">資格取得</imas:Hobby>
+    <imas:Talent xml:lang="ja">たくさんありすぎてかけないが､最近はあみぐるみにハマっている</imas:Talent>
+    <schema:gender xml:lang="en">male</schema:gender>
+    <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="detail/Kizaki_Ren">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</foaf:age>
-    <schema:name xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">牙崎漣</schema:name>
-    <schema:name xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Kizaki Ren</schema:name>
-    <imas:nameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">きざきれん</imas:nameKana>
-    <schema:familyName xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">牙崎</schema:familyName>
-    <schema:familyName xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Kizaki</schema:familyName>
-    <schema:givenName xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">漣</schema:givenName>
-    <schema:givenName xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Ren</schema:givenName>
-    <imas:familyNameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">きざき</imas:familyNameKana>
-    <imas:givenNameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">れん</imas:givenNameKana>
+    <schema:name xml:lang="ja">牙崎漣</schema:name>
+    <schema:name xml:lang="en">Kizaki Ren</schema:name>
+    <imas:nameKana xml:lang="ja">きざきれん</imas:nameKana>
+    <schema:familyName xml:lang="ja">牙崎</schema:familyName>
+    <schema:familyName xml:lang="en">Kizaki</schema:familyName>
+    <schema:givenName xml:lang="ja">漣</schema:givenName>
+    <schema:givenName xml:lang="en">Ren</schema:givenName>
+    <imas:familyNameKana xml:lang="ja">きざき</imas:familyNameKana>
+    <imas:givenNameKana xml:lang="ja">れん</imas:givenNameKana>
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--05-14</schema:birthDate>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">不明</imas:BloodType>
-    <schema:birthPlace xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">海外の何処か</schema:birthPlace>
-    <imas:Constellation xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">牡牛座</imas:Constellation>
-    <imas:Handedness xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">both</imas:Handedness>
+    <schema:birthPlace xml:lang="ja">海外の何処か</schema:birthPlace>
+    <imas:Constellation xml:lang="ja">牡牛座</imas:Constellation>
+    <imas:Handedness xml:lang="en">both</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">172.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">59.0</schema:weight>
     <imas:ShoeSize rdf:datatype="http://www.w3.org/2001/XMLSchema#float">25.5</imas:ShoeSize>
-    <imas:Category xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">フィジカル</imas:Category>
-    <imas:cv xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">小松昌平</imas:cv>
+    <imas:Category xml:lang="ja">フィジカル</imas:Category>
+    <imas:cv xml:lang="ja">小松昌平</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/小松昌平"/>
     <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q24877064"/>
-    <imas:Hobby xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">なんでんなことｵﾏｴに教えないといけねｰんだ? バァーカ!</imas:Hobby>
-    <imas:Talent xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">相手をぶったおすことにきまっ てんだろ!</imas:Talent>
-    <schema:gender xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">male</schema:gender>
-    <imas:Title xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">315ProIdols</imas:Title>
+    <imas:Hobby xml:lang="ja">なんでんなことｵﾏｴに教えないといけねｰんだ? バァーカ!</imas:Hobby>
+    <imas:Talent xml:lang="ja">相手をぶったおすことにきまっ てんだろ!</imas:Talent>
+    <schema:gender xml:lang="en">male</schema:gender>
+    <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="detail/Akizuki_Ryo_315">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</foaf:age>
-    <schema:name xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">秋月涼</schema:name>
-    <schema:name xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Akizuki Ryo</schema:name>
-    <imas:nameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">あきづきりょう</imas:nameKana>
-    <schema:familyName xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">秋月</schema:familyName>
-    <schema:familyName xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Akizuki</schema:familyName>
-    <schema:givenName xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">涼</schema:givenName>
-    <schema:givenName xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Ryo</schema:givenName>
-    <imas:familyNameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">あきづき</imas:familyNameKana>
-    <imas:givenNameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">りょう</imas:givenNameKana>
+    <schema:name xml:lang="ja">秋月涼</schema:name>
+    <schema:name xml:lang="en">Akizuki Ryo</schema:name>
+    <imas:nameKana xml:lang="ja">あきづきりょう</imas:nameKana>
+    <schema:familyName xml:lang="ja">秋月</schema:familyName>
+    <schema:familyName xml:lang="en">Akizuki</schema:familyName>
+    <schema:givenName xml:lang="ja">涼</schema:givenName>
+    <schema:givenName xml:lang="en">Ryo</schema:givenName>
+    <imas:familyNameKana xml:lang="ja">あきづき</imas:familyNameKana>
+    <imas:givenNameKana xml:lang="ja">りょう</imas:givenNameKana>
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--09-15</schema:birthDate>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">O</imas:BloodType>
-    <schema:birthPlace xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">東京</schema:birthPlace>
-    <imas:Constellation xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">乙女座</imas:Constellation>
-    <imas:Handedness xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">right</imas:Handedness>
+    <schema:birthPlace xml:lang="ja">東京</schema:birthPlace>
+    <imas:Constellation xml:lang="ja">乙女座</imas:Constellation>
+    <imas:Handedness xml:lang="en">right</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">164.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">54.0</schema:weight>
     <imas:ShoeSize rdf:datatype="http://www.w3.org/2001/XMLSchema#float">24.5</imas:ShoeSize>
-    <imas:Category xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">メンタル</imas:Category>
-    <imas:cv xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">三瓶由布子</imas:cv>
+    <imas:Category xml:lang="ja">メンタル</imas:Category>
+    <imas:cv xml:lang="ja">三瓶由布子</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/三瓶由布子"/>
     <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q958874"/>
-    <imas:Hobby xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">掃除</imas:Hobby>
-    <imas:Hobby xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">お料理</imas:Hobby>
-    <imas:Talent xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">ダンス</imas:Talent>
-    <imas:Talent xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">変装</imas:Talent>
-    <schema:gender xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">male</schema:gender>
-    <imas:Title xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">315ProIdols</imas:Title>
+    <imas:Hobby xml:lang="ja">掃除</imas:Hobby>
+    <imas:Hobby xml:lang="ja">お料理</imas:Hobby>
+    <imas:Talent xml:lang="ja">ダンス</imas:Talent>
+    <imas:Talent xml:lang="ja">変装</imas:Talent>
+    <schema:gender xml:lang="en">male</schema:gender>
+    <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="detail/Kabuto_Daigo">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14</foaf:age>
-    <schema:name xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">兜大吾</schema:name>
-    <schema:name xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Kabuto</schema:name>
-    <imas:nameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">かぶとだいご</imas:nameKana>
-    <schema:familyName xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">兜</schema:familyName>
-    <schema:familyName xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Kabuto</schema:familyName>
-    <schema:givenName xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">大吾</schema:givenName>
-    <schema:givenName xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Daigo</schema:givenName>
-    <imas:familyNameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">かぶと</imas:familyNameKana>
-    <imas:givenNameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">だいご</imas:givenNameKana>
+    <schema:name xml:lang="ja">兜大吾</schema:name>
+    <schema:name xml:lang="en">Kabuto</schema:name>
+    <imas:nameKana xml:lang="ja">かぶとだいご</imas:nameKana>
+    <schema:familyName xml:lang="ja">兜</schema:familyName>
+    <schema:familyName xml:lang="en">Kabuto</schema:familyName>
+    <schema:givenName xml:lang="ja">大吾</schema:givenName>
+    <schema:givenName xml:lang="en">Daigo</schema:givenName>
+    <imas:familyNameKana xml:lang="ja">かぶと</imas:familyNameKana>
+    <imas:givenNameKana xml:lang="ja">だいご</imas:givenNameKana>
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--05-20</schema:birthDate>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AB</imas:BloodType>
-    <schema:birthPlace xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">広島</schema:birthPlace>
-    <imas:Constellation xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">牡牛座</imas:Constellation>
-    <imas:Handedness xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">right</imas:Handedness>
+    <schema:birthPlace xml:lang="ja">広島</schema:birthPlace>
+    <imas:Constellation xml:lang="ja">牡牛座</imas:Constellation>
+    <imas:Handedness xml:lang="en">right</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">160.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">52.0</schema:weight>
     <imas:ShoeSize rdf:datatype="http://www.w3.org/2001/XMLSchema#float">24.0</imas:ShoeSize>
-    <imas:Category xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">フィジカル</imas:Category>
-    <imas:cv xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">浦尾岳大</imas:cv>
+    <imas:Category xml:lang="ja">フィジカル</imas:Category>
+    <imas:cv xml:lang="ja">浦尾岳大</imas:cv>
     <!--<imas:cv rdf:resource="http://ja.dbpedia.org/resource/浦尾岳大"/>-->
     <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q27150535"/>
-    <imas:Hobby xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">格ゲー</imas:Hobby>
-    <imas:Talent xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">居合道</imas:Talent>
-    <imas:Talent xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">かつらむき</imas:Talent>
-    <schema:gender xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">male</schema:gender>
-    <imas:Title xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">315ProIdols</imas:Title>
+    <imas:Hobby xml:lang="ja">格ゲー</imas:Hobby>
+    <imas:Talent xml:lang="ja">居合道</imas:Talent>
+    <imas:Talent xml:lang="ja">かつらむき</imas:Talent>
+    <schema:gender xml:lang="en">male</schema:gender>
+    <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="detail/Tsukumo_Kazuki">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</foaf:age>
-    <schema:name xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">九十九一希</schema:name>
-    <schema:name xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Tsukumo Kazuki</schema:name>
-    <imas:nameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">つくもかずき</imas:nameKana>
-    <schema:familyName xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">九十九</schema:familyName>
-    <schema:familyName xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Tsukumo</schema:familyName>
-    <schema:givenName xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">一希</schema:givenName>
-    <schema:givenName xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Kazuki</schema:givenName>
-    <imas:familyNameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">つくも</imas:familyNameKana>
-    <imas:givenNameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">かずき</imas:givenNameKana>
+    <schema:name xml:lang="ja">九十九一希</schema:name>
+    <schema:name xml:lang="en">Tsukumo Kazuki</schema:name>
+    <imas:nameKana xml:lang="ja">つくもかずき</imas:nameKana>
+    <schema:familyName xml:lang="ja">九十九</schema:familyName>
+    <schema:familyName xml:lang="en">Tsukumo</schema:familyName>
+    <schema:givenName xml:lang="ja">一希</schema:givenName>
+    <schema:givenName xml:lang="en">Kazuki</schema:givenName>
+    <imas:familyNameKana xml:lang="ja">つくも</imas:familyNameKana>
+    <imas:givenNameKana xml:lang="ja">かずき</imas:givenNameKana>
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--10-13</schema:birthDate>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A</imas:BloodType>
-    <schema:birthPlace xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">岐阜</schema:birthPlace>
-    <imas:Constellation xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">天秤座</imas:Constellation>
-    <imas:Handedness xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">right</imas:Handedness>
+    <schema:birthPlace xml:lang="ja">岐阜</schema:birthPlace>
+    <imas:Constellation xml:lang="ja">天秤座</imas:Constellation>
+    <imas:Handedness xml:lang="en">right</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">178.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">64.0</schema:weight>
     <imas:ShoeSize rdf:datatype="http://www.w3.org/2001/XMLSchema#float">26.5</imas:ShoeSize>
-    <imas:Category xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">インテリ</imas:Category>
-    <imas:cv xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">徳武竜也</imas:cv>
+    <imas:Category xml:lang="ja">インテリ</imas:Category>
+    <imas:cv xml:lang="ja">徳武竜也</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/徳武竜也"/>
     <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q26043911"/>
-    <imas:Hobby xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">キャンプ</imas:Hobby>
-    <imas:Hobby xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">読書</imas:Hobby>
-    <imas:Talent xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">一度読んだ本の内容は大体覚えている</imas:Talent>
-    <imas:Talent xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">食べれるキノコを見分けられる</imas:Talent>
-    <schema:gender xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">male</schema:gender>
-    <imas:Title xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">315ProIdols</imas:Title>
+    <imas:Hobby xml:lang="ja">キャンプ</imas:Hobby>
+    <imas:Hobby xml:lang="ja">読書</imas:Hobby>
+    <imas:Talent xml:lang="ja">一度読んだ本の内容は大体覚えている</imas:Talent>
+    <imas:Talent xml:lang="ja">食べれるキノコを見分けられる</imas:Talent>
+    <schema:gender xml:lang="en">male</schema:gender>
+    <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="detail/Kuzunoha_Amehiko">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">30</foaf:age>
-    <schema:name xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">葛之葉雨彦</schema:name>
-    <schema:name xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Kuzunoha Amehiko</schema:name>
-    <imas:nameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">くずのはあめひこ</imas:nameKana>
-    <schema:familyName xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">葛之葉</schema:familyName>
-    <schema:familyName xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Kuzunoha</schema:familyName>
-    <schema:givenName xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">雨彦</schema:givenName>
-    <schema:givenName xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Amehiko</schema:givenName>
-    <imas:familyNameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">くずのは</imas:familyNameKana>
-    <imas:givenNameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">あめひこ</imas:givenNameKana>
+    <schema:name xml:lang="ja">葛之葉雨彦</schema:name>
+    <schema:name xml:lang="en">Kuzunoha Amehiko</schema:name>
+    <imas:nameKana xml:lang="ja">くずのはあめひこ</imas:nameKana>
+    <schema:familyName xml:lang="ja">葛之葉</schema:familyName>
+    <schema:familyName xml:lang="en">Kuzunoha</schema:familyName>
+    <schema:givenName xml:lang="ja">雨彦</schema:givenName>
+    <schema:givenName xml:lang="en">Amehiko</schema:givenName>
+    <imas:familyNameKana xml:lang="ja">くずのは</imas:familyNameKana>
+    <imas:givenNameKana xml:lang="ja">あめひこ</imas:givenNameKana>
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--10-31</schema:birthDate>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">O</imas:BloodType>
-    <schema:birthPlace xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">奈良</schema:birthPlace>
-    <imas:Constellation xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">蠍座</imas:Constellation>
-    <imas:Handedness xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">both</imas:Handedness>
+    <schema:birthPlace xml:lang="ja">奈良</schema:birthPlace>
+    <imas:Constellation xml:lang="ja">蠍座</imas:Constellation>
+    <imas:Handedness xml:lang="en">both</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">191.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">74.0</schema:weight>
     <imas:ShoeSize rdf:datatype="http://www.w3.org/2001/XMLSchema#float">28.0</imas:ShoeSize>
-    <imas:Category xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">インテリ</imas:Category>
-    <imas:cv xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">笠間淳</imas:cv>
+    <imas:Category xml:lang="ja">インテリ</imas:Category>
+    <imas:cv xml:lang="ja">笠間淳</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/笠間淳"/>
     <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q27150536"/>
-    <imas:Hobby xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">星占い</imas:Hobby>
-    <imas:Talent xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">折紙</imas:Talent>
-    <schema:gender xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">male</schema:gender>
-    <imas:Title xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">315ProIdols</imas:Title>
+    <imas:Hobby xml:lang="ja">星占い</imas:Hobby>
+    <imas:Talent xml:lang="ja">折紙</imas:Talent>
+    <schema:gender xml:lang="en">male</schema:gender>
+    <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="detail/Kitamura_Sora">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</foaf:age>
-    <schema:name xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">北村想楽</schema:name>
-    <schema:name xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Kitamura Sora</schema:name>
-    <imas:nameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">きたむらそら</imas:nameKana>
-    <schema:familyName xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">北村</schema:familyName>
-    <schema:familyName xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Kitamura</schema:familyName>
-    <schema:givenName xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">想楽</schema:givenName>
-    <schema:givenName xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Sora</schema:givenName>
-    <imas:familyNameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">きたむら</imas:familyNameKana>
-    <imas:givenNameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">そら</imas:givenNameKana>
+    <schema:name xml:lang="ja">北村想楽</schema:name>
+    <schema:name xml:lang="en">Kitamura Sora</schema:name>
+    <imas:nameKana xml:lang="ja">きたむらそら</imas:nameKana>
+    <schema:familyName xml:lang="ja">北村</schema:familyName>
+    <schema:familyName xml:lang="en">Kitamura</schema:familyName>
+    <schema:givenName xml:lang="ja">想楽</schema:givenName>
+    <schema:givenName xml:lang="en">Sora</schema:givenName>
+    <imas:familyNameKana xml:lang="ja">きたむら</imas:familyNameKana>
+    <imas:givenNameKana xml:lang="ja">そら</imas:givenNameKana>
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--11-28</schema:birthDate>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">B</imas:BloodType>
-    <schema:birthPlace xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">三重</schema:birthPlace>
-    <imas:Constellation xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">射手座</imas:Constellation>
-    <imas:Handedness xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">right</imas:Handedness>
+    <schema:birthPlace xml:lang="ja">三重</schema:birthPlace>
+    <imas:Constellation xml:lang="ja">射手座</imas:Constellation>
+    <imas:Handedness xml:lang="en">right</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">174.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">62.0</schema:weight>
     <imas:ShoeSize rdf:datatype="http://www.w3.org/2001/XMLSchema#float">26.5</imas:ShoeSize>
-    <imas:Category xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">メンタル</imas:Category>
-    <imas:cv xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">汐谷文康</imas:cv>
+    <imas:Category xml:lang="ja">メンタル</imas:Category>
+    <imas:cv xml:lang="ja">汐谷文康</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/汐谷文康"/>
     <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q27150533"/>
-    <imas:Hobby xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">一人旅</imas:Hobby>
-    <imas:Talent xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">書道</imas:Talent>
-    <schema:gender xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">male</schema:gender>
-    <imas:Title xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">315ProIdols</imas:Title>
+    <imas:Hobby xml:lang="ja">一人旅</imas:Hobby>
+    <imas:Talent xml:lang="ja">書道</imas:Talent>
+    <schema:gender xml:lang="en">male</schema:gender>
+    <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="detail/Koron_Chris">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">29</foaf:age>
-    <schema:name xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">古論クリス</schema:name>
-    <schema:name xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Koron Chris</schema:name>
-    <imas:nameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">ころんくりす</imas:nameKana>
-    <schema:familyName xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">古論</schema:familyName>
-    <schema:familyName xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Koron</schema:familyName>
-    <schema:givenName xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">クリス</schema:givenName>
-    <schema:givenName xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Chris</schema:givenName>
-    <imas:familyNameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">ころん</imas:familyNameKana>
-    <imas:givenNameKana xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">くりす</imas:givenNameKana>
+    <schema:name xml:lang="ja">古論クリス</schema:name>
+    <schema:name xml:lang="en">Koron Chris</schema:name>
+    <imas:nameKana xml:lang="ja">ころんくりす</imas:nameKana>
+    <schema:familyName xml:lang="ja">古論</schema:familyName>
+    <schema:familyName xml:lang="en">Koron</schema:familyName>
+    <schema:givenName xml:lang="ja">クリス</schema:givenName>
+    <schema:givenName xml:lang="en">Chris</schema:givenName>
+    <imas:familyNameKana xml:lang="ja">ころん</imas:familyNameKana>
+    <imas:givenNameKana xml:lang="ja">くりす</imas:givenNameKana>
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--10-11</schema:birthDate>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AB</imas:BloodType>
-    <schema:birthPlace xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">埼玉</schema:birthPlace>
-    <imas:Constellation xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">天秤座</imas:Constellation>
-    <imas:Handedness xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">right</imas:Handedness>
+    <schema:birthPlace xml:lang="ja">埼玉</schema:birthPlace>
+    <imas:Constellation xml:lang="ja">天秤座</imas:Constellation>
+    <imas:Handedness xml:lang="en">right</imas:Handedness>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">187.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">58.0</schema:weight>
     <imas:ShoeSize rdf:datatype="http://www.w3.org/2001/XMLSchema#float">27.5</imas:ShoeSize>
-    <imas:Category xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">インテリ</imas:Category>
-    <imas:cv xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">駒田航</imas:cv>
+    <imas:Category xml:lang="ja">インテリ</imas:Category>
+    <imas:cv xml:lang="ja">駒田航</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/駒田航"/>
     <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q20040112"/>
-    <imas:Hobby xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">水族館めぐり</imas:Hobby>
-    <imas:Talent xml:lang="ja" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">素潜り(水中息止め)</imas:Talent>
-    <schema:gender xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">male</schema:gender>
-    <imas:Title xml:lang="en" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">315ProIdols</imas:Title>
+    <imas:Hobby xml:lang="ja">水族館めぐり</imas:Hobby>
+    <imas:Talent xml:lang="ja">素潜り(水中息止め)</imas:Talent>
+    <schema:gender xml:lang="en">male</schema:gender>
+    <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
