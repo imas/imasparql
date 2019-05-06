@@ -28,9 +28,7 @@
     <schema:givenName xml:lang="ja">玲音</schema:givenName>
     <schema:givenName xml:lang="en">Leon</schema:givenName>
     <imas:givenNameKana xml:lang="ja">れおん</imas:givenNameKana>
-    <schema:alternateName xml:lang="ja">玲音</schema:alternateName>
-    <schema:alternateName xml:lang="en">Leon</schema:alternateName>
-    <imas:alternateNameKana xml:lang="ja">れおん</imas:alternateNameKana>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">玲音</rdfs:label>
     <imas:cv xml:lang="ja">茅原実里</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/茅原実里"/>
     <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q256910"/>
@@ -43,9 +41,7 @@
     <schema:givenName xml:lang="ja">詩花</schema:givenName>
     <schema:givenName xml:lang="en">Shiika</schema:givenName>
     <imas:givenNameKana xml:lang="ja">しいか</imas:givenNameKana>
-    <schema:alternateName xml:lang="ja">詩花</schema:alternateName>
-    <schema:alternateName xml:lang="en">Shiika</schema:alternateName>
-    <imas:alternateNameKana xml:lang="ja">しいか</imas:alternateNameKana>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">詩花</rdfs:label>
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</foaf:age>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">158.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">43.0</schema:weight>
