@@ -23,6 +23,7 @@
     >
   <rdf:Description rdf:about="detail/Amagase_Toma">
     <schema:name xml:lang="ja">天ヶ瀬冬馬</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">天ヶ瀬冬馬</rdfs:label>
     <schema:name xml:lang="en">Amagase Toma</schema:name>
     <schema:familyName xml:lang="ja">天ヶ瀬</schema:familyName>
     <schema:familyName xml:lang="en">Amagase</schema:familyName>
@@ -55,6 +56,7 @@
 
   <rdf:Description rdf:about="detail/Mitarai_Shota">
     <schema:name xml:lang="ja">御手洗翔太</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">御手洗翔太</rdfs:label>
     <schema:name xml:lang="en">Mitarai Shota</schema:name>
     <imas:nameKana xml:lang="ja">みたらいしょうた</imas:nameKana>
     <imas:familyNameKana xml:lang="ja">みたらい</imas:familyNameKana>
@@ -87,6 +89,7 @@
   <rdf:Description rdf:about="detail/Ijuin_Hokuto">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</foaf:age>
     <schema:name xml:lang="ja">伊集院北斗</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">伊集院北斗</rdfs:label>
     <schema:name xml:lang="en">Ijuin Hokuto</schema:name>
     <imas:nameKana xml:lang="ja">いじゅういんほくと</imas:nameKana>
     <schema:familyName xml:lang="ja">伊集院</schema:familyName>
@@ -119,6 +122,7 @@
   <rdf:Description rdf:about="detail/Tendo_Teru">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">28</foaf:age>
     <schema:name xml:lang="ja">天道輝</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">天道輝</rdfs:label>
     <schema:name xml:lang="en">Tendo Teru</schema:name>
     <imas:nameKana xml:lang="ja">てんどうてる</imas:nameKana>
     <schema:familyName xml:lang="ja">天道</schema:familyName>
@@ -150,6 +154,7 @@
   <rdf:Description rdf:about="detail/Sakuraba_Kaoru">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">26</foaf:age>
     <schema:name xml:lang="ja">桜庭薫</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">桜庭薫</rdfs:label>
     <schema:name xml:lang="en">Sakuraba</schema:name>
     <imas:nameKana xml:lang="ja">さくらばかおる</imas:nameKana>
     <schema:familyName xml:lang="ja">桜庭</schema:familyName>
@@ -180,6 +185,7 @@
   <rdf:Description rdf:about="detail/Kashiwagi_Tsubasa">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</foaf:age>
     <schema:name xml:lang="ja">柏木翼</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">柏木翼</rdfs:label>
     <schema:name xml:lang="en">Kashiwagi Tsubasa</schema:name>
     <imas:nameKana xml:lang="ja">かしわぎつばさ</imas:nameKana>
     <schema:familyName xml:lang="ja">柏木</schema:familyName>
@@ -213,6 +219,7 @@
   <rdf:Description rdf:about="detail/Tsuzuki_Kei">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#string">??</foaf:age>
     <schema:name xml:lang="ja">都築圭</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">都築圭</rdfs:label>
     <schema:name xml:lang="en">Tsuzuki Kei</schema:name>
     <imas:nameKana xml:lang="ja">つづきけい</imas:nameKana>
     <schema:familyName xml:lang="ja">都築</schema:familyName>
@@ -243,6 +250,7 @@
   <rdf:Description rdf:about="detail/Kagura_Rei">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</foaf:age>
     <schema:name xml:lang="ja">神楽麗</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">神楽麗</rdfs:label>
     <schema:name xml:lang="en">Kagura Rei</schema:name>
     <imas:nameKana xml:lang="ja">かぐられい</imas:nameKana>
     <schema:familyName xml:lang="ja">神楽</schema:familyName>
@@ -273,6 +281,7 @@
   <rdf:Description rdf:about="detail/Takajo_Kyoji">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</foaf:age>
     <schema:name xml:lang="ja">鷹城恭二</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">鷹城恭二</rdfs:label>
     <schema:name xml:lang="en">Takajo Kyoji</schema:name>
     <imas:nameKana xml:lang="ja">たかじょうきょうじ</imas:nameKana>
     <schema:familyName xml:lang="ja">鷹城</schema:familyName>
@@ -303,6 +312,7 @@
   <rdf:Description rdf:about="detail/Pierre">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</foaf:age>
     <schema:name xml:lang="ja">ピエール</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ピエール</rdfs:label>
     <schema:name xml:lang="en">Pierre</schema:name>
     <imas:nameKana xml:lang="ja">ぴえーる</imas:nameKana>
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--08-01</schema:birthDate>
@@ -356,6 +366,7 @@
   <rdf:Description rdf:about="detail/Aoi_Yusuke">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</foaf:age>
     <schema:name xml:lang="ja">蒼井悠介</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">蒼井悠介</rdfs:label>
     <schema:name xml:lang="en">Aoi Yusuke</schema:name>
     <imas:nameKana xml:lang="ja">あおいゆうすけ</imas:nameKana>
     <schema:familyName xml:lang="ja">蒼井</schema:familyName>
@@ -386,6 +397,7 @@
   <rdf:Description rdf:about="detail/Aoi_Kyosuke">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</foaf:age>
     <schema:name xml:lang="ja">蒼井享介</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">蒼井享介</rdfs:label>
     <schema:name xml:lang="en">Aoi Kyosuke</schema:name>
     <imas:nameKana xml:lang="ja">あおいきょうすけ</imas:nameKana>
     <schema:familyName xml:lang="ja">蒼井</schema:familyName>
@@ -417,6 +429,7 @@
   <rdf:Description rdf:about="detail/Akuno_Hideo">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">23</foaf:age>
     <schema:name xml:lang="ja">握野英雄</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">握野英雄</rdfs:label>
     <schema:name xml:lang="en">Akuno Hideo</schema:name>
     <imas:nameKana xml:lang="ja">あくのひでお</imas:nameKana>
     <schema:familyName xml:lang="ja">握野</schema:familyName>
@@ -448,6 +461,7 @@
   <rdf:Description rdf:about="detail/Kimura_Ryu">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</foaf:age>
     <schema:name xml:lang="ja">木村龍</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">木村龍</rdfs:label>
     <schema:name xml:lang="en">Kimura Ryu</schema:name>
     <imas:nameKana xml:lang="ja">きむらりゅう</imas:nameKana>
     <schema:familyName xml:lang="ja">木村</schema:familyName>
@@ -478,6 +492,7 @@
   <rdf:Description rdf:about="detail/Shingen_Seiji">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">31</foaf:age>
     <schema:name xml:lang="ja">信玄誠司</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">信玄誠司</rdfs:label>
     <schema:name xml:lang="en">Shingen Seiji</schema:name>
     <imas:nameKana xml:lang="ja">しんげんせいじ</imas:nameKana>
     <schema:familyName xml:lang="ja">信玄</schema:familyName>
@@ -508,6 +523,7 @@
   <rdf:Description rdf:about="detail/Nekoyanagi_Kirio">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</foaf:age>
     <schema:name xml:lang="ja">猫柳キリオ</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">猫柳キリオ</rdfs:label>
     <schema:name xml:lang="en">Nekoyanagi Kirio</schema:name>
     <imas:nameKana xml:lang="ja">ねこやなぎきりお</imas:nameKana>
     <schema:familyName xml:lang="ja">猫柳</schema:familyName>
@@ -538,6 +554,7 @@
   <rdf:Description rdf:about="detail/Hanamura_Shoma">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">27</foaf:age>
     <schema:name xml:lang="ja">華村翔真</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">華村翔真</rdfs:label>
     <schema:name xml:lang="en">Hanamura Shoma</schema:name>
     <imas:nameKana xml:lang="ja">はなむらしょうま</imas:nameKana>
     <schema:familyName xml:lang="ja">華村</schema:familyName>
@@ -568,6 +585,7 @@
   <rdf:Description rdf:about="detail/Kiyosumi_Kuro">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</foaf:age>
     <schema:name xml:lang="ja">清澄九郎</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">清澄九郎</rdfs:label>
     <schema:name xml:lang="en">Kiyosumi Kuro</schema:name>
     <imas:nameKana xml:lang="ja">きよすみくろう</imas:nameKana>
     <schema:familyName xml:lang="ja">清澄</schema:familyName>
@@ -599,6 +617,7 @@
   <rdf:Description rdf:about="detail/Akiyama_Hayato">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</foaf:age>
     <schema:name xml:lang="ja">秋山隼人</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">秋山隼人</rdfs:label>
     <schema:name xml:lang="en">Akiyama Hayato</schema:name>
     <imas:nameKana xml:lang="ja">あきやまはやと</imas:nameKana>
     <schema:familyName xml:lang="ja">秋山</schema:familyName>
@@ -630,6 +649,7 @@
   <rdf:Description rdf:about="detail/Fuyumi_Jun">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</foaf:age>
     <schema:name xml:lang="ja">冬美旬</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">冬美旬</rdfs:label>
     <schema:name xml:lang="en">Fuyumi Jun</schema:name>
     <imas:nameKana xml:lang="ja">ふゆみじゅん</imas:nameKana>
     <schema:familyName xml:lang="ja">冬美</schema:familyName>
@@ -660,6 +680,7 @@
   <rdf:Description rdf:about="detail/Sakaki_Natsuki">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</foaf:age>
     <schema:name xml:lang="ja">榊夏来</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">榊夏来</rdfs:label>
     <schema:name xml:lang="en">Sakaki Natsuki</schema:name>
     <imas:nameKana xml:lang="ja">さかきなつき</imas:nameKana>
     <schema:familyName xml:lang="ja">榊</schema:familyName>
@@ -691,6 +712,7 @@
   <rdf:Description rdf:about="detail/Wakazato_Haruna">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</foaf:age>
     <schema:name xml:lang="ja">若里春名</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">若里春名</rdfs:label>
     <schema:name xml:lang="en">Wakazato Haruna</schema:name>
     <imas:nameKana xml:lang="ja">わかざとはるな</imas:nameKana>
     <schema:familyName xml:lang="ja">若里</schema:familyName>
@@ -721,6 +743,7 @@
   <rdf:Description rdf:about="detail/Iseya_Shiki">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</foaf:age>
     <schema:name xml:lang="ja">伊瀬谷四季</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">伊瀬谷四季</rdfs:label>
     <schema:name xml:lang="en">Iseya Shiki</schema:name>
     <imas:nameKana xml:lang="ja">いせやしき</imas:nameKana>
     <schema:familyName xml:lang="ja">伊瀬谷</schema:familyName>
@@ -752,6 +775,7 @@
   <rdf:Description rdf:about="detail/Akai_Suzaku">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</foaf:age>
     <schema:name xml:lang="ja">紅井朱雀</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">紅井朱雀</rdfs:label>
     <schema:name xml:lang="en">Akai Suzaku</schema:name>
     <imas:nameKana xml:lang="ja">あかいすざく</imas:nameKana>
     <schema:familyName xml:lang="ja">紅井</schema:familyName>
@@ -782,6 +806,7 @@
   <rdf:Description rdf:about="detail/Kurono_Genbu">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</foaf:age>
     <schema:name xml:lang="ja">黒野玄武</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">黒野玄武</rdfs:label>
     <schema:name xml:lang="en">Kurono Genbu</schema:name>
     <imas:nameKana xml:lang="ja">くろのげんぶ</imas:nameKana>
     <schema:familyName xml:lang="ja">黒野</schema:familyName>
@@ -814,6 +839,7 @@
   <rdf:Description rdf:about="detail/Kamiya_Yukihiro">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">21</foaf:age>
     <schema:name xml:lang="ja">神谷幸広</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">神谷幸広</rdfs:label>
     <schema:name xml:lang="en">Kamiya Yukihiro</schema:name>
     <imas:nameKana xml:lang="ja">かみやゆきひろ</imas:nameKana>
     <schema:familyName xml:lang="ja">神谷</schema:familyName>
@@ -846,6 +872,7 @@
   <rdf:Description rdf:about="detail/Shinonome_Soichiro">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">21</foaf:age>
     <schema:name xml:lang="ja">東雲荘一郎</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">東雲荘一郎</rdfs:label>
     <schema:name xml:lang="en">Shinonome Soichiro</schema:name>
     <imas:nameKana xml:lang="ja">しののめそういちろう</imas:nameKana>
     <schema:familyName xml:lang="ja">東雲</schema:familyName>
@@ -877,6 +904,7 @@
 
   <rdf:Description rdf:about="detail/Asselin_BB_2">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">26</foaf:age>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">アスラン=BBⅡ世</rdfs:label>
     <schema:alternateName xml:lang="ja">アスラン=BBⅡ世</schema:alternateName>
     <schema:alternateName xml:lang="en">Asselin-BB 2</schema:alternateName>
     <imas:alternateNameKana xml:lang="ja">あすらんべるぜびゅーとにせい</imas:alternateNameKana>
@@ -903,6 +931,7 @@
   <rdf:Description rdf:about="detail/Uzuki_Makio">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</foaf:age>
     <schema:name xml:lang="ja">卯月巻緒</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">卯月巻緒</rdfs:label>
     <schema:name xml:lang="en">Uzuki Makio</schema:name>
     <imas:nameKana xml:lang="ja">うづきまきお</imas:nameKana>
     <schema:familyName xml:lang="ja">卯月</schema:familyName>
@@ -934,6 +963,7 @@
   <rdf:Description rdf:about="detail/Mizushima_Saki">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</foaf:age>
     <schema:name xml:lang="ja">水嶋咲</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">水嶋咲</rdfs:label>
     <schema:name xml:lang="en">Mizushima Saki</schema:name>
     <imas:nameKana xml:lang="ja">みずしまさき</imas:nameKana>
     <schema:familyName xml:lang="ja">水嶋</schema:familyName>
@@ -964,6 +994,7 @@
   <rdf:Description rdf:about="detail/Okamura_Nao">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</foaf:age>
     <schema:name xml:lang="ja">岡村直央</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">岡村直央</rdfs:label>
     <schema:name xml:lang="en">Okamura Nao</schema:name>
     <imas:nameKana xml:lang="ja">おかむらなお</imas:nameKana>
     <schema:familyName xml:lang="ja">岡村</schema:familyName>
@@ -994,6 +1025,7 @@
   <rdf:Description rdf:about="detail/Tachibana_Shiro">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</foaf:age>
     <schema:name xml:lang="ja">橘志狼</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">橘志狼</rdfs:label>
     <schema:name xml:lang="en">Tachibana Shiro</schema:name>
     <imas:nameKana xml:lang="ja">たちばなしろう</imas:nameKana>
     <schema:familyName xml:lang="ja">橘</schema:familyName>
@@ -1024,6 +1056,7 @@
   <rdf:Description rdf:about="detail/Himeno_Kanon">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</foaf:age>
     <schema:name xml:lang="ja">姫野かのん</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">姫野かのん</rdfs:label>
     <schema:name xml:lang="en">Himeno Kanon</schema:name>
     <imas:nameKana xml:lang="ja">ひめのかのん</imas:nameKana>
     <schema:familyName xml:lang="ja">姫野</schema:familyName>
@@ -1054,6 +1087,7 @@
   <rdf:Description rdf:about="detail/Hazama_Michio">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">32</foaf:age>
     <schema:name xml:lang="ja">硲道夫</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">硲道夫</rdfs:label>
     <schema:name xml:lang="en">Hazama Michio</schema:name>
     <imas:nameKana xml:lang="ja">はざまみちお</imas:nameKana>
     <schema:familyName xml:lang="ja">硲</schema:familyName>
@@ -1085,6 +1119,7 @@
   <rdf:Description rdf:about="detail/Maita_Rui">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">23</foaf:age>
     <schema:name xml:lang="ja">舞田類</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">舞田類</rdfs:label>
     <schema:name xml:lang="en">Maita Rui</schema:name>
     <imas:nameKana xml:lang="ja">まいたるい</imas:nameKana>
     <schema:familyName xml:lang="ja">舞田</schema:familyName>
@@ -1117,6 +1152,7 @@
   <rdf:Description rdf:about="detail/Yamashita_Jiro">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">30</foaf:age>
     <schema:name xml:lang="ja">山下次郎</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">山下次郎</rdfs:label>
     <schema:name xml:lang="en">Yamashita Jiro</schema:name>
     <imas:nameKana xml:lang="ja">やましたじろう</imas:nameKana>
     <schema:familyName xml:lang="ja">山下</schema:familyName>
@@ -1148,6 +1184,7 @@
   <rdf:Description rdf:about="detail/Taiga_Takeru">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</foaf:age>
     <schema:name xml:lang="ja">大河タケル</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">大河タケル</rdfs:label>
     <schema:name xml:lang="en">Taiga Takeru</schema:name>
     <imas:nameKana xml:lang="ja">たいがたける</imas:nameKana>
     <schema:familyName xml:lang="ja">大河</schema:familyName>
@@ -1180,6 +1217,7 @@
   <rdf:Description rdf:about="detail/Enjoji_Michiru">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</foaf:age>
     <schema:name xml:lang="ja">円城寺道流</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">円城寺道流</rdfs:label>
     <schema:name xml:lang="en">Enjoji Michiru</schema:name>
     <imas:nameKana xml:lang="ja">えんじょうじみちる</imas:nameKana>
     <schema:familyName xml:lang="ja">円城寺</schema:familyName>
@@ -1210,6 +1248,7 @@
   <rdf:Description rdf:about="detail/Kizaki_Ren">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</foaf:age>
     <schema:name xml:lang="ja">牙崎漣</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">牙崎漣</rdfs:label>
     <schema:name xml:lang="en">Kizaki Ren</schema:name>
     <imas:nameKana xml:lang="ja">きざきれん</imas:nameKana>
     <schema:familyName xml:lang="ja">牙崎</schema:familyName>
@@ -1240,6 +1279,7 @@
   <rdf:Description rdf:about="detail/Akizuki_Ryo_315">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</foaf:age>
     <schema:name xml:lang="ja">秋月涼</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">秋月涼</rdfs:label>
     <schema:name xml:lang="en">Akizuki Ryo</schema:name>
     <imas:nameKana xml:lang="ja">あきづきりょう</imas:nameKana>
     <schema:familyName xml:lang="ja">秋月</schema:familyName>
@@ -1272,6 +1312,7 @@
   <rdf:Description rdf:about="detail/Kabuto_Daigo">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14</foaf:age>
     <schema:name xml:lang="ja">兜大吾</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">兜大吾</rdfs:label>
     <schema:name xml:lang="en">Kabuto</schema:name>
     <imas:nameKana xml:lang="ja">かぶとだいご</imas:nameKana>
     <schema:familyName xml:lang="ja">兜</schema:familyName>
@@ -1303,6 +1344,7 @@
   <rdf:Description rdf:about="detail/Tsukumo_Kazuki">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</foaf:age>
     <schema:name xml:lang="ja">九十九一希</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">九十九一希</rdfs:label>
     <schema:name xml:lang="en">Tsukumo Kazuki</schema:name>
     <imas:nameKana xml:lang="ja">つくもかずき</imas:nameKana>
     <schema:familyName xml:lang="ja">九十九</schema:familyName>
@@ -1335,6 +1377,7 @@
   <rdf:Description rdf:about="detail/Kuzunoha_Amehiko">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">30</foaf:age>
     <schema:name xml:lang="ja">葛之葉雨彦</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">葛之葉雨彦</rdfs:label>
     <schema:name xml:lang="en">Kuzunoha Amehiko</schema:name>
     <imas:nameKana xml:lang="ja">くずのはあめひこ</imas:nameKana>
     <schema:familyName xml:lang="ja">葛之葉</schema:familyName>
@@ -1365,6 +1408,7 @@
   <rdf:Description rdf:about="detail/Kitamura_Sora">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</foaf:age>
     <schema:name xml:lang="ja">北村想楽</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">北村想楽</rdfs:label>
     <schema:name xml:lang="en">Kitamura Sora</schema:name>
     <imas:nameKana xml:lang="ja">きたむらそら</imas:nameKana>
     <schema:familyName xml:lang="ja">北村</schema:familyName>
@@ -1395,6 +1439,7 @@
   <rdf:Description rdf:about="detail/Koron_Chris">
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">29</foaf:age>
     <schema:name xml:lang="ja">古論クリス</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">古論クリス</rdfs:label>
     <schema:name xml:lang="en">Koron Chris</schema:name>
     <imas:nameKana xml:lang="ja">ころんくりす</imas:nameKana>
     <schema:familyName xml:lang="ja">古論</schema:familyName>
