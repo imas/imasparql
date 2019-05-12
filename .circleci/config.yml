@@ -46,7 +46,7 @@ workflow:
   deploy:
     jobs:
       - build
-      - unit_memberOf
+      - unit_memberOf:
         filters:
           branches:
             only:
