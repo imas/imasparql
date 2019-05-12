@@ -36,7 +36,7 @@ jobs:
         git config user.name "Chihya-bot"
         git add ./RDFs/Unit_memberOf.rdf
         git commit -m "[ci skip] Update Unit_memberOf"
-        git push --set-upstream origin Add_Unit
+        git push --set-upstream origin add_Unit
       - save_cache:
           paths:
             - node_modules
