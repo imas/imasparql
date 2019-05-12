@@ -26,17 +26,17 @@ jobs:
       - run:
         name: make unit_memberOf
         command: |
-        ls
-        wget https://raw.githubusercontent.com/crssnky/imasparql_tools/master/Unit_memberOf/app.js
-        wget https://raw.githubusercontent.com/crssnky/imasparql_tools/master/Unit_memberOf/package.json
-        rm -f ./RDFs/Unit_memberOf.rdf
-        npm install
-        node app.js > ./RDFs/Unit_memberOf.rdf
-        git config user.email "50269637+Chihya-bot@users.noreply.github.com"
-        git config user.name "Chihya-bot"
-        git add ./RDFs/Unit_memberOf.rdf
-        git commit -m "[ci skip] Update Unit_memberOf"
-        git push --set-upstream origin add_Unit
+          ls
+          wget https://raw.githubusercontent.com/crssnky/imasparql_tools/master/Unit_memberOf/app.js
+          wget https://raw.githubusercontent.com/crssnky/imasparql_tools/master/Unit_memberOf/package.json
+          rm -f ./RDFs/Unit_memberOf.rdf
+          npm install
+          node app.js > ./RDFs/Unit_memberOf.rdf
+          git config user.email "50269637+Chihya-bot@users.noreply.github.com"
+          git config user.name "Chihya-bot"
+          git add ./RDFs/Unit_memberOf.rdf
+          git commit -m "[ci skip] Update Unit_memberOf"
+          git push --set-upstream origin add_Unit
       - save_cache:
           paths:
             - node_modules
