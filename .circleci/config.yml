@@ -1,6 +1,6 @@
 version: 2
 jobs:
-  build:
+  lint:
     docker:
     - image: circleci/openjdk:8
     working_directory: ~/repo
@@ -12,3 +12,55 @@ jobs:
           RDFLINT_VERSION=0.0.3
           wget https://jitpack.io/com/github/imas/rdflint/$RDFLINT_VERSION/rdflint-$RDFLINT_VERSION-all.jar
           java -jar rdflint-$RDFLINT_VERSION-all.jar -config .circleci/rdflint-config.yml
+  make_memberOf:
+    docker:
+    - image: stain/jena
+    working_directory: ~/unit
+    steps:
+    - checkout
+    - run:
+        name: making
+        command: |
+          wget https://gist.githubusercontent.com/crssnky/681dd733ad77dd79b2455ebf61daf80b/raw/1bbccff7a82acb0ca6c75e6d982c95ec8ac93684/makeUnitList.sparql
+          sparql --data=RDFs/Unit.rdf --query=makeUnitList.sparql --results json > res.json
+    - persist_to_workspace:
+        root: .
+        paths:
+          - res.json
+  unit_memberOf:
+    docker:
+      - image: circleci/node:latest
+    working_directory: ~/unit
+    steps:
+      - checkout
+      - attach_workspace:
+          at: .
+      - run:
+          name: make unit_memberOf
+          command: |
+            sudo apt-get update && sudo apt-get install -y nkf
+            wget https://raw.githubusercontent.com/crssnky/imasparql_tools/master/Unit_memberOf/forCircleCI.js
+            rm -f ./RDFs/Unit_memberOf.rdf
+            node forCircleCI.js > ./RDFs/Unit_memberOf.rdf
+            nkf -w -Lu --overwrite ./RDFs/Unit_memberOf.rdf
+            echo "Complete"
+            git config user.email "50269637+Chihya-bot@users.noreply.github.com"
+            git config user.name "Chihya-bot"
+            git add ./RDFs/Unit_memberOf.rdf
+            git commit -m "[ci skip] Update Unit_memberOf"
+            git push --set-upstream origin add_Unit
+workflows:
+  version: 2
+  unnamed_workflow:
+    jobs:
+      - make_memberOf:
+          filters:
+            branches:
+              only: add_Unit
+      - unit_memberOf:
+          requires:
+            - make_memberOf
+          filters:
+            branches:
+              only: add_Unit
+      - lint
