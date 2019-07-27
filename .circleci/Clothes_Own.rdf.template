@@ -1,0 +1,11 @@
+<rdf:RDF
+xmlns:schema="http://schema.org/"
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+xmlns:imas="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#"
+>[# th:each="idol : ${rs}"]
+  <rdf:Description rdf:about="[(${idol.m.substring(params.baseUri.length()+5)})]">[# th:each="item : ${idol.u.split(',,,,,')}"]
+    <schema:owns rdf:resource="[(${item})]"/>
+[/]  </rdf:Description>
+[/]</rdf:RDF>
