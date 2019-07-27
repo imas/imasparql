@@ -1,1 +1,13 @@
 baseUri: https://sparql.crssnky.xyz/imasrdf/
+generation:
+  - query: |
+      PREFIX schema: <http://schema.org/>
+      PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+      PREFIX imas: <https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#>
+      SELECT  ?m (group_concat(?s;separator=",,,,,")as ?u)
+      WHERE {
+        ?s rdf:type imas:Unit;
+           schema:member ?m.
+      }group by (?m) order by (?m)
+    template: .circleci/Unit_memberOf.rdf.template
+    output: RDFs/Unit_memberOf.rdf
