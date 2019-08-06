@@ -142,6 +142,27 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
+  <rdf:Description rdf:about="detail/Cineria">
+    <imas:nameKana xml:lang="ja">さいねりあ</imas:nameKana>
+    <schema:name xml:lang="ja">サイネリア</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">サイネリア</rdfs:label>
+    <schema:name xml:lang="en">Cineria</schema:name>
+    <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</foaf:age>
+    <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">147.0</schema:height>
+    <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">39.0</schema:weight>
+    <imas:Bust rdf:datatype="http://www.w3.org/2001/XMLSchema#float">73.0</imas:Bust>
+    <imas:Waist rdf:datatype="http://www.w3.org/2001/XMLSchema#float">54.0</imas:Waist>
+    <imas:Hip rdf:datatype="http://www.w3.org/2001/XMLSchema#float">78.0</imas:Hip>
+    <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--10-24</schema:birthDate>
+    <imas:Constellation xml:lang="ja">射手座</imas:Constellation>
+    <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AB</imas:BloodType>
+    <imas:Hobby xml:lang="ja">カラオケ</imas:Hobby>
+    <schema:birthPlace xml:lang="ja">神奈川</schema:birthPlace>
+    <schema:gender xml:lang="en">female</schema:gender>
+    <imas:Title xml:lang="en">DearlyStars</imas:Title>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+  </rdf:Description>
+
   <rdf:Description rdf:about="detail/Togoji_Reika">
     <schema:familyName xml:lang="ja">東豪寺</schema:familyName>
     <schema:familyName xml:lang="en">Togoji</schema:familyName>
