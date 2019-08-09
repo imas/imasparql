@@ -9,7 +9,7 @@ jobs:
     - run:
         name: run rdflint
         command: |
-          RDFLINT_VERSION=0.0.6
+          RDFLINT_VERSION=0.0.7
           wget https://jitpack.io/com/github/imas/rdflint/$RDFLINT_VERSION/rdflint-$RDFLINT_VERSION-all.jar
           for f in Clothes_Own Unit_memberOf; do
             java -jar rdflint-$RDFLINT_VERSION-all.jar -config .circleci/$f.yml
