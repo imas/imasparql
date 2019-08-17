@@ -1012,6 +1012,7 @@
     <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Minase_Iori"/>
     <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Mochizuki_Anna"/>
     <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Yabuki_Kana"/>
+    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Futami_Mami"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
   <rdf:Description rdf:about="detail/Elementary_School_Mate">
@@ -1297,6 +1298,18 @@
   <rdf:Description rdf:about="detail/Juicy_Sparkling%2B">
     <schema:name xml:lang="ja">ジューシースパークリング！+</schema:name>
     <schema:description xml:lang="ja">「ジューシースパークリング！」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Satake_Minako"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="detail/Shin_Mugen">
+    <schema:name xml:lang="ja">真・夢幻</schema:name>
+    <schema:description xml:lang="ja">魑魅魍魎が跋扈する降魔の都…。悪意に蝕まれた人々を救うのは、心優しき陰陽師。破魔の力は皆のために！......悪霊退散！</schema:description>
+    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Satake_Minako"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="detail/Shin_Mugen%2B">
+    <schema:name xml:lang="ja">真・夢幻+</schema:name>
+    <schema:description xml:lang="ja">「真・夢幻」のアナザー衣装です。</schema:description>
     <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Satake_Minako"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
@@ -2521,6 +2534,18 @@
   <rdf:Description rdf:about="detail/Cutie_Choco_Whip%2B">
     <schema:name xml:lang="ja">キューティ♡チョコホイップ+</schema:name>
     <schema:description xml:lang="ja">「キューティ♡チョコホイップ」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Nonohara_Akane"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="detail/Suzuneko_Hanayukata">
+    <schema:name xml:lang="ja">鈴猫花浴衣</schema:name>
+    <schema:description xml:lang="ja">抜き足差し足、猫の足。猫又娘のいたずらは今日も大成功♪町民の方々には、鈴の音鳴らして踊る姿で許されちゃってますニャン♡</schema:description>
+    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Nonohara_Akane"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="detail/Suzuneko_Hanayukata%2B">
+    <schema:name xml:lang="ja">鈴猫花浴衣+</schema:name>
+    <schema:description xml:lang="ja">「鈴猫花浴衣」のアナザー衣装です。</schema:description>
     <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Nonohara_Akane"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
