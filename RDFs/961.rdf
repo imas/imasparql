@@ -37,9 +37,9 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Shiika">
+  <rdf:Description rdf:about="detail/Shika">
     <schema:givenName xml:lang="ja">詩花</schema:givenName>
-    <schema:givenName xml:lang="en">Shiika</schema:givenName>
+    <schema:givenName xml:lang="en">Shika</schema:givenName>
     <imas:givenNameKana xml:lang="ja">しいか</imas:givenNameKana>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">詩花</rdfs:label>
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</foaf:age>
