@@ -189,7 +189,7 @@
     <schema:familyName xml:lang="ja">今井</schema:familyName>
     <schema:familyName xml:lang="en">Imai</schema:familyName>
     <imas:familyNameKana xml:lang="ja">いまい</imas:familyNameKana>
-    <schema:givenName xml:lang="ja">可奈</schema:givenName>
+    <schema:givenName xml:lang="ja">加奈</schema:givenName>
     <schema:givenName xml:lang="en">Kana</schema:givenName>
     <imas:givenNameKana xml:lang="ja">かな</imas:givenNameKana>
     <schema:gender xml:lang="en">female</schema:gender>
@@ -875,7 +875,7 @@
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cu</imas:Type>
     <schema:familyName xml:lang="ja">赤西</schema:familyName>
     <schema:familyName xml:lang="en">Akanishi</schema:familyName>
-    <imas:familyNameKana xml:lang="ja">赤西</imas:familyNameKana>
+    <imas:familyNameKana xml:lang="ja">あかにし</imas:familyNameKana>
     <schema:givenName xml:lang="ja">瑛梨華</schema:givenName>
     <schema:givenName xml:lang="en">Erika</schema:givenName>
     <imas:givenNameKana xml:lang="ja">えりか</imas:givenNameKana>
@@ -1261,10 +1261,10 @@
     <imas:Hobby xml:lang="ja">武将グッズ収集</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Domyouji_Karin">
+  <rdf:Description rdf:about="detail/Domyoji_Karin">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cu</imas:Type>
     <schema:familyName xml:lang="ja">道明寺</schema:familyName>
-    <schema:familyName xml:lang="en">Domyouji</schema:familyName>
+    <schema:familyName xml:lang="en">Domyoji</schema:familyName>
     <imas:familyNameKana xml:lang="ja">どうみょうじ</imas:familyNameKana>
     <schema:givenName xml:lang="ja">歌鈴</schema:givenName>
     <schema:givenName xml:lang="en">Karin</schema:givenName>
@@ -1274,7 +1274,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">道明寺歌鈴</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">道明寺歌鈴</rdfs:label>
-    <schema:name xml:lang="en">Domyouji Karin</schema:name>
+    <schema:name xml:lang="en">Domyoji Karin</schema:name>
     <imas:nameKana xml:lang="ja">どうみょうじかりん</imas:nameKana>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">155.0</schema:height>
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</foaf:age>
@@ -1836,20 +1836,20 @@
     <imas:Hobby xml:lang="ja">ラブ＆ピース</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Otokura_Yuki">
+  <rdf:Description rdf:about="detail/Otokura_Yuuki">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cu</imas:Type>
     <schema:familyName xml:lang="ja">乙倉</schema:familyName>
     <schema:familyName xml:lang="en">Otokura</schema:familyName>
     <imas:familyNameKana xml:lang="ja">おとくら</imas:familyNameKana>
     <schema:givenName xml:lang="ja">悠貴</schema:givenName>
-    <schema:givenName xml:lang="en">Yuki</schema:givenName>
+    <schema:givenName xml:lang="en">Yuuki</schema:givenName>
     <imas:givenNameKana xml:lang="ja">ゆうき</imas:givenNameKana>
     <schema:gender xml:lang="en">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">乙倉悠貴</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">乙倉悠貴</rdfs:label>
-    <schema:name xml:lang="en">Otokura Yuki</schema:name>
+    <schema:name xml:lang="en">Otokura Yuuki</schema:name>
     <imas:nameKana xml:lang="ja">おとくらゆうき</imas:nameKana>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">164.0</schema:height>
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13</foaf:age>
@@ -3015,7 +3015,7 @@
     <schema:familyName xml:lang="ja">伊集院</schema:familyName>
     <schema:familyName xml:lang="en">Ijuin</schema:familyName>
     <imas:familyNameKana xml:lang="ja">いじゅういん</imas:familyNameKana>
-    <schema:givenName xml:lang="ja">恵</schema:givenName>
+    <schema:givenName xml:lang="ja">惠</schema:givenName>
     <schema:givenName xml:lang="en">Megumi</schema:givenName>
     <imas:givenNameKana xml:lang="ja">めぐみ</imas:givenNameKana>
     <schema:gender xml:lang="en">female</schema:gender>
@@ -3158,7 +3158,7 @@
     <schema:familyName xml:lang="ja">綾瀬</schema:familyName>
     <schema:familyName xml:lang="en">Ayase</schema:familyName>
     <imas:familyNameKana xml:lang="ja">あやせ</imas:familyNameKana>
-    <schema:givenName xml:lang="ja">穂乃果</schema:givenName>
+    <schema:givenName xml:lang="ja">穂乃香</schema:givenName>
     <schema:givenName xml:lang="en">Honoka</schema:givenName>
     <imas:givenNameKana xml:lang="ja">ほのか</imas:givenNameKana>
     <schema:gender xml:lang="en">female</schema:gender>
@@ -3366,7 +3366,7 @@
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Co</imas:Type>
     <schema:familyName xml:lang="ja">岸部</schema:familyName>
     <schema:familyName xml:lang="en">Kishibe</schema:familyName>
-    <imas:familyNameKana xml:lang="ja">きしば</imas:familyNameKana>
+    <imas:familyNameKana xml:lang="ja">きしべ</imas:familyNameKana>
     <schema:givenName xml:lang="ja">彩華</schema:givenName>
     <schema:givenName xml:lang="en">Ayaka</schema:givenName>
     <imas:givenNameKana xml:lang="ja">あやか</imas:givenNameKana>
@@ -3397,8 +3397,8 @@
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Co</imas:Type>
     <schema:familyName xml:lang="ja">氏家</schema:familyName>
     <schema:familyName xml:lang="en">Ujiie</schema:familyName>
-    <imas:familyNameKana xml:lang="ja">むつみ</imas:familyNameKana>
-    <schema:givenName xml:lang="ja">うじいえ</schema:givenName>
+    <imas:familyNameKana xml:lang="ja">うじいえ</imas:familyNameKana>
+    <schema:givenName xml:lang="ja">むつみ</schema:givenName>
     <schema:givenName xml:lang="en">Mutsumi</schema:givenName>
     <imas:givenNameKana xml:lang="ja">むつみ</imas:givenNameKana>
     <schema:gender xml:lang="en">female</schema:gender>
@@ -3485,7 +3485,7 @@
 
   <rdf:Description rdf:about="detail/Fujii_Tomo">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Co</imas:Type>
-    <schema:familyName xml:lang="ja">藤井</schema:familyName>
+    <schema:familyName xml:lang="ja">藤居</schema:familyName>
     <schema:familyName xml:lang="en">Fujii</schema:familyName>
     <imas:familyNameKana xml:lang="ja">ふじい</imas:familyNameKana>
     <schema:givenName xml:lang="ja">朋</schema:givenName>
@@ -4216,7 +4216,7 @@
 
   <rdf:Description rdf:about="detail/Saito_Yoko">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pa</imas:Type>
-    <schema:familyName xml:lang="ja">斎藤</schema:familyName>
+    <schema:familyName xml:lang="ja">斉藤</schema:familyName>
     <schema:familyName xml:lang="en">Saito</schema:familyName>
     <imas:familyNameKana xml:lang="ja">さいとう</imas:familyNameKana>
     <schema:givenName xml:lang="ja">洋子</schema:givenName>
@@ -5546,10 +5546,10 @@
     <imas:Hobby xml:lang="ja">ダンス</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Nanba_Emi">
+  <rdf:Description rdf:about="detail/Namba_Emi">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pa</imas:Type>
     <schema:familyName xml:lang="ja">難波</schema:familyName>
-    <schema:familyName xml:lang="en">Nanba</schema:familyName>
+    <schema:familyName xml:lang="en">Namba</schema:familyName>
     <imas:familyNameKana xml:lang="ja">なんば</imas:familyNameKana>
     <schema:givenName xml:lang="ja">笑美</schema:givenName>
     <schema:givenName xml:lang="en">Emi</schema:givenName>
@@ -5559,7 +5559,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">難波笑美</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">難波笑美</rdfs:label>
-    <schema:name xml:lang="en">Nanba Emi</schema:name>
+    <schema:name xml:lang="en">Namba Emi</schema:name>
     <imas:nameKana xml:lang="ja">なんばえみ</imas:nameKana>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">158.0</schema:height>
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</foaf:age>
@@ -5649,10 +5649,10 @@
     <imas:Hobby xml:lang="ja">将棋</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Tsutiya_Ako">
+  <rdf:Description rdf:about="detail/Tsuchiya_Ako">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pa</imas:Type>
     <schema:familyName xml:lang="ja">土屋</schema:familyName>
-    <schema:familyName xml:lang="en">Tsutiya</schema:familyName>
+    <schema:familyName xml:lang="en">Tsuchiya</schema:familyName>
     <imas:familyNameKana xml:lang="ja">つちや</imas:familyNameKana>
     <schema:givenName xml:lang="ja">亜子</schema:givenName>
     <schema:givenName xml:lang="en">Ako</schema:givenName>
@@ -5662,7 +5662,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">土屋亜子</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">土屋亜子</rdfs:label>
-    <schema:name xml:lang="en">Tsutiya Ako</schema:name>
+    <schema:name xml:lang="en">Tsuchiya Ako</schema:name>
     <imas:nameKana xml:lang="ja">つちやあこ</imas:nameKana>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">156.0</schema:height>
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</foaf:age>
@@ -5814,7 +5814,7 @@
     <imas:familyNameKana xml:lang="ja">いゔ</imas:familyNameKana>
     <schema:givenName xml:lang="ja">サンタクロース</schema:givenName>
     <schema:givenName xml:lang="en">Santaclaus</schema:givenName>
-    <imas:givenNameKana xml:lang="ja">サンタクロース</imas:givenNameKana>
+    <imas:givenNameKana xml:lang="ja">さんたくろーす</imas:givenNameKana>
     <schema:gender xml:lang="en">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
