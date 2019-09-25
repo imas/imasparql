@@ -142,6 +142,40 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
+  <rdf:Description rdf:about="detail/Suzuki_Ayane">
+    <schema:alternateName xml:lang="ja">サイネリア</schema:alternateName>
+    <schema:alternateName xml:lang="en">Cineria</schema:alternateName>
+    <imas:alternateNameKana xml:lang="ja">さいねりあ</imas:alternateNameKana>
+    <schema:familyName xml:lang="ja">鈴木</schema:familyName>
+    <schema:familyName xml:lang="en">Suzuki</schema:familyName>
+    <imas:familyNameKana xml:lang="ja">すずき</imas:familyNameKana>
+    <schema:givenName xml:lang="ja">彩音</schema:givenName>
+    <schema:givenName xml:lang="en">Ayane</schema:givenName>
+    <imas:givenNameKana xml:lang="ja">あやね</imas:givenNameKana>
+    <imas:nameKana xml:lang="ja">すずきあやね</imas:nameKana>
+    <schema:name xml:lang="ja">鈴木彩音</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">サイネリア</rdfs:label>
+    <schema:name xml:lang="en">Suzuki Ayane</schema:name>
+    <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</foaf:age>
+    <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">147.0</schema:height>
+    <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">39.0</schema:weight>
+    <imas:Bust rdf:datatype="http://www.w3.org/2001/XMLSchema#float">73.0</imas:Bust>
+    <imas:Waist rdf:datatype="http://www.w3.org/2001/XMLSchema#float">54.0</imas:Waist>
+    <imas:Hip rdf:datatype="http://www.w3.org/2001/XMLSchema#float">78.0</imas:Hip>
+    <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--12-14</schema:birthDate>
+    <imas:Constellation xml:lang="ja">射手座</imas:Constellation>
+    <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AB</imas:BloodType>
+    <imas:Handedness xml:lang="en">both</imas:Handedness>
+    <imas:Hobby xml:lang="ja">カラオケ</imas:Hobby>
+    <imas:cv xml:lang="ja">ゆりん</imas:cv>
+    <imas:cv rdf:resource="http://ja.dbpedia.org/resource/ゆりん"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q8061678"/>
+    <schema:gender xml:lang="en">female</schema:gender>
+    <imas:Title xml:lang="en">DearlyStars</imas:Title>
+    <schema:birthPlace xml:lang="ja">神奈川</schema:birthPlace>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+  </rdf:Description>
+
   <rdf:Description rdf:about="detail/Togoji_Reika">
     <schema:familyName xml:lang="ja">東豪寺</schema:familyName>
     <schema:familyName xml:lang="en">Togoji</schema:familyName>
