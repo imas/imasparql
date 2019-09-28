@@ -1,0 +1,207 @@
+PREFIX schema: <http://schema.org/>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX imas: <https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#>
+PREFIX foaf: <http://xmlns.com/foaf/0.1/>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX sh: <http://www.w3.org/ns/shacl#>
+
+imas:IdolShape a sh:NodeShape;
+    sh:targetClass imas:Idol;
+    sh:property [
+        # アイドルの登場するコンテンツのタイトル
+        sh:path imas:Title;
+        sh:datatype rdf:langString;
+        sh:minCount 1;
+    ];
+    sh:property [
+        # アイドルのプロフィール等に書かれている名前(ロコはロコで伴田路子ではない)
+        # 絶対に一つだけ存在する(maxCount 1, minCount 1)
+        sh:path rdfs:label;
+        sh:datatype xsd:string;
+        sh:minCount 1;
+        sh:maxCount 1;
+    ];
+    sh:property [
+        # アイドルの本名
+        # ジュリア、アスラン=BBⅡ世とか本名がわかってないアイドルが何人かいるため数の制限はない
+        # 日本語、英語表記一つづつ存在する想定のため、uniqueLang=true
+        sh:path schema:name;
+        sh:datatype rdf:langString;
+        sh:uniqueLang true;
+    ];
+    sh:property [
+        # 本名の仮名
+        # 仮名は日本語なのでlang=ja
+        sh:path imas:nameKana;
+        sh:datatype rdf:langString;
+        sh:languageIn ("ja");
+        sh:maxCount 1;
+    ];
+    sh:property [
+        # 下の名前
+        # 日本語、英語表記一つづつ存在する想定のため、uniqueLang=true
+        sh:path schema:givenName;
+        sh:datatype rdf:langString;
+        sh:uniqueLang true;
+    ];
+    sh:property [
+        # 上の名前
+        # 日本語、英語表記一つづつ存在する想定のため、uniqueLang=true
+        sh:path schema:familyName;
+        sh:datatype rdf:langString;
+        sh:uniqueLang true;
+    ];
+    sh:property [
+        # 下の名前の読み
+        # 仮名は日本語なのでlang=ja
+        sh:path imas:givenNameKana;
+        sh:datatype rdf:langString;
+        sh:languageIn ("ja");
+    ];
+    sh:property [
+        # 上の名前の読み
+        # 仮名は日本語なのでlang=ja
+        sh:path imas:familyNameKana;
+        sh:datatype rdf:langString;
+        sh:languageIn ("ja");
+    ];
+    sh:property [
+        # 性別
+        # femaleかmaleのみで、性別は必ず一つだけ存在する
+        sh:path schema:gender;
+        sh:datatype rdf:langString;
+        sh:pattern "^(female|male)$";
+        sh:minCount 1;
+        sh:maxCount 1;
+    ];
+    sh:property [
+        # テーマカラー
+        # 最大一つだけ存在して、目的語の型はhexBinary
+        sh:path imas:Color;
+        sh:datatype xsd:hexBinary;
+        sh:maxCount 1;
+    ];
+    sh:property [
+        # 体重
+        # 何人かのアイドルは体重が数値じゃない
+        sh:path schema:weight;
+        sh:or (
+            [ sh:datatype xsd:float; ]
+            [ sh:datatype rdf:langString; ]
+            [ sh:datatype xsd:string; ]
+        );
+        sh:maxCount 1;
+    ];
+    sh:property [
+        # 身長
+        # 何人かのアイドルは数値じゃない
+        sh:path schema:height;
+        sh:or (
+            [ sh:datatype xsd:float; ]
+            [ sh:datatype rdf:langString; ]
+            [ sh:datatype xsd:string; ]
+        );
+        sh:maxCount 1;
+    ];
+    sh:property [
+        # 胸囲
+        # 何人かのアイドルは数値じゃない
+        sh:path imas:Bust;
+        sh:or (
+            [ sh:datatype xsd:float; ]
+            [ sh:datatype rdf:langString; ]
+            [ sh:datatype xsd:string; ]
+        );
+        sh:maxCount 1;
+    ];
+    sh:property [
+        # 腹囲
+        # 何人かのアイドルは数値じゃない
+        sh:path imas:Waist;
+        sh:or (
+            [ sh:datatype xsd:float; ]
+            [ sh:datatype rdf:langString; ]
+            [ sh:datatype xsd:string; ]
+        );
+        sh:maxCount 1;
+    ];
+    sh:property [
+        # 腰囲
+        # 何人かのアイドルは数値じゃない
+        sh:path imas:Hip;
+        sh:or (
+            [ sh:datatype xsd:float; ]
+            [ sh:datatype rdf:langString; ]
+            [ sh:datatype xsd:string; ]
+        );
+        sh:maxCount 1;
+    ];
+    sh:property [
+        # 特技
+        # 今の所英語で特技を書くアイドルはいないので日本語のみ受け入れ
+        # アイドルによっては複数あるので数の制限はない
+        sh:path imas:Talent;
+        sh:datatype rdf:langString;
+        sh:languageIn ("ja");
+    ];
+    sh:property [
+        # 誕生日
+        sh:path schema:birthDate;
+        sh:datatype xsd:gMonthDay;
+        sh:maxCount 1;
+    ];
+    sh:property [
+        # 出身
+        sh:path schema:birthPlace;
+        sh:datatype rdf:langString;
+        sh:maxCount 1;
+    ];
+    sh:property [
+        # 年齢
+        # 何人かのアイドルは数字じゃない
+        sh:path foaf:age;
+        sh:or (
+            [ sh:datatype xsd:integer; ]
+            [ sh:datatype rdf:langString; ]
+            [ sh:datatype xsd:string; ]
+        );
+        sh:maxCount 1;
+    ];
+    sh:property [
+        # 血液型
+        # 牙崎漣が血液型不明なので、仕方なく「不明」も許容
+        sh:path imas:BloodType;
+        sh:datatype xsd:string;
+        sh:pattern "^(A|B|O|AB|不明)$";
+        sh:maxCount 1;
+    ];
+    sh:property [
+        # 利き手
+        # 両手利きもいるのでbothも許容
+        sh:path imas:Handedness;
+        sh:datatype rdf:langString;
+        sh:pattern "^(right|left|both)$";
+        sh:maxCount 1;
+    ];
+    sh:property [
+        # 星座
+        # 杏が「花も恥じらう乙女座」となっているので、文頭/文末一致がない
+        sh:path imas:Constellation;
+        sh:datatype rdf:langString;
+        sh:pattern "(牡羊座|牡牛座|双子座|蟹座|獅子座|乙女座|天秤座|蠍座|射手座|山羊座|水瓶座|魚座)";
+        sh:maxCount 1;
+    ];
+    sh:property [
+        # 趣味
+        # アイドルによっては複数あるので数の制限はない
+        sh:path imas:Hobby;
+        sh:datatype rdf:langString;
+    ];
+    sh:property [
+        # 所属ユニット
+        # 目的語はimas:Unit
+        sh:path schema:memberOf;
+        sh:class imas:Unit;
+    ];
+    sh:closed false.
