@@ -5208,6 +5208,9 @@
     <imas:Hip rdf:datatype="http://www.w3.org/2001/XMLSchema#float">86.0</imas:Hip>
     <imas:Constellation xml:lang="ja">蟹座</imas:Constellation>
     <schema:birthPlace xml:lang="ja">リオ・デ・ジャネイロ</schema:birthPlace>
+    <imas:cv xml:lang="ja">生田輝</imas:cv>
+    <!--<imas:cv rdf:resource="http://ja.dbpedia.org/resource/生田輝"/>-->
+    <imas:cv rdf:resource="http://www.wikidata.org/entity/Q66736457"/>
     <imas:Hobby xml:lang="ja">ベリーダンス</imas:Hobby>
   </rdf:Description>
 
