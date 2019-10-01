@@ -190,6 +190,7 @@ imas:IdolShape a sh:NodeShape;
         sh:path imas:Constellation;
         sh:datatype rdf:langString;
         sh:pattern "(牡羊座|牡牛座|双子座|蟹座|獅子座|乙女座|天秤座|蠍座|射手座|山羊座|水瓶座|魚座)";
+        sh:languageIn ("ja");
         sh:maxCount 1;
     ];
     sh:property [
@@ -197,6 +198,7 @@ imas:IdolShape a sh:NodeShape;
         # アイドルによっては複数あるので数の制限はない
         sh:path imas:Hobby;
         sh:datatype rdf:langString;
+        sh:languageIn ("ja");
     ];
     sh:property [
         # 所属ユニット
