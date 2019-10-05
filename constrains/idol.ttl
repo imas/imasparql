@@ -87,7 +87,10 @@ imas-shape:IdolShape a sh:NodeShape;
         rdfs:comment "何人かのアイドルは体重が数値じゃない";
         sh:path schema:weight;
         sh:xone (
-            [ sh:datatype xsd:float; ]
+            [
+                sh:datatype xsd:float;
+                sh:minExclusive 0;
+            ]
             [ sh:datatype rdf:langString; ]
         );
         sh:maxCount 1;
@@ -97,7 +100,10 @@ imas-shape:IdolShape a sh:NodeShape;
         rdfs:comment "何人かのアイドルは身長が数値じゃない";
         sh:path schema:height;
         sh:xone (
-            [ sh:datatype xsd:float; ]
+            [
+                sh:datatype xsd:float;
+                sh:minExclusive 0;
+            ]
             [ sh:datatype rdf:langString; ]
         );
         sh:maxCount 1;
@@ -107,7 +113,10 @@ imas-shape:IdolShape a sh:NodeShape;
         rdfs:comment "何人かのアイドルは胸囲が数値じゃない";
         sh:path imas:Bust;
         sh:xone (
-            [ sh:datatype xsd:float; ]
+            [
+                sh:datatype xsd:float;
+                sh:minExclusive 0;
+            ]
             [ sh:datatype rdf:langString; ]
         );
         sh:maxCount 1;
@@ -117,7 +126,10 @@ imas-shape:IdolShape a sh:NodeShape;
         rdfs:comment "何人かのアイドルは腹囲が数値じゃない";
         sh:path imas:Waist;
         sh:xone (
-            [ sh:datatype xsd:float; ]
+            [
+                sh:datatype xsd:float;
+                sh:minExclusive 0;
+            ]
             [ sh:datatype rdf:langString; ]
         );
         sh:maxCount 1;
@@ -127,7 +139,10 @@ imas-shape:IdolShape a sh:NodeShape;
         rdfs:comment "何人かのアイドルは腰囲が数値じゃない";
         sh:path imas:Hip;
         sh:xone (
-            [ sh:datatype xsd:float; ]
+            [
+                sh:datatype xsd:float;
+                sh:minExclusive 0;
+            ]
             [ sh:datatype rdf:langString; ]
         );
         sh:maxCount 1;
@@ -156,7 +171,10 @@ imas-shape:IdolShape a sh:NodeShape;
         rdfs:comment "何人かのアイドルは年齢が数値じゃない";
         sh:path foaf:age;
         sh:xone (
-            [ sh:datatype xsd:integer; ]
+            [
+                sh:datatype xsd:integer;
+                sh:minInclusive 0;
+            ]
             [ sh:datatype rdf:langString; ]
         );
         sh:maxCount 1;
