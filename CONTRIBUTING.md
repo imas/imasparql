@@ -1,6 +1,6 @@
 # CONTRIBUTING
 DB整備に協力してくれるみなさまへ  
-このリポジトリでは、2種類のContributeの方法があります。 
+このリポジトリでは、2種類のContributeの方法があります。
 1. [issue](https://github.com/imas/imasparql/issues)に変更・追加してほしい情報を投げる。   
 1. ファイルを変更・追加して、このリポジトリに[PR](https://github.com/imas/imasparql/pulls)を飛ばす。  
 
@@ -39,6 +39,17 @@ DB整備に協力してくれるみなさまへ
 CircleCIが走るようになりました。  
 チェックが通るまで頑張ってください。  
 チェックが通ったらマージまでお待ち下さい。
+
+### 手元のPCでのクエリ検証
+rdflintを利用すると、手元のPCでクエリの実行確認が出来ます。  
+[RDFデータのチェックツール「rdflint」の利用ガイド](https://imas.github.io/rdflint/)を参照してセットアップして下さい。  
+セットアップが出来たらインタラクティブモードで起動します。  
+SPARQLプロンプトが表示されるのでクエリを入力して確認します。
+
+```
+$ java -jar rdflint-*-all.jar -i
+SPARQL>
+```
 
 ## 注意
 当DBは公式かつ、アイマス世界内の情報のみを扱います。
