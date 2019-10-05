@@ -181,10 +181,24 @@ imas-shape:IdolShape a sh:NodeShape;
     ];
     sh:property [
         # 星座
-        # 杏が「花も恥じらう乙女座」となっているので、文頭/文末一致がない
         sh:path imas:Constellation;
         sh:datatype rdf:langString;
-        sh:pattern "(牡羊座|牡牛座|双子座|蟹座|獅子座|乙女座|天秤座|蠍座|射手座|山羊座|水瓶座|魚座)";
+        sh:in (
+            "牡羊座"@ja
+            "牡牛座"@ja
+            "双子座"@ja
+            "蟹座"@ja
+            "獅子座"@ja
+            "乙女座"@ja
+            "天秤座"@ja
+            "蠍座"@ja
+            "射手座"@ja
+            "山羊座"@ja
+            "水瓶座"@ja
+            "魚座"@ja
+            # ここから例外パターン
+            "花も恥じらう乙女座"@ja
+        );
         sh:languageIn ("ja");
         sh:maxCount 1;
     ];
