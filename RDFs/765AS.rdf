@@ -43,7 +43,7 @@
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--04-03</schema:birthDate>
     <imas:Constellation xml:lang="ja">牡羊座</imas:Constellation>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">O</imas:BloodType>
-    <imas:Handedness xml:lang="en">right</imas:Handedness>
+    <imas:Handedness rdf:datatype="http://www.w3.org/2001/XMLSchema#string">right</imas:Handedness>
     <imas:Hobby xml:lang="ja">カラオケ</imas:Hobby>
     <imas:Hobby xml:lang="ja">長電話</imas:Hobby>
     <imas:Talent xml:lang="ja">お菓子作り</imas:Talent>
@@ -80,7 +80,7 @@
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--02-25</schema:birthDate>
     <imas:Constellation xml:lang="ja">魚座</imas:Constellation>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A</imas:BloodType>
-    <imas:Handedness xml:lang="en">right</imas:Handedness>
+    <imas:Handedness rdf:datatype="http://www.w3.org/2001/XMLSchema#string">right</imas:Handedness>
     <imas:Hobby xml:lang="ja">音楽鑑賞</imas:Hobby>
     <imas:Talent xml:lang="ja">歌</imas:Talent>
     <imas:Favorite xml:lang="ja">トレーニング</imas:Favorite>
@@ -116,7 +116,7 @@
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--11-23</schema:birthDate>
     <imas:Constellation xml:lang="ja">射手座</imas:Constellation>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">B</imas:BloodType>
-    <imas:Handedness xml:lang="en">right</imas:Handedness>
+    <imas:Handedness rdf:datatype="http://www.w3.org/2001/XMLSchema#string">right</imas:Handedness>
     <imas:Hobby xml:lang="ja">友達とおしゃべり</imas:Hobby>
     <imas:Hobby xml:lang="ja">ネイルアート</imas:Hobby>
     <imas:Talent xml:lang="ja">寝ること</imas:Talent>
@@ -154,7 +154,7 @@
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--12-24</schema:birthDate>
     <imas:Constellation xml:lang="ja">山羊座</imas:Constellation>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A</imas:BloodType>
-    <imas:Handedness xml:lang="en">right</imas:Handedness>
+    <imas:Handedness rdf:datatype="http://www.w3.org/2001/XMLSchema#string">right</imas:Handedness>
     <imas:Hobby xml:lang="ja">MY詩集を書くこと</imas:Hobby>
     <imas:Talent xml:lang="ja">日本茶をいれること</imas:Talent>
     <imas:Favorite xml:lang="ja">ブログ</imas:Favorite>
@@ -190,7 +190,7 @@
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--03-25</schema:birthDate>
     <imas:Constellation xml:lang="ja">牡羊座</imas:Constellation>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">O</imas:BloodType>
-    <imas:Handedness xml:lang="en">right</imas:Handedness>
+    <imas:Handedness rdf:datatype="http://www.w3.org/2001/XMLSchema#string">right</imas:Handedness>
     <imas:Hobby xml:lang="ja">オセロ</imas:Hobby>
     <imas:Hobby xml:lang="ja">野球</imas:Hobby>
     <imas:Talent xml:lang="ja">節約</imas:Talent>
@@ -228,7 +228,7 @@
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--08-29</schema:birthDate>
     <imas:Constellation xml:lang="ja">乙女座</imas:Constellation>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">O</imas:BloodType>
-    <imas:Handedness xml:lang="en">right</imas:Handedness>
+    <imas:Handedness rdf:datatype="http://www.w3.org/2001/XMLSchema#string">right</imas:Handedness>
     <imas:Hobby xml:lang="ja">スポーツ全般</imas:Hobby>
     <imas:Talent xml:lang="ja">空手</imas:Talent>
     <imas:Talent xml:lang="ja">ダンス</imas:Talent>
@@ -265,7 +265,7 @@
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--05-05</schema:birthDate>
     <imas:Constellation xml:lang="ja">牡牛座</imas:Constellation>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AB</imas:BloodType>
-    <imas:Handedness xml:lang="en">right</imas:Handedness>
+    <imas:Handedness rdf:datatype="http://www.w3.org/2001/XMLSchema#string">right</imas:Handedness>
     <imas:Hobby xml:lang="ja">海外旅行</imas:Hobby>
     <imas:Hobby xml:lang="ja">食べ歩き</imas:Hobby>
     <imas:Talent xml:lang="ja">ショッピング</imas:Talent>
@@ -302,7 +302,7 @@
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--01-21</schema:birthDate>
     <imas:Constellation xml:lang="ja">水瓶座</imas:Constellation>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">B</imas:BloodType>
-    <imas:Handedness xml:lang="en">right</imas:Handedness>
+    <imas:Handedness rdf:datatype="http://www.w3.org/2001/XMLSchema#string">right</imas:Handedness>
     <imas:Hobby xml:lang="ja">天体観測</imas:Hobby>
     <imas:Hobby xml:lang="ja">歴史</imas:Hobby>
     <imas:Talent xml:lang="ja">直感</imas:Talent>
@@ -339,7 +339,7 @@
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--06-23</schema:birthDate>
     <imas:Constellation xml:lang="ja">蟹座</imas:Constellation>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A</imas:BloodType>
-    <imas:Handedness xml:lang="en">right</imas:Handedness>
+    <imas:Handedness rdf:datatype="http://www.w3.org/2001/XMLSchema#string">right</imas:Handedness>
     <imas:Hobby xml:lang="ja">資格取得</imas:Hobby>
     <imas:Talent xml:lang="ja">分析・実践</imas:Talent>
     <imas:Favorite xml:lang="ja">ゲーム</imas:Favorite>
@@ -376,7 +376,7 @@
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--07-19</schema:birthDate>
     <imas:Constellation xml:lang="ja">蟹座</imas:Constellation>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">O</imas:BloodType>
-    <imas:Handedness xml:lang="en">right</imas:Handedness>
+    <imas:Handedness rdf:datatype="http://www.w3.org/2001/XMLSchema#string">right</imas:Handedness>
     <imas:Hobby xml:lang="ja">犬の散歩</imas:Hobby>
     <imas:Talent xml:lang="ja">占い</imas:Talent>
     <imas:Favorite xml:lang="ja">カフェ巡り</imas:Favorite>
@@ -412,7 +412,7 @@
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--05-22</schema:birthDate>
     <imas:Constellation xml:lang="ja">双子座</imas:Constellation>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">B</imas:BloodType>
-    <imas:Handedness xml:lang="en">right</imas:Handedness>
+    <imas:Handedness rdf:datatype="http://www.w3.org/2001/XMLSchema#string">right</imas:Handedness>
     <imas:Hobby xml:lang="ja">メール</imas:Hobby>
     <imas:Hobby xml:lang="ja">エコ</imas:Hobby>
     <imas:Talent xml:lang="ja">モノマネ</imas:Talent>
@@ -449,7 +449,7 @@
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--05-22</schema:birthDate>
     <imas:Constellation xml:lang="ja">双子座</imas:Constellation>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">B</imas:BloodType>
-    <imas:Handedness xml:lang="en">left</imas:Handedness>
+    <imas:Handedness rdf:datatype="http://www.w3.org/2001/XMLSchema#string">left</imas:Handedness>
     <imas:Hobby xml:lang="ja">メール</imas:Hobby>
     <imas:Hobby xml:lang="ja">ゲーム</imas:Hobby>
     <imas:Talent xml:lang="ja">モノマネ</imas:Talent>
@@ -486,7 +486,7 @@
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--10-10</schema:birthDate>
     <imas:Constellation xml:lang="ja">天秤座</imas:Constellation>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A</imas:BloodType>
-    <imas:Handedness xml:lang="en">right</imas:Handedness>
+    <imas:Handedness rdf:datatype="http://www.w3.org/2001/XMLSchema#string">right</imas:Handedness>
     <imas:Hobby xml:lang="ja">編み物</imas:Hobby>
     <imas:Hobby xml:lang="ja">卓球</imas:Hobby>
     <imas:Talent xml:lang="ja">家事全般</imas:Talent>

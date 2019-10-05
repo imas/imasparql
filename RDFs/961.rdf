@@ -51,7 +51,7 @@
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--09-16</schema:birthDate>
     <imas:Constellation xml:lang="ja">乙女座</imas:Constellation>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A</imas:BloodType>
-    <imas:Handedness xml:lang="en">right</imas:Handedness>
+    <imas:Handedness rdf:datatype="http://www.w3.org/2001/XMLSchema#string">right</imas:Handedness>
     <imas:Hobby xml:lang="ja">オルゴール集め</imas:Hobby>
     <imas:Hobby xml:lang="ja">ロボのおもちゃ</imas:Hobby>
     <imas:Talent xml:lang="ja">クロール</imas:Talent>

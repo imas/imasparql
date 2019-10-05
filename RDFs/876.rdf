@@ -168,7 +168,7 @@
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--12-14</schema:birthDate>
     <imas:Constellation xml:lang="ja">射手座</imas:Constellation>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AB</imas:BloodType>
-    <imas:Handedness xml:lang="en">both</imas:Handedness>
+    <imas:Handedness rdf:datatype="http://www.w3.org/2001/XMLSchema#string">both</imas:Handedness>
     <imas:Hobby xml:lang="ja">カラオケ</imas:Hobby>
     <imas:cv xml:lang="ja">ゆりん</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/ゆりん"/>
