@@ -168,7 +168,7 @@ imas-shape:IdolShape a sh:NodeShape;
         # 牙崎漣が血液型不明なので、仕方なく「不明」も許容
         sh:path imas:BloodType;
         sh:datatype xsd:string;
-        sh:pattern "^(A|B|O|AB|不明)$";
+        sh:in ("A" "B" "O" "AB" "不明");
         sh:maxCount 1;
     ];
     sh:property [
