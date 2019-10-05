@@ -10,66 +10,65 @@ PREFIX sh: <http://www.w3.org/ns/shacl#>
 imas-shape:IdolShape a sh:NodeShape;
     sh:targetClass imas:Idol;
     sh:property [
-        # アイドルの登場するコンテンツのタイトル
+        rdfs:label "アイドルの登場するコンテンツのタイトルの制約";
         sh:path imas:Title;
         sh:datatype rdf:langString;
         sh:minCount 1;
     ];
     sh:property [
-        # アイドルのプロフィール等に書かれている名前(ロコはロコで伴田路子ではない)
-        # 絶対に一つだけ存在する(maxCount 1, minCount 1)
+        rdfs:label "アイドルのプロフィール等に書かれている名前の制約";
+        rdfs:comment "絶対に一つだけ存在する(maxCount 1, minCount 1)、ロコはロコであって伴田路子ではない";
         sh:path rdfs:label;
         sh:datatype xsd:string;
         sh:minCount 1;
         sh:maxCount 1;
     ];
     sh:property [
-        # アイドルの本名
-        # ジュリア、アスラン=BBⅡ世とか本名がわかってないアイドルが何人かいるため数の制限はない
-        # 日本語、英語表記一つづつ存在する想定のため、uniqueLang=true
+        rdfs:label "アイドルの本名の制約";
+        rdfs:comment "ジュリア、アスラン=BBⅡ世とか本名がわかってないアイドルが何人かいるため数の制限はなく、日本語と英語表記一つづつ存在する想定のため、uniqueLang=true";
         sh:path schema:name;
         sh:datatype rdf:langString;
         sh:uniqueLang true;
     ];
     sh:property [
-        # 本名の仮名
-        # 仮名は日本語なのでlang=ja
+        rdfs:label "本名の仮名の制約";
+        rdfs:comment "仮名は日本語なのでlang=ja";
         sh:path imas:nameKana;
         sh:datatype rdf:langString;
         sh:languageIn ("ja");
         sh:maxCount 1;
     ];
     sh:property [
-        # 下の名前
-        # 日本語、英語表記一つづつ存在する想定のため、uniqueLang=true
+        rdfs:label "下の名前の制約";
+        rdfs:comment "日本語、英語表記一つづつ存在する想定のため、uniqueLang=true";
         sh:path schema:givenName;
         sh:datatype rdf:langString;
         sh:uniqueLang true;
     ];
     sh:property [
-        # 上の名前
-        # 日本語、英語表記一つづつ存在する想定のため、uniqueLang=true
+        rdfs:label "上の名前の制約";
+        rdfs:comment "日本語、英語表記一つづつ存在する想定のため、uniqueLang=true";
         sh:path schema:familyName;
         sh:datatype rdf:langString;
         sh:uniqueLang true;
     ];
     sh:property [
-        # 下の名前の読み
-        # 仮名は日本語なのでlang=ja
+        rdfs:label "下の名前の仮名の制約";
+        rdfs:comment "仮名は日本語なのでlang=ja";
         sh:path imas:givenNameKana;
         sh:datatype rdf:langString;
         sh:languageIn ("ja");
     ];
     sh:property [
-        # 上の名前の読み
-        # 仮名は日本語なのでlang=ja
+        rdfs:label "上の名前の仮名の制約";
+        rdfs:comment "仮名は日本語なのでlang=ja";
         sh:path imas:familyNameKana;
         sh:datatype rdf:langString;
         sh:languageIn ("ja");
     ];
     sh:property [
-        # 性別
-        # femaleかmaleのみで、性別は必ず一つだけ存在する
+        rdfs:label "性別の制約";
+        rdfs:comment "femaleかmaleのみで、性別は必ず一つだけ存在する";
         sh:path schema:gender;
         sh:datatype xsd:string;
         sh:in ("female" "male");
@@ -77,15 +76,15 @@ imas-shape:IdolShape a sh:NodeShape;
         sh:maxCount 1;
     ];
     sh:property [
-        # テーマカラー
-        # 最大一つだけ存在して、目的語の型はhexBinary
+        rdfs:label "テーマカラーの制約";
+        rdfs:comment "最大一つだけ存在して、目的語の型はhexBinary";
         sh:path imas:Color;
         sh:datatype xsd:hexBinary;
         sh:maxCount 1;
     ];
     sh:property [
-        # 体重
-        # 何人かのアイドルは体重が数値じゃない
+        rdfs:label "体重の制約";
+        rdfs:comment "何人かのアイドルは体重が数値じゃない";
         sh:path schema:weight;
         sh:xone (
             [ sh:datatype xsd:float; ]
@@ -94,8 +93,8 @@ imas-shape:IdolShape a sh:NodeShape;
         sh:maxCount 1;
     ];
     sh:property [
-        # 身長
-        # 何人かのアイドルは数値じゃない
+        rdfs:label "身長の制約";
+        rdfs:comment "何人かのアイドルは身長が数値じゃない";
         sh:path schema:height;
         sh:xone (
             [ sh:datatype xsd:float; ]
@@ -104,8 +103,8 @@ imas-shape:IdolShape a sh:NodeShape;
         sh:maxCount 1;
     ];
     sh:property [
-        # 胸囲
-        # 何人かのアイドルは数値じゃない
+        rdfs:label "胸囲の制約";
+        rdfs:comment "何人かのアイドルは胸囲が数値じゃない";
         sh:path imas:Bust;
         sh:xone (
             [ sh:datatype xsd:float; ]
@@ -114,8 +113,8 @@ imas-shape:IdolShape a sh:NodeShape;
         sh:maxCount 1;
     ];
     sh:property [
-        # 腹囲
-        # 何人かのアイドルは数値じゃない
+        rdfs:label "腹囲の制約";
+        rdfs:comment "何人かのアイドルは腹囲が数値じゃない";
         sh:path imas:Waist;
         sh:xone (
             [ sh:datatype xsd:float; ]
@@ -124,8 +123,8 @@ imas-shape:IdolShape a sh:NodeShape;
         sh:maxCount 1;
     ];
     sh:property [
-        # 腰囲
-        # 何人かのアイドルは数値じゃない
+        rdfs:label "腰囲の制約";
+        rdfs:comment "何人かのアイドルは腰囲が数値じゃない";
         sh:path imas:Hip;
         sh:xone (
             [ sh:datatype xsd:float; ]
@@ -134,28 +133,27 @@ imas-shape:IdolShape a sh:NodeShape;
         sh:maxCount 1;
     ];
     sh:property [
-        # 特技
-        # 今の所英語で特技を書くアイドルはいないので日本語のみ受け入れ
-        # アイドルによっては複数あるので数の制限はない
+        rdfs:label "特技の制約";
+        rdfs:comment "今の所英語で特技を書くアイドルはいないので日本語のみ受け入れ、アイドルによっては複数あるので数の制限はない";
         sh:path imas:Talent;
         sh:datatype rdf:langString;
         sh:languageIn ("ja");
     ];
     sh:property [
-        # 誕生日
+        rdfs:label "誕生日の制約";
         sh:path schema:birthDate;
         sh:datatype xsd:gMonthDay;
         sh:maxCount 1;
     ];
     sh:property [
-        # 出身
+        rdfs:label "出身の制約";
         sh:path schema:birthPlace;
         sh:datatype rdf:langString;
         sh:maxCount 1;
     ];
     sh:property [
-        # 年齢
-        # 何人かのアイドルは数字じゃない
+        rdfs:label "年齢の制約";
+        rdfs:comment "何人かのアイドルは年齢が数値じゃない";
         sh:path foaf:age;
         sh:xone (
             [ sh:datatype xsd:integer; ]
@@ -164,23 +162,24 @@ imas-shape:IdolShape a sh:NodeShape;
         sh:maxCount 1;
     ];
     sh:property [
-        # 血液型
-        # 牙崎漣が血液型不明なので、仕方なく「不明」も許容
+        rdfs:label "血液型の制約";
+        rdfs:comment "牙崎漣が血液型不明なので、仕方なく「不明」も許容";
         sh:path imas:BloodType;
         sh:datatype xsd:string;
         sh:in ("A" "B" "O" "AB" "不明");
         sh:maxCount 1;
     ];
     sh:property [
-        # 利き手
-        # 両手利きもいるのでbothも許容
+        rdfs:label "利き手の制約";
+        rdfs:comment "両手利きもいるのでbothも許容";
         sh:path imas:Handedness;
         sh:datatype xsd:string;
         sh:in ("right" "left" "both");
         sh:maxCount 1;
     ];
     sh:property [
-        # 星座
+        rdfs:label "星座の制約";
+        rdfs:comment "今の所変なことを書いてるのは双葉杏だけ、増えてきたらちょっと考える";
         sh:path imas:Constellation;
         sh:datatype rdf:langString;
         sh:in (
@@ -203,15 +202,15 @@ imas-shape:IdolShape a sh:NodeShape;
         sh:maxCount 1;
     ];
     sh:property [
-        # 趣味
-        # アイドルによっては複数あるので数の制限はない
+        rdfs:label "趣味の制約";
+        rdfs:comment "アイドルによっては複数あるので数の制限はない";
         sh:path imas:Hobby;
         sh:datatype rdf:langString;
         sh:languageIn ("ja");
     ];
     sh:property [
-        # 所属ユニット
-        # 目的語はimas:Unit
+        rdfs:label "所属ユニットの制約";
+        rdfs:comment "目的語はimas:Unit";
         sh:path schema:memberOf;
         sh:class imas:Unit;
     ];
