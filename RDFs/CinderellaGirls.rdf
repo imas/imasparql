@@ -31,7 +31,7 @@
     <schema:givenName xml:lang="ja">卯月</schema:givenName>
     <schema:givenName xml:lang="en">Uzuki</schema:givenName>
     <imas:givenNameKana xml:lang="ja">うづき</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">島村卯月</schema:name>
@@ -64,7 +64,7 @@
     <schema:givenName xml:lang="ja">有香</schema:givenName>
     <schema:givenName xml:lang="en">Yuka</schema:givenName>
     <imas:givenNameKana xml:lang="ja">ゆか</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">中野有香</schema:name>
@@ -97,7 +97,7 @@
     <schema:givenName xml:lang="ja">ゆかり</schema:givenName>
     <schema:givenName xml:lang="en">Yukari</schema:givenName>
     <imas:givenNameKana xml:lang="ja">ゆかり</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">水本ゆかり</schema:name>
@@ -130,7 +130,7 @@
     <schema:givenName xml:lang="ja">舞</schema:givenName>
     <schema:givenName xml:lang="en">Mai</schema:givenName>
     <imas:givenNameKana xml:lang="ja">まい</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">福山舞</schema:name>
@@ -159,7 +159,7 @@
     <schema:givenName xml:lang="ja">法子</schema:givenName>
     <schema:givenName xml:lang="en">Noriko</schema:givenName>
     <imas:givenNameKana xml:lang="ja">のりこ</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">椎名法子</schema:name>
@@ -192,7 +192,7 @@
     <schema:givenName xml:lang="ja">加奈</schema:givenName>
     <schema:givenName xml:lang="en">Kana</schema:givenName>
     <imas:givenNameKana xml:lang="ja">かな</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">今井加奈</schema:name>
@@ -221,7 +221,7 @@
     <schema:givenName xml:lang="ja">亜里沙</schema:givenName>
     <schema:givenName xml:lang="en">Arisa</schema:givenName>
     <imas:givenNameKana xml:lang="ja">ありさ</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">持田亜里沙</schema:name>
@@ -250,7 +250,7 @@
     <schema:givenName xml:lang="ja">かな子</schema:givenName>
     <schema:givenName xml:lang="en">Kanako</schema:givenName>
     <imas:givenNameKana xml:lang="ja">かなこ</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">三村かな子</schema:name>
@@ -283,7 +283,7 @@
     <schema:givenName xml:lang="ja">沙織</schema:givenName>
     <schema:givenName xml:lang="en">Saori</schema:givenName>
     <imas:givenNameKana xml:lang="ja">さおり</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">奥山沙織</schema:name>
@@ -312,7 +312,7 @@
     <schema:givenName xml:lang="ja">美里</schema:givenName>
     <schema:givenName xml:lang="en">Misato</schema:givenName>
     <imas:givenNameKana xml:lang="ja">みさと</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">間中美里</schema:name>
@@ -341,7 +341,7 @@
     <schema:givenName xml:lang="ja">美穂</schema:givenName>
     <schema:givenName xml:lang="en">Miho</schema:givenName>
     <imas:givenNameKana xml:lang="ja">みほ</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">小日向美穂</schema:name>
@@ -374,7 +374,7 @@
     <schema:givenName xml:lang="ja">智絵里</schema:givenName>
     <schema:givenName xml:lang="en">Chieri</schema:givenName>
     <imas:givenNameKana xml:lang="ja">ちえり</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">緒方智絵里</schema:name>
@@ -407,7 +407,7 @@
     <schema:givenName xml:lang="ja">響子</schema:givenName>
     <schema:givenName xml:lang="en">Kyoko</schema:givenName>
     <imas:givenNameKana xml:lang="ja">きょうこ</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">五十嵐響子</schema:name>
@@ -440,7 +440,7 @@
     <schema:givenName xml:lang="ja">美由紀</schema:givenName>
     <schema:givenName xml:lang="en">Miyuki</schema:givenName>
     <imas:givenNameKana xml:lang="ja">みゆき</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">柳瀬美由紀</schema:name>
@@ -469,7 +469,7 @@
     <schema:givenName xml:lang="ja">桃華</schema:givenName>
     <schema:givenName xml:lang="en">Momoka</schema:givenName>
     <imas:givenNameKana xml:lang="ja">ももか</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">櫻井桃華</schema:name>
@@ -502,7 +502,7 @@
     <schema:givenName xml:lang="ja">椿</schema:givenName>
     <schema:givenName xml:lang="en">Tsubaki</schema:givenName>
     <imas:givenNameKana xml:lang="ja">つばき</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">江上椿</schema:name>
@@ -531,7 +531,7 @@
     <schema:givenName xml:lang="ja">蓮実</schema:givenName>
     <schema:givenName xml:lang="en">Hasumi</schema:givenName>
     <imas:givenNameKana xml:lang="ja">はすみ</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">長富蓮実</schema:name>
@@ -561,7 +561,7 @@
     <schema:givenName xml:lang="ja">千佳</schema:givenName>
     <schema:givenName xml:lang="en">Chika</schema:givenName>
     <imas:givenNameKana xml:lang="ja">ちか</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">横山千佳</schema:name>
@@ -590,7 +590,7 @@
     <schema:givenName xml:lang="ja">裕美</schema:givenName>
     <schema:givenName xml:lang="en">Hiromi</schema:givenName>
     <imas:givenNameKana xml:lang="ja">ひろみ</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">関裕美</schema:name>
@@ -623,7 +623,7 @@
     <schema:givenName xml:lang="ja">優</schema:givenName>
     <schema:givenName xml:lang="en">Yuu</schema:givenName>
     <imas:givenNameKana xml:lang="ja">ゆう</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">太田優</schema:name>
@@ -653,7 +653,7 @@
     <schema:givenName xml:lang="ja">愛海</schema:givenName>
     <schema:givenName xml:lang="en">Atsumi</schema:givenName>
     <imas:givenNameKana xml:lang="ja">あつみ</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">棟方愛海</schema:name>
@@ -686,7 +686,7 @@
     <schema:givenName xml:lang="ja">里奈</schema:givenName>
     <schema:givenName xml:lang="en">Rina</schema:givenName>
     <imas:givenNameKana xml:lang="ja">りな</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">藤本里奈</schema:name>
@@ -720,7 +720,7 @@
     <schema:givenName xml:lang="ja">みちる</schema:givenName>
     <schema:givenName xml:lang="en">Michiru</schema:givenName>
     <imas:givenNameKana xml:lang="ja">みちる</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">大原みちる</schema:name>
@@ -749,7 +749,7 @@
     <schema:givenName xml:lang="ja">こずえ</schema:givenName>
     <schema:givenName xml:lang="en">Kozue</schema:givenName>
     <imas:givenNameKana xml:lang="ja">こずえ</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">遊佐こずえ</schema:name>
@@ -781,7 +781,7 @@
     <schema:givenName xml:lang="ja">くるみ</schema:givenName>
     <schema:givenName xml:lang="en">Kurumi</schema:givenName>
     <imas:givenNameKana xml:lang="ja">くるみ</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">大沼くるみ</schema:name>
@@ -811,7 +811,7 @@
     <schema:givenName xml:lang="ja">志希</schema:givenName>
     <schema:givenName xml:lang="en">Shiki</schema:givenName>
     <imas:givenNameKana xml:lang="ja">しき</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">一ノ瀬志希</schema:name>
@@ -846,7 +846,7 @@
     <schema:givenName xml:lang="ja">みく</schema:givenName>
     <schema:givenName xml:lang="en">Miku</schema:givenName>
     <imas:givenNameKana xml:lang="ja">みく</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">前川みく</schema:name>
@@ -879,7 +879,7 @@
     <schema:givenName xml:lang="ja">瑛梨華</schema:givenName>
     <schema:givenName xml:lang="en">Erika</schema:givenName>
     <imas:givenNameKana xml:lang="ja">えりか</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">赤西瑛梨華</schema:name>
@@ -908,7 +908,7 @@
     <schema:givenName xml:lang="ja">早耶</schema:givenName>
     <schema:givenName xml:lang="en">Saya</schema:givenName>
     <imas:givenNameKana xml:lang="ja">さや</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">松原早耶</schema:name>
@@ -937,7 +937,7 @@
     <schema:givenName xml:lang="ja">雪乃</schema:givenName>
     <schema:givenName xml:lang="en">Yukino</schema:givenName>
     <imas:givenNameKana xml:lang="ja">ゆきの</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">相原雪乃</schema:name>
@@ -966,7 +966,7 @@
     <schema:givenName xml:lang="ja">フレデリカ</schema:givenName>
     <schema:givenName xml:lang="en">Frederica</schema:givenName>
     <imas:givenNameKana xml:lang="ja">ふれでりか</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">宮本フレデリカ</schema:name>
@@ -999,7 +999,7 @@
     <schema:givenName xml:lang="ja">紗枝</schema:givenName>
     <schema:givenName xml:lang="en">Sae</schema:givenName>
     <imas:givenNameKana xml:lang="ja">さえ</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">小早川紗枝</schema:name>
@@ -1032,7 +1032,7 @@
     <schema:givenName xml:lang="ja">琴歌</schema:givenName>
     <schema:givenName xml:lang="en">Kotoka</schema:givenName>
     <imas:givenNameKana xml:lang="ja">ことか</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">西園寺琴歌</schema:name>
@@ -1061,7 +1061,7 @@
     <schema:givenName xml:lang="ja">杏</schema:givenName>
     <schema:givenName xml:lang="en">Anzu</schema:givenName>
     <imas:givenNameKana xml:lang="ja">あんず</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">双葉杏</schema:name>
@@ -1094,7 +1094,7 @@
     <schema:givenName xml:lang="ja">菲菲</schema:givenName>
     <schema:givenName xml:lang="en">Fueifuei</schema:givenName>
     <imas:givenNameKana xml:lang="ja">ふぇいふぇい</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">楊菲菲</schema:name>
@@ -1123,7 +1123,7 @@
     <schema:givenName xml:lang="ja">あずき</schema:givenName>
     <schema:givenName xml:lang="en">Azuki</schema:givenName>
     <imas:givenNameKana xml:lang="ja">あずき</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">桃井あずき</schema:name>
@@ -1152,7 +1152,7 @@
     <schema:givenName xml:lang="ja">星花</schema:givenName>
     <schema:givenName xml:lang="en">Seika</schema:givenName>
     <imas:givenNameKana xml:lang="ja">せいか</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">涼宮星花</schema:name>
@@ -1181,7 +1181,7 @@
     <schema:givenName xml:lang="ja">雅</schema:givenName>
     <schema:givenName xml:lang="en">Miyabi</schema:givenName>
     <imas:givenNameKana xml:lang="ja">みやび</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">月宮雅</schema:name>
@@ -1210,7 +1210,7 @@
     <schema:givenName xml:lang="ja">レナ</schema:givenName>
     <schema:givenName xml:lang="en">Rena</schema:givenName>
     <imas:givenNameKana xml:lang="ja">れな</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">兵藤レナ</schema:name>
@@ -1239,7 +1239,7 @@
     <schema:givenName xml:lang="ja">仁美</schema:givenName>
     <schema:givenName xml:lang="en">Hitomi</schema:givenName>
     <imas:givenNameKana xml:lang="ja">ひとみ</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">丹羽仁美</schema:name>
@@ -1269,7 +1269,7 @@
     <schema:givenName xml:lang="ja">歌鈴</schema:givenName>
     <schema:givenName xml:lang="en">Karin</schema:givenName>
     <imas:givenNameKana xml:lang="ja">かりん</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">道明寺歌鈴</schema:name>
@@ -1302,7 +1302,7 @@
     <schema:givenName xml:lang="ja">清良</schema:givenName>
     <schema:givenName xml:lang="en">Kiyora</schema:givenName>
     <imas:givenNameKana xml:lang="ja">きよら</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">柳清良</schema:name>
@@ -1331,7 +1331,7 @@
     <schema:givenName xml:lang="ja">雪菜</schema:givenName>
     <schema:givenName xml:lang="en">Setsuna</schema:givenName>
     <imas:givenNameKana xml:lang="ja">せつな</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">井村雪菜</schema:name>
@@ -1360,7 +1360,7 @@
     <schema:givenName xml:lang="ja">若葉</schema:givenName>
     <schema:givenName xml:lang="en">Wakaba</schema:givenName>
     <imas:givenNameKana xml:lang="ja">わかば</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">日下部若葉</schema:name>
@@ -1389,7 +1389,7 @@
     <schema:givenName xml:lang="ja">里美</schema:givenName>
     <schema:givenName xml:lang="en">Satomi</schema:givenName>
     <imas:givenNameKana xml:lang="ja">さとみ</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">榊原里美</schema:name>
@@ -1418,7 +1418,7 @@
     <schema:givenName xml:lang="ja">幸子</schema:givenName>
     <schema:givenName xml:lang="en">Sachiko</schema:givenName>
     <imas:givenNameKana xml:lang="ja">さちこ</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">輿水幸子</schema:name>
@@ -1451,7 +1451,7 @@
     <schema:givenName xml:lang="ja">都</schema:givenName>
     <schema:givenName xml:lang="en">Miyako</schema:givenName>
     <imas:givenNameKana xml:lang="ja">みやこ</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">安斎都</schema:name>
@@ -1481,7 +1481,7 @@
     <schema:givenName xml:lang="ja">風香</schema:givenName>
     <schema:givenName xml:lang="en">Fuka</schema:givenName>
     <imas:givenNameKana xml:lang="ja">ふうか</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">浅野風香</schema:name>
@@ -1510,7 +1510,7 @@
     <schema:givenName xml:lang="ja">由里子</schema:givenName>
     <schema:givenName xml:lang="en">Yuriko</schema:givenName>
     <imas:givenNameKana xml:lang="ja">ゆりこ</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">大西由里子</schema:name>
@@ -1540,7 +1540,7 @@
     <schema:givenName xml:lang="ja">菜々</schema:givenName>
     <schema:givenName xml:lang="en">Nana</schema:givenName>
     <imas:givenNameKana xml:lang="ja">なな</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">安部菜々</schema:name>
@@ -1573,7 +1573,7 @@
     <schema:givenName xml:lang="ja">忍</schema:givenName>
     <schema:givenName xml:lang="en">Shinobu</schema:givenName>
     <imas:givenNameKana xml:lang="ja">しのぶ</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">工藤忍</schema:name>
@@ -1602,7 +1602,7 @@
     <schema:givenName xml:lang="ja">ネネ</schema:givenName>
     <schema:givenName xml:lang="en">Nene</schema:givenName>
     <imas:givenNameKana xml:lang="ja">ねね</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">栗原ネネ</schema:name>
@@ -1632,7 +1632,7 @@
     <schema:givenName xml:lang="ja">小春</schema:givenName>
     <schema:givenName xml:lang="en">Koharu</schema:givenName>
     <imas:givenNameKana xml:lang="ja">こはる</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">古賀小春</schema:name>
@@ -1656,7 +1656,7 @@
 
   <rdf:Description rdf:about="detail/Clarice">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cu</imas:Type>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">クラリス</schema:name>
@@ -1685,7 +1685,7 @@
     <schema:givenName xml:lang="ja">まゆ</schema:givenName>
     <schema:givenName xml:lang="en">Mayu</schema:givenName>
     <imas:givenNameKana xml:lang="ja">まゆ</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">佐久間まゆ</schema:name>
@@ -1719,7 +1719,7 @@
     <schema:givenName xml:lang="ja">さくら</schema:givenName>
     <schema:givenName xml:lang="en">Sakura</schema:givenName>
     <imas:givenNameKana xml:lang="ja">さくら</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">村松さくら</schema:name>
@@ -1748,7 +1748,7 @@
     <schema:givenName xml:lang="ja">ほたる</schema:givenName>
     <schema:givenName xml:lang="en">Hotaru</schema:givenName>
     <imas:givenNameKana xml:lang="ja">ほたる</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">白菊ほたる</schema:name>
@@ -1782,7 +1782,7 @@
     <schema:givenName xml:lang="ja">美玲</schema:givenName>
     <schema:givenName xml:lang="en">Mirei</schema:givenName>
     <imas:givenNameKana xml:lang="ja">みれい</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">早坂美玲</schema:name>
@@ -1815,7 +1815,7 @@
     <schema:givenName xml:lang="ja">柑奈</schema:givenName>
     <schema:givenName xml:lang="en">Kanna</schema:givenName>
     <imas:givenNameKana xml:lang="ja">かんな</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">有浦柑奈</schema:name>
@@ -1844,7 +1844,7 @@
     <schema:givenName xml:lang="ja">悠貴</schema:givenName>
     <schema:givenName xml:lang="en">Yuuki</schema:givenName>
     <imas:givenNameKana xml:lang="ja">ゆうき</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">乙倉悠貴</schema:name>
@@ -1878,7 +1878,7 @@
     <schema:givenName xml:lang="ja">美世</schema:givenName>
     <schema:givenName xml:lang="en">Miyo</schema:givenName>
     <imas:givenNameKana xml:lang="ja">みよ</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">原田美世</schema:name>
@@ -1908,7 +1908,7 @@
     <schema:givenName xml:lang="ja">晶葉</schema:givenName>
     <schema:givenName xml:lang="en">Akiha</schema:givenName>
     <imas:givenNameKana xml:lang="ja">あきは</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">池袋晶葉</schema:name>
@@ -1937,7 +1937,7 @@
     <schema:givenName xml:lang="ja">あかり</schema:givenName>
     <schema:givenName xml:lang="en">Akari</schema:givenName>
     <imas:givenNameKana xml:lang="ja">あかり</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">辻野あかり</schema:name>
@@ -1967,7 +1967,7 @@
     <schema:givenName xml:lang="ja">千夜</schema:givenName>
     <schema:givenName xml:lang="en">Chiyo</schema:givenName>
     <imas:givenNameKana xml:lang="ja">ちよ</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">白雪千夜</schema:name>
@@ -2000,7 +2000,7 @@
     <schema:givenName xml:lang="ja">ちとせ</schema:givenName>
     <schema:givenName xml:lang="en">Chitose</schema:givenName>
     <imas:givenNameKana xml:lang="ja">ちとせ</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">黒埼ちとせ</schema:name>
@@ -2034,7 +2034,7 @@
     <schema:givenName xml:lang="ja">凛</schema:givenName>
     <schema:givenName xml:lang="en">Rin</schema:givenName>
     <imas:givenNameKana xml:lang="ja">りん</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">渋谷凛</schema:name>
@@ -2067,7 +2067,7 @@
     <schema:givenName xml:lang="ja">千秋</schema:givenName>
     <schema:givenName xml:lang="en">Chiaki</schema:givenName>
     <imas:givenNameKana xml:lang="ja">ちあき</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">黒川千秋</schema:name>
@@ -2096,7 +2096,7 @@
     <schema:givenName xml:lang="ja">沙理奈</schema:givenName>
     <schema:givenName xml:lang="en">Sarina</schema:givenName>
     <imas:givenNameKana xml:lang="ja">さりな</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">松本沙理奈</schema:name>
@@ -2125,7 +2125,7 @@
     <schema:givenName xml:lang="ja">アヤ</schema:givenName>
     <schema:givenName xml:lang="en">Aya</schema:givenName>
     <imas:givenNameKana xml:lang="ja">あや</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">桐野アヤ</schema:name>
@@ -2154,7 +2154,7 @@
     <schema:givenName xml:lang="ja">礼子</schema:givenName>
     <schema:givenName xml:lang="en">Reiko</schema:givenName>
     <imas:givenNameKana xml:lang="ja">れいこ</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">高橋礼子</schema:name>
@@ -2183,7 +2183,7 @@
     <schema:givenName xml:lang="ja">千夏</schema:givenName>
     <schema:givenName xml:lang="en">Chinatsu</schema:givenName>
     <imas:givenNameKana xml:lang="ja">ちなつ</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">相川千夏</schema:name>
@@ -2212,7 +2212,7 @@
     <schema:givenName xml:lang="ja">瑞樹</schema:givenName>
     <schema:givenName xml:lang="en">Mizuki</schema:givenName>
     <imas:givenNameKana xml:lang="ja">みずき</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">川島瑞樹</schema:name>
@@ -2246,7 +2246,7 @@
     <schema:givenName xml:lang="ja">奈緒</schema:givenName>
     <schema:givenName xml:lang="en">Nao</schema:givenName>
     <imas:givenNameKana xml:lang="ja">なお</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">神谷奈緒</schema:name>
@@ -2279,7 +2279,7 @@
     <schema:givenName xml:lang="ja">春菜</schema:givenName>
     <schema:givenName xml:lang="en">Haruna</schema:givenName>
     <imas:givenNameKana xml:lang="ja">はるな</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">上条春菜</schema:name>
@@ -2312,7 +2312,7 @@
     <schema:givenName xml:lang="ja">比奈</schema:givenName>
     <schema:givenName xml:lang="en">Hina</schema:givenName>
     <imas:givenNameKana xml:lang="ja">ひな</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">荒木比奈</schema:name>
@@ -2345,7 +2345,7 @@
     <schema:givenName xml:lang="ja">あい</schema:givenName>
     <schema:givenName xml:lang="en">Ai</schema:givenName>
     <imas:givenNameKana xml:lang="ja">あい</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">東郷あい</schema:name>
@@ -2374,7 +2374,7 @@
     <schema:givenName xml:lang="ja">李衣菜</schema:givenName>
     <schema:givenName xml:lang="en">Rina</schema:givenName>
     <imas:givenNameKana xml:lang="ja">りいな</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">多田李衣菜</schema:name>
@@ -2407,7 +2407,7 @@
     <schema:givenName xml:lang="ja">聖來</schema:givenName>
     <schema:givenName xml:lang="en">Seira</schema:givenName>
     <imas:givenNameKana xml:lang="ja">せいら</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">水木聖來</schema:name>
@@ -2436,7 +2436,7 @@
     <schema:givenName xml:lang="ja">千枝</schema:givenName>
     <schema:givenName xml:lang="en">Chie</schema:givenName>
     <imas:givenNameKana xml:lang="ja">ちえ</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">佐々木千枝</schema:name>
@@ -2469,7 +2469,7 @@
     <schema:givenName xml:lang="ja">美優</schema:givenName>
     <schema:givenName xml:lang="en">Miyu</schema:givenName>
     <imas:givenNameKana xml:lang="ja">みゆ</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">三船美優</schema:name>
@@ -2502,7 +2502,7 @@
     <schema:givenName xml:lang="ja">瞳子</schema:givenName>
     <schema:givenName xml:lang="en">Toko</schema:givenName>
     <imas:givenNameKana xml:lang="ja">とうこ</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">服部瞳子</schema:name>
@@ -2532,7 +2532,7 @@
     <schema:givenName xml:lang="ja">真奈美</schema:givenName>
     <schema:givenName xml:lang="en">Manami</schema:givenName>
     <imas:givenNameKana xml:lang="ja">まなみ</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">木場真奈美</schema:name>
@@ -2562,7 +2562,7 @@
     <schema:givenName xml:lang="ja">肇</schema:givenName>
     <schema:givenName xml:lang="en">Hajime</schema:givenName>
     <imas:givenNameKana xml:lang="ja">はじめ</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">藤原肇</schema:name>
@@ -2596,7 +2596,7 @@
     <schema:givenName xml:lang="ja">美波</schema:givenName>
     <schema:givenName xml:lang="en">Minami</schema:givenName>
     <imas:givenNameKana xml:lang="ja">みなみ</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">新田美波</schema:name>
@@ -2630,7 +2630,7 @@
     <schema:givenName xml:lang="ja">翠</schema:givenName>
     <schema:givenName xml:lang="en">Midori</schema:givenName>
     <imas:givenNameKana xml:lang="ja">みどり</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">水野翠</schema:name>
@@ -2659,7 +2659,7 @@
     <schema:givenName xml:lang="ja">頼子</schema:givenName>
     <schema:givenName xml:lang="en">Yoriko</schema:givenName>
     <imas:givenNameKana xml:lang="ja">よりこ</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">古澤頼子</schema:name>
@@ -2689,7 +2689,7 @@
     <schema:givenName xml:lang="ja">ありす</schema:givenName>
     <schema:givenName xml:lang="en">Arisu</schema:givenName>
     <imas:givenNameKana xml:lang="ja">ありす</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">橘ありす</schema:name>
@@ -2723,7 +2723,7 @@
     <schema:givenName xml:lang="ja">文香</schema:givenName>
     <schema:givenName xml:lang="en">Fumika</schema:givenName>
     <imas:givenNameKana xml:lang="ja">ふみか</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">鷺沢文香</schema:name>
@@ -2756,7 +2756,7 @@
     <schema:givenName xml:lang="ja">マキノ</schema:givenName>
     <schema:givenName xml:lang="en">Makino</schema:givenName>
     <imas:givenNameKana xml:lang="ja">まきの</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">八神マキノ</schema:name>
@@ -2779,7 +2779,7 @@
 
   <rdf:Description rdf:about="detail/Layla">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Co</imas:Type>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">ライラ</schema:name>
@@ -2808,7 +2808,7 @@
     <schema:givenName xml:lang="ja">七海</schema:givenName>
     <schema:givenName xml:lang="en">Nanami</schema:givenName>
     <imas:givenNameKana xml:lang="ja">ななみ</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">浅利七海</schema:name>
@@ -2832,7 +2832,7 @@
 
   <rdf:Description rdf:about="detail/Helen">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Co</imas:Type>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">ヘレン</schema:name>
@@ -2861,7 +2861,7 @@
     <schema:givenName xml:lang="ja">涼</schema:givenName>
     <schema:givenName xml:lang="en">Ryo</schema:givenName>
     <imas:givenNameKana xml:lang="ja">りょう</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">松永涼</schema:name>
@@ -2894,7 +2894,7 @@
     <schema:givenName xml:lang="ja">千奈美</schema:givenName>
     <schema:givenName xml:lang="en">Chinami</schema:givenName>
     <imas:givenNameKana xml:lang="ja">ちなみ</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">小室千奈美</schema:name>
@@ -2923,7 +2923,7 @@
     <schema:givenName xml:lang="ja">のあ</schema:givenName>
     <schema:givenName xml:lang="en">Noa</schema:givenName>
     <imas:givenNameKana xml:lang="ja">のあ</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">高峯のあ</schema:name>
@@ -2952,7 +2952,7 @@
     <schema:givenName xml:lang="ja">楓</schema:givenName>
     <schema:givenName xml:lang="en">Kaede</schema:givenName>
     <imas:givenNameKana xml:lang="ja">かえで</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">高垣楓</schema:name>
@@ -2985,7 +2985,7 @@
     <schema:givenName xml:lang="ja">蘭子</schema:givenName>
     <schema:givenName xml:lang="en">Ranko</schema:givenName>
     <imas:givenNameKana xml:lang="ja">らんこ</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">神崎蘭子</schema:name>
@@ -3018,7 +3018,7 @@
     <schema:givenName xml:lang="ja">惠</schema:givenName>
     <schema:givenName xml:lang="en">Megumi</schema:givenName>
     <imas:givenNameKana xml:lang="ja">めぐみ</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">伊集院惠</schema:name>
@@ -3047,7 +3047,7 @@
     <schema:givenName xml:lang="ja">志乃</schema:givenName>
     <schema:givenName xml:lang="en">Shino</schema:givenName>
     <imas:givenNameKana xml:lang="ja">しの</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">柊志乃</schema:name>
@@ -3076,7 +3076,7 @@
     <schema:givenName xml:lang="ja">加蓮</schema:givenName>
     <schema:givenName xml:lang="en">Karen</schema:givenName>
     <imas:givenNameKana xml:lang="ja">かれん</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">北条加蓮</schema:name>
@@ -3103,7 +3103,7 @@
 
   <rdf:Description rdf:about="detail/Kate">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Co</imas:Type>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">ケイト</schema:name>
@@ -3132,7 +3132,7 @@
     <schema:givenName xml:lang="ja">詩織</schema:givenName>
     <schema:givenName xml:lang="en">Shiori</schema:givenName>
     <imas:givenNameKana xml:lang="ja">しおり</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">瀬名詩織</schema:name>
@@ -3161,7 +3161,7 @@
     <schema:givenName xml:lang="ja">穂乃香</schema:givenName>
     <schema:givenName xml:lang="en">Honoka</schema:givenName>
     <imas:givenNameKana xml:lang="ja">ほのか</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">綾瀬穂乃香</schema:name>
@@ -3190,7 +3190,7 @@
     <schema:givenName xml:lang="ja">雪美</schema:givenName>
     <schema:givenName xml:lang="en">Yukimi</schema:givenName>
     <imas:givenNameKana xml:lang="ja">ゆきみ</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">佐城雪美</schema:name>
@@ -3222,7 +3222,7 @@
     <schema:givenName xml:lang="ja">礼</schema:givenName>
     <schema:givenName xml:lang="en">Rei</schema:givenName>
     <imas:givenNameKana xml:lang="ja">れい</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">篠原礼</schema:name>
@@ -3251,7 +3251,7 @@
     <schema:givenName xml:lang="ja">留美</schema:givenName>
     <schema:givenName xml:lang="en">Rumi</schema:givenName>
     <imas:givenNameKana xml:lang="ja">るみ</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">和久井留美</schema:name>
@@ -3280,7 +3280,7 @@
     <schema:givenName xml:lang="ja">沙紀</schema:givenName>
     <schema:givenName xml:lang="en">Saki</schema:givenName>
     <imas:givenNameKana xml:lang="ja">さき</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">吉岡沙紀</schema:name>
@@ -3309,7 +3309,7 @@
     <schema:givenName xml:lang="ja">音葉</schema:givenName>
     <schema:givenName xml:lang="en">Otoha</schema:givenName>
     <imas:givenNameKana xml:lang="ja">おとは</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">梅木音葉</schema:name>
@@ -3339,7 +3339,7 @@
     <schema:givenName xml:lang="ja">小梅</schema:givenName>
     <schema:givenName xml:lang="en">Koume</schema:givenName>
     <imas:givenNameKana xml:lang="ja">こうめ</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">白坂小梅</schema:name>
@@ -3373,7 +3373,7 @@
     <schema:givenName xml:lang="ja">彩華</schema:givenName>
     <schema:givenName xml:lang="en">Ayaka</schema:givenName>
     <imas:givenNameKana xml:lang="ja">あやか</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">岸部彩華</schema:name>
@@ -3404,7 +3404,7 @@
     <schema:givenName xml:lang="ja">むつみ</schema:givenName>
     <schema:givenName xml:lang="en">Mutsumi</schema:givenName>
     <imas:givenNameKana xml:lang="ja">むつみ</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">氏家むつみ</schema:name>
@@ -3434,7 +3434,7 @@
     <schema:givenName xml:lang="ja">保奈美</schema:givenName>
     <schema:givenName xml:lang="en">Honami</schema:givenName>
     <imas:givenNameKana xml:lang="ja">ほなみ</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">西川保奈美</schema:name>
@@ -3464,7 +3464,7 @@
     <schema:givenName xml:lang="ja">由愛</schema:givenName>
     <schema:givenName xml:lang="en">Yume</schema:givenName>
     <imas:givenNameKana xml:lang="ja">ゆめ</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">成宮由愛</schema:name>
@@ -3494,7 +3494,7 @@
     <schema:givenName xml:lang="ja">朋</schema:givenName>
     <schema:givenName xml:lang="en">Tomo</schema:givenName>
     <imas:givenNameKana xml:lang="ja">とも</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">藤居朋</schema:name>
@@ -3523,7 +3523,7 @@
     <schema:givenName xml:lang="ja">周子</schema:givenName>
     <schema:givenName xml:lang="en">Syuko</schema:givenName>
     <imas:givenNameKana xml:lang="ja">しゅうこ</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">塩見周子</schema:name>
@@ -3557,7 +3557,7 @@
     <schema:givenName xml:lang="ja">珠美</schema:givenName>
     <schema:givenName xml:lang="en">Tamami</schema:givenName>
     <imas:givenNameKana xml:lang="ja">たまみ</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">脇山珠美</schema:name>
@@ -3591,7 +3591,7 @@
     <schema:givenName xml:lang="ja">泰葉</schema:givenName>
     <schema:givenName xml:lang="en">Yasuha</schema:givenName>
     <imas:givenNameKana xml:lang="ja">やすは</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">岡崎泰葉</schema:name>
@@ -3620,7 +3620,7 @@
     <schema:givenName xml:lang="ja">奏</schema:givenName>
     <schema:givenName xml:lang="en">Kanade</schema:givenName>
     <imas:givenNameKana xml:lang="ja">かなで</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">速水奏</schema:name>
@@ -3653,7 +3653,7 @@
     <schema:givenName xml:lang="ja">泉</schema:givenName>
     <schema:givenName xml:lang="en">Izumi</schema:givenName>
     <imas:givenNameKana xml:lang="ja">いずみ</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">大石泉</schema:name>
@@ -3682,7 +3682,7 @@
     <schema:givenName xml:lang="ja">千鶴</schema:givenName>
     <schema:givenName xml:lang="en">Chizuru</schema:givenName>
     <imas:givenNameKana xml:lang="ja">ちづる</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">松尾千鶴</schema:name>
@@ -3712,7 +3712,7 @@
     <schema:givenName xml:lang="ja">乃々</schema:givenName>
     <schema:givenName xml:lang="en">Nono</schema:givenName>
     <imas:givenNameKana xml:lang="ja">のの</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">森久保乃々</schema:name>
@@ -3740,7 +3740,7 @@
 
   <rdf:Description rdf:about="detail/Anastasia">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Co</imas:Type>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">アナスタシア</schema:name>
@@ -3774,7 +3774,7 @@
     <schema:givenName xml:lang="ja">亜季</schema:givenName>
     <schema:givenName xml:lang="en">Aki</schema:givenName>
     <imas:givenNameKana xml:lang="ja">あき</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">大和亜季</schema:name>
@@ -3808,7 +3808,7 @@
     <schema:givenName xml:lang="ja">晴</schema:givenName>
     <schema:givenName xml:lang="en">Haru</schema:givenName>
     <imas:givenNameKana xml:lang="ja">はる</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">結城晴</schema:name>
@@ -3841,7 +3841,7 @@
     <schema:givenName xml:lang="ja">飛鳥</schema:givenName>
     <schema:givenName xml:lang="en">Asuka</schema:givenName>
     <imas:givenNameKana xml:lang="ja">あすか</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">二宮飛鳥</schema:name>
@@ -3876,7 +3876,7 @@
     <schema:givenName xml:lang="ja">つかさ</schema:givenName>
     <schema:givenName xml:lang="en">Tsukasa</schema:givenName>
     <imas:givenNameKana xml:lang="ja">つかさ</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">桐生つかさ</schema:name>
@@ -3907,7 +3907,7 @@
     <schema:givenName xml:lang="ja">聖</schema:givenName>
     <schema:givenName xml:lang="en">Hijiri</schema:givenName>
     <imas:givenNameKana xml:lang="ja">ひじり</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">望月聖</schema:name>
@@ -3936,7 +3936,7 @@
     <schema:givenName xml:lang="ja">茄子</schema:givenName>
     <schema:givenName xml:lang="en">Kako</schema:givenName>
     <imas:givenNameKana xml:lang="ja">かこ</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">鷹富士茄子</schema:name>
@@ -3969,7 +3969,7 @@
     <schema:givenName xml:lang="ja">あきら</schema:givenName>
     <schema:givenName xml:lang="en">Akira</schema:givenName>
     <imas:givenNameKana xml:lang="ja">あきら</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">砂塚あきら</schema:name>
@@ -4000,7 +4000,7 @@
     <schema:givenName xml:lang="ja">颯</schema:givenName>
     <schema:givenName xml:lang="en">Hayate</schema:givenName>
     <imas:givenNameKana xml:lang="ja">はやて</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">久川颯</schema:name>
@@ -4035,7 +4035,7 @@
     <schema:givenName xml:lang="ja">未央</schema:givenName>
     <schema:givenName xml:lang="en">Mio</schema:givenName>
     <imas:givenNameKana xml:lang="ja">みお</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">本田未央</schema:name>
@@ -4068,7 +4068,7 @@
     <schema:givenName xml:lang="ja">藍子</schema:givenName>
     <schema:givenName xml:lang="en">Aiko</schema:givenName>
     <imas:givenNameKana xml:lang="ja">あいこ</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">高森藍子</schema:name>
@@ -4101,7 +4101,7 @@
     <schema:givenName xml:lang="ja">芽衣子</schema:givenName>
     <schema:givenName xml:lang="en">Meiko</schema:givenName>
     <imas:givenNameKana xml:lang="ja">めいこ</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">並木芽衣子</schema:name>
@@ -4130,7 +4130,7 @@
     <schema:givenName xml:lang="ja">薫</schema:givenName>
     <schema:givenName xml:lang="en">Kaoru</schema:givenName>
     <imas:givenNameKana xml:lang="ja">かおる</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">龍崎薫</schema:name>
@@ -4163,7 +4163,7 @@
     <schema:givenName xml:lang="ja">夏樹</schema:givenName>
     <schema:givenName xml:lang="en">Natsuki</schema:givenName>
     <imas:givenNameKana xml:lang="ja">なつき</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">木村夏樹</schema:name>
@@ -4196,7 +4196,7 @@
     <schema:givenName xml:lang="ja">久美子</schema:givenName>
     <schema:givenName xml:lang="en">Kumiko</schema:givenName>
     <imas:givenNameKana xml:lang="ja">くみこ</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">松山久美子</schema:name>
@@ -4225,7 +4225,7 @@
     <schema:givenName xml:lang="ja">洋子</schema:givenName>
     <schema:givenName xml:lang="en">Yoko</schema:givenName>
     <imas:givenNameKana xml:lang="ja">ようこ</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">斉藤洋子</schema:name>
@@ -4254,7 +4254,7 @@
     <schema:givenName xml:lang="ja">麻理菜</schema:givenName>
     <schema:givenName xml:lang="en">Marina</schema:givenName>
     <imas:givenNameKana xml:lang="ja">まりな</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">沢田麻理菜</schema:name>
@@ -4283,7 +4283,7 @@
     <schema:givenName xml:lang="ja">美羽</schema:givenName>
     <schema:givenName xml:lang="en">Miu</schema:givenName>
     <imas:givenNameKana xml:lang="ja">みう</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">矢口美羽</schema:name>
@@ -4312,7 +4312,7 @@
     <schema:givenName xml:lang="ja">みりあ</schema:givenName>
     <schema:givenName xml:lang="en">Miria</schema:givenName>
     <imas:givenNameKana xml:lang="ja">みりあ</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">赤城みりあ</schema:name>
@@ -4345,7 +4345,7 @@
     <schema:givenName xml:lang="ja">渚</schema:givenName>
     <schema:givenName xml:lang="en">Nagisa</schema:givenName>
     <imas:givenNameKana xml:lang="ja">なぎさ</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">愛野渚</schema:name>
@@ -4374,7 +4374,7 @@
     <schema:givenName xml:lang="ja">いつき</schema:givenName>
     <schema:givenName xml:lang="en">Itsuki</schema:givenName>
     <imas:givenNameKana xml:lang="ja">いつき</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">真鍋いつき</schema:name>
@@ -4403,7 +4403,7 @@
     <schema:givenName xml:lang="ja">唯</schema:givenName>
     <schema:givenName xml:lang="en">Yui</schema:givenName>
     <imas:givenNameKana xml:lang="ja">ゆい</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">大槻唯</schema:name>
@@ -4436,7 +4436,7 @@
     <schema:givenName xml:lang="ja">友紀</schema:givenName>
     <schema:givenName xml:lang="en">Yuki</schema:givenName>
     <imas:givenNameKana xml:lang="ja">ゆき</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">姫川友紀</schema:name>
@@ -4469,7 +4469,7 @@
     <schema:givenName xml:lang="ja">柚</schema:givenName>
     <schema:givenName xml:lang="en">Yuzu</schema:givenName>
     <imas:givenNameKana xml:lang="ja">ゆず</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">喜多見柚</schema:name>
@@ -4502,7 +4502,7 @@
     <schema:givenName xml:lang="ja">鈴帆</schema:givenName>
     <schema:givenName xml:lang="en">Suzuho</schema:givenName>
     <imas:givenNameKana xml:lang="ja">すずほ</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">上田鈴帆</schema:name>
@@ -4535,7 +4535,7 @@
     <schema:givenName xml:lang="ja">菜帆</schema:givenName>
     <schema:givenName xml:lang="en">Naho</schema:givenName>
     <imas:givenNameKana xml:lang="ja">なほ</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">海老原菜帆</schema:name>
@@ -4565,7 +4565,7 @@
     <schema:givenName xml:lang="ja">雫</schema:givenName>
     <schema:givenName xml:lang="en">Shizuku</schema:givenName>
     <imas:givenNameKana xml:lang="ja">しずく</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">及川雫</schema:name>
@@ -4599,7 +4599,7 @@
     <schema:givenName xml:lang="ja">麗奈</schema:givenName>
     <schema:givenName xml:lang="en">Reina</schema:givenName>
     <imas:givenNameKana xml:lang="ja">れいな</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">小関麗奈</schema:name>
@@ -4628,7 +4628,7 @@
     <schema:givenName xml:lang="ja">美紗希</schema:givenName>
     <schema:givenName xml:lang="en">Misaki</schema:givenName>
     <imas:givenNameKana xml:lang="ja">みさき</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">衛藤美紗希</schema:name>
@@ -4658,7 +4658,7 @@
     <schema:givenName xml:lang="ja">輝子</schema:givenName>
     <schema:givenName xml:lang="en">Syoko</schema:givenName>
     <imas:givenNameKana xml:lang="ja">しょうこ</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">星輝子</schema:name>
@@ -4691,7 +4691,7 @@
     <schema:givenName xml:lang="ja">早苗</schema:givenName>
     <schema:givenName xml:lang="en">Sanae</schema:givenName>
     <imas:givenNameKana xml:lang="ja">さなえ</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">片桐早苗</schema:name>
@@ -4725,7 +4725,7 @@
     <schema:givenName xml:lang="ja">裕子</schema:givenName>
     <schema:givenName xml:lang="en">Yuko</schema:givenName>
     <imas:givenNameKana xml:lang="ja">ゆうこ</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">堀裕子</schema:name>
@@ -4758,7 +4758,7 @@
     <schema:givenName xml:lang="ja">櫂</schema:givenName>
     <schema:givenName xml:lang="en">Kai</schema:givenName>
     <imas:givenNameKana xml:lang="ja">かい</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">西島櫂</schema:name>
@@ -4787,7 +4787,7 @@
     <schema:givenName xml:lang="ja">梨沙</schema:givenName>
     <schema:givenName xml:lang="en">Risa</schema:givenName>
     <imas:givenNameKana xml:lang="ja">りさ</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">的場梨沙</schema:name>
@@ -4817,7 +4817,7 @@
     <schema:givenName xml:lang="ja">時子</schema:givenName>
     <schema:givenName xml:lang="en">Tokiko</schema:givenName>
     <imas:givenNameKana xml:lang="ja">ときこ</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">財前時子</schema:name>
@@ -4847,7 +4847,7 @@
     <schema:givenName xml:lang="ja">芳乃</schema:givenName>
     <schema:givenName xml:lang="en">Yoshino</schema:givenName>
     <imas:givenNameKana xml:lang="ja">よしの</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">依田芳乃</schema:name>
@@ -4882,7 +4882,7 @@
     <schema:givenName xml:lang="ja">夕美</schema:givenName>
     <schema:givenName xml:lang="en">Yumi</schema:givenName>
     <imas:givenNameKana xml:lang="ja">ゆみ</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">相葉夕美</schema:name>
@@ -4915,7 +4915,7 @@
     <schema:givenName xml:lang="ja">そら</schema:givenName>
     <schema:givenName xml:lang="en">Sora</schema:givenName>
     <imas:givenNameKana xml:lang="ja">そら</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">野々村そら</schema:name>
@@ -4944,7 +4944,7 @@
     <schema:givenName xml:lang="ja">愛結奈</schema:givenName>
     <schema:givenName xml:lang="en">Ayuna</schema:givenName>
     <imas:givenNameKana xml:lang="ja">あゆな</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">浜川愛結奈</schema:name>
@@ -4973,7 +4973,7 @@
     <schema:givenName xml:lang="ja">智香</schema:givenName>
     <schema:givenName xml:lang="en">Tomoka</schema:givenName>
     <imas:givenNameKana xml:lang="ja">ともか</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">若林智香</schema:name>
@@ -5002,7 +5002,7 @@
     <schema:givenName xml:lang="ja">美嘉</schema:givenName>
     <schema:givenName xml:lang="en">Mika</schema:givenName>
     <imas:givenNameKana xml:lang="ja">みか</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">城ヶ崎美嘉</schema:name>
@@ -5035,7 +5035,7 @@
     <schema:givenName xml:lang="ja">莉嘉</schema:givenName>
     <schema:givenName xml:lang="en">Rika</schema:givenName>
     <imas:givenNameKana xml:lang="ja">りか</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">城ヶ崎莉嘉</schema:name>
@@ -5068,7 +5068,7 @@
     <schema:givenName xml:lang="ja">恵磨</schema:givenName>
     <schema:givenName xml:lang="en">Ema</schema:givenName>
     <imas:givenNameKana xml:lang="ja">えま</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">仙崎恵磨</schema:name>
@@ -5097,7 +5097,7 @@
     <schema:givenName xml:lang="ja">茜</schema:givenName>
     <schema:givenName xml:lang="en">Akane</schema:givenName>
     <imas:givenNameKana xml:lang="ja">あかね</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">日野茜</schema:name>
@@ -5130,7 +5130,7 @@
     <schema:givenName xml:lang="ja">きらり</schema:givenName>
     <schema:givenName xml:lang="en">Kirari</schema:givenName>
     <imas:givenNameKana xml:lang="ja">きらり</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">諸星きらり</schema:name>
@@ -5163,7 +5163,7 @@
     <schema:givenName xml:lang="ja">愛梨</schema:givenName>
     <schema:givenName xml:lang="en">Airi</schema:givenName>
     <imas:givenNameKana xml:lang="ja">あいり</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">十時愛梨</schema:name>
@@ -5190,7 +5190,7 @@
 
   <rdf:Description rdf:about="detail/Natalia">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pa</imas:Type>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">ナターリア</schema:name>
@@ -5222,7 +5222,7 @@
     <schema:givenName xml:lang="ja">夏美</schema:givenName>
     <schema:givenName xml:lang="en">Natsumi</schema:givenName>
     <imas:givenNameKana xml:lang="ja">なつみ</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">相馬夏美</schema:name>
@@ -5251,7 +5251,7 @@
     <schema:givenName xml:lang="ja">志保</schema:givenName>
     <schema:givenName xml:lang="en">Shiho</schema:givenName>
     <imas:givenNameKana xml:lang="ja">しほ</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">槙原志保</schema:name>
@@ -5280,7 +5280,7 @@
     <schema:givenName xml:lang="ja">拓海</schema:givenName>
     <schema:givenName xml:lang="en">Takumi</schema:givenName>
     <imas:givenNameKana xml:lang="ja">たくみ</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">向井拓海</schema:name>
@@ -5313,7 +5313,7 @@
     <schema:givenName xml:lang="ja">仁奈</schema:givenName>
     <schema:givenName xml:lang="en">Nina</schema:givenName>
     <imas:givenNameKana xml:lang="ja">にな</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">市原仁奈</schema:name>
@@ -5346,7 +5346,7 @@
     <schema:givenName xml:lang="ja">日菜子</schema:givenName>
     <schema:givenName xml:lang="en">Hinako</schema:givenName>
     <imas:givenNameKana xml:lang="ja">ひなこ</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">喜多日菜子</schema:name>
@@ -5379,7 +5379,7 @@
     <schema:givenName xml:lang="ja">海</schema:givenName>
     <schema:givenName xml:lang="en">Umi</schema:givenName>
     <imas:givenNameKana xml:lang="ja">うみ</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">杉坂海</schema:name>
@@ -5408,7 +5408,7 @@
     <schema:givenName xml:lang="ja">真尋</schema:givenName>
     <schema:givenName xml:lang="en">Mahiro</schema:givenName>
     <imas:givenNameKana xml:lang="ja">まひろ</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">北川真尋</schema:name>
@@ -5439,7 +5439,7 @@
     <schema:givenName xml:lang="ja">メアリー</schema:givenName>
     <schema:givenName xml:lang="en">Mary</schema:givenName>
     <imas:givenNameKana xml:lang="ja">めありー</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">メアリー・コクラン</schema:name>
@@ -5469,7 +5469,7 @@
     <schema:givenName xml:lang="ja">伊吹</schema:givenName>
     <schema:givenName xml:lang="en">Ibuki</schema:givenName>
     <imas:givenNameKana xml:lang="ja">いぶき</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">小松伊吹</schema:name>
@@ -5500,7 +5500,7 @@
     <schema:givenName xml:lang="ja">紗南</schema:givenName>
     <schema:givenName xml:lang="en">Sana</schema:givenName>
     <imas:givenNameKana xml:lang="ja">さな</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">三好紗南</schema:name>
@@ -5530,7 +5530,7 @@
     <schema:givenName xml:lang="ja">キャシー</schema:givenName>
     <schema:givenName xml:lang="en">Cathy</schema:givenName>
     <imas:givenNameKana xml:lang="ja">きゃしー</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">キャシー・グラハム</schema:name>
@@ -5560,7 +5560,7 @@
     <schema:givenName xml:lang="ja">笑美</schema:givenName>
     <schema:givenName xml:lang="en">Emi</schema:givenName>
     <imas:givenNameKana xml:lang="ja">えみ</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">難波笑美</schema:name>
@@ -5594,7 +5594,7 @@
     <schema:givenName xml:lang="ja">あやめ</schema:givenName>
     <schema:givenName xml:lang="en">Ayame</schema:givenName>
     <imas:givenNameKana xml:lang="ja">あやめ</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">浜口あやめ</schema:name>
@@ -5629,7 +5629,7 @@
     <schema:givenName xml:lang="ja">巴</schema:givenName>
     <schema:givenName xml:lang="en">Tomoe</schema:givenName>
     <imas:givenNameKana xml:lang="ja">ともえ</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">村上巴</schema:name>
@@ -5663,7 +5663,7 @@
     <schema:givenName xml:lang="ja">亜子</schema:givenName>
     <schema:givenName xml:lang="en">Ako</schema:givenName>
     <imas:givenNameKana xml:lang="ja">あこ</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">土屋亜子</schema:name>
@@ -5693,7 +5693,7 @@
     <schema:givenName xml:lang="ja">葵</schema:givenName>
     <schema:givenName xml:lang="en">Aoi</schema:givenName>
     <imas:givenNameKana xml:lang="ja">あおい</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">首藤葵</schema:name>
@@ -5722,7 +5722,7 @@
     <schema:givenName xml:lang="ja">清美</schema:givenName>
     <schema:givenName xml:lang="en">Kiyomi</schema:givenName>
     <imas:givenNameKana xml:lang="ja">きよみ</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">冴島清美</schema:name>
@@ -5753,7 +5753,7 @@
     <schema:givenName xml:lang="ja">心</schema:givenName>
     <schema:givenName xml:lang="en">Shin</schema:givenName>
     <imas:givenNameKana xml:lang="ja">しん</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">佐藤心</schema:name>
@@ -5787,7 +5787,7 @@
     <schema:givenName xml:lang="ja">光</schema:givenName>
     <schema:givenName xml:lang="en">Hikaru</schema:givenName>
     <imas:givenNameKana xml:lang="ja">ひかる</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">南条光</schema:name>
@@ -5821,7 +5821,7 @@
     <schema:givenName xml:lang="ja">イヴ</schema:givenName>
     <schema:givenName xml:lang="en">Eve</schema:givenName>
     <imas:givenNameKana xml:lang="ja">いゔ</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">イヴ・サンタクロース</schema:name>
@@ -5850,7 +5850,7 @@
     <schema:givenName xml:lang="ja">りあむ</schema:givenName>
     <schema:givenName xml:lang="en">Riamu</schema:givenName>
     <imas:givenNameKana xml:lang="ja">りあむ</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">夢見りあむ</schema:name>
@@ -5883,7 +5883,7 @@
     <schema:givenName xml:lang="ja">凪</schema:givenName>
     <schema:givenName xml:lang="en">Nagi</schema:givenName>
     <imas:givenNameKana xml:lang="ja">なぎ</imas:givenNameKana>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <schema:name xml:lang="ja">久川凪</schema:name>

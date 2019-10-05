@@ -71,8 +71,8 @@ imas-shape:IdolShape a sh:NodeShape;
         # 性別
         # femaleかmaleのみで、性別は必ず一つだけ存在する
         sh:path schema:gender;
-        sh:datatype rdf:langString;
-        sh:pattern "^(female|male)$";
+        sh:datatype xsd:string;
+        sh:in ("female" "male");
         sh:minCount 1;
         sh:maxCount 1;
     ];

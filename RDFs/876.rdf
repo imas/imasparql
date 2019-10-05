@@ -48,7 +48,7 @@
     <imas:cv xml:lang="ja">戸松遥</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/戸松遥"/>
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q50025"/>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">DearlyStars</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
@@ -79,7 +79,7 @@
     <imas:cv xml:lang="ja">花澤香菜</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/花澤香菜"/>
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q49524"/>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">DearlyStars</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
@@ -110,7 +110,7 @@
     <imas:cv xml:lang="ja">三瓶由布子</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/三瓶由布子"/>
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q958874"/>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">DearlyStars</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
@@ -140,7 +140,7 @@
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q1193033"/>
     <imas:Hobby xml:lang="ja">料理</imas:Hobby>
     <schema:birthPlace xml:lang="ja">大阪</schema:birthPlace>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">DearlyStars</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
@@ -173,7 +173,7 @@
     <imas:cv xml:lang="ja">ゆりん</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/ゆりん"/>
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q8061678"/>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">DearlyStars</imas:Title>
     <schema:birthPlace xml:lang="ja">神奈川</schema:birthPlace>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
@@ -193,7 +193,7 @@
     <imas:cv xml:lang="ja">今野宏美</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/今野宏美"/>
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q843178"/>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">1054Pro</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
@@ -212,7 +212,7 @@
     <imas:cv xml:lang="ja">阿澄佳奈</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/阿澄佳奈"/>
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q49474"/>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">1054Pro</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
@@ -231,7 +231,7 @@
     <imas:cv xml:lang="ja">茅原実里</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/茅原実里"/>
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q256910"/>
-    <schema:gender xml:lang="en">female</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">1054Pro</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>

@@ -50,7 +50,7 @@
     <imas:Hobby xml:lang="ja">フィギュア集め</imas:Hobby>
     <imas:Talent xml:lang="ja">スパイスからのカレー作り</imas:Talent>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">F32333</imas:Color>
-    <schema:gender xml:lang="en">male</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
@@ -83,7 +83,7 @@
     <imas:Hobby xml:lang="ja">親孝行♪</imas:Hobby>
     <imas:Talent xml:lang="ja">バク転</imas:Talent>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">94D509</imas:Color>
-    <schema:gender xml:lang="en">male</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
@@ -117,7 +117,7 @@
     <imas:Hobby xml:lang="ja">デート</imas:Hobby>
     <imas:Talent xml:lang="ja">高速ネコふんじゃった</imas:Talent>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">1C23AA</imas:Color>
-    <schema:gender xml:lang="en">male</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
@@ -150,7 +150,7 @@
     <imas:Hobby xml:lang="ja">ダーツ</imas:Hobby>
     <imas:Talent xml:lang="ja">料理</imas:Talent>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">E31C1A</imas:Color>
-    <schema:gender xml:lang="en">male</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
@@ -182,7 +182,7 @@
     <imas:Hobby xml:lang="ja">姉の形見の擦り切れた詩集を読む</imas:Hobby>
     <imas:Talent xml:lang="ja">手品</imas:Talent>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">1945BA</imas:Color>
-    <schema:gender xml:lang="en">male</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
@@ -217,7 +217,7 @@
     <imas:Talent xml:lang="ja">大食い</imas:Talent>
     <imas:Talent xml:lang="ja">天気読み</imas:Talent>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">3BAF29</imas:Color>
-    <schema:gender xml:lang="en">male</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
@@ -249,7 +249,7 @@
     <imas:Hobby xml:lang="ja">なし</imas:Hobby>
     <imas:Talent xml:lang="ja">ピアノ</imas:Talent>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">C5A6E2</imas:Color>
-    <schema:gender xml:lang="en">male</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
@@ -281,7 +281,7 @@
     <imas:Hobby xml:lang="ja">ハンドクリームを塗ること</imas:Hobby>
     <imas:Talent xml:lang="ja">1回聞いた音楽を正確にヴァイオリンで奏でることができる</imas:Talent>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">3D5AC8</imas:Color>
-    <schema:gender xml:lang="en">male</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
@@ -313,7 +313,7 @@
     <imas:Hobby xml:lang="ja">洗濯</imas:Hobby>
     <imas:Talent xml:lang="ja">暗算</imas:Talent>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">6AC4E9</imas:Color>
-    <schema:gender xml:lang="en">male</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
@@ -339,7 +339,7 @@
     <imas:Hobby xml:lang="ja">きぐるみとのしゃしんさつえい</imas:Hobby>
     <imas:Talent xml:lang="ja">みかんのはやむき</imas:Talent>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">8BDC63</imas:Color>
-    <schema:gender xml:lang="en">male</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
@@ -371,7 +371,7 @@
     <imas:Hobby xml:lang="ja">ハンドクリーム集め</imas:Hobby>
     <imas:Talent xml:lang="ja">運転時の抜け道探し</imas:Talent>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">FA90A2</imas:Color>
-    <schema:gender xml:lang="en">male</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
@@ -403,7 +403,7 @@
     <imas:Hobby xml:lang="ja">サッカー</imas:Hobby>
     <imas:Talent xml:lang="ja">サッカー</imas:Talent>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">FEE806</imas:Color>
-    <schema:gender xml:lang="en">male</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
@@ -436,7 +436,7 @@
     <imas:Talent xml:lang="ja">練習メニューの組み立て</imas:Talent>
     <imas:Talent xml:lang="ja">コーチング</imas:Talent>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">23CD7A</imas:Color>
-    <schema:gender xml:lang="en">male</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
@@ -469,7 +469,7 @@
     <imas:Talent xml:lang="ja">警察犬の訓練</imas:Talent>
     <imas:Talent xml:lang="ja">動物全般の躾</imas:Talent>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">57B3E5</imas:Color>
-    <schema:gender xml:lang="en">male</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
@@ -501,7 +501,7 @@
     <imas:Hobby xml:lang="ja">昼寝</imas:Hobby>
     <imas:Talent xml:lang="ja">裁縫</imas:Talent>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">EE7220</imas:Color>
-    <schema:gender xml:lang="en">male</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
@@ -533,7 +533,7 @@
     <imas:Hobby xml:lang="ja">料理</imas:Hobby>
     <imas:Talent xml:lang="ja">銃器類の早解体</imas:Talent>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">78853A</imas:Color>
-    <schema:gender xml:lang="en">male</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
@@ -565,7 +565,7 @@
     <imas:Hobby xml:lang="ja">珍獣観察</imas:Hobby>
     <imas:Talent xml:lang="ja">人間・動物からマンガやアニメのキャラクターのモノマネや形態模写</imas:Talent>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">F7BD05</imas:Color>
-    <schema:gender xml:lang="en">male</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
@@ -597,7 +597,7 @@
     <imas:Hobby xml:lang="ja">メイド喫茶巡り</imas:Hobby>
     <imas:Talent xml:lang="ja">和太鼓演奏</imas:Talent>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">7664A0</imas:Color>
-    <schema:gender xml:lang="en">male</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
@@ -630,7 +630,7 @@
     <imas:Talent xml:lang="ja">競技かるた</imas:Talent>
     <imas:Talent xml:lang="ja">投扇興</imas:Talent>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">79A5DF</imas:Color>
-    <schema:gender xml:lang="en">male</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
@@ -663,7 +663,7 @@
     <imas:Hobby xml:lang="ja">ギター</imas:Hobby>
     <imas:Talent xml:lang="ja">野球選手のモノマネ</imas:Talent>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">FE6B02</imas:Color>
-    <schema:gender xml:lang="en">male</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
@@ -695,7 +695,7 @@
     <imas:Hobby xml:lang="ja">読書</imas:Hobby>
     <imas:Talent xml:lang="ja">ピアノ</imas:Talent>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">1845B9</imas:Color>
-    <schema:gender xml:lang="en">male</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
@@ -728,7 +728,7 @@
     <imas:Hobby xml:lang="ja">ヴァイオリン</imas:Hobby>
     <imas:Talent xml:lang="ja">気配を消すこと</imas:Talent>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">24CAD2</imas:Color>
-    <schema:gender xml:lang="en">male</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
@@ -760,7 +760,7 @@
     <imas:Hobby xml:lang="ja">散歩</imas:Hobby>
     <imas:Talent xml:lang="ja">ヘアメイク</imas:Talent>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">71D448</imas:Color>
-    <schema:gender xml:lang="en">male</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
@@ -793,7 +793,7 @@
     <imas:Hobby xml:lang="ja">ハデパン集め</imas:Hobby>
     <imas:Talent xml:lang="ja">カラオケ採点で意のままの点数を出せる</imas:Talent>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">F125C1</imas:Color>
-    <schema:gender xml:lang="en">male</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
@@ -825,7 +825,7 @@
     <imas:Hobby xml:lang="ja">頭に「にゃこ」を乗せて散歩</imas:Hobby>
     <imas:Talent xml:lang="ja">天空朱雀落とし</imas:Talent>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">E63C2E</imas:Color>
-    <schema:gender xml:lang="en">male</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
@@ -859,7 +859,7 @@
     <imas:Talent xml:lang="ja">天玄氷刃波</imas:Talent>
     <imas:Talent xml:lang="ja">全国一斉テスト・統一模試全科目1位</imas:Talent>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">0F0C9F</imas:Color>
-    <schema:gender xml:lang="en">male</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
@@ -893,7 +893,7 @@
     <imas:Talent xml:lang="ja">早着替え</imas:Talent>
     <imas:Talent xml:lang="ja">華麗なスプーンフォーク捌きによるサーバー技</imas:Talent>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">F09079</imas:Color>
-    <schema:gender xml:lang="en">male</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
@@ -927,7 +927,7 @@
     <imas:Talent xml:lang="ja">飴細工</imas:Talent>
     <imas:Talent xml:lang="ja">折紙</imas:Talent>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">02946C</imas:Color>
-    <schema:gender xml:lang="en">male</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
@@ -954,7 +954,7 @@
     <imas:Talent xml:lang="ja">召喚術</imas:Talent>
     <imas:Talent xml:lang="ja">詠唱</imas:Talent>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">606CB2</imas:Color>
-    <schema:gender xml:lang="en">male</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
@@ -987,7 +987,7 @@
     <imas:Talent xml:lang="ja">利きケーキ</imas:Talent>
     <imas:Talent xml:lang="ja">一輪車</imas:Talent>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">F8C559</imas:Color>
-    <schema:gender xml:lang="en">male</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
@@ -1019,7 +1019,7 @@
     <imas:Hobby xml:lang="ja">手品</imas:Hobby>
     <imas:Talent xml:lang="ja">逆立ち</imas:Talent>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">FA7EB4</imas:Color>
-    <schema:gender xml:lang="en">male</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
@@ -1051,7 +1051,7 @@
     <imas:Hobby xml:lang="ja">将棋</imas:Hobby>
     <imas:Talent xml:lang="ja">編み物</imas:Talent>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">1F1451</imas:Color>
-    <schema:gender xml:lang="en">male</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
@@ -1083,7 +1083,7 @@
     <imas:Hobby xml:lang="ja">バスケ</imas:Hobby>
     <imas:Talent xml:lang="ja">ブレイクダンス</imas:Talent>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">D13037</imas:Color>
-    <schema:gender xml:lang="en">male</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
@@ -1115,7 +1115,7 @@
     <imas:Hobby xml:lang="ja">お散歩</imas:Hobby>
     <imas:Talent xml:lang="ja">ピアノ</imas:Talent>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">F7B5C4</imas:Color>
-    <schema:gender xml:lang="en">male</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
@@ -1148,7 +1148,7 @@
     <imas:Hobby xml:lang="ja">パズル</imas:Hobby>
     <imas:Talent xml:lang="ja">円周率の暗唱</imas:Talent>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">436CA9</imas:Color>
-    <schema:gender xml:lang="en">male</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
@@ -1182,7 +1182,7 @@
     <imas:Hobby xml:lang="ja">サーフィン</imas:Hobby>
     <imas:Talent xml:lang="ja">けん玉</imas:Talent>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">F5D24B</imas:Color>
-    <schema:gender xml:lang="en">male</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
@@ -1215,7 +1215,7 @@
     <imas:Hobby xml:lang="ja">競馬</imas:Hobby>
     <imas:Talent xml:lang="ja">ラジオ体操</imas:Talent>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">EE7602</imas:Color>
-    <schema:gender xml:lang="en">male</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
@@ -1249,7 +1249,7 @@
     <imas:Talent xml:lang="ja">体を動かすことならなんでも</imas:Talent>
     <imas:Talent xml:lang="ja">シューティングゲーム</imas:Talent>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">0E0C9F</imas:Color>
-    <schema:gender xml:lang="en">male</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
@@ -1281,7 +1281,7 @@
     <imas:Hobby xml:lang="ja">資格取得</imas:Hobby>
     <imas:Talent xml:lang="ja">たくさんありすぎてかけないが､最近はあみぐるみにハマっている</imas:Talent>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">CA9111</imas:Color>
-    <schema:gender xml:lang="en">male</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
@@ -1313,7 +1313,7 @@
     <imas:Hobby xml:lang="ja">なんでんなことｵﾏｴに教えないといけねｰんだ? バァーカ!</imas:Hobby>
     <imas:Talent xml:lang="ja">相手をぶったおすことにきまっ てんだろ!</imas:Talent>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">AC162A</imas:Color>
-    <schema:gender xml:lang="en">male</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
@@ -1347,7 +1347,7 @@
     <imas:Talent xml:lang="ja">ダンス</imas:Talent>
     <imas:Talent xml:lang="ja">変装</imas:Talent>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">70B449</imas:Color>
-    <schema:gender xml:lang="en">male</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
@@ -1380,7 +1380,7 @@
     <imas:Talent xml:lang="ja">居合道</imas:Talent>
     <imas:Talent xml:lang="ja">かつらむき</imas:Talent>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">E41C1A</imas:Color>
-    <schema:gender xml:lang="en">male</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
@@ -1414,7 +1414,7 @@
     <imas:Talent xml:lang="ja">一度読んだ本の内容は大体覚えている</imas:Talent>
     <imas:Talent xml:lang="ja">食べれるキノコを見分けられる</imas:Talent>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">CF9E51</imas:Color>
-    <schema:gender xml:lang="en">male</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
@@ -1446,7 +1446,7 @@
     <imas:Hobby xml:lang="ja">星占い</imas:Hobby>
     <imas:Talent xml:lang="ja">折紙</imas:Talent>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">111721</imas:Color>
-    <schema:gender xml:lang="en">male</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
@@ -1478,7 +1478,7 @@
     <imas:Hobby xml:lang="ja">一人旅</imas:Hobby>
     <imas:Talent xml:lang="ja">書道</imas:Talent>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">477525</imas:Color>
-    <schema:gender xml:lang="en">male</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
@@ -1510,7 +1510,7 @@
     <imas:Hobby xml:lang="ja">水族館めぐり</imas:Hobby>
     <imas:Talent xml:lang="ja">素潜り(水中息止め)</imas:Talent>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">1FC1DD</imas:Color>
-    <schema:gender xml:lang="en">male</schema:gender>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
