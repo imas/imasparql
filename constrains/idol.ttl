@@ -232,4 +232,10 @@ imas-shape:IdolShape a sh:NodeShape;
         sh:path schema:memberOf;
         sh:class imas:Unit;
     ];
+    sh:property [
+        rdfs:label "衣装の制約";
+        rdfs:comment "目的語はimas:Clothes";
+        sh:path schema:owns;
+        sh:class imas:Clothes;
+    ];
     sh:closed false.
