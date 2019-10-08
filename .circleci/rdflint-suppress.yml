@@ -142,30 +142,30 @@ RDFs/Staff.rdf:
     locationType: TRIPLE
     subject: https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Senkawa_Chihiro
     predicate: http://xmlns.com/foaf/0.1/age
-    object: '"?"'
+    object: '"?"@ja'
     message: 'DataType not matched: expected NATURAL, but STRING (triple: https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Senkawa_Chihiro
-        - http://xmlns.com/foaf/0.1/age - "?")'
+        - http://xmlns.com/foaf/0.1/age - "?"@ja)'
   - key: com.github.imas.rdflint.validator.impl.notmatchedGuessedDataType
     level: INFO
     locationType: TRIPLE
     subject: https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Senkawa_Chihiro
     predicate: http://schema.org/weight
-    object: '"ひ・み・つ"'
+    object: '"ひ・み・つ"@ja'
     message: 'DataType not matched: expected FLOAT, but STRING (triple: https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Senkawa_Chihiro
-        - http://schema.org/weight - "ひ・み・つ")'
+        - http://schema.org/weight - "ひ・み・つ"@ja)'
   - key: com.github.imas.rdflint.validator.impl.notmatchedGuessedDataType
     level: INFO
     locationType: TRIPLE
     subject: https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Otonashi_Kotori
     predicate: http://xmlns.com/foaf/0.1/age
-    object: '"?"'
+    object: '"?"@ja'
     message: 'DataType not matched: expected NATURAL, but STRING (triple: https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Otonashi_Kotori
-        - http://xmlns.com/foaf/0.1/age - "?")'
+        - http://xmlns.com/foaf/0.1/age - "?"@ja)'
   - key: com.github.imas.rdflint.validator.impl.notmatchedGuessedDataType
     level: INFO
     locationType: TRIPLE
     subject: https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Saito_Takashi
     predicate: http://xmlns.com/foaf/0.1/age
-    object: '"ナイスミドル"'
+    object: '"ナイスミドル"@ja'
     message: 'DataType not matched: expected NATURAL, but STRING (triple: https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Saito_Takashi
-        - http://xmlns.com/foaf/0.1/age - "ナイスミドル")'
+        - http://xmlns.com/foaf/0.1/age - "ナイスミドル"@ja)'
