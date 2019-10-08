@@ -133,9 +133,9 @@ RDFs/SideM.rdf:
     locationType: TRIPLE
     subject: https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Tsuzuki_Kei
     predicate: http://xmlns.com/foaf/0.1/age
-    object: '"??"'
+    object: '"??"@ja'
     message: 'DataType not matched: expected NATURAL, but STRING (triple: https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Tsuzuki_Kei
-        - http://xmlns.com/foaf/0.1/age - "??")'
+        - http://xmlns.com/foaf/0.1/age - "??"@ja)'
 RDFs/Staff.rdf:
   - key: com.github.imas.rdflint.validator.impl.notmatchedGuessedDataType
     level: INFO
