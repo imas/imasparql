@@ -114,7 +114,7 @@
     <schema:name xml:lang="ja">齋藤孝司</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">齋藤孝司</rdfs:label>
     <schema:name xml:lang="en">Saito Takashi</schema:name>
-    <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ナイスミドル</foaf:age>
+    <foaf:age xml:lang="ja">ナイスミドル</foaf:age>
     <imas:cv xml:lang="ja">立木文彦</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/立木文彦"/>
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q1142856"/>
@@ -170,7 +170,7 @@
     <schema:name xml:lang="ja">音無小鳥</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">音無小鳥</rdfs:label>
     <schema:name xml:lang="en">Otonashi Kotori</schema:name>
-    <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#string">?</foaf:age>
+    <foaf:age xml:lang="ja">?</foaf:age>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">159.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">49.0</schema:weight>
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--09-09</schema:birthDate>
@@ -201,9 +201,9 @@
     <schema:name xml:lang="ja">千川ちひろ</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">千川ちひろ</rdfs:label>
     <schema:name xml:lang="en">Senkawa Chihiro</schema:name>
-    <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#string">?</foaf:age>
+    <foaf:age xml:lang="ja">?</foaf:age>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">154.0</schema:height>
-    <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ひ・み・つ</schema:weight>
+    <schema:weight xml:lang="ja">ひ・み・つ</schema:weight>
     <imas:Bust rdf:datatype="http://www.w3.org/2001/XMLSchema#float">82.0</imas:Bust>
     <imas:Waist rdf:datatype="http://www.w3.org/2001/XMLSchema#float">58.0</imas:Waist>
     <imas:Hip rdf:datatype="http://www.w3.org/2001/XMLSchema#float">84.0</imas:Hip>
