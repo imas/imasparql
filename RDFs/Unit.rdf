@@ -9436,6 +9436,13 @@
     <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Hisakawa_Hayate"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
+  <rdf:Description rdf:about="detail/%E3%83%95%E3%83%A5%E3%83%BC%E3%83%81%E3%83%A3%E3%83%BC%E2%98%86%E3%82%A2%E3%83%83%E3%83%97">
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">フューチャー☆アップ</schema:name>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Yuuki_Haru"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Sasaki_Chie"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Matoba_Risa"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Koga_Koharu"/>
+  </rdf:Description>
 
   <!--SideM-->
   <rdf:Description rdf:about="detail/Jupiter">
