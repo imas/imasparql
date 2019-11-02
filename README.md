@@ -13,7 +13,6 @@
 Fusekiでは、Configureの.ttlファイルにファイルを登録することで使えるようになります。  
 参考：https://jena.apache.org/documentation/fuseki2/fuseki-configuration.html#dataset
 
-
 # Discussion
 [IM@Study](https://imas-hack.herokuapp.com/)のSlackのimasparqlチャンネルにて、時たま話し合いが行われています。  
 みなさまのご意見や要望も募集しています。  
