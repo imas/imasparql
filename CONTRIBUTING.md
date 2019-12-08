@@ -38,10 +38,12 @@ DB整備に協力してくれるみなさまへ
 ### 検証
 CircleCIが走るようになりました。  
 チェックが通るまで頑張ってください。  
-チェックが通ったらマージまでお待ち下さい。
+チェックが通ったらマージまでお待ち下さい。  
+**Special Thanks**  
+[rdflint](https://imas.github.io/rdflint/)
 
 ### 手元のPCでのクエリ検証
-rdflintを利用すると、手元のPCでクエリの実行確認が出来ます。  
+[rdflint](https://imas.github.io/rdflint/)を利用すると、手元のPCでクエリの実行確認が出来ます。  
 [RDFデータのチェックツール「rdflint」の利用ガイド](https://imas.github.io/rdflint/)を参照してセットアップして下さい。  
 セットアップが出来たらインタラクティブモードで起動します。  
 SPARQLプロンプトが表示されるのでクエリを入力して確認します。
