@@ -50,6 +50,16 @@ imas:Staff                      a   rdfs:Class ;
     rdfs:label                      "スタッフ"@ja ;
     rdfs:subClassOf                 imas:Character .
 
+imas:XenoglossiaIdol            a   rdfs:Class ;
+    rdfs:comment                    "Xenoglossiaのアイドルを表すクラス" ;
+    rdfs:label                      "Xenoglossiaキャラクター"@ja ;
+    rdfs:subClassOf                 imas:Character .
+
+imas:imas:XenoglossiaCharacter  a   rdfs:Class ;
+    rdfs:comment                    "Xenoglossiaのオリジナルキャラクターを表すクラス" ;
+    rdfs:label                      "Xenoglossiaキャラクター"@ja ;
+    rdfs:subClassOf                 imas:Character .
+
 imas:Unit                       a   rdfs:Class ;
     rdfs:comment                    "ユニットを表すクラス" ;
     rdfs:label                      "ユニット"@ja ;
