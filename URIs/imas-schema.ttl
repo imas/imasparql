@@ -55,7 +55,7 @@ imas:XenoglossiaIdol            a   rdfs:Class ;
     rdfs:label                      "Xenoglossiaキャラクター"@ja ;
     rdfs:subClassOf                 imas:Character .
 
-imas:imas:XenoglossiaCharacter  a   rdfs:Class ;
+imas:XenoglossiaCharacter       a   rdfs:Class ;
     rdfs:comment                    "Xenoglossiaのオリジナルキャラクターを表すクラス" ;
     rdfs:label                      "Xenoglossiaキャラクター"@ja ;
     rdfs:subClassOf                 imas:Character .
