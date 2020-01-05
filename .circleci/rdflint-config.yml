@@ -50,3 +50,16 @@ rules:
           log.warn("姓名, 姓+名が不一致: " + nm + " != " + jn.join("|"))
         }
       }
+
+validation:
+  fileEncoding:
+    - target: "*"
+      charset: utf-8
+      end_of_line: lf
+      indent_style: space
+      insert_final_newline: true
+      trim_trailing_whitespace: true
+    - target: "*.rdf"
+      indent_size: 2
+    - target: "*.ttl"
+      indent_size: 4

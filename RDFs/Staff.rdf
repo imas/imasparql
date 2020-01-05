@@ -43,7 +43,7 @@
     <imas:Hobby xml:lang="ja">影踏み</imas:Hobby>
     <imas:cv xml:lang="ja">徳丸完</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/徳丸完"/>
-    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q11489483"/>
+    <imas:cv rdf:resource="http://www.wikidata.org/entity/Q11489483"/>
     <schema:gender xml:lang="en">male</schema:gender>
     <schema:memberOf xml:lang="en">765Staff</schema:memberOf>
     <schema:position xml:lang="ja">会長</schema:position>
@@ -70,7 +70,7 @@
     <imas:Hobby xml:lang="ja">カゲ絵</imas:Hobby>
     <imas:cv xml:lang="ja">大塚芳忠</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/大塚芳忠"/>
-    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q520669"/>
+    <imas:cv rdf:resource="http://www.wikidata.org/entity/Q520669"/>
     <schema:gender xml:lang="en">male</schema:gender>
     <schema:memberOf xml:lang="en">765Staff</schema:memberOf>
     <schema:position xml:lang="ja">社長</schema:position>
@@ -97,7 +97,7 @@
     <imas:Hobby xml:lang="ja">フランス語</imas:Hobby>
     <imas:cv xml:lang="ja">子安武人</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/子安武人"/>
-    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q464348"/>
+    <imas:cv rdf:resource="http://www.wikidata.org/entity/Q464348"/>
     <schema:gender xml:lang="en">male</schema:gender>
     <schema:memberOf xml:lang="en">961Staff</schema:memberOf>
     <schema:position xml:lang="ja">社長</schema:position>
@@ -114,10 +114,10 @@
     <schema:name xml:lang="ja">齋藤孝司</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">齋藤孝司</rdfs:label>
     <schema:name xml:lang="en">Saito Takashi</schema:name>
-    <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ナイスミドル</foaf:age>
+    <foaf:age xml:lang="ja">ナイスミドル</foaf:age>
     <imas:cv xml:lang="ja">立木文彦</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/立木文彦"/>
-    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q1142856"/>
+    <imas:cv rdf:resource="http://www.wikidata.org/entity/Q1142856"/>
     <schema:gender xml:lang="en">male</schema:gender>
     <schema:memberOf xml:lang="en">315Staff</schema:memberOf>
     <schema:position xml:lang="ja">社長</schema:position>
@@ -152,7 +152,7 @@
     <schema:name xml:lang="en">Amai Tsutomu</schema:name>
     <imas:cv xml:lang="ja">津田健次郎</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/津田健次郎"/>
-    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q1255370"/>
+    <imas:cv rdf:resource="http://www.wikidata.org/entity/Q1255370"/>
     <schema:gender xml:lang="en">male</schema:gender>
     <schema:memberOf xml:lang="en">283Staff</schema:memberOf>
     <schema:position xml:lang="ja">社長</schema:position>
@@ -170,7 +170,7 @@
     <schema:name xml:lang="ja">音無小鳥</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">音無小鳥</rdfs:label>
     <schema:name xml:lang="en">Otonashi Kotori</schema:name>
-    <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#string">?</foaf:age>
+    <foaf:age xml:lang="ja">?</foaf:age>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">159.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">49.0</schema:weight>
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--09-09</schema:birthDate>
@@ -184,7 +184,7 @@
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">FFF09F</imas:Color>
     <imas:cv xml:lang="ja">滝田樹里</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/滝田樹里"/>
-    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q11565277"/>
+    <imas:cv rdf:resource="http://www.wikidata.org/entity/Q11565277"/>
     <schema:gender xml:lang="en">female</schema:gender>
     <schema:memberOf xml:lang="en">765Staff</schema:memberOf>
     <schema:position xml:lang="ja">事務員</schema:position>
@@ -201,9 +201,9 @@
     <schema:name xml:lang="ja">千川ちひろ</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">千川ちひろ</rdfs:label>
     <schema:name xml:lang="en">Senkawa Chihiro</schema:name>
-    <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#string">?</foaf:age>
+    <foaf:age xml:lang="ja">?</foaf:age>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">154.0</schema:height>
-    <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ひ・み・つ</schema:weight>
+    <schema:weight xml:lang="ja">ひ・み・つ</schema:weight>
     <imas:Bust rdf:datatype="http://www.w3.org/2001/XMLSchema#float">82.0</imas:Bust>
     <imas:Waist rdf:datatype="http://www.w3.org/2001/XMLSchema#float">58.0</imas:Waist>
     <imas:Hip rdf:datatype="http://www.w3.org/2001/XMLSchema#float">84.0</imas:Hip>
@@ -215,7 +215,7 @@
     <imas:Hobby xml:lang="ja">パーティ</imas:Hobby>
     <imas:cv xml:lang="ja">佐藤利奈</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/佐藤利奈"/>
-    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q1371716"/>
+    <imas:cv rdf:resource="http://www.wikidata.org/entity/Q1371716"/>
     <schema:gender xml:lang="en">female</schema:gender>
     <schema:memberOf xml:lang="en">CinderellaGirlsStaff</schema:memberOf>
     <schema:birthPlace xml:lang="ja">東京</schema:birthPlace>
@@ -243,7 +243,7 @@
     <imas:ShoeSize rdf:datatype="http://www.w3.org/2001/XMLSchema#float">26.0</imas:ShoeSize>
     <imas:cv xml:lang="ja">河西健吾</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/河西健吾"/>
-    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q11554087"/>
+    <imas:cv rdf:resource="http://www.wikidata.org/entity/Q11554087"/>
     <imas:Hobby xml:lang="ja">釣り</imas:Hobby>
     <imas:Talent xml:lang="ja">暗算</imas:Talent>
     <schema:gender xml:lang="en">male</schema:gender>
@@ -262,12 +262,12 @@
     <schema:name xml:lang="ja">青羽美咲</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">青羽美咲</rdfs:label>
     <schema:name xml:lang="en">Aoba Misaki</schema:name>
-    <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20</foaf:age>
+    <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</foaf:age>
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--06-29</schema:birthDate>
     <imas:Constellation xml:lang="ja">蟹座</imas:Constellation>
     <imas:cv xml:lang="ja">安済知佳</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/安済知佳"/>
-    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q11450941"/>
+    <imas:cv rdf:resource="http://www.wikidata.org/entity/Q11450941"/>
     <schema:gender xml:lang="en">female</schema:gender>
     <schema:memberOf xml:lang="en">765Staff</schema:memberOf>
     <schema:position xml:lang="ja">事務員</schema:position>
@@ -288,7 +288,7 @@
     <imas:Constellation xml:lang="ja">水瓶座</imas:Constellation>
     <imas:cv xml:lang="ja">山村響</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/山村響"/>
-    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q11469493"/>
+    <imas:cv rdf:resource="http://www.wikidata.org/entity/Q11469493"/>
     <schema:gender xml:lang="en">female</schema:gender>
     <schema:memberOf xml:lang="en">283Staff</schema:memberOf>
     <schema:birthPlace xml:lang="ja">埼玉</schema:birthPlace>
@@ -343,7 +343,7 @@
     <imas:Constellation xml:lang="ja">射手座</imas:Constellation>
     <imas:cv xml:lang="ja">藤村歩</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/藤村歩"/>
-    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q1370758"/>
+    <imas:cv rdf:resource="http://www.wikidata.org/entity/Q1370758"/>
     <schema:birthPlace xml:lang="ja">栃木</schema:birthPlace>
     <imas:Hobby xml:lang="ja">スポーツドリンクの自作</imas:Hobby>
     <schema:position xml:lang="ja">トレーナー</schema:position>
@@ -379,7 +379,7 @@
     <imas:Constellation xml:lang="ja">乙女座</imas:Constellation>
     <imas:cv xml:lang="ja">藤村歩</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/藤村歩"/>
-    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q1370758"/>
+    <imas:cv rdf:resource="http://www.wikidata.org/entity/Q1370758"/>
     <schema:birthPlace xml:lang="ja">栃木</schema:birthPlace>
     <imas:Hobby xml:lang="ja">デイトレード</imas:Hobby>
     <schema:position xml:lang="ja">トレーナー</schema:position>
@@ -413,7 +413,7 @@
     <imas:Constellation xml:lang="ja">双子座</imas:Constellation>
     <imas:cv xml:lang="ja">藤村歩</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/藤村歩"/>
-    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q1370758"/>
+    <imas:cv rdf:resource="http://www.wikidata.org/entity/Q1370758"/>
     <schema:birthPlace xml:lang="ja">栃木</schema:birthPlace>
     <imas:Hobby xml:lang="ja">早朝ランニング</imas:Hobby>
     <schema:position xml:lang="ja">トレーナー</schema:position>
@@ -447,7 +447,7 @@
     <imas:Constellation xml:lang="ja">魚座</imas:Constellation>
     <imas:cv xml:lang="ja">藤村歩</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/藤村歩"/>
-    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q1370758"/>
+    <imas:cv rdf:resource="http://www.wikidata.org/entity/Q1370758"/>
     <schema:birthPlace xml:lang="ja">栃木</schema:birthPlace>
     <imas:Hobby xml:lang="ja">ジム通い</imas:Hobby>
     <schema:position xml:lang="ja">トレーナー</schema:position>

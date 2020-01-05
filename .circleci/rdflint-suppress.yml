@@ -1,0 +1,179 @@
+RDFs/CinderellaGirls.rdf:
+  - key: com.github.imas.rdflint.validator.impl.predictedOutlier
+    level: INFO
+    locationType: TRIPLE
+    subject: https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Oikawa_Shizuku
+    predicate: https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Bust
+    object: '"105.0"^^http://www.w3.org/2001/XMLSchema#float'
+    message: 'Outlier found: 105 (triple: https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Oikawa_Shizuku
+        - https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Bust - "105.0"^^http://www.w3.org/2001/XMLSchema#float)'
+  - key: com.github.imas.rdflint.validator.impl.notmatchedGuessedDataType
+    level: INFO
+    locationType: TRIPLE
+    subject: https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Sato_Shin
+    predicate: https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Waist
+    object: '"きゅっ"@ja'
+    message: 'DataType not matched: expected FLOAT, but STRING (triple: https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Sato_Shin
+        - https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Waist - "きゅっ"@ja)'
+  - key: com.github.imas.rdflint.validator.impl.notmatchedGuessedDataType
+    level: INFO
+    locationType: TRIPLE
+    subject: https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Sato_Shin
+    predicate: https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Bust
+    object: '"ぼんっ"@ja'
+    message: 'DataType not matched: expected FLOAT, but STRING (triple: https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Sato_Shin
+        - https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Bust - "ぼんっ"@ja)'
+  - key: com.github.imas.rdflint.validator.impl.notmatchedGuessedDataType
+    level: INFO
+    locationType: TRIPLE
+    subject: https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Sato_Shin
+    predicate: http://schema.org/weight
+    object: '"ダイエットちゅう"@ja'
+    message: 'DataType not matched: expected FLOAT, but STRING (triple: https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Sato_Shin
+        - http://schema.org/weight - "ダイエットちゅう"@ja)'
+  - key: com.github.imas.rdflint.validator.impl.notmatchedGuessedDataType
+    level: INFO
+    locationType: TRIPLE
+    subject: https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Sato_Shin
+    predicate: https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Hip
+    object: '"ぼんっ♪"@ja'
+    message: 'DataType not matched: expected FLOAT, but STRING (triple: https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Sato_Shin
+        - https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Hip - "ぼんっ♪"@ja)'
+  - key: com.github.imas.rdflint.validator.impl.notmatchedGuessedDataType
+    level: INFO
+    locationType: TRIPLE
+    subject: https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Yumemi_Riamu
+    predicate: https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Waist
+    object: '"ふつう"@ja'
+    message: 'DataType not matched: expected FLOAT, but STRING (triple: https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Yumemi_Riamu
+        - https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Waist - "ふつう"@ja)'
+  - key: com.github.imas.rdflint.validator.impl.notmatchedGuessedDataType
+    level: INFO
+    locationType: TRIPLE
+    subject: https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Yumemi_Riamu
+    predicate: http://schema.org/weight
+    object: '"リンゴたくさん"@ja'
+    message: 'DataType not matched: expected FLOAT, but STRING (triple: https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Yumemi_Riamu
+        - http://schema.org/weight - "リンゴたくさん"@ja)'
+  - key: com.github.imas.rdflint.validator.impl.notmatchedGuessedDataType
+    level: INFO
+    locationType: TRIPLE
+    subject: https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Yumemi_Riamu
+    predicate: https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Bust
+    object: '"でっかい"@ja'
+    message: 'DataType not matched: expected FLOAT, but STRING (triple: https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Yumemi_Riamu
+        - https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Bust - "でっかい"@ja)'
+  - key: com.github.imas.rdflint.validator.impl.notmatchedGuessedDataType
+    level: INFO
+    locationType: TRIPLE
+    subject: https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Yumemi_Riamu
+    predicate: https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Hip
+    object: '"たぶんふつう"@ja'
+    message: 'DataType not matched: expected FLOAT, but STRING (triple: https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Yumemi_Riamu
+        - https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Hip - "たぶんふつう"@ja)'
+  - key: com.github.imas.rdflint.validator.impl.notmatchedGuessedDataType
+    level: INFO
+    locationType: TRIPLE
+    subject: https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Abe_Nana
+    predicate: http://xmlns.com/foaf/0.1/age
+    object: '"永遠の17"@ja'
+    message: 'DataType not matched: expected NATURAL, but STRING (triple: https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Abe_Nana
+        - http://xmlns.com/foaf/0.1/age - "永遠の17"@ja)'
+  - key: com.github.imas.rdflint.validator.impl.notmatchedGuessedDataType
+    level: INFO
+    locationType: TRIPLE
+    subject: https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Ohnuma_Kurumi
+    predicate: https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Waist
+    object: '"ふつう"@ja'
+    message: 'DataType not matched: expected FLOAT, but STRING (triple: https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Ohnuma_Kurumi
+        - https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Waist - "ふつう"@ja)'
+  - key: com.github.imas.rdflint.validator.impl.notmatchedGuessedDataType
+    level: INFO
+    locationType: TRIPLE
+    subject: https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Ohnuma_Kurumi
+    predicate: https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Bust
+    object: '"おっきい"@ja'
+    message: 'DataType not matched: expected FLOAT, but STRING (triple: https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Ohnuma_Kurumi
+        - https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Bust - "おっきい"@ja)'
+  - key: com.github.imas.rdflint.validator.impl.notmatchedGuessedDataType
+    level: INFO
+    locationType: TRIPLE
+    subject: https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Ohnuma_Kurumi
+    predicate: https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Hip
+    object: '"まぁまぁ"@ja'
+    message: 'DataType not matched: expected FLOAT, but STRING (triple: https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Ohnuma_Kurumi
+        - https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Hip - "まぁまぁ"@ja)'
+  - key: com.github.imas.rdflint.validator.impl.notmatchedGuessedDataType
+    level: INFO
+    locationType: TRIPLE
+    subject: https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Futaba_Anzu
+    predicate: https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Bust
+    object: '"？"@ja'
+    message: 'DataType not matched: expected FLOAT, but STRING (triple: https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Futaba_Anzu
+        - https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Bust - "？"@ja)'
+  - key: com.github.imas.rdflint.validator.impl.notmatchedGuessedDataType
+    level: INFO
+    locationType: TRIPLE
+    subject: https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Futaba_Anzu
+    predicate: https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Waist
+    object: '"？"@ja'
+    message: 'DataType not matched: expected FLOAT, but STRING (triple: https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Futaba_Anzu
+        - https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Waist - "？"@ja)'
+  - key: com.github.imas.rdflint.validator.impl.notmatchedGuessedDataType
+    level: INFO
+    locationType: TRIPLE
+    subject: https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Futaba_Anzu
+    predicate: https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Hip
+    object: '"？"@ja'
+    message: 'DataType not matched: expected FLOAT, but STRING (triple: https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Futaba_Anzu
+        - https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Hip - "？"@ja)'
+RDFs/SideM.rdf:
+  - key: com.github.imas.rdflint.validator.impl.notmatchedGuessedDataType
+    level: INFO
+    locationType: TRIPLE
+    subject: https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Tsuzuki_Kei
+    predicate: http://xmlns.com/foaf/0.1/age
+    object: '"??"@ja'
+    message: 'DataType not matched: expected NATURAL, but STRING (triple: https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Tsuzuki_Kei
+        - http://xmlns.com/foaf/0.1/age - "??"@ja)'
+RDFs/Staff.rdf:
+  - key: com.github.imas.rdflint.validator.impl.notmatchedGuessedDataType
+    level: INFO
+    locationType: TRIPLE
+    subject: https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Senkawa_Chihiro
+    predicate: http://xmlns.com/foaf/0.1/age
+    object: '"?"@ja'
+    message: 'DataType not matched: expected NATURAL, but STRING (triple: https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Senkawa_Chihiro
+        - http://xmlns.com/foaf/0.1/age - "?"@ja)'
+  - key: com.github.imas.rdflint.validator.impl.notmatchedGuessedDataType
+    level: INFO
+    locationType: TRIPLE
+    subject: https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Senkawa_Chihiro
+    predicate: http://schema.org/weight
+    object: '"ひ・み・つ"@ja'
+    message: 'DataType not matched: expected FLOAT, but STRING (triple: https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Senkawa_Chihiro
+        - http://schema.org/weight - "ひ・み・つ"@ja)'
+  - key: com.github.imas.rdflint.validator.impl.notmatchedGuessedDataType
+    level: INFO
+    locationType: TRIPLE
+    subject: https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Otonashi_Kotori
+    predicate: http://xmlns.com/foaf/0.1/age
+    object: '"?"@ja'
+    message: 'DataType not matched: expected NATURAL, but STRING (triple: https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Otonashi_Kotori
+        - http://xmlns.com/foaf/0.1/age - "?"@ja)'
+  - key: com.github.imas.rdflint.validator.impl.notmatchedGuessedDataType
+    level: INFO
+    locationType: TRIPLE
+    subject: https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Saito_Takashi
+    predicate: http://xmlns.com/foaf/0.1/age
+    object: '"ナイスミドル"@ja'
+    message: 'DataType not matched: expected NATURAL, but STRING (triple: https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Saito_Takashi
+        - http://xmlns.com/foaf/0.1/age - "ナイスミドル"@ja)'
+  - key: com.github.imas.rdflint.validator.impl.notmatchedGuessedDataType
+    level: INFO
+    locationType: TRIPLE
+    subject: https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Riffa
+    predicate: http://schema.org/height
+    object: '"unknown"'
+    message: 'DataType not matched: expected FLOAT, but STRING (triple: https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Riffa
+        - http://schema.org/height - "unknown")'

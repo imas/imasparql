@@ -1,0 +1,259 @@
+PREFIX imas-shape: <https://sparql.crssnky.xyz/imasrdf/constrains/>
+PREFIX schema: <http://schema.org/>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX imas: <https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#>
+PREFIX foaf: <http://xmlns.com/foaf/0.1/>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX sh: <http://www.w3.org/ns/shacl#>
+
+imas-shape:IdolShape a sh:NodeShape;
+    sh:targetClass imas:Idol;
+    sh:property [
+        rdfs:label "アイドルの登場するコンテンツのタイトルの制約";
+        sh:path imas:Title;
+        sh:datatype rdf:langString;
+        sh:minCount 1;
+    ];
+    sh:property [
+        rdfs:label "アイドルのプロフィール等に書かれている名前の制約";
+        rdfs:comment "絶対に一つだけ存在する(maxCount 1, minCount 1)、ロコはロコであって伴田路子ではない";
+        sh:path rdfs:label;
+        sh:datatype xsd:string;
+        sh:minCount 1;
+        sh:maxCount 1;
+    ];
+    sh:property [
+        rdfs:label "アイドルの本名の制約";
+        rdfs:comment "ジュリア、アスラン=BBⅡ世とか本名がわかってないアイドルが何人かいるため数の制限はなく、日本語と英語表記一つづつ存在する想定のため、uniqueLang=true";
+        sh:path schema:name;
+        sh:datatype rdf:langString;
+        sh:uniqueLang true;
+    ];
+    sh:property [
+        rdfs:label "本名の仮名の制約";
+        rdfs:comment "仮名は日本語なのでlang=ja";
+        sh:path imas:nameKana;
+        sh:datatype rdf:langString;
+        sh:languageIn ("ja");
+        sh:maxCount 1;
+    ];
+    sh:property [
+        rdfs:label "下の名前の制約";
+        rdfs:comment "日本語、英語表記一つづつ存在する想定のため、uniqueLang=true";
+        sh:path schema:givenName;
+        sh:datatype rdf:langString;
+        sh:uniqueLang true;
+    ];
+    sh:property [
+        rdfs:label "上の名前の制約";
+        rdfs:comment "日本語、英語表記一つづつ存在する想定のため、uniqueLang=true";
+        sh:path schema:familyName;
+        sh:datatype rdf:langString;
+        sh:uniqueLang true;
+    ];
+    sh:property [
+        rdfs:label "下の名前の仮名の制約";
+        rdfs:comment "仮名は日本語なのでlang=ja";
+        sh:path imas:givenNameKana;
+        sh:datatype rdf:langString;
+        sh:languageIn ("ja");
+    ];
+    sh:property [
+        rdfs:label "上の名前の仮名の制約";
+        rdfs:comment "仮名は日本語なのでlang=ja";
+        sh:path imas:familyNameKana;
+        sh:datatype rdf:langString;
+        sh:languageIn ("ja");
+    ];
+    sh:property [
+        rdfs:label "性別の制約";
+        rdfs:comment "femaleかmaleのみで、性別は必ず一つだけ存在する";
+        sh:path schema:gender;
+        sh:datatype xsd:string;
+        sh:in ("female" "male");
+        sh:minCount 1;
+        sh:maxCount 1;
+    ];
+    sh:property [
+        rdfs:label "テーマカラーの制約";
+        rdfs:comment "最大一つだけ存在して、目的語の型はhexBinary";
+        sh:path imas:Color;
+        sh:datatype xsd:hexBinary;
+        sh:maxCount 1;
+    ];
+    sh:property [
+        rdfs:label "体重の制約";
+        rdfs:comment "何人かのアイドルは体重が数値じゃない";
+        sh:path schema:weight;
+        sh:xone (
+            [
+                sh:datatype xsd:float;
+                sh:minExclusive 0;
+            ]
+            [
+                sh:datatype rdf:langString;
+                sh:languageIn ("ja")
+            ]
+        );
+        sh:maxCount 1;
+    ];
+    sh:property [
+        rdfs:label "身長の制約";
+        rdfs:comment "何人かのアイドルは身長が数値じゃない";
+        sh:path schema:height;
+        sh:xone (
+            [
+                sh:datatype xsd:float;
+                sh:minExclusive 0;
+            ]
+            [
+                sh:datatype rdf:langString;
+                sh:languageIn ("ja")
+            ]
+        );
+        sh:maxCount 1;
+    ];
+    sh:property [
+        rdfs:label "胸囲の制約";
+        rdfs:comment "何人かのアイドルは胸囲が数値じゃない";
+        sh:path imas:Bust;
+        sh:xone (
+            [
+                sh:datatype xsd:float;
+                sh:minExclusive 0;
+            ]
+            [
+                sh:datatype rdf:langString;
+                sh:languageIn ("ja")
+            ]
+        );
+        sh:maxCount 1;
+    ];
+    sh:property [
+        rdfs:label "腹囲の制約";
+        rdfs:comment "何人かのアイドルは腹囲が数値じゃない";
+        sh:path imas:Waist;
+        sh:xone (
+            [
+                sh:datatype xsd:float;
+                sh:minExclusive 0;
+            ]
+            [
+                sh:datatype rdf:langString;
+                sh:languageIn ("ja")
+            ]
+        );
+        sh:maxCount 1;
+    ];
+    sh:property [
+        rdfs:label "腰囲の制約";
+        rdfs:comment "何人かのアイドルは腰囲が数値じゃない";
+        sh:path imas:Hip;
+        sh:xone (
+            [
+                sh:datatype xsd:float;
+                sh:minExclusive 0;
+            ]
+            [
+                sh:datatype rdf:langString;
+                sh:languageIn ("ja")
+            ]
+        );
+        sh:maxCount 1;
+    ];
+    sh:property [
+        rdfs:label "特技の制約";
+        rdfs:comment "今の所英語で特技を書くアイドルはいないので日本語のみ受け入れ、アイドルによっては複数あるので数の制限はない";
+        sh:path imas:Talent;
+        sh:datatype rdf:langString;
+        sh:languageIn ("ja");
+    ];
+    sh:property [
+        rdfs:label "誕生日の制約";
+        sh:path schema:birthDate;
+        sh:datatype xsd:gMonthDay;
+        sh:maxCount 1;
+    ];
+    sh:property [
+        rdfs:label "出身の制約";
+        sh:path schema:birthPlace;
+        sh:datatype rdf:langString;
+        sh:maxCount 1;
+    ];
+    sh:property [
+        rdfs:label "年齢の制約";
+        rdfs:comment "何人かのアイドルは年齢が数値じゃない";
+        sh:path foaf:age;
+        sh:xone (
+            [
+                sh:datatype xsd:integer;
+                sh:minInclusive 0;
+            ]
+            [
+                sh:datatype rdf:langString;
+                sh:languageIn ("ja")
+            ]
+        );
+        sh:maxCount 1;
+    ];
+    sh:property [
+        rdfs:label "血液型の制約";
+        rdfs:comment "牙崎漣が血液型不明なので、仕方なく「不明」も許容";
+        sh:path imas:BloodType;
+        sh:datatype xsd:string;
+        sh:in ("A" "B" "O" "AB" "不明");
+        sh:maxCount 1;
+    ];
+    sh:property [
+        rdfs:label "利き手の制約";
+        rdfs:comment "両手利きもいるのでbothも許容";
+        sh:path imas:Handedness;
+        sh:datatype xsd:string;
+        sh:in ("right" "left" "both");
+        sh:maxCount 1;
+    ];
+    sh:property [
+        rdfs:label "星座の制約";
+        rdfs:comment "今の所変なことを書いてるのは双葉杏だけ、増えてきたらちょっと考える";
+        sh:path imas:Constellation;
+        sh:datatype rdf:langString;
+        sh:in (
+            "牡羊座"@ja
+            "牡牛座"@ja
+            "双子座"@ja
+            "蟹座"@ja
+            "獅子座"@ja
+            "乙女座"@ja
+            "天秤座"@ja
+            "蠍座"@ja
+            "射手座"@ja
+            "山羊座"@ja
+            "水瓶座"@ja
+            "魚座"@ja
+            # ここから例外パターン
+            "花も恥じらう乙女座"@ja
+        );
+        sh:languageIn ("ja");
+        sh:maxCount 1;
+    ];
+    sh:property [
+        rdfs:label "趣味の制約";
+        rdfs:comment "アイドルによっては複数あるので数の制限はない";
+        sh:path imas:Hobby;
+        sh:datatype rdf:langString;
+        sh:languageIn ("ja");
+    ];
+    sh:property [
+        rdfs:label "所属ユニットの制約";
+        rdfs:comment "目的語はimas:Unit";
+        sh:path schema:memberOf;
+        sh:class imas:Unit;
+    ];
+    sh:property [
+        rdfs:label "衣装の制約";
+        rdfs:comment "目的語はimas:Clothes";
+        sh:path schema:owns;
+        sh:class imas:Clothes;
+    ];
+    sh:closed false.
