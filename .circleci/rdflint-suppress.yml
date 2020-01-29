@@ -169,6 +169,7 @@ RDFs/Staff.rdf:
     object: '"ナイスミドル"@ja'
     message: 'DataType not matched: expected NATURAL, but STRING (triple: https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Saito_Takashi
         - http://xmlns.com/foaf/0.1/age - "ナイスミドル"@ja)'
+RDFs/Xenoglossia.rdf:
   - key: com.github.imas.rdflint.validator.impl.notmatchedGuessedDataType
     level: INFO
     locationType: TRIPLE
