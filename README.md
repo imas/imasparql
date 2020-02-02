@@ -20,6 +20,7 @@ Fusekiでは、Configureの.ttlファイルにファイルを登録すること�
 
 # Special Thanks
 - [rdflint](https://imas.github.io/rdflint/) from [みかみんさん](https://github.com/takemikami)  
-- [Contributorのみなさん](https://github.com/imas/imasparql/graphs/contributors)
+- [SHACL](https://www.w3.org/TR/shacl/)の導入 from [きりだるまさん](https://github.com/kiridaruma)  
+- [Contributorのみなさん](https://sparql.crssnky.xyz/imas/contributors/)
 
 and... You！

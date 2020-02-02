@@ -45,6 +45,11 @@ imas:Idol                       a   rdfs:Class ;
     rdfs:label                      "アイドル"@ja ;
     rdfs:subClassOf                 imas:Character .
 
+imas:Idol_1st                   a   rdfs:Class ;
+    rdfs:comment                    "1stVisionのアイドルを表すクラス" ;
+    rdfs:label                      "1stVisionのアイドル"@ja ;
+    rdfs:subClassOf                 imas:Character .
+
 imas:Staff                      a   rdfs:Class ;
     rdfs:comment                    "スタッフを表すクラス" ;
     rdfs:label                      "スタッフ"@ja ;
@@ -55,7 +60,7 @@ imas:XenoglossiaIdol            a   rdfs:Class ;
     rdfs:label                      "Xenoglossiaキャラクター"@ja ;
     rdfs:subClassOf                 imas:Character .
 
-imas:imas:XenoglossiaCharacter  a   rdfs:Class ;
+imas:XenoglossiaCharacter       a   rdfs:Class ;
     rdfs:comment                    "Xenoglossiaのオリジナルキャラクターを表すクラス" ;
     rdfs:label                      "Xenoglossiaキャラクター"@ja ;
     rdfs:subClassOf                 imas:Character .
