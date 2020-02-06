@@ -16,10 +16,10 @@ jobs:
     - uses: imas/setup-rdflint@v1
 
     - name: Run rdflint (Clothes_Own)
-      run: rdflint -config .github/Clothes_Own.yml
+      run: rdflint -config .rdflint/Clothes_Own.yml
 
     - name: Run rdflint (Unit_memberOf)
-      run: rdflint -config .github/Unit_memberOf.yml
+      run: rdflint -config .rdflint/Unit_memberOf.yml
 
     - name: Run rdflint
-      run: rdflint -config .github/rdflint-config.yml
+      run: rdflint -config .rdflint/rdflint-config.yml
