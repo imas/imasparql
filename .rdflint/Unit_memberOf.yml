@@ -9,6 +9,6 @@ generation:
         ?s rdf:type imas:Unit;
            schema:member ?m.
       }group by (?m) order by (?m)
-    template: .github/Unit_memberOf.rdf.template
+    template: .rdflint/Unit_memberOf.rdf.template
     output: RDFs/Unit_memberOf.rdf
-suppressPath: .github/rdflint-suppress.yml
+suppressPath: .rdflint/rdflint-suppress.yml

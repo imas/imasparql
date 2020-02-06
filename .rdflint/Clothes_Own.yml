@@ -9,6 +9,6 @@ generation:
         ?s rdf:type imas:Clothes;
            imas:Whose ?m.
       }group by (?m) order by ?m ?s
-    template: .github/Clothes_Own.rdf.template
+    template: .rdflint/Clothes_Own.rdf.template
     output: RDFs/Clothes_Own.rdf
-suppressPath: .github/rdflint-suppress.yml
+suppressPath: .rdflint/rdflint-suppress.yml
