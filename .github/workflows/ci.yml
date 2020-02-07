@@ -1,0 +1,25 @@
+name: CI
+on:
+  push:
+    branches:
+      - master
+  pull_request:
+
+jobs:
+  rdflint:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - uses: actions/setup-java@v1
+      with:
+        java-version: 11
+    - uses: imas/setup-rdflint@v1
+
+    - name: Run rdflint (Clothes_Own)
+      run: rdflint -config .rdflint/Clothes_Own.yml
+
+    - name: Run rdflint (Unit_memberOf)
+      run: rdflint -config .rdflint/Unit_memberOf.yml
+
+    - name: Run rdflint
+      run: rdflint -config .rdflint/rdflint-config.yml
