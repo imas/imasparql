@@ -50,7 +50,7 @@ rules:
           log.warn("姓名, 姓+名が不一致: " + nm + " != " + jn.join("|"))
         }
       }
-
+suppressPath: .rdflint/rdflint-suppress.yml
 validation:
   fileEncoding:
     - target: "*"
