@@ -1,0 +1,32 @@
+PREFIX imas-shape: <https://sparql.crssnky.xyz/imasrdf/constrains/>
+PREFIX schema: <http://schema.org/>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX imas: <https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#>
+PREFIX foaf: <http://xmlns.com/foaf/0.1/>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX sh: <http://www.w3.org/ns/shacl#>
+
+imas-shape:UnitShape a sh:NodeShape;
+    sh:targetClass imas:Unit;
+    sh:property [
+        rdfs:label "ユニットの名前の制約";
+        rdfs:comment "絶対に一つだけ存在する(maxCount 1, minCount 1)";
+        sh:path schema:name;
+        sh:datatype xsd:string;
+        sh:minCount 1;
+        sh:maxCount 1;
+    ];
+    sh:property [
+        rdfs:label "ユニットの別名の制約";
+        sh:path schema:alternateName;
+        sh:datatype xsd:string;
+    ];
+    sh:property [
+        rdfs:label "所属アイドルの成約";
+        rdfs:comment "目的語はimas:Idol、必ず一つは存在する";
+        sh:path schema:member;
+        sh:class imas:Idol;
+        sh:minCount 1;
+    ];
+    sh:closed false.
