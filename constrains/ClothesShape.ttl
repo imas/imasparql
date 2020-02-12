@@ -1,0 +1,34 @@
+PREFIX imas-shape: <https://sparql.crssnky.xyz/imasrdf/constrains/>
+PREFIX schema: <http://schema.org/>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX imas: <https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#>
+PREFIX foaf: <http://xmlns.com/foaf/0.1/>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX sh: <http://www.w3.org/ns/shacl#>
+
+imas-shape:ClothesShape a sh:NodeShape;
+    sh:targetClass imas:Clothes;
+    sh:property [
+        rdfs:label "衣装の名前の制約";
+        rdfs:comment "少なくとも１つ存在する、各言語に一つ説明が存在する";
+        sh:path schema:name;
+        sh:datatype rdf:langString;
+        sh:uniqueLang true;
+        sh:minCount 1;
+    ];
+    sh:property [
+        rdfs:label "衣装の説明の制約";
+        rdfs:comment "各言語に一つ説明が存在する";
+        sh:path schema:description;
+        sh:datatype rdf:langString;
+        sh:uniqueLang true;
+    ];
+    sh:property [
+        rdfs:label "衣装を着ているアイドルの制約";
+        rdfs:comment "少なくとも一つ存在する";
+        sh:path imas:Whose;
+        sh:class imas:Idol;
+        sh:minCount 1;
+    ];
+    sh:closed false.

@@ -1,0 +1,65 @@
+baseUri: https://sparql.crssnky.xyz/imasrdf/
+rules:
+  - name: 姓名整合(和文)
+    target: "RDFs/.*"
+    query: |
+      PREFIX schema: <http://schema.org/>
+      PREFIX imas: <https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#>
+      SELECT ?s ?fn ?gn ?nm ?fnk ?gnk ?nmk
+      WHERE {
+       ?s schema:familyName ?fn; schema:givenName ?gn; schema:name ?nm;
+         imas:familyNameKana ?fnk; imas:givenNameKana ?gnk; imas:nameKana ?nmk.
+       FILTER(LANG(?fn) = 'ja' && LANG(?gn) = 'ja' && LANG(?nm) = 'ja'
+         && LANG(?fnk) = 'ja' && LANG(?gnk) = 'ja' && LANG(?nmk) = 'ja')
+      }
+    valid: |
+      while(rs.hasNext()) {
+        r = rs.next()
+        jn = [r.getLiteral("fn").value + r.getLiteral("gn").value,
+              r.getLiteral("gn").value + r.getLiteral("fn").value,
+              r.getLiteral("gn").value + "・" + r.getLiteral("fn").value]
+        nm = r.getLiteral("nm").value
+        if (!(nm in jn)) {
+          log.warn("姓名, 姓+名が不一致: " + nm + " != " + jn.join("|"))
+        }
+
+        jnk = [r.getLiteral("fnk").value + r.getLiteral("gnk").value,
+               r.getLiteral("gnk").value + r.getLiteral("fnk").value,
+               r.getLiteral("gnk").value + "・" + r.getLiteral("fnk").value]
+        nmk = r.getLiteral("nmk").value
+        if (!(nmk in jnk)) {
+          log.warn("姓名, 姓+名が不一致(かな): " + nmk + " != " + jnk.join("|"))
+        }
+      }
+  - name: 姓名整合(英文)
+    target: "RDFs/.*"
+    query: |
+      PREFIX schema: <http://schema.org/>
+      SELECT ?s ?fn ?gn ?nm
+      WHERE {
+       ?s schema:familyName ?fn; schema:givenName ?gn; schema:name ?nm
+       FILTER(LANG(?fn) = 'en' && LANG(?gn) = 'en' && LANG(?nm) = 'en')
+      }
+    valid: |
+      while(rs.hasNext()) {
+        r = rs.next()
+        jn = [r.getLiteral("fn").value + " " + r.getLiteral("gn").value,
+              r.getLiteral("gn").value + " " + r.getLiteral("fn").value]
+        nm = r.getLiteral("nm").value
+        if (!(nm in jn)) {
+          log.warn("姓名, 姓+名が不一致: " + nm + " != " + jn.join("|"))
+        }
+      }
+suppressPath: .rdflint/rdflint-suppress.yml
+validation:
+  fileEncoding:
+    - target: "*"
+      charset: utf-8
+      end_of_line: lf
+      indent_style: space
+      insert_final_newline: true
+      trim_trailing_whitespace: true
+    - target: "*.rdf"
+      indent_size: 2
+    - target: "*.ttl"
+      indent_size: 4
