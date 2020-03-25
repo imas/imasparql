@@ -10498,4 +10498,14 @@
     <schema:description xml:lang="ja">「身に纏うは迷光、少女たちは偶像となる」実在と非実在を行き来するカリスマ的アイドルユニット。アイドルというアバターを身に纏い、歌うは真実か、狂気か。解き放たれた迷光が、今日も世界を奔る。</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
+  <rdf:Description rdf:about="detail/noctchill">
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">noctchill</schema:name>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Asakura_Toru"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Higuchi_Madoka"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Fukumaru_Koito"/>
+    <schema:member rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Ichikawa_Hinana"/>
+    <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">344A8F</imas:Color>
+    <schema:description xml:lang="ja">「さよなら、透明だった僕たち」幼なじみ4人で結成された、透明感あふれるアイドルユニット。誰かになる必要なんてない。──走り出す波を追って、少女たちは碧い風になる。</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
+  </rdf:Description>
 </rdf:RDF>
