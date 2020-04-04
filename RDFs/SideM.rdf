@@ -1390,9 +1390,12 @@
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">64.0</schema:weight>
     <imas:ShoeSize rdf:datatype="http://www.w3.org/2001/XMLSchema#float">26.5</imas:ShoeSize>
     <imas:Category xml:lang="ja">インテリ</imas:Category>
-    <imas:cv xml:lang="ja">徳武竜也</imas:cv>
-    <imas:cv rdf:resource="http://ja.dbpedia.org/resource/徳武竜也"/>
-    <imas:cv rdf:resource="http://www.wikidata.org/entity/Q26043911"/>
+    <imas:cv xml:lang="ja">比留間俊哉</imas:cv>
+    <imas:cv rdf:resource="http://ja.dbpedia.org/resource/比留間俊哉"/>
+    <imas:cv rdf:resource="http://www.wikidata.org/entity/Q48749453"/>
+    <imas:pastCv xml:lang="ja">徳武竜也</imas:pastCv>
+    <imas:pastCv rdf:resource="http://ja.dbpedia.org/resource/徳武竜也"/>
+    <imas:pastCv rdf:resource="http://www.wikidata.org/entity/Q26043911"/>
     <imas:Hobby xml:lang="ja">キャンプ</imas:Hobby>
     <imas:Hobby xml:lang="ja">読書</imas:Hobby>
     <imas:Talent xml:lang="ja">一度読んだ本の内容は大体覚えている</imas:Talent>
