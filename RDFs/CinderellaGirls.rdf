@@ -4601,6 +4601,9 @@
     <imas:Hip rdf:datatype="http://www.w3.org/2001/XMLSchema#float">77.0</imas:Hip>
     <imas:Constellation xml:lang="ja">魚座</imas:Constellation>
     <schema:birthPlace xml:lang="ja">山形</schema:birthPlace>
+    <imas:cv xml:lang="ja">長野佑紀</imas:cv>
+    <!--<imas:cv rdf:resource="http://ja.dbpedia.org/resource/長野佑紀"/>-->
+    <imas:cv rdf:resource="http://www.wikidata.org/entity/Q30108577"/>
     <imas:Hobby xml:lang="ja">いたずら</imas:Hobby>
   </rdf:Description>
 
