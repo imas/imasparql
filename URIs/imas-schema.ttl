@@ -59,6 +59,11 @@ imas:Facility                   a   rdfs:Class ;
     rdfs:label                      "施設"@ja ;
     rdfs:subClassOf                 schema:Place .
 
+imas:Production                 a   rdfs:Class ;
+    rdfs:comment                    "事務所を表すクラス" ;
+    rdfs:label                      "事務所"@ja ;
+    rdfs:subClassOf                 imas:Facility .
+
 imas:CinderellaRankingResult    a   rdfs:Class ;
     rdfs:comment                    "シンデレラガールズ総選挙結果を表すクラス" ;
     rdfs:label                      "シンデレラガールズ総選挙結果"@ja .
@@ -168,6 +173,10 @@ imas:Color              a   rdf:Property ;
 imas:cv                 a   rdf:Property ;
     rdfs:comment            "担当声優を表すプロパティ" ;
     rdfs:label              "担当声優"@ja .
+
+imas:pastCv             a   rdf:Property ;
+    rdfs:comment            "過去の担当声優を表すプロパティ" ;
+    rdfs:label              "過去の担当声優"@ja .
 
 imas:Constellation      a   rdf:Property ;
     rdfs:comment            "星座を表すプロパティ" ;
