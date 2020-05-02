@@ -3035,6 +3035,12 @@
     <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Hakozaki_Serika"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
+  <rdf:Description rdf:about="detail/Little_Conductor%2B%2B">
+    <schema:name xml:lang="ja">リトルコンダクター++</schema:name>
+    <schema:description xml:lang="ja">「リトルコンダクター」のアナザー２衣装です。</schema:description>
+    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Hakozaki_Serika"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
   <rdf:Description rdf:about="detail/Pure_Present">
     <schema:name xml:lang="ja">ピュアプレゼント</schema:name>
     <schema:description xml:lang="ja">包んだのは真心。可愛いリボンできゅっと結んで...。いつかキミがこの秘密のプレゼントを開けてくれる日を、ずっと待ってるよ。</schema:description>
@@ -3044,6 +3050,18 @@
   <rdf:Description rdf:about="detail/Pure_Present%2B">
     <schema:name xml:lang="ja">ピュアプレゼント+</schema:name>
     <schema:description xml:lang="ja">「ピュアプレゼント」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Hakozaki_Serika"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="detail/Shokashukusan">
+    <schema:name xml:lang="ja">笑花祝霰</schema:name>
+    <schema:description xml:lang="ja">これからもたくさんの楽しい事をみんなと過ごせますように...♪散りばめた花を広げるような、とびきりの福をお届けします！</schema:description>
+    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Hakozaki_Serika"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="detail/Shokashukusan%2B">
+    <schema:name xml:lang="ja">笑花祝霰+</schema:name>
+    <schema:description xml:lang="ja">「笑花祝霰」のアナザー衣装です。</schema:description>
     <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Hakozaki_Serika"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
@@ -3927,6 +3945,12 @@
     <schema:name xml:lang="ja">おとぎの国の少女衣装+</schema:name>
     <schema:description xml:lang="ja">「おとぎの国の少女衣装」のアナザー衣装です。</schema:description>
     <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Hakozaki_Serika"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="detail/Otoginokuni_No_Mahotsukai_Isho">
+    <schema:name xml:lang="ja">おとぎの国の魔法使い衣装</schema:name>
+    <schema:description xml:lang="ja">魔法が使えたって、私もひとりのかわいい女の子。真っ黒で地味〜なローブなんてイヤ！おしゃれも甘い恋も、諦めたくないのです。</schema:description>
+    <imas:Whose rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Tokugawa_Matsuri"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
   <!--デレステ共通衣装-->
