@@ -22281,7 +22281,13 @@
   <rdf:Description rdf:about="detail/Akizuki_Ritsuko_Producer">
     <imas:Source rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Akizuki_Ritsuko"/>
     <imas:Destination rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Producer"/>
-    <imas:Called xml:lang="ja">プロデューサー（殿）</imas:Called>
+    <imas:Called xml:lang="ja">プロデューサー殿</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="detail/Akizuki_Ritsuko_Producer">
+    <imas:Source rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Akizuki_Ritsuko"/>
+    <imas:Destination rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Producer"/>
+    <imas:Called xml:lang="ja">プロデューサー</imas:Called>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
   </rdf:Description>
   <rdf:Description rdf:about="detail/Akizuki_Ritsuko_Kasuga_Mirai">
