@@ -36258,12 +36258,6 @@
     <imas:Called xml:lang="ja">ロコ</imas:Called>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
   </rdf:Description>
-  <rdf:Description rdf:about="detail/Yokoyama_Nao_Handa_Roco">
-    <imas:Source rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Yokoyama_Nao"/>
-    <imas:Destination rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Handa_Roco"/>
-    <imas:Called xml:lang="ja">みちこ</imas:Called>
-    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
-  </rdf:Description>
   <rdf:Description rdf:about="detail/Yokoyama_Nao_Takagi_Junjiro">
     <imas:Source rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Yokoyama_Nao"/>
     <imas:Destination rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Takagi_Junjiro"/>
