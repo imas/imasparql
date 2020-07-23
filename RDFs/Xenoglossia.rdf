@@ -4,8 +4,9 @@
     xmlns:foaf="http://xmlns.com/foaf/0.1/"
     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
     xmlns:imas="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#"
-    xml:base="https://sparql.crssnky.xyz/imasrdf/RDFs/">
-  <rdf:Description rdf:about="detail/Amami_Haruka_Xenoglossia">
+    xml:base="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/">
+
+  <rdf:Description rdf:about="Amami_Haruka_Xenoglossia">
     <schema:familyName xml:lang="ja">天海</schema:familyName>
     <schema:familyName xml:lang="en">Amami</schema:familyName>
     <imas:familyNameKana xml:lang="ja">あまみ</imas:familyNameKana>
@@ -28,7 +29,7 @@
     <imas:Title xml:lang="en">Xenoglossia</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#XenoglossiaIdol"/>
   </rdf:Description>
-  <rdf:Description rdf:about="detail/Kisaragi_Chihaya_Xenoglossia">
+  <rdf:Description rdf:about="Kisaragi_Chihaya_Xenoglossia">
     <schema:familyName xml:lang="ja">如月</schema:familyName>
     <schema:familyName xml:lang="en">Kisaragi</schema:familyName>
     <imas:familyNameKana xml:lang="ja">きさらぎ</imas:familyNameKana>
@@ -51,7 +52,7 @@
     <imas:Title xml:lang="en">Xenoglossia</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#XenoglossiaIdol"/>
   </rdf:Description>
-  <rdf:Description rdf:about="detail/Hagiwara_Yukiho_Xenoglossia">
+  <rdf:Description rdf:about="Hagiwara_Yukiho_Xenoglossia">
     <schema:familyName xml:lang="ja">萩原</schema:familyName>
     <schema:familyName xml:lang="en">Hagiwara</schema:familyName>
     <imas:familyNameKana xml:lang="ja">はぎわら</imas:familyNameKana>
@@ -74,7 +75,7 @@
     <imas:Title xml:lang="en">Xenoglossia</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#XenoglossiaIdol"/>
   </rdf:Description>
-  <rdf:Description rdf:about="detail/Takatsuki_Yayoi_Xenoglossia">
+  <rdf:Description rdf:about="Takatsuki_Yayoi_Xenoglossia">
     <schema:familyName xml:lang="ja">高槻</schema:familyName>
     <schema:familyName xml:lang="en">Takatsuki</schema:familyName>
     <imas:familyNameKana xml:lang="ja">たかつき</imas:familyNameKana>
@@ -97,7 +98,7 @@
     <imas:Title xml:lang="en">Xenoglossia</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#XenoglossiaIdol"/>
   </rdf:Description>
-  <rdf:Description rdf:about="detail/Kikuchi_Makoto_Xenoglossia">
+  <rdf:Description rdf:about="Kikuchi_Makoto_Xenoglossia">
     <schema:familyName xml:lang="ja">菊地</schema:familyName>
     <schema:familyName xml:lang="en">Kikuchi</schema:familyName>
     <imas:familyNameKana xml:lang="ja">きくち</imas:familyNameKana>
@@ -120,7 +121,7 @@
     <imas:Title xml:lang="en">Xenoglossia</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#XenoglossiaIdol"/>
   </rdf:Description>
-  <rdf:Description rdf:about="detail/Minase_Iori_Xenoglossia">
+  <rdf:Description rdf:about="Minase_Iori_Xenoglossia">
     <schema:familyName xml:lang="ja">水瀬</schema:familyName>
     <schema:familyName xml:lang="en">Minase</schema:familyName>
     <imas:familyNameKana xml:lang="ja">みなせ</imas:familyNameKana>
@@ -143,7 +144,7 @@
     <imas:Title xml:lang="en">Xenoglossia</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#XenoglossiaIdol"/>
   </rdf:Description>
-  <rdf:Description rdf:about="detail/Akizuki_Ritsuko_Xenoglossia">
+  <rdf:Description rdf:about="Akizuki_Ritsuko_Xenoglossia">
     <schema:familyName xml:lang="ja">秋月</schema:familyName>
     <schema:familyName xml:lang="en">Akizuki</schema:familyName>
     <imas:familyNameKana xml:lang="ja">あきづき</imas:familyNameKana>
@@ -166,7 +167,7 @@
     <imas:Title xml:lang="en">Xenoglossia</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#XenoglossiaIdol"/>
   </rdf:Description>
-  <rdf:Description rdf:about="detail/Miura_Azusa_Xenoglossia">
+  <rdf:Description rdf:about="Miura_Azusa_Xenoglossia">
     <schema:familyName xml:lang="ja">三浦</schema:familyName>
     <schema:familyName xml:lang="en">Miura</schema:familyName>
     <imas:familyNameKana xml:lang="ja">みうら</imas:familyNameKana>
@@ -189,7 +190,7 @@
     <imas:Title xml:lang="en">Xenoglossia</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#XenoglossiaIdol"/>
   </rdf:Description>
-  <rdf:Description rdf:about="detail/Futami_Ami_Xenoglossia">
+  <rdf:Description rdf:about="Futami_Ami_Xenoglossia">
     <schema:familyName xml:lang="ja">双海</schema:familyName>
     <schema:familyName xml:lang="en">Futami</schema:familyName>
     <imas:familyNameKana xml:lang="ja">ふたみ</imas:familyNameKana>
@@ -212,7 +213,7 @@
     <imas:Title xml:lang="en">Xenoglossia</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#XenoglossiaIdol"/>
   </rdf:Description>
-  <rdf:Description rdf:about="detail/Futami_Mami_Xenoglossia">
+  <rdf:Description rdf:about="Futami_Mami_Xenoglossia">
     <schema:familyName xml:lang="ja">双海</schema:familyName>
     <schema:familyName xml:lang="en">Futami</schema:familyName>
     <imas:familyNameKana xml:lang="ja">ふたみ</imas:familyNameKana>
@@ -235,7 +236,7 @@
     <imas:Title xml:lang="en">Xenoglossia</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#XenoglossiaIdol"/>
   </rdf:Description>
-  <rdf:Description rdf:about="detail/Riffa">
+  <rdf:Description rdf:about="Riffa">
     <imas:alternateNameKana xml:lang="ja">りふぁ</imas:alternateNameKana>
     <schema:alternateName xml:lang="ja">リファ</schema:alternateName>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">リファ</rdfs:label>
@@ -251,7 +252,7 @@
     <imas:Title xml:lang="en">Xenoglossia_Original</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#XenoglossiaCharacter"/>
   </rdf:Description>
-  <rdf:Description rdf:about="detail/Suzuki_Sorewa">
+  <rdf:Description rdf:about="Suzuki_Sorewa">
     <schema:familyName xml:lang="ja">鈴木</schema:familyName>
     <schema:familyName xml:lang="en">Suzuki</schema:familyName>
     <imas:familyNameKana xml:lang="ja">すずき</imas:familyNameKana>
@@ -270,7 +271,7 @@
     <imas:Title xml:lang="en">Xenoglossia_Original</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#XenoglossiaCharacter"/>
   </rdf:Description>
-  <rdf:Description rdf:about="detail/Daido_Naraba">
+  <rdf:Description rdf:about="Daido_Naraba">
     <schema:familyName xml:lang="ja">大道</schema:familyName>
     <schema:familyName xml:lang="en">Daido</schema:familyName>
     <imas:familyNameKana xml:lang="ja">だいどう</imas:familyNameKana>
@@ -289,7 +290,7 @@
     <imas:Title xml:lang="en">Xenoglossia_Original</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#XenoglossiaCharacter"/>
   </rdf:Description>
-  <rdf:Description rdf:about="detail/Munakata_Naze">
+  <rdf:Description rdf:about="Munakata_Naze">
     <schema:familyName xml:lang="ja">宗方</schema:familyName>
     <schema:familyName xml:lang="en">Munakata</schema:familyName>
     <imas:familyNameKana xml:lang="ja">むなかた</imas:familyNameKana>
@@ -308,7 +309,7 @@
     <imas:Title xml:lang="en">Xenoglossia_Original</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#XenoglossiaCharacter"/>
   </rdf:Description>
-  <rdf:Description rdf:about="detail/Minamoto_Chikako">
+  <rdf:Description rdf:about="Minamoto_Chikako">
     <schema:familyName xml:lang="ja">源</schema:familyName>
     <schema:familyName xml:lang="en">Minamoto</schema:familyName>
     <imas:familyNameKana xml:lang="ja">みなもと</imas:familyNameKana>
@@ -327,7 +328,7 @@
     <imas:Title xml:lang="en">Xenoglossia_Original</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#XenoglossiaCharacter"/>
   </rdf:Description>
-  <rdf:Description rdf:about="detail/Yasuhara_Hotaru">
+  <rdf:Description rdf:about="Yasuhara_Hotaru">
     <schema:familyName xml:lang="ja">安原</schema:familyName>
     <schema:familyName xml:lang="en">Yasuhara</schema:familyName>
     <imas:familyNameKana xml:lang="ja">やすはら</imas:familyNameKana>
@@ -346,7 +347,7 @@
     <imas:Title xml:lang="en">Xenoglossia_Original</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#XenoglossiaCharacter"/>
   </rdf:Description>
-  <rdf:Description rdf:about="detail/Saku_Hibiki">
+  <rdf:Description rdf:about="Saku_Hibiki">
     <schema:familyName xml:lang="ja">朔</schema:familyName>
     <schema:familyName xml:lang="en">Saku</schema:familyName>
     <imas:familyNameKana xml:lang="ja">さく</imas:familyNameKana>
@@ -364,7 +365,7 @@
     <imas:Title xml:lang="en">Xenoglossia_Original</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#XenoglossiaCharacter"/>
   </rdf:Description>
-  <rdf:Description rdf:about="detail/Karasu">
+  <rdf:Description rdf:about="Karasu">
     <imas:alternateNameKana xml:lang="ja">からす</imas:alternateNameKana>
     <schema:alternateName xml:lang="ja">カラス</schema:alternateName>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">カラス</rdfs:label>
@@ -376,7 +377,7 @@
     <imas:Title xml:lang="en">Xenoglossia_Original</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#XenoglossiaCharacter"/>
   </rdf:Description>
-  <rdf:Description rdf:about="detail/Joseph_Shingetsu">
+  <rdf:Description rdf:about="Joseph_Shingetsu">
     <schema:familyName xml:lang="ja">真月</schema:familyName>
     <schema:familyName xml:lang="en">Shingetsu</schema:familyName>
     <imas:familyNameKana xml:lang="ja">しんげつ</imas:familyNameKana>
@@ -394,7 +395,7 @@
     <imas:Title xml:lang="en">Xenoglossia_Original</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#XenoglossiaCharacter"/>
   </rdf:Description>
-  <rdf:Description rdf:about="detail/Serika">
+  <rdf:Description rdf:about="Serika">
     <schema:givenName xml:lang="en">Serika</schema:givenName>
     <imas:givenNameKana xml:lang="ja">せりか</imas:givenNameKana>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">せりか</rdfs:label>
@@ -406,7 +407,7 @@
     <imas:Title xml:lang="en">Xenoglossia_Original</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#XenoglossiaCharacter"/>
   </rdf:Description>
-  <rdf:Description rdf:about="detail/Nazuna">
+  <rdf:Description rdf:about="Nazuna">
     <schema:givenName xml:lang="en">Nazuna</schema:givenName>
     <imas:givenNameKana xml:lang="ja">なずな</imas:givenNameKana>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">なずな</rdfs:label>
@@ -418,7 +419,7 @@
     <imas:Title xml:lang="en">Xenoglossia_Original</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#XenoglossiaCharacter"/>
   </rdf:Description>
-  <rdf:Description rdf:about="detail/Gojo">
+  <rdf:Description rdf:about="Gojo">
     <schema:familyName xml:lang="en">Gojo</schema:familyName>
     <imas:familyNameKana xml:lang="ja">ごじょう</imas:familyNameKana>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ごじょう</rdfs:label>
@@ -430,7 +431,7 @@
     <imas:Title xml:lang="en">Xenoglossia_Original</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#XenoglossiaCharacter"/>
   </rdf:Description>
-  <rdf:Description rdf:about="detail/Hakobe">
+  <rdf:Description rdf:about="Hakobe">
     <schema:familyName xml:lang="en">Hakobe</schema:familyName>
     <imas:familyNameKana xml:lang="ja">はこべ</imas:familyNameKana>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">はこべ</rdfs:label>
@@ -442,7 +443,7 @@
     <imas:Title xml:lang="en">Xenoglossia_Original</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#XenoglossiaCharacter"/>
   </rdf:Description>
-  <rdf:Description rdf:about="detail/Hotoke">
+  <rdf:Description rdf:about="Hotoke">
     <schema:familyName xml:lang="en">Hotoke</schema:familyName>
     <imas:familyNameKana xml:lang="ja">ほとけ</imas:familyNameKana>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ほとけ</rdfs:label>
@@ -454,7 +455,7 @@
     <imas:Title xml:lang="en">Xenoglossia_Original</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#XenoglossiaCharacter"/>
   </rdf:Description>
-  <rdf:Description rdf:about="detail/Suzuna">
+  <rdf:Description rdf:about="Suzuna">
     <schema:givenName xml:lang="en">Suzuna</schema:givenName>
     <imas:givenNameKana xml:lang="ja">すずな</imas:givenNameKana>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">すずな</rdfs:label>
@@ -466,7 +467,7 @@
     <imas:Title xml:lang="en">Xenoglossia_Original</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#XenoglossiaCharacter"/>
   </rdf:Description>
-  <rdf:Description rdf:about="detail/Suzushiro">
+  <rdf:Description rdf:about="Suzushiro">
     <schema:familyName xml:lang="en">Suzushiro</schema:familyName>
     <imas:familyNameKana xml:lang="ja">ずすしろ</imas:familyNameKana>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ずすしろ</rdfs:label>

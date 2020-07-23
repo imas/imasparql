@@ -4,9 +4,9 @@
     xmlns:foaf="http://xmlns.com/foaf/0.1/"
     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
     xmlns:imas="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#"
-    xml:base="https://sparql.crssnky.xyz/imasrdf/RDFs/"
+    xml:base="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/"
     >
-    <rdf:Description rdf:about="detail/THE_IDOLM%40STER_Arcade">
+    <rdf:Description rdf:about="THE_IDOLM%40STER_Arcade">
       <rdf:type rdf:resource="https://schema.org/VideoGame" />
       <schema:name xml:lang="ja">THE IDOLM@STER(アーケード版)</schema:name>
       <schema:datePublished>2005-07-26</schema:datePublished>
@@ -23,7 +23,7 @@
       <schema:actor rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Futami_Mami" />
       <schema:actor rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Takagi_Junichiro" />
     </rdf:Description>
-    <rdf:Description rdf:about="detail/THE_IDOLM%40STER_Xbox360">
+    <rdf:Description rdf:about="THE_IDOLM%40STER_Xbox360">
       <rdf:type rdf:resource="https://schema.org/VideoGame" />
       <schema:name xml:lang="ja">THE IDOLM@STER(Xbox 360版)</schema:name>
       <schema:datePublished>2007-01-25</schema:datePublished>
@@ -41,7 +41,7 @@
       <schema:actor rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Futami_Mami" />
       <schema:actor rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Takagi_Junichiro" />
     </rdf:Description>
-    <rdf:Description rdf:about="detail/THE_IDOLM%40STER_Live_For_You%21">
+    <rdf:Description rdf:about="THE_IDOLM%40STER_Live_For_You%21">
       <rdf:type rdf:resource="https://schema.org/VideoGame" />
       <schema:name xml:lang="ja">THE IDOLM@STER Live for You!</schema:name>
       <schema:datePublished>2008-02-28</schema:datePublished>
@@ -60,7 +60,7 @@
       <schema:actor rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Takagi_Junichiro" />
       <schema:actor rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Otonashi_Kotori" />
     </rdf:Description>
-    <rdf:Description rdf:about="detail/THE_IDOLM%40STER_Dearly_Stars">
+    <rdf:Description rdf:about="THE_IDOLM%40STER_Dearly_Stars">
       <rdf:type rdf:resource="https://schema.org/VideoGame" />
       <schema:name xml:lang="ja">THE IDOLM@STER Dearly Stars</schema:name>
       <schema:datePublished>2008-09-17</schema:datePublished>
