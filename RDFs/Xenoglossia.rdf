@@ -3,7 +3,8 @@
     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
     xmlns:foaf="http://xmlns.com/foaf/0.1/"
     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
-    xmlns:imas="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#">
+    xmlns:imas="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#"
+    xml:base="https://sparql.crssnky.xyz/imasrdf/RDFs/">
   <rdf:Description rdf:about="detail/Amami_Haruka_Xenoglossia">
     <schema:familyName xml:lang="ja">天海</schema:familyName>
     <schema:familyName xml:lang="en">Amami</schema:familyName>

@@ -68,6 +68,10 @@ imas:CinderellaRankingResult    a   rdfs:Class ;
     rdfs:comment                    "シンデレラガールズ総選挙結果を表すクラス" ;
     rdfs:label                      "シンデレラガールズ総選挙結果"@ja .
 
+imas:CinderellaVoiceIdolAudition    a   rdfs:Class ;
+    rdfs:comment                    "シンデレラガールズ ボイスアイドルオーディションを表すクラス" ;
+    rdfs:label                      "シンデレラガールズ ボイスアイドルオーディション"@ja .
+
 imas:Live                       a   rdfs:Class ;
     rdfs:comment                    "ライブを表すクラス" ;
     rdfs:label                      "ライブ"@ja ;
