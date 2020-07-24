@@ -4,6 +4,7 @@
     xmlns:foaf="http://xmlns.com/foaf/0.1/"
     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
     xmlns:imas="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
     xml:base="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/"
     >
   <rdf:Description rdf:about="Amagase_Toma">
@@ -38,6 +39,7 @@
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:idolListURL xlink:href="https://idollist.idolmaster-official.jp/detail/40008"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Mitarai_Shota">
@@ -71,6 +73,7 @@
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:idolListURL xlink:href="https://idollist.idolmaster-official.jp/detail/40043"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Ijuin_Hokuto">
@@ -105,6 +108,7 @@
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:idolListURL xlink:href="https://idollist.idolmaster-official.jp/detail/40009"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Tendo_Teru">
@@ -138,6 +142,7 @@
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:idolListURL xlink:href="https://idollist.idolmaster-official.jp/detail/40034"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Sakuraba_Kaoru">
@@ -170,6 +175,7 @@
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:idolListURL xlink:href="https://idollist.idolmaster-official.jp/detail/40026"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Kashiwagi_Tsubasa">
@@ -205,6 +211,7 @@
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:idolListURL xlink:href="https://idollist.idolmaster-official.jp/detail/40015"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Tsuzuki_Kei">
@@ -237,6 +244,7 @@
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:idolListURL xlink:href="https://idollist.idolmaster-official.jp/detail/40033"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Kagura_Rei">
@@ -269,6 +277,7 @@
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:idolListURL xlink:href="https://idollist.idolmaster-official.jp/detail/40014"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Takajo_Kyoji">
@@ -301,6 +310,7 @@
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:idolListURL xlink:href="https://idollist.idolmaster-official.jp/detail/40030"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Pierre">
@@ -327,6 +337,7 @@
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:idolListURL xlink:href="https://idollist.idolmaster-official.jp/detail/40038"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Watanabe_Minori">
@@ -359,6 +370,7 @@
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:idolListURL xlink:href="https://idollist.idolmaster-official.jp/detail/40046"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Aoi_Yusuke">
@@ -391,6 +403,7 @@
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:idolListURL xlink:href="https://idollist.idolmaster-official.jp/detail/40002"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Aoi_Kyosuke">
@@ -424,6 +437,7 @@
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:idolListURL xlink:href="https://idollist.idolmaster-official.jp/detail/40001"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Akuno_Hideo">
@@ -457,6 +471,7 @@
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:idolListURL xlink:href="https://idollist.idolmaster-official.jp/detail/40006"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Kimura_Ryu">
@@ -489,6 +504,7 @@
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:idolListURL xlink:href="https://idollist.idolmaster-official.jp/detail/40020"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Shingen_Seiji">
@@ -521,6 +537,7 @@
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:idolListURL xlink:href="https://idollist.idolmaster-official.jp/detail/40028"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Nekoyanagi_Kirio">
@@ -553,6 +570,7 @@
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:idolListURL xlink:href="https://idollist.idolmaster-official.jp/detail/40035"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Hanamura_Shoma">
@@ -585,6 +603,7 @@
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:idolListURL xlink:href="https://idollist.idolmaster-official.jp/detail/40037"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Kiyosumi_Kuro">
@@ -618,6 +637,7 @@
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:idolListURL xlink:href="https://idollist.idolmaster-official.jp/detail/40021"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Akiyama_Hayato">
@@ -651,6 +671,7 @@
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:idolListURL xlink:href="https://idollist.idolmaster-official.jp/detail/40005"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Fuyumi_Jun">
@@ -683,6 +704,7 @@
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:idolListURL xlink:href="https://idollist.idolmaster-official.jp/detail/40040"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Sakaki_Natsuki">
@@ -716,6 +738,7 @@
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:idolListURL xlink:href="https://idollist.idolmaster-official.jp/detail/40025"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Wakazato_Haruna">
@@ -748,6 +771,7 @@
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:idolListURL xlink:href="https://idollist.idolmaster-official.jp/detail/40045"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Iseya_Shiki">
@@ -781,6 +805,7 @@
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:idolListURL xlink:href="https://idollist.idolmaster-official.jp/detail/40010"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Akai_Suzaku">
@@ -813,6 +838,7 @@
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:idolListURL xlink:href="https://idollist.idolmaster-official.jp/detail/40003"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Kurono_Genbu">
@@ -847,6 +873,7 @@
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:idolListURL xlink:href="https://idollist.idolmaster-official.jp/detail/40023"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Kamiya_Yukihiro">
@@ -881,6 +908,7 @@
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:idolListURL xlink:href="https://idollist.idolmaster-official.jp/detail/40017"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Shinonome_Soichiro">
@@ -915,6 +943,7 @@
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:idolListURL xlink:href="https://idollist.idolmaster-official.jp/detail/40027"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Asselin_BB_2">
@@ -942,6 +971,7 @@
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:idolListURL xlink:href="https://idollist.idolmaster-official.jp/detail/40007"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Uzuki_Makio">
@@ -975,6 +1005,7 @@
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:idolListURL xlink:href="https://idollist.idolmaster-official.jp/detail/40011"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Mizushima_Saki">
@@ -1007,6 +1038,7 @@
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:idolListURL xlink:href="https://idollist.idolmaster-official.jp/detail/40042"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Okamura_Nao">
@@ -1039,6 +1071,7 @@
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:idolListURL xlink:href="https://idollist.idolmaster-official.jp/detail/40013"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Tachibana_Shiro">
@@ -1071,6 +1104,7 @@
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:idolListURL xlink:href="https://idollist.idolmaster-official.jp/detail/40031"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Himeno_Kanon">
@@ -1103,6 +1137,7 @@
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:idolListURL xlink:href="https://idollist.idolmaster-official.jp/detail/40039"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Hazama_Michio">
@@ -1136,6 +1171,7 @@
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:idolListURL xlink:href="https://idollist.idolmaster-official.jp/detail/40036"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Maita_Rui">
@@ -1170,6 +1206,7 @@
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:idolListURL xlink:href="https://idollist.idolmaster-official.jp/detail/40041"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Yamashita_Jiro">
@@ -1203,6 +1240,7 @@
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:idolListURL xlink:href="https://idollist.idolmaster-official.jp/detail/40044"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Taiga_Takeru">
@@ -1237,6 +1275,7 @@
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:idolListURL xlink:href="https://idollist.idolmaster-official.jp/detail/40029"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Enjoji_Michiru">
@@ -1269,6 +1308,7 @@
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:idolListURL xlink:href="https://idollist.idolmaster-official.jp/detail/40012"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Kizaki_Ren">
@@ -1301,6 +1341,7 @@
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:idolListURL xlink:href="https://idollist.idolmaster-official.jp/detail/40018"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Akizuki_Ryo_315">
@@ -1335,6 +1376,7 @@
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:idolListURL xlink:href="https://idollist.idolmaster-official.jp/detail/40004"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Kabuto_Daigo">
@@ -1368,6 +1410,7 @@
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:idolListURL xlink:href="https://idollist.idolmaster-official.jp/detail/40016"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Tsukumo_Kazuki">
@@ -1405,6 +1448,7 @@
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:idolListURL xlink:href="https://idollist.idolmaster-official.jp/detail/40032"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Kuzunoha_Amehiko">
@@ -1437,6 +1481,7 @@
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:idolListURL xlink:href="https://idollist.idolmaster-official.jp/detail/40022"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Kitamura_Sora">
@@ -1469,6 +1514,7 @@
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:idolListURL xlink:href="https://idollist.idolmaster-official.jp/detail/40019"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Koron_Chris">
@@ -1501,6 +1547,7 @@
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:idolListURL xlink:href="https://idollist.idolmaster-official.jp/detail/40024"/>
   </rdf:Description>
 
 </rdf:RDF>
