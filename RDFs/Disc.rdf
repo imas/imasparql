@@ -1,10 +1,10 @@
 <rdf:RDF
     xmlns:schema="http://schema.org/"
     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-    xml:base="https://sparql.crssnky.xyz/imasrdf/RDFs/"
+    xml:base="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/"
     >
 
-  <rdf:Description rdf:about="detail/THE%20IDOLM%40STER%20MASTERPIECE%2001">
+  <rdf:Description rdf:about="THE%20IDOLM%40STER%20MASTERPIECE%2001">
     <rdf:type rdf:resource="http://schema.org/MusicAlbum"/>
     <schema:albumReleaseType xml:lang="ja">アルバム</schema:albumReleaseType>
     <schema:byArtist rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/Amami_Haruka" />
@@ -26,7 +26,7 @@
     <schema:MusicRelease rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/THE%20IDOLM%40STER%20MASTERPIECE%2001_info"/>
     <schema:name xml:lang="ja">THE IDOLM@STER MASTERPIECE 01</schema:name>
   </rdf:Description>
-  <rdf:Description rdf:about="detail/THE%20IDOLM%40STER%20MASTERPIECE%2001_info">
+  <rdf:Description rdf:about="THE%20IDOLM%40STER%20MASTERPIECE%2001_info">
     <rdf:type rdf:resource="http://schema.org/MusicRelease"/>
     <schema:catalogNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">COCX-33355</schema:catalogNumber>
     <schema:duration rdf:datatype="http://www.w3.org/2001/XMLSchema#duration">PT32M28S</schema:duration>

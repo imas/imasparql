@@ -4,10 +4,10 @@
     xmlns:foaf="http://xmlns.com/foaf/0.1/"
     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
     xmlns:imas="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#"
-    xml:base="https://sparql.crssnky.xyz/imasrdf/RDFs/"
+    xml:base="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/"
     >
 
-  <rdf:Description rdf:about="detail/Hidaka_Ai">
+  <rdf:Description rdf:about="Hidaka_Ai">
     <schema:familyName xml:lang="ja">日高</schema:familyName>
     <schema:familyName xml:lang="en">Hidaka</schema:familyName>
     <imas:familyNameKana xml:lang="ja">ひだか</imas:familyNameKana>
@@ -39,7 +39,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Mizutani_Eri">
+  <rdf:Description rdf:about="Mizutani_Eri">
     <schema:familyName xml:lang="ja">水谷</schema:familyName>
     <schema:familyName xml:lang="en">Mizutani</schema:familyName>
     <imas:familyNameKana xml:lang="ja">みずたに</imas:familyNameKana>
@@ -71,7 +71,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Akizuki_Ryo_876">
+  <rdf:Description rdf:about="Akizuki_Ryo_876">
     <schema:familyName xml:lang="ja">秋月</schema:familyName>
     <schema:familyName xml:lang="en">Akizuki</schema:familyName>
     <imas:familyNameKana xml:lang="ja">あきづき</imas:familyNameKana>
@@ -103,7 +103,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Sakurai_Yumeko">
+  <rdf:Description rdf:about="Sakurai_Yumeko">
     <schema:familyName xml:lang="ja">桜井</schema:familyName>
     <schema:familyName xml:lang="en">Sakurai</schema:familyName>
     <imas:familyNameKana xml:lang="ja">さくらい</imas:familyNameKana>
@@ -133,7 +133,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Suzuki_Ayane">
+  <rdf:Description rdf:about="Suzuki_Ayane">
     <schema:alternateName xml:lang="ja">サイネリア</schema:alternateName>
     <schema:alternateName xml:lang="en">Cineria</schema:alternateName>
     <imas:alternateNameKana xml:lang="ja">さいねりあ</imas:alternateNameKana>
@@ -167,7 +167,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Togoji_Reika">
+  <rdf:Description rdf:about="Togoji_Reika">
     <schema:familyName xml:lang="ja">東豪寺</schema:familyName>
     <schema:familyName xml:lang="en">Togoji</schema:familyName>
     <imas:familyNameKana xml:lang="ja">とうごうじ</imas:familyNameKana>
@@ -186,7 +186,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Asahina_Rin">
+  <rdf:Description rdf:about="Asahina_Rin">
     <schema:familyName xml:lang="ja">朝比奈</schema:familyName>
     <schema:familyName xml:lang="en">Asahina</schema:familyName>
     <imas:familyNameKana xml:lang="ja">あさひな</imas:familyNameKana>
@@ -205,7 +205,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Sanjo_Tomomi">
+  <rdf:Description rdf:about="Sanjo_Tomomi">
     <schema:familyName xml:lang="ja">三条</schema:familyName>
     <schema:familyName xml:lang="en">Sanjo</schema:familyName>
     <imas:familyNameKana xml:lang="ja">さんじょう</imas:familyNameKana>
