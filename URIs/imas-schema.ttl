@@ -237,3 +237,7 @@ imas:Title                  a   rdf:Property ;
 imas:Whose                  a   rdf:Property ;
     rdfs:comment            "所有者を表すプロパティ" ;
     rdfs:label              "所有者"@ja .
+
+imas:idolListURL            a   rdf:Property ;
+    rdfs:comment            "アイドル名鑑のアイドル毎URL";
+    rdfs:label              "アイドル名鑑URL"@ja .
