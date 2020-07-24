@@ -1,3 +1,5 @@
+本リポジトリに関するContributeに関しては、[IM@Studyガイドライン](https://github.com/imas/hackathon/blob/master/CODE_OF_CONDUCT.md)に則ります。
+
 # CONTRIBUTING
 DB整備に協力してくれるみなさまへ  
 このリポジトリでは、2種類のContributeの方法があります。
