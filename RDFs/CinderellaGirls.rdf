@@ -4,11 +4,11 @@
     xmlns:foaf="http://xmlns.com/foaf/0.1/"
     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
     xmlns:imas="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#"
-    xml:base="https://sparql.crssnky.xyz/imasrdf/RDFs/"
+    xml:base="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/"
   >
 
   <!--Cute-->
-  <rdf:Description rdf:about="detail/Shimamura_Uzuki">
+  <rdf:Description rdf:about="Shimamura_Uzuki">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cu</imas:Type>
     <schema:familyName xml:lang="ja">島村</schema:familyName>
     <schema:familyName xml:lang="en">Shimamura</schema:familyName>
@@ -41,7 +41,7 @@
     <imas:Hobby xml:lang="ja">友達と長電話</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Nakano_Yuka">
+  <rdf:Description rdf:about="Nakano_Yuka">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cu</imas:Type>
     <schema:familyName xml:lang="ja">中野</schema:familyName>
     <schema:familyName xml:lang="en">Nakano</schema:familyName>
@@ -74,7 +74,7 @@
     <imas:Hobby xml:lang="ja">空手</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Mizumoto_Yukari">
+  <rdf:Description rdf:about="Mizumoto_Yukari">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cu</imas:Type>
     <schema:familyName xml:lang="ja">水本</schema:familyName>
     <schema:familyName xml:lang="en">Mizumoto</schema:familyName>
@@ -107,7 +107,7 @@
     <imas:Hobby xml:lang="ja">フルート</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Fukuyama_Mai">
+  <rdf:Description rdf:about="Fukuyama_Mai">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cu</imas:Type>
     <schema:familyName xml:lang="ja">福山</schema:familyName>
     <schema:familyName xml:lang="en">Fukuyama</schema:familyName>
@@ -136,7 +136,7 @@
     <imas:Hobby xml:lang="ja">一輪車</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Shiina_Noriko">
+  <rdf:Description rdf:about="Shiina_Noriko">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cu</imas:Type>
     <schema:familyName xml:lang="ja">椎名</schema:familyName>
     <schema:familyName xml:lang="en">Shiina</schema:familyName>
@@ -169,7 +169,7 @@
     <imas:Hobby xml:lang="ja">新作ドーナツの試食</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Imai_Kana">
+  <rdf:Description rdf:about="Imai_Kana">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cu</imas:Type>
     <schema:familyName xml:lang="ja">今井</schema:familyName>
     <schema:familyName xml:lang="en">Imai</schema:familyName>
@@ -198,7 +198,7 @@
     <imas:Hobby xml:lang="ja">友達とおしゃべり</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Mochida_Arisa">
+  <rdf:Description rdf:about="Mochida_Arisa">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cu</imas:Type>
     <schema:familyName xml:lang="ja">持田</schema:familyName>
     <schema:familyName xml:lang="en">Mochida</schema:familyName>
@@ -227,7 +227,7 @@
     <imas:Hobby xml:lang="ja">子供と遊ぶこと</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Mimura_Kanako">
+  <rdf:Description rdf:about="Mimura_Kanako">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cu</imas:Type>
     <schema:familyName xml:lang="ja">三村</schema:familyName>
     <schema:familyName xml:lang="en">Mimura</schema:familyName>
@@ -260,7 +260,7 @@
     <imas:Hobby xml:lang="ja">お菓子作り</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Okuyama_Saori">
+  <rdf:Description rdf:about="Okuyama_Saori">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cu</imas:Type>
     <schema:familyName xml:lang="ja">奥山</schema:familyName>
     <schema:familyName xml:lang="en">Okuyama</schema:familyName>
@@ -289,7 +289,7 @@
     <imas:Hobby xml:lang="ja">読書</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Manaka_Misato">
+  <rdf:Description rdf:about="Manaka_Misato">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cu</imas:Type>
     <schema:familyName xml:lang="ja">間中</schema:familyName>
     <schema:familyName xml:lang="en">Manaka</schema:familyName>
@@ -318,7 +318,7 @@
     <imas:Hobby xml:lang="ja">旅行</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Kohinata_Miho">
+  <rdf:Description rdf:about="Kohinata_Miho">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cu</imas:Type>
     <schema:familyName xml:lang="ja">小日向</schema:familyName>
     <schema:familyName xml:lang="en">Kohinata</schema:familyName>
@@ -351,7 +351,7 @@
     <imas:Hobby xml:lang="ja">ひなたぼっこ</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Ogata_Chieri">
+  <rdf:Description rdf:about="Ogata_Chieri">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cu</imas:Type>
     <schema:familyName xml:lang="ja">緒方</schema:familyName>
     <schema:familyName xml:lang="en">Ogata</schema:familyName>
@@ -384,7 +384,7 @@
     <imas:Hobby xml:lang="ja">四葉のクローバー集め</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Igarashi_Kyoko">
+  <rdf:Description rdf:about="Igarashi_Kyoko">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cu</imas:Type>
     <schema:familyName xml:lang="ja">五十嵐</schema:familyName>
     <schema:familyName xml:lang="en">Igarashi</schema:familyName>
@@ -417,7 +417,7 @@
     <imas:Hobby xml:lang="ja">家事全般</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Yanase_Miyuki">
+  <rdf:Description rdf:about="Yanase_Miyuki">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cu</imas:Type>
     <schema:familyName xml:lang="ja">柳瀬</schema:familyName>
     <schema:familyName xml:lang="en">Yanase</schema:familyName>
@@ -446,7 +446,7 @@
     <imas:Hobby xml:lang="ja">ぬいぐるみ集め</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Sakurai_Momoka">
+  <rdf:Description rdf:about="Sakurai_Momoka">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cu</imas:Type>
     <schema:familyName xml:lang="ja">櫻井</schema:familyName>
     <schema:familyName xml:lang="en">Sakurai</schema:familyName>
@@ -479,7 +479,7 @@
     <imas:Hobby xml:lang="ja">ティータイム</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Egami_Tsubaki">
+  <rdf:Description rdf:about="Egami_Tsubaki">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cu</imas:Type>
     <schema:familyName xml:lang="ja">江上</schema:familyName>
     <schema:familyName xml:lang="en">Egami</schema:familyName>
@@ -508,7 +508,7 @@
     <imas:Hobby xml:lang="ja">写真を撮ること</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Nagatomi_Hasumi">
+  <rdf:Description rdf:about="Nagatomi_Hasumi">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cu</imas:Type>
     <schema:familyName xml:lang="ja">長富</schema:familyName>
     <schema:familyName xml:lang="en">Nagatomi</schema:familyName>
@@ -538,7 +538,7 @@
     <imas:Hobby xml:lang="ja">古着屋巡り</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Yokoyama_Chika">
+  <rdf:Description rdf:about="Yokoyama_Chika">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cu</imas:Type>
     <schema:familyName xml:lang="ja">横山</schema:familyName>
     <schema:familyName xml:lang="en">Yokoyama</schema:familyName>
@@ -567,7 +567,7 @@
     <imas:Hobby xml:lang="ja">魔法少女ごっこ</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Seki_Hiromi">
+  <rdf:Description rdf:about="Seki_Hiromi">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cu</imas:Type>
     <schema:familyName xml:lang="ja">関</schema:familyName>
     <schema:familyName xml:lang="en">Seki</schema:familyName>
@@ -600,7 +600,7 @@
     <imas:Hobby xml:lang="ja">アクセサリー作り</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Ohta_Yuu">
+  <rdf:Description rdf:about="Ohta_Yuu">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cu</imas:Type>
     <schema:familyName xml:lang="ja">太田</schema:familyName>
     <schema:familyName xml:lang="en">Ohta</schema:familyName>
@@ -630,7 +630,7 @@
     <imas:Hobby xml:lang="ja">美容</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Munakata_Atsumi">
+  <rdf:Description rdf:about="Munakata_Atsumi">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cu</imas:Type>
     <schema:familyName xml:lang="ja">棟方</schema:familyName>
     <schema:familyName xml:lang="en">Munakata</schema:familyName>
@@ -663,7 +663,7 @@
     <imas:Hobby xml:lang="ja">指の運動</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Fujimoto_Rina">
+  <rdf:Description rdf:about="Fujimoto_Rina">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cu</imas:Type>
     <schema:familyName xml:lang="ja">藤本</schema:familyName>
     <schema:familyName xml:lang="en">Fujimoto</schema:familyName>
@@ -697,7 +697,7 @@
     <imas:Hobby xml:lang="ja">コンビニで立ち読み</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Ohara_Michiru">
+  <rdf:Description rdf:about="Ohara_Michiru">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cu</imas:Type>
     <schema:familyName xml:lang="ja">大原</schema:familyName>
     <schema:familyName xml:lang="en">Ohara</schema:familyName>
@@ -726,7 +726,7 @@
     <imas:Hobby xml:lang="ja">食べること</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Yusa_Kozue">
+  <rdf:Description rdf:about="Yusa_Kozue">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cu</imas:Type>
     <schema:familyName xml:lang="ja">遊佐</schema:familyName>
     <schema:familyName xml:lang="en">Yusa</schema:familyName>
@@ -758,7 +758,7 @@
     <imas:Hobby xml:lang="ja">しゅみってなぁに？</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Ohnuma_Kurumi">
+  <rdf:Description rdf:about="Ohnuma_Kurumi">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cu</imas:Type>
     <schema:familyName xml:lang="ja">大沼</schema:familyName>
     <schema:familyName xml:lang="en">Ohnuma</schema:familyName>
@@ -788,7 +788,7 @@
     <imas:Hobby xml:lang="ja">お風呂に入ること</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Ichinose_Shiki">
+  <rdf:Description rdf:about="Ichinose_Shiki">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cu</imas:Type>
     <schema:familyName xml:lang="ja">一ノ瀬</schema:familyName>
     <schema:familyName xml:lang="en">Ichinose</schema:familyName>
@@ -823,7 +823,7 @@
     <imas:Hobby xml:lang="ja">観察</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Maekawa_Miku">
+  <rdf:Description rdf:about="Maekawa_Miku">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cu</imas:Type>
     <schema:familyName xml:lang="ja">前川</schema:familyName>
     <schema:familyName xml:lang="en">Maekawa</schema:familyName>
@@ -856,7 +856,7 @@
     <imas:Hobby xml:lang="ja">猫カフェ巡り</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Akanishi_Erika">
+  <rdf:Description rdf:about="Akanishi_Erika">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cu</imas:Type>
     <schema:familyName xml:lang="ja">赤西</schema:familyName>
     <schema:familyName xml:lang="en">Akanishi</schema:familyName>
@@ -885,7 +885,7 @@
     <imas:Hobby xml:lang="ja">漫才鑑賞</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Matsubara_Saya">
+  <rdf:Description rdf:about="Matsubara_Saya">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cu</imas:Type>
     <schema:familyName xml:lang="ja">松原</schema:familyName>
     <schema:familyName xml:lang="en">Matsubara</schema:familyName>
@@ -914,7 +914,7 @@
     <imas:Hobby xml:lang="ja">ブログ</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Aihara_Yukino">
+  <rdf:Description rdf:about="Aihara_Yukino">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cu</imas:Type>
     <schema:familyName xml:lang="ja">相原</schema:familyName>
     <schema:familyName xml:lang="en">Aihara</schema:familyName>
@@ -943,7 +943,7 @@
     <imas:Hobby xml:lang="ja">紅茶</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Miyamoto_Frederica">
+  <rdf:Description rdf:about="Miyamoto_Frederica">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cu</imas:Type>
     <schema:familyName xml:lang="ja">宮本</schema:familyName>
     <schema:familyName xml:lang="en">Miyamoto</schema:familyName>
@@ -976,7 +976,7 @@
     <imas:Hobby xml:lang="ja">ファッション</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Kobayakawa_Sae">
+  <rdf:Description rdf:about="Kobayakawa_Sae">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cu</imas:Type>
     <schema:familyName xml:lang="ja">小早川</schema:familyName>
     <schema:familyName xml:lang="en">Kobayakawa</schema:familyName>
@@ -1009,7 +1009,7 @@
     <imas:Hobby xml:lang="ja">日本舞踊</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Saionji_Kotoka">
+  <rdf:Description rdf:about="Saionji_Kotoka">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cu</imas:Type>
     <schema:familyName xml:lang="ja">西園寺</schema:familyName>
     <schema:familyName xml:lang="en">Saionji</schema:familyName>
@@ -1038,7 +1038,7 @@
     <imas:Hobby xml:lang="ja">押し花作り</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Futaba_Anzu">
+  <rdf:Description rdf:about="Futaba_Anzu">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cu</imas:Type>
     <schema:familyName xml:lang="ja">双葉</schema:familyName>
     <schema:familyName xml:lang="en">Futaba</schema:familyName>
@@ -1071,7 +1071,7 @@
     <imas:Hobby xml:lang="ja">なし</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Yao_Fueifuei">
+  <rdf:Description rdf:about="Yao_Fueifuei">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cu</imas:Type>
     <schema:familyName xml:lang="ja">楊</schema:familyName>
     <schema:familyName xml:lang="en">Yao</schema:familyName>
@@ -1100,7 +1100,7 @@
     <imas:Hobby xml:lang="ja">料理</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Momoi_Azuki">
+  <rdf:Description rdf:about="Momoi_Azuki">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cu</imas:Type>
     <schema:familyName xml:lang="ja">桃井</schema:familyName>
     <schema:familyName xml:lang="en">Momoi</schema:familyName>
@@ -1129,7 +1129,7 @@
     <imas:Hobby xml:lang="ja">金魚すくい</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Suzumiya_Seika">
+  <rdf:Description rdf:about="Suzumiya_Seika">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cu</imas:Type>
     <schema:familyName xml:lang="ja">涼宮</schema:familyName>
     <schema:familyName xml:lang="en">Suzumiya</schema:familyName>
@@ -1158,7 +1158,7 @@
     <imas:Hobby xml:lang="ja">バイオリン</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Tsukimiya_Miyabi">
+  <rdf:Description rdf:about="Tsukimiya_Miyabi">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cu</imas:Type>
     <schema:familyName xml:lang="ja">月宮</schema:familyName>
     <schema:familyName xml:lang="en">Tsukimiya</schema:familyName>
@@ -1187,7 +1187,7 @@
     <imas:Hobby xml:lang="ja">ママとショッピング</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Hyodo_Rena">
+  <rdf:Description rdf:about="Hyodo_Rena">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cu</imas:Type>
     <schema:familyName xml:lang="ja">兵藤</schema:familyName>
     <schema:familyName xml:lang="en">Hyodo</schema:familyName>
@@ -1216,7 +1216,7 @@
     <imas:Hobby xml:lang="ja">トランプ</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Niwa_Hitomi">
+  <rdf:Description rdf:about="Niwa_Hitomi">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cu</imas:Type>
     <schema:familyName xml:lang="ja">丹羽</schema:familyName>
     <schema:familyName xml:lang="en">Niwa</schema:familyName>
@@ -1246,7 +1246,7 @@
     <imas:Hobby xml:lang="ja">武将グッズ収集</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Domyoji_Karin">
+  <rdf:Description rdf:about="Domyoji_Karin">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cu</imas:Type>
     <schema:familyName xml:lang="ja">道明寺</schema:familyName>
     <schema:familyName xml:lang="en">Domyoji</schema:familyName>
@@ -1279,7 +1279,7 @@
     <imas:Hobby xml:lang="ja">境内のお掃除</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Yanagi_Kiyora">
+  <rdf:Description rdf:about="Yanagi_Kiyora">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cu</imas:Type>
     <schema:familyName xml:lang="ja">柳</schema:familyName>
     <schema:familyName xml:lang="en">Yanagi</schema:familyName>
@@ -1308,7 +1308,7 @@
     <imas:Hobby xml:lang="ja">ドキュメンタリー番組鑑賞</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Imura_Setsuna">
+  <rdf:Description rdf:about="Imura_Setsuna">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cu</imas:Type>
     <schema:familyName xml:lang="ja">井村</schema:familyName>
     <schema:familyName xml:lang="en">Imura</schema:familyName>
@@ -1337,7 +1337,7 @@
     <imas:Hobby xml:lang="ja">メイク小物集め</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Kusakabe_Wakaba">
+  <rdf:Description rdf:about="Kusakabe_Wakaba">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cu</imas:Type>
     <schema:familyName xml:lang="ja">日下部</schema:familyName>
     <schema:familyName xml:lang="en">Kusakabe</schema:familyName>
@@ -1366,7 +1366,7 @@
     <imas:Hobby xml:lang="ja">ジグソーパズル</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Sakakibara_Satomi">
+  <rdf:Description rdf:about="Sakakibara_Satomi">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cu</imas:Type>
     <schema:familyName xml:lang="ja">榊原</schema:familyName>
     <schema:familyName xml:lang="en">Sakakibara</schema:familyName>
@@ -1395,7 +1395,7 @@
     <imas:Hobby xml:lang="ja">甘いお菓子を食べること</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Koshimizu_Sachiko">
+  <rdf:Description rdf:about="Koshimizu_Sachiko">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cu</imas:Type>
     <schema:familyName xml:lang="ja">輿水</schema:familyName>
     <schema:familyName xml:lang="en">Koshimizu</schema:familyName>
@@ -1428,7 +1428,7 @@
     <imas:Hobby xml:lang="ja">勉強ノートの清書</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Anzai_Miyako">
+  <rdf:Description rdf:about="Anzai_Miyako">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cu</imas:Type>
     <schema:familyName xml:lang="ja">安斎</schema:familyName>
     <schema:familyName xml:lang="en">Anzai</schema:familyName>
@@ -1458,7 +1458,7 @@
     <imas:Hobby xml:lang="ja">推理小説を見ること</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Asano_Fuka">
+  <rdf:Description rdf:about="Asano_Fuka">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cu</imas:Type>
     <schema:familyName xml:lang="ja">浅野</schema:familyName>
     <schema:familyName xml:lang="en">Asano</schema:familyName>
@@ -1487,7 +1487,7 @@
     <imas:Hobby xml:lang="ja">小説を書くこと</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Ohnishi_Yuriko">
+  <rdf:Description rdf:about="Ohnishi_Yuriko">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cu</imas:Type>
     <schema:familyName xml:lang="ja">大西</schema:familyName>
     <schema:familyName xml:lang="en">Ohnishi</schema:familyName>
@@ -1517,7 +1517,7 @@
     <imas:Hobby xml:lang="ja">読書</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Abe_Nana">
+  <rdf:Description rdf:about="Abe_Nana">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cu</imas:Type>
     <schema:familyName xml:lang="ja">安部</schema:familyName>
     <schema:familyName xml:lang="en">Abe</schema:familyName>
@@ -1550,7 +1550,7 @@
     <imas:Hobby xml:lang="ja">ウサミン星との交信</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Kudo_Shinobu">
+  <rdf:Description rdf:about="Kudo_Shinobu">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cu</imas:Type>
     <schema:familyName xml:lang="ja">工藤</schema:familyName>
     <schema:familyName xml:lang="en">Kudo</schema:familyName>
@@ -1579,7 +1579,7 @@
     <imas:Hobby xml:lang="ja">おまけ集め</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Kurihara_Nene">
+  <rdf:Description rdf:about="Kurihara_Nene">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cu</imas:Type>
     <schema:familyName xml:lang="ja">栗原</schema:familyName>
     <schema:familyName xml:lang="en">Kurihara</schema:familyName>
@@ -1609,7 +1609,7 @@
     <imas:Hobby xml:lang="ja">健康作り</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Koga_Koharu">
+  <rdf:Description rdf:about="Koga_Koharu">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cu</imas:Type>
     <schema:familyName xml:lang="ja">古賀</schema:familyName>
     <schema:familyName xml:lang="en">Koga</schema:familyName>
@@ -1639,7 +1639,7 @@
     <imas:Hobby xml:lang="ja">家のお手伝い</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Clarice">
+  <rdf:Description rdf:about="Clarice">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cu</imas:Type>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
@@ -1662,7 +1662,7 @@
     <imas:Hobby xml:lang="ja">ボランティア</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Sakuma_Mayu">
+  <rdf:Description rdf:about="Sakuma_Mayu">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cu</imas:Type>
     <schema:familyName xml:lang="ja">佐久間</schema:familyName>
     <schema:familyName xml:lang="en">Sakuma</schema:familyName>
@@ -1696,7 +1696,7 @@
     <imas:Hobby xml:lang="ja">編み物</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Muramatsu_Sakura">
+  <rdf:Description rdf:about="Muramatsu_Sakura">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cu</imas:Type>
     <schema:familyName xml:lang="ja">村松</schema:familyName>
     <schema:familyName xml:lang="en">Muramatsu</schema:familyName>
@@ -1725,7 +1725,7 @@
     <imas:Hobby xml:lang="ja">ピンクのもの集め</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Shiragiku_Hotaru">
+  <rdf:Description rdf:about="Shiragiku_Hotaru">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cu</imas:Type>
     <schema:familyName xml:lang="ja">白菊</schema:familyName>
     <schema:familyName xml:lang="en">Shiragiku</schema:familyName>
@@ -1759,7 +1759,7 @@
     <imas:Hobby xml:lang="ja">笑顔の練習</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Hayasaka_Mirei">
+  <rdf:Description rdf:about="Hayasaka_Mirei">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cu</imas:Type>
     <schema:familyName xml:lang="ja">早坂</schema:familyName>
     <schema:familyName xml:lang="en">Hayasaka</schema:familyName>
@@ -1792,7 +1792,7 @@
     <imas:Hobby xml:lang="ja">ぬいぐるみ集め</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Ariura_Kanna">
+  <rdf:Description rdf:about="Ariura_Kanna">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cu</imas:Type>
     <schema:familyName xml:lang="ja">有浦</schema:familyName>
     <schema:familyName xml:lang="en">Ariura</schema:familyName>
@@ -1821,7 +1821,7 @@
     <imas:Hobby xml:lang="ja">ラブ＆ピース</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Otokura_Yuuki">
+  <rdf:Description rdf:about="Otokura_Yuuki">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cu</imas:Type>
     <schema:familyName xml:lang="ja">乙倉</schema:familyName>
     <schema:familyName xml:lang="en">Otokura</schema:familyName>
@@ -1855,7 +1855,7 @@
     <imas:Hobby xml:lang="ja">スクラップブック作り</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Harada_Miyo">
+  <rdf:Description rdf:about="Harada_Miyo">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cu</imas:Type>
     <schema:familyName xml:lang="ja">原田</schema:familyName>
     <schema:familyName xml:lang="en">Harada</schema:familyName>
@@ -1885,7 +1885,7 @@
     <imas:Hobby xml:lang="ja">クルマ</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Ikebukuro_Akiha">
+  <rdf:Description rdf:about="Ikebukuro_Akiha">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cu</imas:Type>
     <schema:familyName xml:lang="ja">池袋</schema:familyName>
     <schema:familyName xml:lang="en">Ikebukuro</schema:familyName>
@@ -1914,7 +1914,7 @@
     <imas:Hobby xml:lang="ja">ロボット制作</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Tsujino_Akari">
+  <rdf:Description rdf:about="Tsujino_Akari">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cu</imas:Type>
     <schema:familyName xml:lang="ja">辻野</schema:familyName>
     <schema:familyName xml:lang="en">Tsujino</schema:familyName>
@@ -1944,7 +1944,7 @@
     <imas:Hobby xml:lang="ja">編み物</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Shirayuki_Chiyo">
+  <rdf:Description rdf:about="Shirayuki_Chiyo">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cu</imas:Type>
     <schema:familyName xml:lang="ja">白雪</schema:familyName>
     <schema:familyName xml:lang="en">Shirayuki</schema:familyName>
@@ -1977,7 +1977,7 @@
     <imas:Hobby xml:lang="ja">睡眠</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Kurosaki_Chitose">
+  <rdf:Description rdf:about="Kurosaki_Chitose">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cu</imas:Type>
     <schema:familyName xml:lang="ja">黒埼</schema:familyName>
     <schema:familyName xml:lang="en">Kurosaki</schema:familyName>
@@ -2011,7 +2011,7 @@
   </rdf:Description>
 
   <!--Cool-->
-  <rdf:Description rdf:about="detail/Shibuya_Rin">
+  <rdf:Description rdf:about="Shibuya_Rin">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Co</imas:Type>
     <schema:familyName xml:lang="ja">渋谷</schema:familyName>
     <schema:familyName xml:lang="en">Shibuya</schema:familyName>
@@ -2044,7 +2044,7 @@
     <imas:Hobby xml:lang="ja">犬の散歩</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Kurokawa_Chiaki">
+  <rdf:Description rdf:about="Kurokawa_Chiaki">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Co</imas:Type>
     <schema:familyName xml:lang="ja">黒川</schema:familyName>
     <schema:familyName xml:lang="en">Kurokawa</schema:familyName>
@@ -2073,7 +2073,7 @@
     <imas:Hobby xml:lang="ja">クラシック鑑賞</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Matsumoto_Sarina">
+  <rdf:Description rdf:about="Matsumoto_Sarina">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Co</imas:Type>
     <schema:familyName xml:lang="ja">松本</schema:familyName>
     <schema:familyName xml:lang="en">Matsumoto</schema:familyName>
@@ -2102,7 +2102,7 @@
     <imas:Hobby xml:lang="ja">ショッピング</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Kirino_Aya">
+  <rdf:Description rdf:about="Kirino_Aya">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Co</imas:Type>
     <schema:familyName xml:lang="ja">桐野</schema:familyName>
     <schema:familyName xml:lang="en">Kirino</schema:familyName>
@@ -2131,7 +2131,7 @@
     <imas:Hobby xml:lang="ja">格闘技観戦</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Takahashi_Reiko">
+  <rdf:Description rdf:about="Takahashi_Reiko">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Co</imas:Type>
     <schema:familyName xml:lang="ja">高橋</schema:familyName>
     <schema:familyName xml:lang="en">Takahashi</schema:familyName>
@@ -2160,7 +2160,7 @@
     <imas:Hobby xml:lang="ja">パーティーに行くこと</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Aikawa_Chinatsu">
+  <rdf:Description rdf:about="Aikawa_Chinatsu">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Co</imas:Type>
     <schema:familyName xml:lang="ja">相川</schema:familyName>
     <schema:familyName xml:lang="en">Aikawa</schema:familyName>
@@ -2189,7 +2189,7 @@
     <imas:Hobby xml:lang="ja">カフェで読書</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Kawashima_Mizuki">
+  <rdf:Description rdf:about="Kawashima_Mizuki">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Co</imas:Type>
     <schema:familyName xml:lang="ja">川島</schema:familyName>
     <schema:familyName xml:lang="en">Kawashima</schema:familyName>
@@ -2223,7 +2223,7 @@
     <imas:Hobby xml:lang="ja">洗濯</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Kamiya_Nao">
+  <rdf:Description rdf:about="Kamiya_Nao">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Co</imas:Type>
     <schema:familyName xml:lang="ja">神谷</schema:familyName>
     <schema:familyName xml:lang="en">Kamiya</schema:familyName>
@@ -2256,7 +2256,7 @@
     <imas:Hobby xml:lang="ja">アニメ鑑賞</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Kamijo_Haruna">
+  <rdf:Description rdf:about="Kamijo_Haruna">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Co</imas:Type>
     <schema:familyName xml:lang="ja">上条</schema:familyName>
     <schema:familyName xml:lang="en">Kamijo</schema:familyName>
@@ -2289,7 +2289,7 @@
     <imas:Hobby xml:lang="ja">猫と縁側でお昼寝</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Araki_Hina">
+  <rdf:Description rdf:about="Araki_Hina">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Co</imas:Type>
     <schema:familyName xml:lang="ja">荒木</schema:familyName>
     <schema:familyName xml:lang="en">Araki</schema:familyName>
@@ -2322,7 +2322,7 @@
     <imas:Hobby xml:lang="ja">漫画描く</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Togo_Ai">
+  <rdf:Description rdf:about="Togo_Ai">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Co</imas:Type>
     <schema:familyName xml:lang="ja">東郷</schema:familyName>
     <schema:familyName xml:lang="en">Togo</schema:familyName>
@@ -2351,7 +2351,7 @@
     <imas:Hobby xml:lang="ja">サックス</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Tada_Rina">
+  <rdf:Description rdf:about="Tada_Rina">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Co</imas:Type>
     <schema:familyName xml:lang="ja">多田</schema:familyName>
     <schema:familyName xml:lang="en">Tada</schema:familyName>
@@ -2384,7 +2384,7 @@
     <imas:Hobby xml:lang="ja">音楽鑑賞</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Mizuki_Seira">
+  <rdf:Description rdf:about="Mizuki_Seira">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Co</imas:Type>
     <schema:familyName xml:lang="ja">水木</schema:familyName>
     <schema:familyName xml:lang="en">Mizuki</schema:familyName>
@@ -2413,7 +2413,7 @@
     <imas:Hobby xml:lang="ja">犬の散歩</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Sasaki_Chie">
+  <rdf:Description rdf:about="Sasaki_Chie">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Co</imas:Type>
     <schema:familyName xml:lang="ja">佐々木</schema:familyName>
     <schema:familyName xml:lang="en">Sasaki</schema:familyName>
@@ -2446,7 +2446,7 @@
     <imas:Hobby xml:lang="ja">裁縫</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Mifune_Miyu">
+  <rdf:Description rdf:about="Mifune_Miyu">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Co</imas:Type>
     <schema:familyName xml:lang="ja">三船</schema:familyName>
     <schema:familyName xml:lang="en">Mifune</schema:familyName>
@@ -2479,7 +2479,7 @@
     <imas:Hobby xml:lang="ja">アロマテラピー</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Hattori_Toko">
+  <rdf:Description rdf:about="Hattori_Toko">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Co</imas:Type>
     <schema:familyName xml:lang="ja">服部</schema:familyName>
     <schema:familyName xml:lang="en">Hattori</schema:familyName>
@@ -2509,7 +2509,7 @@
     <imas:Hobby xml:lang="ja">温泉めぐり</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Kiba_Manami">
+  <rdf:Description rdf:about="Kiba_Manami">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Co</imas:Type>
     <schema:familyName xml:lang="ja">木場</schema:familyName>
     <schema:familyName xml:lang="en">Kiba</schema:familyName>
@@ -2539,7 +2539,7 @@
     <imas:Hobby xml:lang="ja">筋トレ</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Fujiwara_Hajime">
+  <rdf:Description rdf:about="Fujiwara_Hajime">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Co</imas:Type>
     <schema:familyName xml:lang="ja">藤原</schema:familyName>
     <schema:familyName xml:lang="en">Fujiwara</schema:familyName>
@@ -2573,7 +2573,7 @@
     <imas:Hobby xml:lang="ja">釣り</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Nitta_Minami">
+  <rdf:Description rdf:about="Nitta_Minami">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Co</imas:Type>
     <schema:familyName xml:lang="ja">新田</schema:familyName>
     <schema:familyName xml:lang="en">Nitta</schema:familyName>
@@ -2607,7 +2607,7 @@
     <imas:Hobby xml:lang="ja">資格取得</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Mizuno_Midori">
+  <rdf:Description rdf:about="Mizuno_Midori">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Co</imas:Type>
     <schema:familyName xml:lang="ja">水野</schema:familyName>
     <schema:familyName xml:lang="en">Mizuno</schema:familyName>
@@ -2636,7 +2636,7 @@
     <imas:Hobby xml:lang="ja">弓道</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Furusawa_Yoriko">
+  <rdf:Description rdf:about="Furusawa_Yoriko">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Co</imas:Type>
     <schema:familyName xml:lang="ja">古澤</schema:familyName>
     <schema:familyName xml:lang="en">Furusawa</schema:familyName>
@@ -2666,7 +2666,7 @@
     <imas:Hobby xml:lang="ja">美術展</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Tachibana_Arisu">
+  <rdf:Description rdf:about="Tachibana_Arisu">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Co</imas:Type>
     <schema:familyName xml:lang="ja">橘</schema:familyName>
     <schema:familyName xml:lang="en">Tachibana</schema:familyName>
@@ -2700,7 +2700,7 @@
     <imas:Hobby xml:lang="ja">ゲーム</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Sagisawa_Fumika">
+  <rdf:Description rdf:about="Sagisawa_Fumika">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Co</imas:Type>
     <schema:familyName xml:lang="ja">鷺沢</schema:familyName>
     <schema:familyName xml:lang="en">Sagisawa</schema:familyName>
@@ -2733,7 +2733,7 @@
     <imas:Hobby xml:lang="ja">栞作り</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Yagami_Makino">
+  <rdf:Description rdf:about="Yagami_Makino">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Co</imas:Type>
     <schema:familyName xml:lang="ja">八神</schema:familyName>
     <schema:familyName xml:lang="en">Yagami</schema:familyName>
@@ -2762,7 +2762,7 @@
     <imas:Hobby xml:lang="ja">諜報活動</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Layla">
+  <rdf:Description rdf:about="Layla">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Co</imas:Type>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
@@ -2785,7 +2785,7 @@
     <imas:Hobby xml:lang="ja">公園で知らない人とおしゃべり</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Asari_Nanami">
+  <rdf:Description rdf:about="Asari_Nanami">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Co</imas:Type>
     <schema:familyName xml:lang="ja">浅利</schema:familyName>
     <schema:familyName xml:lang="en">Asari</schema:familyName>
@@ -2815,7 +2815,7 @@
     <imas:Hobby xml:lang="ja">釣り</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Helen">
+  <rdf:Description rdf:about="Helen">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Co</imas:Type>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
@@ -2838,7 +2838,7 @@
     <imas:Hobby xml:lang="ja">ＤＶＤ鑑賞</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Matsunaga_Ryo">
+  <rdf:Description rdf:about="Matsunaga_Ryo">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Co</imas:Type>
     <schema:familyName xml:lang="ja">松永</schema:familyName>
     <schema:familyName xml:lang="en">Matsunaga</schema:familyName>
@@ -2871,7 +2871,7 @@
     <imas:Hobby xml:lang="ja">ホラー映画鑑賞</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Komuro_Chinami">
+  <rdf:Description rdf:about="Komuro_Chinami">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Co</imas:Type>
     <schema:familyName xml:lang="ja">小室</schema:familyName>
     <schema:familyName xml:lang="en">Komuro</schema:familyName>
@@ -2900,7 +2900,7 @@
     <imas:Hobby xml:lang="ja">ダーツ</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Takamine_Noa">
+  <rdf:Description rdf:about="Takamine_Noa">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Co</imas:Type>
     <schema:familyName xml:lang="ja">高峯</schema:familyName>
     <schema:familyName xml:lang="en">Takamine</schema:familyName>
@@ -2929,7 +2929,7 @@
     <imas:Hobby xml:lang="ja">天体観測</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Takagaki_Kaede">
+  <rdf:Description rdf:about="Takagaki_Kaede">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Co</imas:Type>
     <schema:familyName xml:lang="ja">高垣</schema:familyName>
     <schema:familyName xml:lang="en">Takagaki</schema:familyName>
@@ -2962,7 +2962,7 @@
     <imas:Hobby xml:lang="ja">温泉めぐり</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Kanzaki_Ranko">
+  <rdf:Description rdf:about="Kanzaki_Ranko">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Co</imas:Type>
     <schema:familyName xml:lang="ja">神崎</schema:familyName>
     <schema:familyName xml:lang="en">Kanzaki</schema:familyName>
@@ -2995,7 +2995,7 @@
     <imas:Hobby xml:lang="ja">絵を描くこと</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Ijuin_Megumi">
+  <rdf:Description rdf:about="Ijuin_Megumi">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Co</imas:Type>
     <schema:familyName xml:lang="ja">伊集院</schema:familyName>
     <schema:familyName xml:lang="en">Ijuin</schema:familyName>
@@ -3024,7 +3024,7 @@
     <imas:Hobby xml:lang="ja">一人旅</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Hiiragi_Shino">
+  <rdf:Description rdf:about="Hiiragi_Shino">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Co</imas:Type>
     <schema:familyName xml:lang="ja">柊</schema:familyName>
     <schema:familyName xml:lang="en">Hiiragi</schema:familyName>
@@ -3053,7 +3053,7 @@
     <imas:Hobby xml:lang="ja">ワインツーリズム（産地巡り）</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Hojo_Karen">
+  <rdf:Description rdf:about="Hojo_Karen">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Co</imas:Type>
     <schema:familyName xml:lang="ja">北条</schema:familyName>
     <schema:familyName xml:lang="en">Hojo</schema:familyName>
@@ -3086,7 +3086,7 @@
     <imas:Hobby xml:lang="ja">ネイル</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Kate">
+  <rdf:Description rdf:about="Kate">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Co</imas:Type>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
@@ -3109,7 +3109,7 @@
     <imas:Hobby xml:lang="ja">日本の雑誌を見るコト</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Sena_Shiori">
+  <rdf:Description rdf:about="Sena_Shiori">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Co</imas:Type>
     <schema:familyName xml:lang="ja">瀬名</schema:familyName>
     <schema:familyName xml:lang="en">Sena</schema:familyName>
@@ -3138,7 +3138,7 @@
     <imas:Hobby xml:lang="ja">海沿いを散歩</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Ayase_Honoka">
+  <rdf:Description rdf:about="Ayase_Honoka">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Co</imas:Type>
     <schema:familyName xml:lang="ja">綾瀬</schema:familyName>
     <schema:familyName xml:lang="en">Ayase</schema:familyName>
@@ -3167,7 +3167,7 @@
     <imas:Hobby xml:lang="ja">バレエ</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Sajo_Yukimi">
+  <rdf:Description rdf:about="Sajo_Yukimi">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Co</imas:Type>
     <schema:familyName xml:lang="ja">佐城</schema:familyName>
     <schema:familyName xml:lang="en">Sajo</schema:familyName>
@@ -3199,7 +3199,7 @@
     <imas:Hobby xml:lang="ja">ペット（黒猫）と会話</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Shinohara_Rei">
+  <rdf:Description rdf:about="Shinohara_Rei">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Co</imas:Type>
     <schema:familyName xml:lang="ja">篠原</schema:familyName>
     <schema:familyName xml:lang="en">Shinohara</schema:familyName>
@@ -3228,7 +3228,7 @@
     <imas:Hobby xml:lang="ja">社交ダンス</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Wakui_Rumi">
+  <rdf:Description rdf:about="Wakui_Rumi">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Co</imas:Type>
     <schema:familyName xml:lang="ja">和久井</schema:familyName>
     <schema:familyName xml:lang="en">Wakui</schema:familyName>
@@ -3257,7 +3257,7 @@
     <imas:Hobby xml:lang="ja">仕事</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Yoshioka_Saki">
+  <rdf:Description rdf:about="Yoshioka_Saki">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Co</imas:Type>
     <schema:familyName xml:lang="ja">吉岡</schema:familyName>
     <schema:familyName xml:lang="en">Yoshioka</schema:familyName>
@@ -3286,7 +3286,7 @@
     <imas:Hobby xml:lang="ja">ストリートアート</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Umeki_Otoha">
+  <rdf:Description rdf:about="Umeki_Otoha">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Co</imas:Type>
     <schema:familyName xml:lang="ja">梅木</schema:familyName>
     <schema:familyName xml:lang="en">Umeki</schema:familyName>
@@ -3316,7 +3316,7 @@
     <imas:Hobby xml:lang="ja">森林浴</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Shirasaka_Koume">
+  <rdf:Description rdf:about="Shirasaka_Koume">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Co</imas:Type>
     <schema:familyName xml:lang="ja">白坂</schema:familyName>
     <schema:familyName xml:lang="en">Shirasaka</schema:familyName>
@@ -3350,7 +3350,7 @@
     <imas:Hobby xml:lang="ja">ホラー・スプラッタ映画鑑賞</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Kishibe_Ayaka">
+  <rdf:Description rdf:about="Kishibe_Ayaka">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Co</imas:Type>
     <schema:familyName xml:lang="ja">岸部</schema:familyName>
     <schema:familyName xml:lang="en">Kishibe</schema:familyName>
@@ -3381,7 +3381,7 @@
     <imas:Hobby xml:lang="ja">岩盤浴</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Ujiie_Mutsumi">
+  <rdf:Description rdf:about="Ujiie_Mutsumi">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Co</imas:Type>
     <schema:familyName xml:lang="ja">氏家</schema:familyName>
     <schema:familyName xml:lang="en">Ujiie</schema:familyName>
@@ -3411,7 +3411,7 @@
     <imas:Hobby xml:lang="ja">冒険映画を見る事</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Nishikawa_Honami">
+  <rdf:Description rdf:about="Nishikawa_Honami">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Co</imas:Type>
     <schema:familyName xml:lang="ja">西川</schema:familyName>
     <schema:familyName xml:lang="en">Nishikawa</schema:familyName>
@@ -3441,7 +3441,7 @@
     <imas:Hobby xml:lang="ja">宝塚鑑賞</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Narumiya_Yume">
+  <rdf:Description rdf:about="Narumiya_Yume">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Co</imas:Type>
     <schema:familyName xml:lang="ja">成宮</schema:familyName>
     <schema:familyName xml:lang="en">Narumiya</schema:familyName>
@@ -3471,7 +3471,7 @@
     <imas:Hobby xml:lang="ja">写生</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Fujii_Tomo">
+  <rdf:Description rdf:about="Fujii_Tomo">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Co</imas:Type>
     <schema:familyName xml:lang="ja">藤居</schema:familyName>
     <schema:familyName xml:lang="en">Fujii</schema:familyName>
@@ -3500,7 +3500,7 @@
     <imas:Hobby xml:lang="ja">占い</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Shiomi_Syuko">
+  <rdf:Description rdf:about="Shiomi_Syuko">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Co</imas:Type>
     <schema:familyName xml:lang="ja">塩見</schema:familyName>
     <schema:familyName xml:lang="en">Shiomi</schema:familyName>
@@ -3534,7 +3534,7 @@
     <imas:Hobby xml:lang="ja">ダーツ</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Wakiyama_Tamami">
+  <rdf:Description rdf:about="Wakiyama_Tamami">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Co</imas:Type>
     <schema:familyName xml:lang="ja">脇山</schema:familyName>
     <schema:familyName xml:lang="en">Wakiyama</schema:familyName>
@@ -3568,7 +3568,7 @@
     <imas:Hobby xml:lang="ja">剣道</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Okazaki_Yasuha">
+  <rdf:Description rdf:about="Okazaki_Yasuha">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Co</imas:Type>
     <schema:familyName xml:lang="ja">岡崎</schema:familyName>
     <schema:familyName xml:lang="en">Okazaki</schema:familyName>
@@ -3597,7 +3597,7 @@
     <imas:Hobby xml:lang="ja">ドールハウス作り</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Hayami_Kanade">
+  <rdf:Description rdf:about="Hayami_Kanade">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Co</imas:Type>
     <schema:familyName xml:lang="ja">速水</schema:familyName>
     <schema:familyName xml:lang="en">Hayami</schema:familyName>
@@ -3630,7 +3630,7 @@
     <imas:Hobby xml:lang="ja">映画鑑賞</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Ohishi_Izumi">
+  <rdf:Description rdf:about="Ohishi_Izumi">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Co</imas:Type>
     <schema:familyName xml:lang="ja">大石</schema:familyName>
     <schema:familyName xml:lang="en">Ohishi</schema:familyName>
@@ -3659,7 +3659,7 @@
     <imas:Hobby xml:lang="ja">プログラミング</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Matsuo_Chizuru">
+  <rdf:Description rdf:about="Matsuo_Chizuru">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Co</imas:Type>
     <schema:familyName xml:lang="ja">松尾</schema:familyName>
     <schema:familyName xml:lang="en">Matsuo</schema:familyName>
@@ -3689,7 +3689,7 @@
     <imas:Hobby xml:lang="ja">習字</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Morikubo_Nono">
+  <rdf:Description rdf:about="Morikubo_Nono">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Co</imas:Type>
     <schema:familyName xml:lang="ja">森久保</schema:familyName>
     <schema:familyName xml:lang="en">Morikubo</schema:familyName>
@@ -3723,7 +3723,7 @@
     <imas:Hobby xml:lang="ja">少女漫画集め</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Anastasia">
+  <rdf:Description rdf:about="Anastasia">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Co</imas:Type>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
@@ -3751,7 +3751,7 @@
     <imas:Hobby xml:lang="ja">天体観測</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Yamato_Aki">
+  <rdf:Description rdf:about="Yamato_Aki">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Co</imas:Type>
     <schema:familyName xml:lang="ja">大和</schema:familyName>
     <schema:familyName xml:lang="en">Yamato</schema:familyName>
@@ -3785,7 +3785,7 @@
     <imas:Hobby xml:lang="ja">プラモ収集</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Yuuki_Haru">
+  <rdf:Description rdf:about="Yuuki_Haru">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Co</imas:Type>
     <schema:familyName xml:lang="ja">結城</schema:familyName>
     <schema:familyName xml:lang="en">Yuuki</schema:familyName>
@@ -3818,7 +3818,7 @@
     <imas:Hobby xml:lang="ja">サッカー</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Ninomiya_Asuka">
+  <rdf:Description rdf:about="Ninomiya_Asuka">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Co</imas:Type>
     <schema:familyName xml:lang="ja">二宮</schema:familyName>
     <schema:familyName xml:lang="en">Ninomiya</schema:familyName>
@@ -3853,7 +3853,7 @@
     <imas:Hobby xml:lang="ja">漫画を描くこと</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Kiryu_Tsukasa">
+  <rdf:Description rdf:about="Kiryu_Tsukasa">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Co</imas:Type>
     <schema:familyName xml:lang="ja">桐生</schema:familyName>
     <schema:familyName xml:lang="en">Kiryu</schema:familyName>
@@ -3884,7 +3884,7 @@
     <imas:Hobby xml:lang="ja">ぬか床の世話</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Mochizuki_Hijiri">
+  <rdf:Description rdf:about="Mochizuki_Hijiri">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Co</imas:Type>
     <schema:familyName xml:lang="ja">望月</schema:familyName>
     <schema:familyName xml:lang="en">Mochizuki</schema:familyName>
@@ -3913,7 +3913,7 @@
     <imas:Hobby xml:lang="ja">歌を口ずさむこと</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Takafuji_Kako">
+  <rdf:Description rdf:about="Takafuji_Kako">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Co</imas:Type>
     <schema:familyName xml:lang="ja">鷹富士</schema:familyName>
     <schema:familyName xml:lang="en">Takafuji</schema:familyName>
@@ -3946,7 +3946,7 @@
     <imas:Hobby xml:lang="ja">隠し芸</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Sunazuka_Akira">
+  <rdf:Description rdf:about="Sunazuka_Akira">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Co</imas:Type>
     <schema:familyName xml:lang="ja">砂塚</schema:familyName>
     <schema:familyName xml:lang="en">Sunazuka</schema:familyName>
@@ -3977,7 +3977,7 @@
     <imas:Hobby xml:lang="ja">FPS</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Hisakawa_Hayate">
+  <rdf:Description rdf:about="Hisakawa_Hayate">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Co</imas:Type>
     <schema:familyName xml:lang="ja">久川</schema:familyName>
     <schema:familyName xml:lang="en">Hisakawa</schema:familyName>
@@ -4012,7 +4012,7 @@
   </rdf:Description>
 
   <!--Passion-->
-  <rdf:Description rdf:about="detail/Honda_Mio">
+  <rdf:Description rdf:about="Honda_Mio">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pa</imas:Type>
     <schema:familyName xml:lang="ja">本田</schema:familyName>
     <schema:familyName xml:lang="en">Honda</schema:familyName>
@@ -4045,7 +4045,7 @@
     <imas:Hobby xml:lang="ja">ショッピング</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Takamori_Aiko">
+  <rdf:Description rdf:about="Takamori_Aiko">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pa</imas:Type>
     <schema:familyName xml:lang="ja">高森</schema:familyName>
     <schema:familyName xml:lang="en">Takamori</schema:familyName>
@@ -4078,7 +4078,7 @@
     <imas:Hobby xml:lang="ja">近所の公園をお散歩</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Namiki_Meiko">
+  <rdf:Description rdf:about="Namiki_Meiko">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pa</imas:Type>
     <schema:familyName xml:lang="ja">並木</schema:familyName>
     <schema:familyName xml:lang="en">Namiki</schema:familyName>
@@ -4107,7 +4107,7 @@
     <imas:Hobby xml:lang="ja">旅行</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Ryuzaki_Kaoru">
+  <rdf:Description rdf:about="Ryuzaki_Kaoru">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pa</imas:Type>
     <schema:familyName xml:lang="ja">龍崎</schema:familyName>
     <schema:familyName xml:lang="en">Ryuzaki</schema:familyName>
@@ -4140,7 +4140,7 @@
     <imas:Hobby xml:lang="ja">料理</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Kimura_Natsuki">
+  <rdf:Description rdf:about="Kimura_Natsuki">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pa</imas:Type>
     <schema:familyName xml:lang="ja">木村</schema:familyName>
     <schema:familyName xml:lang="en">Kimura</schema:familyName>
@@ -4173,7 +4173,7 @@
     <imas:Hobby xml:lang="ja">ツーリング</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Matsuyama_Kumiko">
+  <rdf:Description rdf:about="Matsuyama_Kumiko">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pa</imas:Type>
     <schema:familyName xml:lang="ja">松山</schema:familyName>
     <schema:familyName xml:lang="en">Matsuyama</schema:familyName>
@@ -4202,7 +4202,7 @@
     <imas:Hobby xml:lang="ja">ピアノ</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Saito_Yoko">
+  <rdf:Description rdf:about="Saito_Yoko">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pa</imas:Type>
     <schema:familyName xml:lang="ja">斉藤</schema:familyName>
     <schema:familyName xml:lang="en">Saito</schema:familyName>
@@ -4231,7 +4231,7 @@
     <imas:Hobby xml:lang="ja">半身浴</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Sawada_Marina">
+  <rdf:Description rdf:about="Sawada_Marina">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pa</imas:Type>
     <schema:familyName xml:lang="ja">沢田</schema:familyName>
     <schema:familyName xml:lang="en">Sawada</schema:familyName>
@@ -4260,7 +4260,7 @@
     <imas:Hobby xml:lang="ja">サーフィン</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Yaguchi_Miu">
+  <rdf:Description rdf:about="Yaguchi_Miu">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pa</imas:Type>
     <schema:familyName xml:lang="ja">矢口</schema:familyName>
     <schema:familyName xml:lang="en">Yaguchi</schema:familyName>
@@ -4289,7 +4289,7 @@
     <imas:Hobby xml:lang="ja">メール</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Akagi_Miria">
+  <rdf:Description rdf:about="Akagi_Miria">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pa</imas:Type>
     <schema:familyName xml:lang="ja">赤城</schema:familyName>
     <schema:familyName xml:lang="en">Akagi</schema:familyName>
@@ -4322,7 +4322,7 @@
     <imas:Hobby xml:lang="ja">おしゃべり</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Aino_Nagisa">
+  <rdf:Description rdf:about="Aino_Nagisa">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pa</imas:Type>
     <schema:familyName xml:lang="ja">愛野</schema:familyName>
     <schema:familyName xml:lang="en">Aino</schema:familyName>
@@ -4351,7 +4351,7 @@
     <imas:Hobby xml:lang="ja">バスケットボール</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Manabe_Itsuki">
+  <rdf:Description rdf:about="Manabe_Itsuki">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pa</imas:Type>
     <schema:familyName xml:lang="ja">真鍋</schema:familyName>
     <schema:familyName xml:lang="en">Manabe</schema:familyName>
@@ -4380,7 +4380,7 @@
     <imas:Hobby xml:lang="ja">とにかく運動</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Ohtsuki_Yui">
+  <rdf:Description rdf:about="Ohtsuki_Yui">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pa</imas:Type>
     <schema:familyName xml:lang="ja">大槻</schema:familyName>
     <schema:familyName xml:lang="en">Ohtsuki</schema:familyName>
@@ -4413,7 +4413,7 @@
     <imas:Hobby xml:lang="ja">カラオケ</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Himekawa_Yuki">
+  <rdf:Description rdf:about="Himekawa_Yuki">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pa</imas:Type>
     <schema:familyName xml:lang="ja">姫川</schema:familyName>
     <schema:familyName xml:lang="en">Himekawa</schema:familyName>
@@ -4446,7 +4446,7 @@
     <imas:Hobby xml:lang="ja">野球観戦</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Kitami_Yuzu">
+  <rdf:Description rdf:about="Kitami_Yuzu">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pa</imas:Type>
     <schema:familyName xml:lang="ja">喜多見</schema:familyName>
     <schema:familyName xml:lang="en">Kitami</schema:familyName>
@@ -4479,7 +4479,7 @@
     <imas:Hobby xml:lang="ja">バドミントン</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Ueda_Suzuho">
+  <rdf:Description rdf:about="Ueda_Suzuho">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pa</imas:Type>
     <schema:familyName xml:lang="ja">上田</schema:familyName>
     <schema:familyName xml:lang="en">Ueda</schema:familyName>
@@ -4512,7 +4512,7 @@
     <imas:Hobby xml:lang="ja">裁縫</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Ebihara_Naho">
+  <rdf:Description rdf:about="Ebihara_Naho">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pa</imas:Type>
     <schema:familyName xml:lang="ja">海老原</schema:familyName>
     <schema:familyName xml:lang="en">Ebihara</schema:familyName>
@@ -4542,7 +4542,7 @@
     <imas:Hobby xml:lang="ja">和菓子屋さん巡り</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Oikawa_Shizuku">
+  <rdf:Description rdf:about="Oikawa_Shizuku">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pa</imas:Type>
     <schema:familyName xml:lang="ja">及川</schema:familyName>
     <schema:familyName xml:lang="en">Oikawa</schema:familyName>
@@ -4576,7 +4576,7 @@
     <imas:Hobby xml:lang="ja">トラクターの運転</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Koseki_Reina">
+  <rdf:Description rdf:about="Koseki_Reina">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pa</imas:Type>
     <schema:familyName xml:lang="ja">小関</schema:familyName>
     <schema:familyName xml:lang="en">Koseki</schema:familyName>
@@ -4608,7 +4608,7 @@
     <imas:Hobby xml:lang="ja">いたずら</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Etou_Misaki">
+  <rdf:Description rdf:about="Etou_Misaki">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pa</imas:Type>
     <schema:familyName xml:lang="ja">衛藤</schema:familyName>
     <schema:familyName xml:lang="en">Etou</schema:familyName>
@@ -4638,7 +4638,7 @@
     <imas:Hobby xml:lang="ja">携帯小説</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Hoshi_Syoko">
+  <rdf:Description rdf:about="Hoshi_Syoko">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pa</imas:Type>
     <schema:familyName xml:lang="ja">星</schema:familyName>
     <schema:familyName xml:lang="en">Hoshi</schema:familyName>
@@ -4671,7 +4671,7 @@
     <imas:Hobby xml:lang="ja">キノコ栽培</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Katagiri_Sanae">
+  <rdf:Description rdf:about="Katagiri_Sanae">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pa</imas:Type>
     <schema:familyName xml:lang="ja">片桐</schema:familyName>
     <schema:familyName xml:lang="en">Katagiri</schema:familyName>
@@ -4705,7 +4705,7 @@
     <imas:Hobby xml:lang="ja">スーパー銭湯</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Hori_Yuko">
+  <rdf:Description rdf:about="Hori_Yuko">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pa</imas:Type>
     <schema:familyName xml:lang="ja">堀</schema:familyName>
     <schema:familyName xml:lang="en">Hori</schema:familyName>
@@ -4738,7 +4738,7 @@
     <imas:Hobby xml:lang="ja">サイキックトレーニング</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Nishijima_Kai">
+  <rdf:Description rdf:about="Nishijima_Kai">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pa</imas:Type>
     <schema:familyName xml:lang="ja">西島</schema:familyName>
     <schema:familyName xml:lang="en">Nishijima</schema:familyName>
@@ -4767,7 +4767,7 @@
     <imas:Hobby xml:lang="ja">水族館巡り</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Matoba_Risa">
+  <rdf:Description rdf:about="Matoba_Risa">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pa</imas:Type>
     <schema:familyName xml:lang="ja">的場</schema:familyName>
     <schema:familyName xml:lang="en">Matoba</schema:familyName>
@@ -4800,7 +4800,7 @@
     <imas:Hobby xml:lang="ja">パパとデート</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Zaizen_Tokiko">
+  <rdf:Description rdf:about="Zaizen_Tokiko">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pa</imas:Type>
     <schema:familyName xml:lang="ja">財前</schema:familyName>
     <schema:familyName xml:lang="en">Zaizen</schema:familyName>
@@ -4830,7 +4830,7 @@
     <imas:Hobby xml:lang="ja">お仕置き</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Yorita_Yoshino">
+  <rdf:Description rdf:about="Yorita_Yoshino">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pa</imas:Type>
     <schema:familyName xml:lang="ja">依田</schema:familyName>
     <schema:familyName xml:lang="en">Yorita</schema:familyName>
@@ -4865,7 +4865,7 @@
     <imas:Hobby xml:lang="ja">失せ物探し</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Aiba_Yumi">
+  <rdf:Description rdf:about="Aiba_Yumi">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pa</imas:Type>
     <schema:familyName xml:lang="ja">相葉</schema:familyName>
     <schema:familyName xml:lang="en">Aiba</schema:familyName>
@@ -4898,7 +4898,7 @@
     <imas:Hobby xml:lang="ja">ガーデニング</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Nonomura_Sora">
+  <rdf:Description rdf:about="Nonomura_Sora">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pa</imas:Type>
     <schema:familyName xml:lang="ja">野々村</schema:familyName>
     <schema:familyName xml:lang="en">Nonomura</schema:familyName>
@@ -4927,7 +4927,7 @@
     <imas:Hobby xml:lang="ja">友達と電話</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Hamakawa_Ayuna">
+  <rdf:Description rdf:about="Hamakawa_Ayuna">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pa</imas:Type>
     <schema:familyName xml:lang="ja">浜川</schema:familyName>
     <schema:familyName xml:lang="en">Hamakawa</schema:familyName>
@@ -4956,7 +4956,7 @@
     <imas:Hobby xml:lang="ja">乗馬</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Wakabayashi_Tomoka">
+  <rdf:Description rdf:about="Wakabayashi_Tomoka">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pa</imas:Type>
     <schema:familyName xml:lang="ja">若林</schema:familyName>
     <schema:familyName xml:lang="en">Wakabayashi</schema:familyName>
@@ -4985,7 +4985,7 @@
     <imas:Hobby xml:lang="ja">チアリーディング</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Jougasaki_Mika">
+  <rdf:Description rdf:about="Jougasaki_Mika">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pa</imas:Type>
     <schema:familyName xml:lang="ja">城ヶ崎</schema:familyName>
     <schema:familyName xml:lang="en">Jougasaki</schema:familyName>
@@ -5018,7 +5018,7 @@
     <imas:Hobby xml:lang="ja">カラオケ</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Jougasaki_Rika">
+  <rdf:Description rdf:about="Jougasaki_Rika">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pa</imas:Type>
     <schema:familyName xml:lang="ja">城ヶ崎</schema:familyName>
     <schema:familyName xml:lang="en">Jougasaki</schema:familyName>
@@ -5051,7 +5051,7 @@
     <imas:Hobby xml:lang="ja">シール集め</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Senzaki_Ema">
+  <rdf:Description rdf:about="Senzaki_Ema">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pa</imas:Type>
     <schema:familyName xml:lang="ja">仙崎</schema:familyName>
     <schema:familyName xml:lang="en">Senzaki</schema:familyName>
@@ -5080,7 +5080,7 @@
     <imas:Hobby xml:lang="ja">革小物集め</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Hino_Akane">
+  <rdf:Description rdf:about="Hino_Akane">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pa</imas:Type>
     <schema:familyName xml:lang="ja">日野</schema:familyName>
     <schema:familyName xml:lang="en">Hino</schema:familyName>
@@ -5113,7 +5113,7 @@
     <imas:Hobby xml:lang="ja">ラグビー観戦</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Moroboshi_Kirari">
+  <rdf:Description rdf:about="Moroboshi_Kirari">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pa</imas:Type>
     <schema:familyName xml:lang="ja">諸星</schema:familyName>
     <schema:familyName xml:lang="en">Moroboshi</schema:familyName>
@@ -5146,7 +5146,7 @@
     <imas:Hobby xml:lang="ja">かわいい物集め</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Totoki_Airi">
+  <rdf:Description rdf:about="Totoki_Airi">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pa</imas:Type>
     <schema:familyName xml:lang="ja">十時</schema:familyName>
     <schema:familyName xml:lang="en">Totoki</schema:familyName>
@@ -5179,7 +5179,7 @@
     <imas:Hobby xml:lang="ja">ケーキ作り</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Natalia">
+  <rdf:Description rdf:about="Natalia">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pa</imas:Type>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
@@ -5205,7 +5205,7 @@
     <imas:Hobby xml:lang="ja">ベリーダンス</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Souma_Natsumi">
+  <rdf:Description rdf:about="Souma_Natsumi">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pa</imas:Type>
     <schema:familyName xml:lang="ja">相馬</schema:familyName>
     <schema:familyName xml:lang="en">Souma</schema:familyName>
@@ -5234,7 +5234,7 @@
     <imas:Hobby xml:lang="ja">ランニング</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Makihara_Shiho">
+  <rdf:Description rdf:about="Makihara_Shiho">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pa</imas:Type>
     <schema:familyName xml:lang="ja">槙原</schema:familyName>
     <schema:familyName xml:lang="en">Makihara</schema:familyName>
@@ -5263,7 +5263,7 @@
     <imas:Hobby xml:lang="ja">スイーツめぐり</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Mukai_Takumi">
+  <rdf:Description rdf:about="Mukai_Takumi">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pa</imas:Type>
     <schema:familyName xml:lang="ja">向井</schema:familyName>
     <schema:familyName xml:lang="en">Mukai</schema:familyName>
@@ -5296,7 +5296,7 @@
     <imas:Hobby xml:lang="ja">バイクいじり</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Ichihara_Nina">
+  <rdf:Description rdf:about="Ichihara_Nina">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pa</imas:Type>
     <schema:familyName xml:lang="ja">市原</schema:familyName>
     <schema:familyName xml:lang="en">Ichihara</schema:familyName>
@@ -5329,7 +5329,7 @@
     <imas:Hobby xml:lang="ja">着ぐるみ集め</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Kita_Hinako">
+  <rdf:Description rdf:about="Kita_Hinako">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pa</imas:Type>
     <schema:familyName xml:lang="ja">喜多</schema:familyName>
     <schema:familyName xml:lang="en">Kita</schema:familyName>
@@ -5362,7 +5362,7 @@
     <imas:Hobby xml:lang="ja">妄想</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Sugisaka_Umi">
+  <rdf:Description rdf:about="Sugisaka_Umi">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pa</imas:Type>
     <schema:familyName xml:lang="ja">杉坂</schema:familyName>
     <schema:familyName xml:lang="en">Sugisaka</schema:familyName>
@@ -5391,7 +5391,7 @@
     <imas:Hobby xml:lang="ja">ウインドサーフィン</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Kitagawa_Mahiro">
+  <rdf:Description rdf:about="Kitagawa_Mahiro">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pa</imas:Type>
     <schema:familyName xml:lang="ja">北川</schema:familyName>
     <schema:familyName xml:lang="en">Kitagawa</schema:familyName>
@@ -5422,7 +5422,7 @@
     <imas:Hobby xml:lang="ja">寝ること</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Mary_Cochran">
+  <rdf:Description rdf:about="Mary_Cochran">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pa</imas:Type>
     <schema:familyName xml:lang="ja">コクラン</schema:familyName>
     <schema:familyName xml:lang="en">Cochran</schema:familyName>
@@ -5452,7 +5452,7 @@
     <imas:Hobby xml:lang="ja">グルメツアー</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Komatsu_Ibuki">
+  <rdf:Description rdf:about="Komatsu_Ibuki">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pa</imas:Type>
     <schema:familyName xml:lang="ja">小松</schema:familyName>
     <schema:familyName xml:lang="en">Komatsu</schema:familyName>
@@ -5483,7 +5483,7 @@
     <imas:Hobby xml:lang="ja">恋愛映画を見る事</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Miyoshi_Sana">
+  <rdf:Description rdf:about="Miyoshi_Sana">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pa</imas:Type>
     <schema:familyName xml:lang="ja">三好</schema:familyName>
     <schema:familyName xml:lang="en">Miyoshi</schema:familyName>
@@ -5513,7 +5513,7 @@
     <imas:Hobby xml:lang="ja">夜更かし</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Cathy_Graham">
+  <rdf:Description rdf:about="Cathy_Graham">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pa</imas:Type>
     <schema:familyName xml:lang="ja">グラハム</schema:familyName>
     <schema:familyName xml:lang="en">Graham</schema:familyName>
@@ -5543,7 +5543,7 @@
     <imas:Hobby xml:lang="ja">ダンス</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Namba_Emi">
+  <rdf:Description rdf:about="Namba_Emi">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pa</imas:Type>
     <schema:familyName xml:lang="ja">難波</schema:familyName>
     <schema:familyName xml:lang="en">Namba</schema:familyName>
@@ -5577,7 +5577,7 @@
     <imas:Hobby xml:lang="ja">モノマネ</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Hamaguchi_Ayame">
+  <rdf:Description rdf:about="Hamaguchi_Ayame">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pa</imas:Type>
     <schema:familyName xml:lang="ja">浜口</schema:familyName>
     <schema:familyName xml:lang="en">Hamaguchi</schema:familyName>
@@ -5612,7 +5612,7 @@
     <imas:Hobby xml:lang="ja">時代劇鑑賞</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Murakami_Tomoe">
+  <rdf:Description rdf:about="Murakami_Tomoe">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pa</imas:Type>
     <schema:familyName xml:lang="ja">村上</schema:familyName>
     <schema:familyName xml:lang="en">Murakami</schema:familyName>
@@ -5646,7 +5646,7 @@
     <imas:Hobby xml:lang="ja">将棋</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Tsuchiya_Ako">
+  <rdf:Description rdf:about="Tsuchiya_Ako">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pa</imas:Type>
     <schema:familyName xml:lang="ja">土屋</schema:familyName>
     <schema:familyName xml:lang="en">Tsuchiya</schema:familyName>
@@ -5676,7 +5676,7 @@
     <imas:Hobby xml:lang="ja">貯金</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Shuto_Aoi">
+  <rdf:Description rdf:about="Shuto_Aoi">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pa</imas:Type>
     <schema:familyName xml:lang="ja">首藤</schema:familyName>
     <schema:familyName xml:lang="en">Shuto</schema:familyName>
@@ -5705,7 +5705,7 @@
     <imas:Hobby xml:lang="ja">魚さばき</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Saejima_Kiyomi">
+  <rdf:Description rdf:about="Saejima_Kiyomi">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pa</imas:Type>
     <schema:familyName xml:lang="ja">冴島</schema:familyName>
     <schema:familyName xml:lang="en">Saejima</schema:familyName>
@@ -5736,7 +5736,7 @@
     <imas:Hobby xml:lang="ja">腕章作り</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Sato_Shin">
+  <rdf:Description rdf:about="Sato_Shin">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pa</imas:Type>
     <schema:familyName xml:lang="ja">佐藤</schema:familyName>
     <schema:familyName xml:lang="en">Sato</schema:familyName>
@@ -5770,7 +5770,7 @@
     <imas:Hobby xml:lang="ja">衣装作り</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Nanjo_Hikaru">
+  <rdf:Description rdf:about="Nanjo_Hikaru">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pa</imas:Type>
     <schema:familyName xml:lang="ja">南条</schema:familyName>
     <schema:familyName xml:lang="en">Nanjo</schema:familyName>
@@ -5804,7 +5804,7 @@
     <imas:Hobby xml:lang="ja">特撮ごっこ</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Eve_Santaclaus">
+  <rdf:Description rdf:about="Eve_Santaclaus">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pa</imas:Type>
     <schema:familyName xml:lang="ja">サンタクロース</schema:familyName>
     <schema:familyName xml:lang="en">Santaclaus</schema:familyName>
@@ -5833,7 +5833,7 @@
     <imas:Hobby xml:lang="ja">煙突探し</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Yumemi_Riamu">
+  <rdf:Description rdf:about="Yumemi_Riamu">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pa</imas:Type>
     <schema:familyName xml:lang="ja">夢見</schema:familyName>
     <schema:familyName xml:lang="en">Yumemi</schema:familyName>
@@ -5866,7 +5866,7 @@
     <imas:Hobby xml:lang="ja">現場参戦</imas:Hobby>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Hisakawa_Nagi">
+  <rdf:Description rdf:about="Hisakawa_Nagi">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pa</imas:Type>
     <schema:familyName xml:lang="ja">久川</schema:familyName>
     <schema:familyName xml:lang="en">Hisakawa</schema:familyName>

@@ -4,10 +4,10 @@
     xmlns:foaf="http://xmlns.com/foaf/0.1/"
     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
     xmlns:imas="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#"
-    xml:base="https://sparql.crssnky.xyz/imasrdf/RDFs/"
+    xml:base="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/"
     >
 
-  <rdf:Description rdf:about="detail/Takagi_Junichiro">
+  <rdf:Description rdf:about="Takagi_Junichiro">
     <schema:familyName xml:lang="ja">高木</schema:familyName>
     <schema:familyName xml:lang="en">Takagi</schema:familyName>
     <imas:familyNameKana xml:lang="ja">たかぎ</imas:familyNameKana>
@@ -34,7 +34,7 @@
     <schema:position xml:lang="ja">会長</schema:position>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Staff"/>
   </rdf:Description>
-  <rdf:Description rdf:about="detail/Takagi_Junjiro">
+  <rdf:Description rdf:about="Takagi_Junjiro">
     <schema:familyName xml:lang="ja">高木</schema:familyName>
     <schema:familyName xml:lang="en">Takagi</schema:familyName>
     <imas:familyNameKana xml:lang="ja">たかぎ</imas:familyNameKana>
@@ -61,7 +61,7 @@
     <schema:position xml:lang="ja">社長</schema:position>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Staff"/>
   </rdf:Description>
-  <rdf:Description rdf:about="detail/Kuroi_Takao">
+  <rdf:Description rdf:about="Kuroi_Takao">
     <schema:familyName xml:lang="ja">黒井</schema:familyName>
     <schema:familyName xml:lang="en">Kuroi</schema:familyName>
     <imas:familyNameKana xml:lang="ja">くろい</imas:familyNameKana>
@@ -88,7 +88,7 @@
     <schema:position xml:lang="ja">社長</schema:position>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Staff"/>
   </rdf:Description>
-  <rdf:Description rdf:about="detail/Saito_Takashi">
+  <rdf:Description rdf:about="Saito_Takashi">
     <schema:familyName xml:lang="ja">齋藤</schema:familyName>
     <schema:familyName xml:lang="en">Saito</schema:familyName>
     <imas:familyNameKana xml:lang="ja">さいとう</imas:familyNameKana>
@@ -108,7 +108,7 @@
     <schema:position xml:lang="ja">社長</schema:position>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Staff"/>
   </rdf:Description>
-  <rdf:Description rdf:about="detail/Ishikawa_Minori">
+  <rdf:Description rdf:about="Ishikawa_Minori">
     <schema:familyName xml:lang="ja">石川</schema:familyName>
     <schema:familyName xml:lang="en">Ishikawa</schema:familyName>
     <imas:familyNameKana xml:lang="ja">いしかわ</imas:familyNameKana>
@@ -124,7 +124,7 @@
     <schema:position xml:lang="ja">社長</schema:position>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Staff"/>
   </rdf:Description>
-  <rdf:Description rdf:about="detail/Amai_Tsutomu">
+  <rdf:Description rdf:about="Amai_Tsutomu">
     <schema:familyName xml:lang="ja">天井</schema:familyName>
     <schema:familyName xml:lang="en">Amai</schema:familyName>
     <imas:familyNameKana xml:lang="ja">あまい</imas:familyNameKana>
@@ -144,7 +144,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Staff"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Otonashi_Kotori">
+  <rdf:Description rdf:about="Otonashi_Kotori">
     <schema:familyName xml:lang="ja">音無</schema:familyName>
     <schema:familyName xml:lang="en">Otonashi</schema:familyName>
     <imas:familyNameKana xml:lang="ja">おとなし</imas:familyNameKana>
@@ -175,7 +175,7 @@
     <schema:position xml:lang="ja">事務員</schema:position>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Staff"/>
   </rdf:Description>
-  <rdf:Description rdf:about="detail/Senkawa_Chihiro">
+  <rdf:Description rdf:about="Senkawa_Chihiro">
     <schema:familyName xml:lang="ja">千川</schema:familyName>
     <schema:familyName xml:lang="en">Senkawa</schema:familyName>
     <imas:familyNameKana xml:lang="ja">せんかわ</imas:familyNameKana>
@@ -207,7 +207,7 @@
     <schema:position xml:lang="ja">事務員</schema:position>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Staff"/>
   </rdf:Description>
-  <rdf:Description rdf:about="detail/Yamamura_Ken">
+  <rdf:Description rdf:about="Yamamura_Ken">
     <schema:familyName xml:lang="ja">山村</schema:familyName>
     <schema:familyName xml:lang="en">Yamamura</schema:familyName>
     <imas:familyNameKana xml:lang="ja">やまむら</imas:familyNameKana>
@@ -236,7 +236,7 @@
     <schema:position xml:lang="ja">事務員</schema:position>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Staff"/>
   </rdf:Description>
-  <rdf:Description rdf:about="detail/Aoba_Misaki">
+  <rdf:Description rdf:about="Aoba_Misaki">
     <schema:familyName xml:lang="ja">青羽</schema:familyName>
     <schema:familyName xml:lang="en">Aoba</schema:familyName>
     <imas:familyNameKana xml:lang="ja">あおば</imas:familyNameKana>
@@ -258,7 +258,7 @@
     <schema:position xml:lang="ja">事務員</schema:position>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Staff"/>
   </rdf:Description>
-  <rdf:Description rdf:about="detail/Nanakusa_Hazuki">
+  <rdf:Description rdf:about="Nanakusa_Hazuki">
     <schema:familyName xml:lang="ja">七草</schema:familyName>
     <schema:familyName xml:lang="en">Nanakusa</schema:familyName>
     <imas:familyNameKana xml:lang="ja">ななくさ</imas:familyNameKana>
@@ -281,7 +281,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Staff"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Hayasaka_Sora">
+  <rdf:Description rdf:about="Hayasaka_Sora">
     <schema:familyName xml:lang="ja">早坂</schema:familyName>
     <schema:familyName xml:lang="en">Hayasaka</schema:familyName>
     <imas:familyNameKana xml:lang="ja">はやさか</imas:familyNameKana>
@@ -301,7 +301,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Staff"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Aoki_Rei">
+  <rdf:Description rdf:about="Aoki_Rei">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pa</imas:Type>
     <schema:familyName xml:lang="ja">青木</schema:familyName>
     <schema:familyName xml:lang="en">Aoki</schema:familyName>
@@ -337,7 +337,7 @@
     <schema:alternateName xml:lang="en">Master Trainer</schema:alternateName>
     <schema:alternateName xml:lang="en">Star Lesson Trainer</schema:alternateName>
   </rdf:Description>
-  <rdf:Description rdf:about="detail/Aoki_Sei">
+  <rdf:Description rdf:about="Aoki_Sei">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pa</imas:Type>
     <schema:familyName xml:lang="ja">青木</schema:familyName>
     <schema:familyName xml:lang="en">Aoki</schema:familyName>
@@ -371,7 +371,7 @@
     <schema:alternateName xml:lang="ja">ベテラントレーナー</schema:alternateName>
     <schema:alternateName xml:lang="en">Veteran Trainer</schema:alternateName>
   </rdf:Description>
-  <rdf:Description rdf:about="detail/Aoki_Mei">
+  <rdf:Description rdf:about="Aoki_Mei">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pa</imas:Type>
     <schema:familyName xml:lang="ja">青木</schema:familyName>
     <schema:familyName xml:lang="en">Aoki</schema:familyName>
@@ -405,7 +405,7 @@
     <schema:alternateName xml:lang="ja">トレーナー</schema:alternateName>
     <schema:alternateName xml:lang="en">Trainer</schema:alternateName>
   </rdf:Description>
-  <rdf:Description rdf:about="detail/Aoki_Kei">
+  <rdf:Description rdf:about="Aoki_Kei">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pa</imas:Type>
     <schema:familyName xml:lang="ja">青木</schema:familyName>
     <schema:familyName xml:lang="en">Aoki</schema:familyName>
@@ -440,7 +440,7 @@
     <schema:alternateName xml:lang="en">Rookie Trainer</schema:alternateName>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Producer">
+  <rdf:Description rdf:about="Producer">
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Staff"/>
   </rdf:Description>
 

@@ -4,10 +4,10 @@
     xmlns:foaf="http://xmlns.com/foaf/0.1/"
     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
     xmlns:imas="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#"
-    xml:base="https://sparql.crssnky.xyz/imasrdf/RDFs/"
+    xml:base="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/"
     >
 
-  <rdf:Description rdf:about="detail/%E3%83%AF%E3%83%B3%E3%83%80%E3%83%BC%E3%83%95%E3%82%A7%E3%82%B9%E3%83%86%E3%82%A3%E3%83%90%E3%83%AB%202007%E5%86%AC%20%E4%B8%89%E6%B5%A6%E3%81%82%E3%81%9A%E3%81%95%E3%83%95%E3%82%A3%E3%82%AE%E3%83%A5%E3%82%A2%E7%99%BA%E5%A3%B2%E8%A8%98%E5%BF%B5%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88">
+  <rdf:Description rdf:about="%E3%83%AF%E3%83%B3%E3%83%80%E3%83%BC%E3%83%95%E3%82%A7%E3%82%B9%E3%83%86%E3%82%A3%E3%83%90%E3%83%AB%202007%E5%86%AC%20%E4%B8%89%E6%B5%A6%E3%81%82%E3%81%9A%E3%81%95%E3%83%95%E3%82%A3%E3%82%AE%E3%83%A5%E3%82%A2%E7%99%BA%E5%A3%B2%E8%A8%98%E5%BF%B5%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88">
     <schema:actor xml:lang="ja">たかはし智秋</schema:actor>
     <schema:actor xml:lang="ja">今井麻美</schema:actor>
     <schema:eventStatus rdf:resource="http://schema.org/EventScheduled" />
@@ -36,7 +36,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/THE%20IDOLM%40STER%20ALL%20STAR%20LIVE%202007">
+  <rdf:Description rdf:about="THE%20IDOLM%40STER%20ALL%20STAR%20LIVE%202007">
     <schema:actor xml:lang="ja">中村繪里子</schema:actor>
     <schema:actor xml:lang="ja">落合祐里香</schema:actor>
     <schema:actor xml:lang="ja">若林直美</schema:actor>
@@ -233,7 +233,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/%E3%83%A9%E3%82%B8%E3%82%AAde%E3%82%A2%E3%82%A4%E3%83%9ESHOW%21%202007%E5%B9%B4%E5%A4%8F%E3%81%AE%E6%84%9F%E8%AC%9D%E7%A5%AD%EF%BC%81%E3%81%A8%E8%A8%80%E3%81%A3%E3%81%A6%E3%81%8A%E3%81%91%E3%81%B0%E3%81%84%E3%81%84%E3%82%93%E3%81%98%E3%82%83%E3%81%AA%E3%81%84%EF%BC%9F%20AfternoonParty">
+  <rdf:Description rdf:about="%E3%83%A9%E3%82%B8%E3%82%AAde%E3%82%A2%E3%82%A4%E3%83%9ESHOW%21%202007%E5%B9%B4%E5%A4%8F%E3%81%AE%E6%84%9F%E8%AC%9D%E7%A5%AD%EF%BC%81%E3%81%A8%E8%A8%80%E3%81%A3%E3%81%A6%E3%81%8A%E3%81%91%E3%81%B0%E3%81%84%E3%81%84%E3%82%93%E3%81%98%E3%82%83%E3%81%AA%E3%81%84%EF%BC%9F%20AfternoonParty">
     <schema:actor xml:lang="ja">中村繪里子</schema:actor>
     <schema:actor xml:lang="ja">今井麻美</schema:actor>
     <schema:actor xml:lang="ja">仁後真耶子</schema:actor>
@@ -277,7 +277,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/%E3%83%A9%E3%82%B8%E3%82%AAde%E3%82%A2%E3%82%A4%E3%83%9ESHOW%21%202007%E5%B9%B4%E5%A4%8F%E3%81%AE%E6%84%9F%E8%AC%9D%E7%A5%AD%EF%BC%81%E3%81%A8%E8%A8%80%E3%81%A3%E3%81%A6%E3%81%8A%E3%81%91%E3%81%B0%E3%81%84%E3%81%84%E3%82%93%E3%81%98%E3%82%83%E3%81%AA%E3%81%84%EF%BC%9F%20EveningParty">
+  <rdf:Description rdf:about="%E3%83%A9%E3%82%B8%E3%82%AAde%E3%82%A2%E3%82%A4%E3%83%9ESHOW%21%202007%E5%B9%B4%E5%A4%8F%E3%81%AE%E6%84%9F%E8%AC%9D%E7%A5%AD%EF%BC%81%E3%81%A8%E8%A8%80%E3%81%A3%E3%81%A6%E3%81%8A%E3%81%91%E3%81%B0%E3%81%84%E3%81%84%E3%82%93%E3%81%98%E3%82%83%E3%81%AA%E3%81%84%EF%BC%9F%20EveningParty">
     <schema:actor xml:lang="ja">中村繪里子</schema:actor>
     <schema:actor xml:lang="ja">今井麻美</schema:actor>
     <schema:actor xml:lang="ja">仁後真耶子</schema:actor>
@@ -321,7 +321,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Go%20to%20the%20NEXTSTAGE%21%21%20THE%20IDOLM%40STER%20GREAT%20PARTY%20%EF%BC%A0TOKYO">
+  <rdf:Description rdf:about="Go%20to%20the%20NEXTSTAGE%21%21%20THE%20IDOLM%40STER%20GREAT%20PARTY%20%EF%BC%A0TOKYO">
     <schema:actor xml:lang="ja">中村繪里子</schema:actor>
     <schema:actor xml:lang="ja">今井麻美</schema:actor>
     <schema:actor xml:lang="ja">下田麻美</schema:actor>
@@ -401,7 +401,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Go%20to%20the%20NEXTSTAGE%21%21%20THE%20IDOLM%40STER%20GREAT%20PARTY%20%EF%BC%A0OSAKA">
+  <rdf:Description rdf:about="Go%20to%20the%20NEXTSTAGE%21%21%20THE%20IDOLM%40STER%20GREAT%20PARTY%20%EF%BC%A0OSAKA">
     <schema:actor xml:lang="ja">中村繪里子</schema:actor>
     <schema:actor xml:lang="ja">今井麻美</schema:actor>
     <schema:actor xml:lang="ja">下田麻美</schema:actor>
@@ -482,7 +482,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Go%20to%20the%20NEXTSTAGE%21%21%20THE%20IDOLM%40STER%20GREAT%20PARTY%20%EF%BC%A0TOKYO%EF%BC%8B">
+  <rdf:Description rdf:about="Go%20to%20the%20NEXTSTAGE%21%21%20THE%20IDOLM%40STER%20GREAT%20PARTY%20%EF%BC%A0TOKYO%EF%BC%8B">
     <schema:actor xml:lang="ja">中村繪里子</schema:actor>
     <schema:actor xml:lang="ja">今井麻美</schema:actor>
     <schema:actor xml:lang="ja">下田麻美</schema:actor>
@@ -570,7 +570,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/%E9%9B%BB%E6%92%8315%E5%B9%B4%E7%A5%AD%E3%80%8C%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E3%80%8D%E3%82%AF%E3%83%AA%E3%82%B9%E3%82%BF%E3%83%AB%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8">
+  <rdf:Description rdf:about="%E9%9B%BB%E6%92%8315%E5%B9%B4%E7%A5%AD%E3%80%8C%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E3%80%8D%E3%82%AF%E3%83%AA%E3%82%B9%E3%82%BF%E3%83%AB%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8">
     <schema:actor xml:lang="ja">中村繪里子</schema:actor>
     <schema:actor xml:lang="ja">今井麻美</schema:actor>
     <schema:eventStatus rdf:resource="http://schema.org/EventScheduled" />

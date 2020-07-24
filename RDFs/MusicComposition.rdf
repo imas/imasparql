@@ -4,10 +4,10 @@
     xmlns:foaf="http://xmlns.com/foaf/0.1/"
     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
     xmlns:imas="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#"
-    xml:base="https://sparql.crssnky.xyz/imasrdf/RDFs/"
+    xml:base="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/"
     >
 
-  <rdf:Description rdf:about="detail/NBGI%28%E7%A5%9E%E5%89%8D%E6%9A%81%29%EF%BC%86NBGI%28%E7%A5%9E%E5%89%8D%E6%9A%81%29">
+  <rdf:Description rdf:about="NBGI%28%E7%A5%9E%E5%89%8D%E6%9A%81%29%EF%BC%86NBGI%28%E7%A5%9E%E5%89%8D%E6%9A%81%29">
     <rdf:type rdf:resource="http://schema.org/MusicComposition"/>
     <schema:composer xml:lang="ja">NBGI(神前暁)</schema:composer>
     <schema:lyricist xml:lang="ja">NBGI(神前暁)</schema:lyricist>
@@ -17,7 +17,7 @@
     <schema:recordedAs rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/%E9%AD%94%E6%B3%95%E3%82%92%E3%81%8B%E3%81%91%E3%81%A6%21%20%28M%40STER%20VERSION%29%20%28%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB%E3%83%BB%E3%82%AB%E3%83%A9%E3%82%AA%E3%82%B1%29_01" />
     <schema:name xml:lang="ja">NBGI(神前暁)＆NBGI(神前暁)</schema:name>
   </rdf:Description>
-  <rdf:Description rdf:about="detail/NBGI%28%E4%BD%90%E3%80%85%E6%9C%A8%E5%AE%8F%E4%BA%BA%29%EF%BC%86%E4%B8%AD%E6%9D%91%E6%81%B5">
+  <rdf:Description rdf:about="NBGI%28%E4%BD%90%E3%80%85%E6%9C%A8%E5%AE%8F%E4%BA%BA%29%EF%BC%86%E4%B8%AD%E6%9D%91%E6%81%B5">
     <rdf:type rdf:resource="http://schema.org/MusicComposition"/>
     <schema:composer xml:lang="ja">NBGI(佐々木宏人)</schema:composer>
     <schema:lyricist xml:lang="ja">中村恵</schema:lyricist>
@@ -27,7 +27,7 @@
     <schema:recordedAs rdf:resource="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/THE%20IDOLM%40STER%20%28HYR%20VERSION%29%20%28%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB%E3%83%BB%E3%82%AB%E3%83%A9%E3%82%AA%E3%82%B1%29" />
     <schema:name xml:lang="ja">NBGI(佐々木宏人)＆中村恵</schema:name>
   </rdf:Description>
-  <rdf:Description rdf:about="detail/NBGI%28%E6%A4%8E%E5%90%8D%E8%B1%AA%29%EF%BC%86%E6%A3%AE%E7%94%B1%E9%87%8C%E5%AD%90">
+  <rdf:Description rdf:about="NBGI%28%E6%A4%8E%E5%90%8D%E8%B1%AA%29%EF%BC%86%E6%A3%AE%E7%94%B1%E9%87%8C%E5%AD%90">
     <rdf:type rdf:resource="http://schema.org/MusicComposition"/>
     <schema:composer xml:lang="ja">NBGI(椎名豪)</schema:composer>
     <schema:lyricist xml:lang="ja">森由里子</schema:lyricist>
