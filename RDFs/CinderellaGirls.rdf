@@ -4,7 +4,6 @@
     xmlns:foaf="http://xmlns.com/foaf/0.1/"
     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
     xmlns:imas="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#"
-    xmlns:xlink="http://www.w3.org/1999/xlink"
     xml:base="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/"
   >
 
@@ -40,7 +39,7 @@
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">EC7092</imas:Color>
     <schema:birthPlace xml:lang="ja">東京</schema:birthPlace>
     <imas:Hobby xml:lang="ja">友達と長電話</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20084"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20084"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Nakano_Yuka">
@@ -74,7 +73,7 @@
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q17159583"/>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">CB78B0</imas:Color>
     <imas:Hobby xml:lang="ja">空手</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20112"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20112"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Mizumoto_Yukari">
@@ -108,7 +107,7 @@
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q17211589"/>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">E8BAD6</imas:Color>
     <imas:Hobby xml:lang="ja">フルート</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20159"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20159"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Fukuyama_Mai">
@@ -138,7 +137,7 @@
     <imas:Constellation xml:lang="ja">水瓶座</imas:Constellation>
     <schema:birthPlace xml:lang="ja">兵庫</schema:birthPlace>
     <imas:Hobby xml:lang="ja">一輪車</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20136"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20136"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Shiina_Noriko">
@@ -172,7 +171,7 @@
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q17161754"/>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">EA495B</imas:Color>
     <imas:Hobby xml:lang="ja">新作ドーナツの試食</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20080"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20080"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Imai_Kana">
@@ -202,7 +201,7 @@
     <imas:Constellation xml:lang="ja">魚座</imas:Constellation>
     <schema:birthPlace xml:lang="ja">高知</schema:birthPlace>
     <imas:Hobby xml:lang="ja">友達とおしゃべり</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20021"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20021"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Mochida_Arisa">
@@ -232,7 +231,7 @@
     <imas:Constellation xml:lang="ja">乙女座</imas:Constellation>
     <schema:birthPlace xml:lang="ja">長野</schema:birthPlace>
     <imas:Hobby xml:lang="ja">子供と遊ぶこと</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20169"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20169"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Mimura_Kanako">
@@ -266,7 +265,7 @@
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q3211762"/>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">F4ABB4</imas:Color>
     <imas:Hobby xml:lang="ja">お菓子作り</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20161"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20161"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Okuyama_Saori">
@@ -296,7 +295,7 @@
     <imas:Constellation xml:lang="ja">双子座</imas:Constellation>
     <schema:birthPlace xml:lang="ja">秋田</schema:birthPlace>
     <imas:Hobby xml:lang="ja">読書</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20038"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20038"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Manaka_Misato">
@@ -326,7 +325,7 @@
     <imas:Constellation xml:lang="ja">蠍座</imas:Constellation>
     <schema:birthPlace xml:lang="ja">神奈川</schema:birthPlace>
     <imas:Hobby xml:lang="ja">旅行</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20155"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20155"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Kohinata_Miho">
@@ -360,7 +359,7 @@
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q901835"/>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">C64796</imas:Color>
     <imas:Hobby xml:lang="ja">ひなたぼっこ</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20065"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20065"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Ogata_Chieri">
@@ -394,7 +393,7 @@
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q15731362"/>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">69B64C</imas:Color>
     <imas:Hobby xml:lang="ja">四葉のクローバー集め</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20037"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20037"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Igarashi_Kyoko">
@@ -428,7 +427,7 @@
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q3183413"/>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">F567C6</imas:Color>
     <imas:Hobby xml:lang="ja">家事全般</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20016"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20016"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Yanase_Miyuki">
@@ -458,7 +457,7 @@
     <imas:Constellation xml:lang="ja">魚座</imas:Constellation>
     <schema:birthPlace xml:lang="ja">北海道</schema:birthPlace>
     <imas:Hobby xml:lang="ja">ぬいぐるみ集め</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20178"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20178"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Sakurai_Momoka">
@@ -492,7 +491,7 @@
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q11567752"/>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">EF93BC</imas:Color>
     <imas:Hobby xml:lang="ja">ティータイム</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20075"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20075"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Egami_Tsubaki">
@@ -522,7 +521,7 @@
     <imas:Constellation xml:lang="ja">水瓶座</imas:Constellation>
     <schema:birthPlace xml:lang="ja">新潟</schema:birthPlace>
     <imas:Hobby xml:lang="ja">写真を撮ること</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20026"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20026"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Nagatomi_Hasumi">
@@ -553,7 +552,7 @@
     <schema:birthPlace xml:lang="ja">島根</schema:birthPlace>
     <imas:Hobby xml:lang="ja">ボウリング</imas:Hobby>
     <imas:Hobby xml:lang="ja">古着屋巡り</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20111"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20111"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Yokoyama_Chika">
@@ -583,7 +582,7 @@
     <imas:Constellation xml:lang="ja">射手座</imas:Constellation>
     <schema:birthPlace xml:lang="ja">宮崎</schema:birthPlace>
     <imas:Hobby xml:lang="ja">魔法少女ごっこ</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20183"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20183"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Seki_Hiromi">
@@ -617,7 +616,7 @@
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q41585491"/>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">F8C5C1</imas:Color>
     <imas:Hobby xml:lang="ja">アクセサリー作り</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20094"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20094"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Ohta_Yuu">
@@ -648,7 +647,7 @@
     <schema:birthPlace xml:lang="ja">千葉</schema:birthPlace>
     <imas:Hobby xml:lang="ja">犬のトリミング</imas:Hobby>
     <imas:Hobby xml:lang="ja">美容</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20031"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20031"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Munakata_Atsumi">
@@ -682,7 +681,7 @@
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q56118632"/>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">C82F7F</imas:Color>
     <imas:Hobby xml:lang="ja">指の運動</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20165"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20165"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Fujimoto_Rina">
@@ -717,7 +716,7 @@
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">653A2A</imas:Color>
     <imas:Hobby xml:lang="ja">単車乗り</imas:Hobby>
     <imas:Hobby xml:lang="ja">コンビニで立ち読み</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20138"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20138"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Ohara_Michiru">
@@ -747,7 +746,7 @@
     <imas:Constellation xml:lang="ja">牡羊座</imas:Constellation>
     <schema:birthPlace xml:lang="ja">福井</schema:birthPlace>
     <imas:Hobby xml:lang="ja">食べること</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20035"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20035"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Yusa_Kozue">
@@ -780,7 +779,7 @@
     <!-- <imas:cv rdf:resource="http://ja.dbpedia.org/page/花谷麻妃"/> -->
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q24873835"/>
     <imas:Hobby xml:lang="ja">しゅみってなぁに？</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20181"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20181"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Ohnuma_Kurumi">
@@ -811,7 +810,7 @@
     <schema:birthPlace xml:lang="ja">石川</schema:birthPlace>
     <imas:Hobby xml:lang="ja">ポケットティッシュ収集</imas:Hobby>
     <imas:Hobby xml:lang="ja">お風呂に入ること</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20034"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20034"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Ichinose_Shiki">
@@ -847,7 +846,7 @@
     <imas:Hobby xml:lang="ja">失踪</imas:Hobby>
     <imas:Hobby xml:lang="ja">アヤしい科学実験</imas:Hobby>
     <imas:Hobby xml:lang="ja">観察</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20019"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20019"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Maekawa_Miku">
@@ -881,7 +880,7 @@
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q1107456"/>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">CA113A</imas:Color>
     <imas:Hobby xml:lang="ja">猫カフェ巡り</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20147"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20147"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Akanishi_Erika">
@@ -911,7 +910,7 @@
     <imas:Constellation xml:lang="ja">蟹座</imas:Constellation>
     <schema:birthPlace xml:lang="ja">岡山</schema:birthPlace>
     <imas:Hobby xml:lang="ja">漫才鑑賞</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20006"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20006"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Matsubara_Saya">
@@ -941,7 +940,7 @@
     <imas:Constellation xml:lang="ja">山羊座</imas:Constellation>
     <schema:birthPlace xml:lang="ja">兵庫</schema:birthPlace>
     <imas:Hobby xml:lang="ja">ブログ</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20151"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20151"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Aihara_Yukino">
@@ -971,7 +970,7 @@
     <imas:Constellation xml:lang="ja">水瓶座</imas:Constellation>
     <schema:birthPlace xml:lang="ja">秋田</schema:birthPlace>
     <imas:Hobby xml:lang="ja">紅茶</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20004"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20004"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Miyamoto_Frederica">
@@ -1005,7 +1004,7 @@
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q62024404"/>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">9E1861</imas:Color>
     <imas:Hobby xml:lang="ja">ファッション</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20162"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20162"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Kobayakawa_Sae">
@@ -1039,7 +1038,7 @@
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q9046310"/>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">D967A3</imas:Color>
     <imas:Hobby xml:lang="ja">日本舞踊</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20064"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20064"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Saionji_Kotoka">
@@ -1069,7 +1068,7 @@
     <imas:Constellation xml:lang="ja">水瓶座</imas:Constellation>
     <schema:birthPlace xml:lang="ja">東京</schema:birthPlace>
     <imas:Hobby xml:lang="ja">押し花作り</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20068"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20068"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Futaba_Anzu">
@@ -1103,7 +1102,7 @@
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q5770504"/>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">F19DB4</imas:Color>
     <imas:Hobby xml:lang="ja">なし</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20140"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20140"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Yao_Fueifuei">
@@ -1133,7 +1132,7 @@
     <imas:Constellation xml:lang="ja">天秤座</imas:Constellation>
     <schema:birthPlace xml:lang="ja">香港</schema:birthPlace>
     <imas:Hobby xml:lang="ja">料理</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20174"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20174"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Momoi_Azuki">
@@ -1163,7 +1162,7 @@
     <imas:Constellation xml:lang="ja">蟹座</imas:Constellation>
     <schema:birthPlace xml:lang="ja">長野</schema:birthPlace>
     <imas:Hobby xml:lang="ja">金魚すくい</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20171"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20171"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Suzumiya_Seika">
@@ -1193,7 +1192,7 @@
     <imas:Constellation xml:lang="ja">乙女座</imas:Constellation>
     <schema:birthPlace xml:lang="ja">岐阜</schema:birthPlace>
     <imas:Hobby xml:lang="ja">バイオリン</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20092"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20092"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Tsukimiya_Miyabi">
@@ -1223,7 +1222,7 @@
     <imas:Constellation xml:lang="ja">蠍座</imas:Constellation>
     <schema:birthPlace xml:lang="ja">東京</schema:birthPlace>
     <imas:Hobby xml:lang="ja">ママとショッピング</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20105"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20105"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Hyodo_Rena">
@@ -1253,7 +1252,7 @@
     <imas:Constellation xml:lang="ja">天秤座</imas:Constellation>
     <schema:birthPlace xml:lang="ja">東京</schema:birthPlace>
     <imas:Hobby xml:lang="ja">トランプ</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20135"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20135"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Niwa_Hitomi">
@@ -1284,7 +1283,7 @@
     <schema:birthPlace xml:lang="ja">名古屋</schema:birthPlace>
     <imas:Hobby xml:lang="ja">史跡巡り</imas:Hobby>
     <imas:Hobby xml:lang="ja">武将グッズ収集</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20122"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20122"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Domyoji_Karin">
@@ -1318,7 +1317,7 @@
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q17212219"/>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">CC252D</imas:Color>
     <imas:Hobby xml:lang="ja">境内のお掃除</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20109"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20109"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Yanagi_Kiyora">
@@ -1348,7 +1347,7 @@
     <imas:Constellation xml:lang="ja">牡牛座</imas:Constellation>
     <schema:birthPlace xml:lang="ja">愛媛</schema:birthPlace>
     <imas:Hobby xml:lang="ja">ドキュメンタリー番組鑑賞</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20177"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20177"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Imura_Setsuna">
@@ -1378,7 +1377,7 @@
     <imas:Constellation xml:lang="ja">乙女座</imas:Constellation>
     <schema:birthPlace xml:lang="ja">秋田</schema:birthPlace>
     <imas:Hobby xml:lang="ja">メイク小物集め</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20022"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20022"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Kusakabe_Wakaba">
@@ -1408,7 +1407,7 @@
     <imas:Constellation xml:lang="ja">牡牛座</imas:Constellation>
     <schema:birthPlace xml:lang="ja">群馬</schema:birthPlace>
     <imas:Hobby xml:lang="ja">ジグソーパズル</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20054"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20054"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Sakakibara_Satomi">
@@ -1438,7 +1437,7 @@
     <imas:Constellation xml:lang="ja">乙女座</imas:Constellation>
     <schema:birthPlace xml:lang="ja">山形</schema:birthPlace>
     <imas:Hobby xml:lang="ja">甘いお菓子を食べること</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20072"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20072"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Koshimizu_Sachiko">
@@ -1472,7 +1471,7 @@
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q1204576"/>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">CCAACF</imas:Color>
     <imas:Hobby xml:lang="ja">勉強ノートの清書</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20062"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20062"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Anzai_Miyako">
@@ -1503,7 +1502,7 @@
     <schema:birthPlace xml:lang="ja">福井</schema:birthPlace>
     <imas:Hobby xml:lang="ja">探偵ドラマ</imas:Hobby>
     <imas:Hobby xml:lang="ja">推理小説を見ること</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20014"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20014"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Asano_Fuka">
@@ -1533,7 +1532,7 @@
     <imas:Constellation xml:lang="ja">水瓶座</imas:Constellation>
     <schema:birthPlace xml:lang="ja">滋賀</schema:birthPlace>
     <imas:Hobby xml:lang="ja">小説を書くこと</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20007"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20007"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Ohnishi_Yuriko">
@@ -1564,7 +1563,7 @@
     <schema:birthPlace xml:lang="ja">香川</schema:birthPlace>
     <imas:Hobby xml:lang="ja">ネットサーフィン</imas:Hobby>
     <imas:Hobby xml:lang="ja">読書</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20033"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20033"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Abe_Nana">
@@ -1598,7 +1597,7 @@
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q6127820"/>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">E64A79</imas:Color>
     <imas:Hobby xml:lang="ja">ウサミン星との交信</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20010"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20010"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Kudo_Shinobu">
@@ -1628,7 +1627,7 @@
     <imas:Constellation xml:lang="ja">魚座</imas:Constellation>
     <schema:birthPlace xml:lang="ja">青森</schema:birthPlace>
     <imas:Hobby xml:lang="ja">おまけ集め</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20055"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20055"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Kurihara_Nene">
@@ -1659,7 +1658,7 @@
     <schema:birthPlace xml:lang="ja">群馬</schema:birthPlace>
     <imas:Hobby xml:lang="ja">テレビ鑑賞</imas:Hobby>
     <imas:Hobby xml:lang="ja">健康作り</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20057"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20057"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Koga_Koharu">
@@ -1690,7 +1689,7 @@
     <schema:birthPlace xml:lang="ja">佐賀</schema:birthPlace>
     <imas:Hobby xml:lang="ja">イグアナのヒョウくんと遊ぶこと</imas:Hobby>
     <imas:Hobby xml:lang="ja">家のお手伝い</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20061"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20061"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Clarice">
@@ -1714,7 +1713,7 @@
     <imas:Constellation xml:lang="ja">乙女座</imas:Constellation>
     <schema:birthPlace xml:lang="ja">兵庫</schema:birthPlace>
     <imas:Hobby xml:lang="ja">ボランティア</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20056"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20056"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Sakuma_Mayu">
@@ -1749,7 +1748,7 @@
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">D1197B</imas:Color>
     <imas:Hobby xml:lang="ja">お料理</imas:Hobby>
     <imas:Hobby xml:lang="ja">編み物</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20074"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20074"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Muramatsu_Sakura">
@@ -1779,7 +1778,7 @@
     <imas:Constellation xml:lang="ja">牡羊座</imas:Constellation>
     <schema:birthPlace xml:lang="ja">静岡</schema:birthPlace>
     <imas:Hobby xml:lang="ja">ピンクのもの集め</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20167"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20167"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Shiragiku_Hotaru">
@@ -1814,7 +1813,7 @@
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">D162CB</imas:Color>
     <imas:Hobby xml:lang="ja">アイドルレッスン</imas:Hobby>
     <imas:Hobby xml:lang="ja">笑顔の練習</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20088"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20088"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Hayasaka_Mirei">
@@ -1848,7 +1847,7 @@
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q17685820"/>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">B72089</imas:Color>
     <imas:Hobby xml:lang="ja">ぬいぐるみ集め</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20127"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20127"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Ariura_Kanna">
@@ -1878,7 +1877,7 @@
     <imas:Constellation xml:lang="ja">魚座</imas:Constellation>
     <schema:birthPlace xml:lang="ja">長崎</schema:birthPlace>
     <imas:Hobby xml:lang="ja">ラブ＆ピース</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20013"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20013"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Otokura_Yuuki">
@@ -1913,7 +1912,7 @@
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">F2C0C1</imas:Color>
     <imas:Hobby xml:lang="ja">ミックスジュース作り</imas:Hobby>
     <imas:Hobby xml:lang="ja">スクラップブック作り</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20039"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20039"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Harada_Miyo">
@@ -1944,7 +1943,7 @@
     <schema:birthPlace xml:lang="ja">石川</schema:birthPlace>
     <imas:Hobby xml:lang="ja">バイクいじり</imas:Hobby>
     <imas:Hobby xml:lang="ja">クルマ</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20129"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20129"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Ikebukuro_Akiha">
@@ -1974,7 +1973,7 @@
     <imas:Constellation xml:lang="ja">双子座</imas:Constellation>
     <schema:birthPlace xml:lang="ja">東京</schema:birthPlace>
     <imas:Hobby xml:lang="ja">ロボット制作</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20017"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20017"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Tsujino_Akari">
@@ -2005,7 +2004,7 @@
     <schema:birthPlace xml:lang="ja">山形</schema:birthPlace>
     <imas:Hobby xml:lang="ja">ラーメン</imas:Hobby>
     <imas:Hobby xml:lang="ja">編み物</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20106"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20106"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Shirayuki_Chiyo">
@@ -2039,7 +2038,7 @@
     <schema:birthPlace xml:lang="ja">北海道</schema:birthPlace>
     <imas:Hobby xml:lang="ja">料理</imas:Hobby>
     <imas:Hobby xml:lang="ja">睡眠</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20090"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20090"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Kurosaki_Chitose">
@@ -2073,7 +2072,7 @@
     <schema:birthPlace xml:lang="ja">東京</schema:birthPlace>
     <imas:Hobby xml:lang="ja">美味しいものを食べること</imas:Hobby>
     <imas:Hobby xml:lang="ja">月光浴</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20059"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20059"/>
   </rdf:Description>
 
   <!--Cool-->
@@ -2108,7 +2107,7 @@
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q11591879"/>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">1C90CD</imas:Color>
     <imas:Hobby xml:lang="ja">犬の散歩</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20083"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20083"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Kurokawa_Chiaki">
@@ -2138,7 +2137,7 @@
     <imas:Constellation xml:lang="ja">魚座</imas:Constellation>
     <schema:birthPlace xml:lang="ja">北海道</schema:birthPlace>
     <imas:Hobby xml:lang="ja">クラシック鑑賞</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20058"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20058"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Matsumoto_Sarina">
@@ -2168,7 +2167,7 @@
     <imas:Constellation xml:lang="ja">乙女座</imas:Constellation>
     <schema:birthPlace xml:lang="ja">東京</schema:birthPlace>
     <imas:Hobby xml:lang="ja">ショッピング</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20152"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20152"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Kirino_Aya">
@@ -2198,7 +2197,7 @@
     <imas:Constellation xml:lang="ja">牡羊座</imas:Constellation>
     <schema:birthPlace xml:lang="ja">福岡</schema:birthPlace>
     <imas:Hobby xml:lang="ja">格闘技観戦</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20052"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20052"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Takahashi_Reiko">
@@ -2228,7 +2227,7 @@
     <imas:Constellation xml:lang="ja">牡牛座</imas:Constellation>
     <schema:birthPlace xml:lang="ja">神奈川</schema:birthPlace>
     <imas:Hobby xml:lang="ja">パーティーに行くこと</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20099"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20099"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Aikawa_Chinatsu">
@@ -2258,7 +2257,7 @@
     <imas:Constellation xml:lang="ja">蠍座</imas:Constellation>
     <schema:birthPlace xml:lang="ja">北海道</schema:birthPlace>
     <imas:Hobby xml:lang="ja">カフェで読書</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20001"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20001"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Kawashima_Mizuki">
@@ -2293,7 +2292,7 @@
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">3F59A6</imas:Color>
     <imas:Hobby xml:lang="ja">掃除</imas:Hobby>
     <imas:Hobby xml:lang="ja">洗濯</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20043"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20043"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Kamiya_Nao">
@@ -2327,7 +2326,7 @@
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q11529115"/>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">8D75B3</imas:Color>
     <imas:Hobby xml:lang="ja">アニメ鑑賞</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20042"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20042"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Kamijo_Haruna">
@@ -2361,7 +2360,7 @@
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q20041809"/>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">59B7DB</imas:Color>
     <imas:Hobby xml:lang="ja">猫と縁側でお昼寝</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20041"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20041"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Araki_Hina">
@@ -2395,7 +2394,7 @@
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q16336231"/>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">80C260</imas:Color>
     <imas:Hobby xml:lang="ja">漫画描く</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20012"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20012"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Togo_Ai">
@@ -2425,7 +2424,7 @@
     <imas:Constellation xml:lang="ja">水瓶座</imas:Constellation>
     <schema:birthPlace xml:lang="ja">福島</schema:birthPlace>
     <imas:Hobby xml:lang="ja">サックス</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20108"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20108"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Tada_Rina">
@@ -2459,7 +2458,7 @@
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q11661791"/>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">006DB2</imas:Color>
     <imas:Hobby xml:lang="ja">音楽鑑賞</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20103"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20103"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Mizuki_Seira">
@@ -2489,7 +2488,7 @@
     <imas:Constellation xml:lang="ja">牡牛座</imas:Constellation>
     <schema:birthPlace xml:lang="ja">茨城</schema:birthPlace>
     <imas:Hobby xml:lang="ja">犬の散歩</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20157"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20157"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Sasaki_Chie">
@@ -2523,7 +2522,7 @@
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q8972760"/>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">006AB6</imas:Color>
     <imas:Hobby xml:lang="ja">裁縫</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20076"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20076"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Mifune_Miyu">
@@ -2557,7 +2556,7 @@
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q27507360"/>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">01AAA5</imas:Color>
     <imas:Hobby xml:lang="ja">アロマテラピー</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20160"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20160"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Hattori_Toko">
@@ -2588,7 +2587,7 @@
     <schema:birthPlace xml:lang="ja">大分</schema:birthPlace>
     <imas:Hobby xml:lang="ja">熱帯魚観賞</imas:Hobby>
     <imas:Hobby xml:lang="ja">温泉めぐり</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20124"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20124"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Kiba_Manami">
@@ -2619,7 +2618,7 @@
     <schema:birthPlace xml:lang="ja">長崎</schema:birthPlace>
     <imas:Hobby xml:lang="ja">料理</imas:Hobby>
     <imas:Hobby xml:lang="ja">筋トレ</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20049"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20049"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Fujiwara_Hajime">
@@ -2654,7 +2653,7 @@
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">7271B3</imas:Color>
     <imas:Hobby xml:lang="ja">陶芸</imas:Hobby>
     <imas:Hobby xml:lang="ja">釣り</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20139"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20139"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Nitta_Minami">
@@ -2689,7 +2688,7 @@
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">6DBCDB</imas:Color>
     <imas:Hobby xml:lang="ja">ラクロス</imas:Hobby>
     <imas:Hobby xml:lang="ja">資格取得</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20120"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20120"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Mizuno_Midori">
@@ -2719,7 +2718,7 @@
     <imas:Constellation xml:lang="ja">射手座</imas:Constellation>
     <schema:birthPlace xml:lang="ja">愛知</schema:birthPlace>
     <imas:Hobby xml:lang="ja">弓道</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20158"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20158"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Furusawa_Yoriko">
@@ -2750,7 +2749,7 @@
     <schema:birthPlace xml:lang="ja">茨城</schema:birthPlace>
     <imas:Hobby xml:lang="ja">博物展観覧</imas:Hobby>
     <imas:Hobby xml:lang="ja">美術展</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20141"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20141"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Tachibana_Arisu">
@@ -2785,7 +2784,7 @@
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">5881C1</imas:Color>
     <imas:Hobby xml:lang="ja">読書（ミステリー）</imas:Hobby>
     <imas:Hobby xml:lang="ja">ゲーム</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20104"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20104"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Sagisawa_Fumika">
@@ -2819,7 +2818,7 @@
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q1186964"/>
     <imas:Hobby xml:lang="ja">本屋めぐり</imas:Hobby>
     <imas:Hobby xml:lang="ja">栞作り</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20073"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20073"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Yagami_Makino">
@@ -2849,7 +2848,7 @@
     <imas:Constellation xml:lang="ja">蠍座</imas:Constellation>
     <schema:birthPlace xml:lang="ja">岐阜</schema:birthPlace>
     <imas:Hobby xml:lang="ja">諜報活動</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20175"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20175"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Layla">
@@ -2873,7 +2872,7 @@
     <imas:Constellation xml:lang="ja">双子座</imas:Constellation>
     <schema:birthPlace xml:lang="ja">ドバイ</schema:birthPlace>
     <imas:Hobby xml:lang="ja">公園で知らない人とおしゃべり</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20186"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20186"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Asari_Nanami">
@@ -2904,7 +2903,7 @@
     <schema:birthPlace xml:lang="ja">青森</schema:birthPlace>
     <imas:Hobby xml:lang="ja">絵日記</imas:Hobby>
     <imas:Hobby xml:lang="ja">釣り</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20008"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20008"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Helen">
@@ -2928,7 +2927,7 @@
     <imas:Constellation xml:lang="ja">牡羊座</imas:Constellation>
     <schema:birthPlace xml:lang="ja">海の向こう</schema:birthPlace>
     <imas:Hobby xml:lang="ja">ＤＶＤ鑑賞</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20142"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20142"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Matsunaga_Ryo">
@@ -2962,7 +2961,7 @@
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q6356324"/>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">202449</imas:Color>
     <imas:Hobby xml:lang="ja">ホラー映画鑑賞</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20150"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20150"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Komuro_Chinami">
@@ -2992,7 +2991,7 @@
     <imas:Constellation xml:lang="ja">双子座</imas:Constellation>
     <schema:birthPlace xml:lang="ja">愛知</schema:birthPlace>
     <imas:Hobby xml:lang="ja">ダーツ</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20067"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20067"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Takamine_Noa">
@@ -3022,7 +3021,7 @@
     <imas:Constellation xml:lang="ja">牡羊座</imas:Constellation>
     <schema:birthPlace xml:lang="ja">奈良</schema:birthPlace>
     <imas:Hobby xml:lang="ja">天体観測</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20101"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20101"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Takagaki_Kaede">
@@ -3056,7 +3055,7 @@
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q1153079"/>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">33D5AC</imas:Color>
     <imas:Hobby xml:lang="ja">温泉めぐり</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20098"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20098"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Kanzaki_Ranko">
@@ -3090,7 +3089,7 @@
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q44552"/>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">7E3188</imas:Color>
     <imas:Hobby xml:lang="ja">絵を描くこと</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20044"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20044"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Ijuin_Megumi">
@@ -3120,7 +3119,7 @@
     <imas:Constellation xml:lang="ja">天秤座</imas:Constellation>
     <schema:birthPlace xml:lang="ja">東京</schema:birthPlace>
     <imas:Hobby xml:lang="ja">一人旅</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20018"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20018"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Hiiragi_Shino">
@@ -3150,7 +3149,7 @@
     <imas:Constellation xml:lang="ja">山羊座</imas:Constellation>
     <schema:birthPlace xml:lang="ja">山梨</schema:birthPlace>
     <imas:Hobby xml:lang="ja">ワインツーリズム（産地巡り）</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20130"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20130"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Hojo_Karen">
@@ -3184,7 +3183,7 @@
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q9307208"/>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">38BAB8</imas:Color>
     <imas:Hobby xml:lang="ja">ネイル</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20143"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20143"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Kate">
@@ -3208,7 +3207,7 @@
     <imas:Constellation xml:lang="ja">獅子座</imas:Constellation>
     <schema:birthPlace xml:lang="ja">イギリス</schema:birthPlace>
     <imas:Hobby xml:lang="ja">日本の雑誌を見るコト</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20060"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20060"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Sena_Shiori">
@@ -3238,7 +3237,7 @@
     <imas:Constellation xml:lang="ja">山羊座</imas:Constellation>
     <schema:birthPlace xml:lang="ja">沖縄</schema:birthPlace>
     <imas:Hobby xml:lang="ja">海沿いを散歩</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20095"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20095"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Ayase_Honoka">
@@ -3268,7 +3267,7 @@
     <imas:Constellation xml:lang="ja">双子座</imas:Constellation>
     <schema:birthPlace xml:lang="ja">宮城</schema:birthPlace>
     <imas:Hobby xml:lang="ja">バレエ</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20011"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20011"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Sajo_Yukimi">
@@ -3301,7 +3300,7 @@
     <!-- <imas:cv rdf:resource="http://ja.dbpedia.org/resource/中澤ミナ"/> -->
     <!-- <imas:cv rdf:resource="http://www.wikidata.org/entity/Q0000000"/> -->
     <imas:Hobby xml:lang="ja">ペット（黒猫）と会話</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20077"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20077"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Shinohara_Rei">
@@ -3331,7 +3330,7 @@
     <imas:Constellation xml:lang="ja">蠍座</imas:Constellation>
     <schema:birthPlace xml:lang="ja">宮崎</schema:birthPlace>
     <imas:Hobby xml:lang="ja">社交ダンス</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20082"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20082"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Wakui_Rumi">
@@ -3361,7 +3360,7 @@
     <imas:Constellation xml:lang="ja">牡羊座</imas:Constellation>
     <schema:birthPlace xml:lang="ja">広島</schema:birthPlace>
     <imas:Hobby xml:lang="ja">仕事</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20190"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20190"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Yoshioka_Saki">
@@ -3391,7 +3390,7 @@
     <imas:Constellation xml:lang="ja">牡牛座</imas:Constellation>
     <schema:birthPlace xml:lang="ja">神奈川</schema:birthPlace>
     <imas:Hobby xml:lang="ja">ストリートアート</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20184"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20184"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Umeki_Otoha">
@@ -3422,7 +3421,7 @@
     <schema:birthPlace xml:lang="ja">北海道</schema:birthPlace>
     <imas:Hobby xml:lang="ja">ピアノ</imas:Hobby>
     <imas:Hobby xml:lang="ja">森林浴</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20025"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20025"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Shirasaka_Koume">
@@ -3457,7 +3456,7 @@
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">AAC5E2</imas:Color>
     <imas:Hobby xml:lang="ja">心霊スポット巡り</imas:Hobby>
     <imas:Hobby xml:lang="ja">ホラー・スプラッタ映画鑑賞</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20089"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20089"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Kishibe_Ayaka">
@@ -3489,7 +3488,7 @@
     <imas:Hobby xml:lang="ja">ネイルアート</imas:Hobby>
     <imas:Hobby xml:lang="ja">エステ</imas:Hobby>
     <imas:Hobby xml:lang="ja">岩盤浴</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20045"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20045"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Ujiie_Mutsumi">
@@ -3520,7 +3519,7 @@
     <schema:birthPlace xml:lang="ja">栃木</schema:birthPlace>
     <imas:Hobby xml:lang="ja">冒険小説を読む</imas:Hobby>
     <imas:Hobby xml:lang="ja">冒険映画を見る事</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20024"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20024"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Nishikawa_Honami">
@@ -3551,7 +3550,7 @@
     <schema:birthPlace xml:lang="ja">兵庫</schema:birthPlace>
     <imas:Hobby xml:lang="ja">オペラ鑑賞</imas:Hobby>
     <imas:Hobby xml:lang="ja">宝塚鑑賞</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20118"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20118"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Narumiya_Yume">
@@ -3582,7 +3581,7 @@
     <schema:birthPlace xml:lang="ja">滋賀</schema:birthPlace>
     <imas:Hobby xml:lang="ja">水彩画</imas:Hobby>
     <imas:Hobby xml:lang="ja">写生</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20115"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20115"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Fujii_Tomo">
@@ -3612,7 +3611,7 @@
     <imas:Constellation xml:lang="ja">蟹座</imas:Constellation>
     <schema:birthPlace xml:lang="ja">滋賀</schema:birthPlace>
     <imas:Hobby xml:lang="ja">占い</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20137"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20137"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Shiomi_Syuko">
@@ -3647,7 +3646,7 @@
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">DEE2EB</imas:Color>
     <imas:Hobby xml:lang="ja">献血</imas:Hobby>
     <imas:Hobby xml:lang="ja">ダーツ</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20081"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20081"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Wakiyama_Tamami">
@@ -3682,7 +3681,7 @@
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">3A75BB</imas:Color>
     <imas:Hobby xml:lang="ja">時代小説を読むこと</imas:Hobby>
     <imas:Hobby xml:lang="ja">剣道</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20189"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20189"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Okazaki_Yasuha">
@@ -3712,7 +3711,7 @@
     <imas:Constellation xml:lang="ja">蟹座</imas:Constellation>
     <schema:birthPlace xml:lang="ja">長崎</schema:birthPlace>
     <imas:Hobby xml:lang="ja">ドールハウス作り</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20036"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20036"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Hayami_Kanade">
@@ -3746,7 +3745,7 @@
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q11666486"/>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">0D386D</imas:Color>
     <imas:Hobby xml:lang="ja">映画鑑賞</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20128"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20128"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Ohishi_Izumi">
@@ -3776,7 +3775,7 @@
     <imas:Constellation xml:lang="ja">蠍座</imas:Constellation>
     <schema:birthPlace xml:lang="ja">静岡</schema:birthPlace>
     <imas:Hobby xml:lang="ja">プログラミング</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20030"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20030"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Matsuo_Chizuru">
@@ -3807,7 +3806,7 @@
     <schema:birthPlace xml:lang="ja">福岡</schema:birthPlace>
     <imas:Hobby xml:lang="ja">勉強</imas:Hobby>
     <imas:Hobby xml:lang="ja">習字</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20149"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20149"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Morikubo_Nono">
@@ -3842,7 +3841,7 @@
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">97D3D3</imas:Color>
     <imas:Hobby xml:lang="ja">ポエム作り</imas:Hobby>
     <imas:Hobby xml:lang="ja">少女漫画集め</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20172"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20172"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Anastasia">
@@ -3871,7 +3870,7 @@
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">B0C5E4</imas:Color>
     <imas:Hobby xml:lang="ja">ホームパーティ</imas:Hobby>
     <imas:Hobby xml:lang="ja">天体観測</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20009"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20009"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Yamato_Aki">
@@ -3906,7 +3905,7 @@
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">276E4E</imas:Color>
     <imas:Hobby xml:lang="ja">サバゲー</imas:Hobby>
     <imas:Hobby xml:lang="ja">プラモ収集</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20179"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20179"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Yuuki_Haru">
@@ -3940,7 +3939,7 @@
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q20039931"/>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">45BDB4</imas:Color>
     <imas:Hobby xml:lang="ja">サッカー</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20180"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20180"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Ninomiya_Asuka">
@@ -3976,7 +3975,7 @@
     <imas:Hobby xml:lang="ja">ヘアアレンジ</imas:Hobby>
     <imas:Hobby xml:lang="ja">ラジオを聴くこと</imas:Hobby>
     <imas:Hobby xml:lang="ja">漫画を描くこと</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20121"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20121"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Kiryu_Tsukasa">
@@ -4008,7 +4007,7 @@
     <imas:Hobby xml:lang="ja">異業種交流</imas:Hobby>
     <imas:Hobby xml:lang="ja">ホットヨガ</imas:Hobby>
     <imas:Hobby xml:lang="ja">ぬか床の世話</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20053"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20053"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Mochizuki_Hijiri">
@@ -4038,7 +4037,7 @@
     <imas:Constellation xml:lang="ja">山羊座</imas:Constellation>
     <schema:birthPlace xml:lang="ja">長野</schema:birthPlace>
     <imas:Hobby xml:lang="ja">歌を口ずさむこと</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20170"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20170"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Takafuji_Kako">
@@ -4072,7 +4071,7 @@
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q55875405"/>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">5C068F</imas:Color>
     <imas:Hobby xml:lang="ja">隠し芸</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20100"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20100"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Sunazuka_Akira">
@@ -4104,7 +4103,7 @@
     <imas:Hobby xml:lang="ja">ファッション</imas:Hobby>
     <imas:Hobby xml:lang="ja">動画配信</imas:Hobby>
     <imas:Hobby xml:lang="ja">FPS</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20093"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20093"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Hisakawa_Hayate">
@@ -4139,7 +4138,7 @@
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">7ADAD6</imas:Color>
     <imas:Hobby xml:lang="ja">ファッション</imas:Hobby>
     <imas:Hobby xml:lang="ja">流行りの店巡り</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20132"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20132"/>
   </rdf:Description>
 
   <!--Passion-->
@@ -4174,7 +4173,7 @@
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q333320"/>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">F6B128</imas:Color>
     <imas:Hobby xml:lang="ja">ショッピング</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20146"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20146"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Takamori_Aiko">
@@ -4208,7 +4207,7 @@
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q4358562"/>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">C5DD7F</imas:Color>
     <imas:Hobby xml:lang="ja">近所の公園をお散歩</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20102"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20102"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Namiki_Meiko">
@@ -4238,7 +4237,7 @@
     <imas:Constellation xml:lang="ja">天秤座</imas:Constellation>
     <schema:birthPlace xml:lang="ja">和歌山</schema:birthPlace>
     <imas:Hobby xml:lang="ja">旅行</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20114"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20114"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Ryuzaki_Kaoru">
@@ -4272,7 +4271,7 @@
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q24875141"/>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">F4D956</imas:Color>
     <imas:Hobby xml:lang="ja">料理</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20187"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20187"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Kimura_Natsuki">
@@ -4306,7 +4305,7 @@
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q11451654"/>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">55565A</imas:Color>
     <imas:Hobby xml:lang="ja">ツーリング</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20050"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20050"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Matsuyama_Kumiko">
@@ -4336,7 +4335,7 @@
     <imas:Constellation xml:lang="ja">水瓶座</imas:Constellation>
     <schema:birthPlace xml:lang="ja">神奈川</schema:birthPlace>
     <imas:Hobby xml:lang="ja">ピアノ</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20153"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20153"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Saito_Yoko">
@@ -4366,7 +4365,7 @@
     <imas:Constellation xml:lang="ja">山羊座</imas:Constellation>
     <schema:birthPlace xml:lang="ja">福岡</schema:birthPlace>
     <imas:Hobby xml:lang="ja">半身浴</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20070"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20070"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Sawada_Marina">
@@ -4396,7 +4395,7 @@
     <imas:Constellation xml:lang="ja">牡牛座</imas:Constellation>
     <schema:birthPlace xml:lang="ja">長野</schema:birthPlace>
     <imas:Hobby xml:lang="ja">サーフィン</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20079"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20079"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Yaguchi_Miu">
@@ -4426,7 +4425,7 @@
     <imas:Constellation xml:lang="ja">蟹座</imas:Constellation>
     <schema:birthPlace xml:lang="ja">千葉</schema:birthPlace>
     <imas:Hobby xml:lang="ja">メール</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20176"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20176"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Akagi_Miria">
@@ -4460,7 +4459,7 @@
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q1955926"/>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">F8C715</imas:Color>
     <imas:Hobby xml:lang="ja">おしゃべり</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20005"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20005"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Aino_Nagisa">
@@ -4490,7 +4489,7 @@
     <imas:Constellation xml:lang="ja">獅子座</imas:Constellation>
     <schema:birthPlace xml:lang="ja">愛知</schema:birthPlace>
     <imas:Hobby xml:lang="ja">バスケットボール</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20002"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20002"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Manabe_Itsuki">
@@ -4520,7 +4519,7 @@
     <imas:Constellation xml:lang="ja">山羊座</imas:Constellation>
     <schema:birthPlace xml:lang="ja">石川</schema:birthPlace>
     <imas:Hobby xml:lang="ja">とにかく運動</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20156"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20156"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Ohtsuki_Yui">
@@ -4554,7 +4553,7 @@
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q17223371"/>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">EFB817</imas:Color>
     <imas:Hobby xml:lang="ja">カラオケ</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20032"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20032"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Himekawa_Yuki">
@@ -4588,7 +4587,7 @@
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q11523609"/>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">E9870C</imas:Color>
     <imas:Hobby xml:lang="ja">野球観戦</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20134"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20134"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Kitami_Yuzu">
@@ -4622,7 +4621,7 @@
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q40039788"/>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">EADC62</imas:Color>
     <imas:Hobby xml:lang="ja">バドミントン</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20048"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20048"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Ueda_Suzuho">
@@ -4656,7 +4655,7 @@
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q18818006"/>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">C9870F</imas:Color>
     <imas:Hobby xml:lang="ja">裁縫</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20023"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20023"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Ebihara_Naho">
@@ -4687,7 +4686,7 @@
     <schema:birthPlace xml:lang="ja">熊本</schema:birthPlace>
     <imas:Hobby xml:lang="ja">散歩</imas:Hobby>
     <imas:Hobby xml:lang="ja">和菓子屋さん巡り</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20028"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20028"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Oikawa_Shizuku">
@@ -4722,7 +4721,7 @@
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">FFFFFF</imas:Color>
     <imas:Hobby xml:lang="ja">乳搾り</imas:Hobby>
     <imas:Hobby xml:lang="ja">トラクターの運転</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20029"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20029"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Koseki_Reina">
@@ -4755,7 +4754,7 @@
     <!--<imas:cv rdf:resource="http://ja.dbpedia.org/resource/長野佑紀"/>-->
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q30108577"/>
     <imas:Hobby xml:lang="ja">いたずら</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20063"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20063"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Etou_Misaki">
@@ -4786,7 +4785,7 @@
     <schema:birthPlace xml:lang="ja">大分</schema:birthPlace>
     <imas:Hobby xml:lang="ja">女子力アップ</imas:Hobby>
     <imas:Hobby xml:lang="ja">携帯小説</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20027"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20027"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Hoshi_Syoko">
@@ -4820,7 +4819,7 @@
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q17230362"/>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">A21D3C</imas:Color>
     <imas:Hobby xml:lang="ja">キノコ栽培</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20144"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20144"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Katagiri_Sanae">
@@ -4855,7 +4854,7 @@
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">E94D1A</imas:Color>
     <imas:Hobby xml:lang="ja">マッサージ</imas:Hobby>
     <imas:Hobby xml:lang="ja">スーパー銭湯</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20040"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20040"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Hori_Yuko">
@@ -4889,7 +4888,7 @@
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q17160003"/>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">E89B55</imas:Color>
     <imas:Hobby xml:lang="ja">サイキックトレーニング</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20145"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20145"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Nishijima_Kai">
@@ -4919,7 +4918,7 @@
     <imas:Constellation xml:lang="ja">獅子座</imas:Constellation>
     <schema:birthPlace xml:lang="ja">大阪</schema:birthPlace>
     <imas:Hobby xml:lang="ja">水族館巡り</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20119"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20119"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Matoba_Risa">
@@ -4953,7 +4952,7 @@
     <!-- <imas:cv rdf:resource="http://www.wikidata.org/entity/Q0000000"/> -->
     <imas:Hobby xml:lang="ja">ダンス</imas:Hobby>
     <imas:Hobby xml:lang="ja">パパとデート</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20154"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20154"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Zaizen_Tokiko">
@@ -4984,7 +4983,7 @@
     <schema:birthPlace xml:lang="ja">名古屋</schema:birthPlace>
     <imas:Hobby xml:lang="ja">豚を料理すること</imas:Hobby>
     <imas:Hobby xml:lang="ja">お仕置き</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20069"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20069"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Yorita_Yoshino">
@@ -5020,7 +5019,7 @@
     <imas:Hobby xml:lang="ja">悩み事解決</imas:Hobby>
     <imas:Hobby xml:lang="ja">石ころ集め</imas:Hobby>
     <imas:Hobby xml:lang="ja">失せ物探し</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20185"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20185"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Aiba_Yumi">
@@ -5054,7 +5053,7 @@
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q18048266"/>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">EAE28D</imas:Color>
     <imas:Hobby xml:lang="ja">ガーデニング</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20003"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20003"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Nonomura_Sora">
@@ -5084,7 +5083,7 @@
     <imas:Constellation xml:lang="ja">山羊座</imas:Constellation>
     <schema:birthPlace xml:lang="ja">福岡</schema:birthPlace>
     <imas:Hobby xml:lang="ja">友達と電話</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20123"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20123"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Hamakawa_Ayuna">
@@ -5114,7 +5113,7 @@
     <imas:Constellation xml:lang="ja">双子座</imas:Constellation>
     <schema:birthPlace xml:lang="ja">大阪</schema:birthPlace>
     <imas:Hobby xml:lang="ja">乗馬</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20125"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20125"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Wakabayashi_Tomoka">
@@ -5144,7 +5143,7 @@
     <imas:Constellation xml:lang="ja">乙女座</imas:Constellation>
     <schema:birthPlace xml:lang="ja">鹿児島</schema:birthPlace>
     <imas:Hobby xml:lang="ja">チアリーディング</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20188"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20188"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Jougasaki_Mika">
@@ -5178,7 +5177,7 @@
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q11385438"/>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">F4982B</imas:Color>
     <imas:Hobby xml:lang="ja">カラオケ</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20086"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20086"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Jougasaki_Rika">
@@ -5212,7 +5211,7 @@
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q9080262"/>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">F7D30D</imas:Color>
     <imas:Hobby xml:lang="ja">シール集め</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20087"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20087"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Senzaki_Ema">
@@ -5242,7 +5241,7 @@
     <imas:Constellation xml:lang="ja">蟹座</imas:Constellation>
     <schema:birthPlace xml:lang="ja">大阪</schema:birthPlace>
     <imas:Hobby xml:lang="ja">革小物集め</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20096"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20096"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Hino_Akane">
@@ -5276,7 +5275,7 @@
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q5100189"/>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">EA4F21</imas:Color>
     <imas:Hobby xml:lang="ja">ラグビー観戦</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20133"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20133"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Moroboshi_Kirari">
@@ -5310,7 +5309,7 @@
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q391799"/>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">F8CA02</imas:Color>
     <imas:Hobby xml:lang="ja">かわいい物集め</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20173"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20173"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Totoki_Airi">
@@ -5344,7 +5343,7 @@
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q1046994"/>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">E9425C</imas:Color>
     <imas:Hobby xml:lang="ja">ケーキ作り</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20110"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20110"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Natalia">
@@ -5371,7 +5370,7 @@
     <!--<imas:cv rdf:resource="http://ja.dbpedia.org/resource/生田輝"/>-->
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q66736457"/>
     <imas:Hobby xml:lang="ja">ベリーダンス</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20113"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20113"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Souma_Natsumi">
@@ -5401,7 +5400,7 @@
     <imas:Constellation xml:lang="ja">獅子座</imas:Constellation>
     <schema:birthPlace xml:lang="ja">京都</schema:birthPlace>
     <imas:Hobby xml:lang="ja">ランニング</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20097"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20097"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Makihara_Shiho">
@@ -5431,7 +5430,7 @@
     <imas:Constellation xml:lang="ja">牡牛座</imas:Constellation>
     <schema:birthPlace xml:lang="ja">三重</schema:birthPlace>
     <imas:Hobby xml:lang="ja">スイーツめぐり</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20148"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20148"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Mukai_Takumi">
@@ -5465,7 +5464,7 @@
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q17221306"/>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">A90582</imas:Color>
     <imas:Hobby xml:lang="ja">バイクいじり</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20164"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20164"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Ichihara_Nina">
@@ -5499,7 +5498,7 @@
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q11369771"/>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">F7DE8C</imas:Color>
     <imas:Hobby xml:lang="ja">着ぐるみ集め</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20020"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20020"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Kita_Hinako">
@@ -5533,7 +5532,7 @@
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q17209690"/>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">F4D059</imas:Color>
     <imas:Hobby xml:lang="ja">妄想</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20046"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20046"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Sugisaka_Umi">
@@ -5563,7 +5562,7 @@
     <imas:Constellation xml:lang="ja">蟹座</imas:Constellation>
     <schema:birthPlace xml:lang="ja">山口</schema:birthPlace>
     <imas:Hobby xml:lang="ja">ウインドサーフィン</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20091"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20091"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Kitagawa_Mahiro">
@@ -5595,7 +5594,7 @@
     <imas:Hobby xml:lang="ja">走ること</imas:Hobby>
     <imas:Hobby xml:lang="ja">食べること</imas:Hobby>
     <imas:Hobby xml:lang="ja">寝ること</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20047"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20047"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Mary_Cochran">
@@ -5626,7 +5625,7 @@
     <schema:birthPlace xml:lang="ja">サンフランシスコ</schema:birthPlace>
     <imas:Hobby xml:lang="ja">女磨き</imas:Hobby>
     <imas:Hobby xml:lang="ja">グルメツアー</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20168"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20168"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Komatsu_Ibuki">
@@ -5658,7 +5657,7 @@
     <imas:Hobby xml:lang="ja">ストリートダンス</imas:Hobby>
     <imas:Hobby xml:lang="ja">スケボー</imas:Hobby>
     <imas:Hobby xml:lang="ja">恋愛映画を見る事</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20066"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20066"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Miyoshi_Sana">
@@ -5689,7 +5688,7 @@
     <schema:birthPlace xml:lang="ja">香川</schema:birthPlace>
     <imas:Hobby xml:lang="ja">ＴＶゲーム</imas:Hobby>
     <imas:Hobby xml:lang="ja">夜更かし</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20163"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20163"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Cathy_Graham">
@@ -5720,7 +5719,7 @@
     <schema:birthPlace xml:lang="ja">ニューヨーク</schema:birthPlace>
     <imas:Hobby xml:lang="ja">インラインスケート</imas:Hobby>
     <imas:Hobby xml:lang="ja">ダンス</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20051"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20051"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Namba_Emi">
@@ -5755,7 +5754,7 @@
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">E9463D</imas:Color>
     <imas:Hobby xml:lang="ja">お笑いライブ巡り</imas:Hobby>
     <imas:Hobby xml:lang="ja">モノマネ</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20117"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20117"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Hamaguchi_Ayame">
@@ -5791,7 +5790,7 @@
     <imas:Hobby xml:lang="ja">撮影所巡り</imas:Hobby>
     <imas:Hobby xml:lang="ja">忍者グッズ収集</imas:Hobby>
     <imas:Hobby xml:lang="ja">時代劇鑑賞</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20126"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20126"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Murakami_Tomoe">
@@ -5826,7 +5825,7 @@
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">D42E38</imas:Color>
     <imas:Hobby xml:lang="ja">演歌</imas:Hobby>
     <imas:Hobby xml:lang="ja">将棋</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20166"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20166"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Tsuchiya_Ako">
@@ -5857,7 +5856,7 @@
     <schema:birthPlace xml:lang="ja">静岡</schema:birthPlace>
     <imas:Hobby xml:lang="ja">食べること</imas:Hobby>
     <imas:Hobby xml:lang="ja">貯金</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20107"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20107"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Shuto_Aoi">
@@ -5887,7 +5886,7 @@
     <imas:Constellation xml:lang="ja">獅子座</imas:Constellation>
     <schema:birthPlace xml:lang="ja">大分</schema:birthPlace>
     <imas:Hobby xml:lang="ja">魚さばき</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20085"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20085"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Saejima_Kiyomi">
@@ -5919,7 +5918,7 @@
     <imas:Hobby xml:lang="ja">掃除</imas:Hobby>
     <imas:Hobby xml:lang="ja">整理整頓</imas:Hobby>
     <imas:Hobby xml:lang="ja">腕章作り</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20071"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20071"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Sato_Shin">
@@ -5954,7 +5953,7 @@
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">E44E8E</imas:Color>
     <imas:Hobby xml:lang="ja">ドレスアップ</imas:Hobby>
     <imas:Hobby xml:lang="ja">衣装作り</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20078"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20078"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Nanjo_Hikaru">
@@ -5989,7 +5988,7 @@
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">ED0829</imas:Color>
     <imas:Hobby xml:lang="ja">特撮番組鑑賞</imas:Hobby>
     <imas:Hobby xml:lang="ja">特撮ごっこ</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20116"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20116"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Eve_Santaclaus">
@@ -6019,7 +6018,7 @@
     <imas:Constellation xml:lang="ja">山羊座</imas:Constellation>
     <schema:birthPlace xml:lang="ja">グリーンランド</schema:birthPlace>
     <imas:Hobby xml:lang="ja">煙突探し</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20015"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20015"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Yumemi_Riamu">
@@ -6053,7 +6052,7 @@
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q35172322"/>
     <imas:Hobby xml:lang="ja">夜中の意味深ポエム</imas:Hobby>
     <imas:Hobby xml:lang="ja">現場参戦</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20182"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20182"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Hisakawa_Nagi">
@@ -6089,7 +6088,7 @@
     <imas:Hobby xml:lang="ja">写真</imas:Hobby>
     <imas:Hobby xml:lang="ja">ポエム</imas:Hobby>
     <imas:Hobby xml:lang="ja">読書（新書）</imas:Hobby>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/20131"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20131"/>
   </rdf:Description>
 
 </rdf:RDF>
