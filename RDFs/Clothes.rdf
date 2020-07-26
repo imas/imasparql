@@ -1510,6 +1510,8 @@
   <rdf:Description rdf:about="Precipice_UMAT">
     <schema:name xml:lang="ja">プレシピスU.M.A.T</schema:name>
     <schema:description xml:lang="ja">アイドル道は平坦じゃない！でも断崖絶壁だって乗り越えてみせるから、見ててよね！油断してると...吸っちゃうよ？チュパチュパ☆</schema:description>
+    <imas:Whose rdf:resource="Shika"/>
+    <imas:Whose rdf:resource="Leon"/>
     <imas:Whose rdf:resource="Nonohara_Akane"/>
     <imas:Whose rdf:resource="Yokoyama_Nao"/>
     <imas:Whose rdf:resource="Minase_Iori"/>
