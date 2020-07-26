@@ -4,7 +4,6 @@
     xmlns:foaf="http://xmlns.com/foaf/0.1/"
     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
     xmlns:imas="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#"
-    xmlns:xlink="http://www.w3.org/1999/xlink"
     xml:base="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/"
     >
 
@@ -38,7 +37,7 @@
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">DearlyStars</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/210001"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/210001"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Mizutani_Eri">
@@ -71,7 +70,7 @@
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">DearlyStars</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/210002"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/210002"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Akizuki_Ryo_876">
@@ -104,7 +103,7 @@
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">DearlyStars</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
-    <imas:IdolListURL xlink:type="simple" xlink:href="https://idollist.idolmaster-official.jp/detail/40004"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/40004"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Sakurai_Yumeko">
