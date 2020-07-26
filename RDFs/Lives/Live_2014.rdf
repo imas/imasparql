@@ -4,8 +4,9 @@
     xmlns:foaf="http://xmlns.com/foaf/0.1/"
     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
     xmlns:imas="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#"
+    xml:base="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/"
     >
-  <rdf:Description rdf:about="detail/%E3%80%8CTHE%20IDOLM%40STER%20LIVE%20THE%40TER%20PERFORMANCE%2009%E3%80%8D%E7%99%BA%E5%A3%B2%E8%A8%98%E5%BF%B5%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%20%E7%AC%AC1%E5%9B%9E">
+  <rdf:Description rdf:about="%E3%80%8CTHE%20IDOLM%40STER%20LIVE%20THE%40TER%20PERFORMANCE%2009%E3%80%8D%E7%99%BA%E5%A3%B2%E8%A8%98%E5%BF%B5%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%20%E7%AC%AC1%E5%9B%9E">
     <schema:actor xml:lang="ja">山崎はるか</schema:actor>
     <schema:actor xml:lang="ja">麻倉もも</schema:actor>
     <schema:actor xml:lang="ja">大関英里</schema:actor>
@@ -65,7 +66,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/%E3%80%8CTHE%20IDOLM%40STER%20LIVE%20THE%40TER%20PERFORMANCE%2009%E3%80%8D%E7%99%BA%E5%A3%B2%E8%A8%98%E5%BF%B5%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%20%E7%AC%AC2%E5%9B%9E">
+  <rdf:Description rdf:about="%E3%80%8CTHE%20IDOLM%40STER%20LIVE%20THE%40TER%20PERFORMANCE%2009%E3%80%8D%E7%99%BA%E5%A3%B2%E8%A8%98%E5%BF%B5%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%20%E7%AC%AC2%E5%9B%9E">
     <schema:actor xml:lang="ja">山崎はるか</schema:actor>
     <schema:actor xml:lang="ja">麻倉もも</schema:actor>
     <schema:actor xml:lang="ja">大関英里</schema:actor>
@@ -125,7 +126,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/%E3%83%AA%E3%82%B9%E3%82%A2%E3%83%8B%21LIVE-4%20SATURDAY%20STAGE">
+  <rdf:Description rdf:about="%E3%83%AA%E3%82%B9%E3%82%A2%E3%83%8B%21LIVE-4%20SATURDAY%20STAGE">
     <schema:actor xml:lang="ja">松嵜麗</schema:actor>
     <schema:actor xml:lang="ja">原紗友里</schema:actor>
     <schema:actor xml:lang="ja">佳村はるか</schema:actor>
@@ -200,7 +201,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%20%E3%82%B7%E3%83%B3%E3%83%87%E3%83%AC%E3%83%A9%E3%82%AC%E3%83%BC%E3%83%AB%E3%82%BA%E3%80%8E%E3%83%87%E3%83%AC%E3%83%A9%E3%82%B8%E3%80%8F%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8%20IN%20%E3%83%AF%E3%83%B3%E3%83%80%E3%83%BC%E3%83%95%E3%82%A7%E3%82%B9%E3%83%86%E3%82%A3%E3%83%90%E3%83%AB2014%E5%86%AC">
+  <rdf:Description rdf:about="%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%20%E3%82%B7%E3%83%B3%E3%83%87%E3%83%AC%E3%83%A9%E3%82%AC%E3%83%BC%E3%83%AB%E3%82%BA%E3%80%8E%E3%83%87%E3%83%AC%E3%83%A9%E3%82%B8%E3%80%8F%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8%20IN%20%E3%83%AF%E3%83%B3%E3%83%80%E3%83%BC%E3%83%95%E3%82%A7%E3%82%B9%E3%83%86%E3%82%A3%E3%83%90%E3%83%AB2014%E5%86%AC">
     <schema:actor xml:lang="ja">松嵜麗</schema:actor>
     <schema:actor xml:lang="ja">原紗友里</schema:actor>
     <schema:actor xml:lang="ja">佳村はるか</schema:actor>
@@ -236,7 +237,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/%E3%80%8CTHE%20IDOLM%40STER%20LIVE%20THE%40TER%20PERFORMANCE%2010%E3%80%8D%E7%99%BA%E5%A3%B2%E8%A8%98%E5%BF%B5%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%20%E7%AC%AC1%E5%9B%9E">
+  <rdf:Description rdf:about="%E3%80%8CTHE%20IDOLM%40STER%20LIVE%20THE%40TER%20PERFORMANCE%2010%E3%80%8D%E7%99%BA%E5%A3%B2%E8%A8%98%E5%BF%B5%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%20%E7%AC%AC1%E5%9B%9E">
     <schema:actor xml:lang="ja">山崎はるか</schema:actor>
     <schema:actor xml:lang="ja">麻倉もも</schema:actor>
     <schema:actor xml:lang="ja">原由実</schema:actor>
@@ -296,7 +297,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/%E3%80%8CTHE%20IDOLM%40STER%20LIVE%20THE%40TER%20PERFORMANCE%2010%E3%80%8D%E7%99%BA%E5%A3%B2%E8%A8%98%E5%BF%B5%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%20%E7%AC%AC2%E5%9B%9E">
+  <rdf:Description rdf:about="%E3%80%8CTHE%20IDOLM%40STER%20LIVE%20THE%40TER%20PERFORMANCE%2010%E3%80%8D%E7%99%BA%E5%A3%B2%E8%A8%98%E5%BF%B5%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%20%E7%AC%AC2%E5%9B%9E">
     <schema:actor xml:lang="ja">山崎はるか</schema:actor>
     <schema:actor xml:lang="ja">麻倉もも</schema:actor>
     <schema:actor xml:lang="ja">原由実</schema:actor>
@@ -356,7 +357,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/THE%20IDOLM%40STER%20M%40STERS%20OF%20IDOL%20WORLD%21%212014%20Day1">
+  <rdf:Description rdf:about="THE%20IDOLM%40STER%20M%40STERS%20OF%20IDOL%20WORLD%21%212014%20Day1">
     <schema:actor xml:lang="ja">中村繪里子</schema:actor>
     <schema:actor xml:lang="ja">長谷川明子</schema:actor>
     <schema:actor xml:lang="ja">今井麻美</schema:actor>
@@ -921,7 +922,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/THE%20IDOLM%40STER%20M%40STERS%20OF%20IDOL%20WORLD%21%212014%20Day2">
+  <rdf:Description rdf:about="THE%20IDOLM%40STER%20M%40STERS%20OF%20IDOL%20WORLD%21%212014%20Day2">
     <schema:actor xml:lang="ja">中村繪里子</schema:actor>
     <schema:actor xml:lang="ja">長谷川明子</schema:actor>
     <schema:actor xml:lang="ja">今井麻美</schema:actor>
@@ -1489,7 +1490,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/%E5%8A%87%E5%A0%B4%E7%89%88%E3%80%8ETHE%20IDOLM%40STER%20MOVIE%EF%BD%9E%E8%BC%9D%E3%81%8D%E3%81%AE%E5%90%91%E3%81%93%E3%81%86%E5%81%B4%E3%81%B8%21%EF%BD%9E%E3%80%8F%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88">
+  <rdf:Description rdf:about="%E5%8A%87%E5%A0%B4%E7%89%88%E3%80%8ETHE%20IDOLM%40STER%20MOVIE%EF%BD%9E%E8%BC%9D%E3%81%8D%E3%81%AE%E5%90%91%E3%81%93%E3%81%86%E5%81%B4%E3%81%B8%21%EF%BD%9E%E3%80%8F%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88">
     <schema:actor xml:lang="ja">中村繪里子</schema:actor>
     <schema:actor xml:lang="ja">今井麻美</schema:actor>
     <schema:actor xml:lang="ja">雨宮天</schema:actor>
@@ -1525,7 +1526,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%20%E3%83%AF%E3%83%B3%E3%83%95%E3%82%A9%E3%83%BC%E3%82%AA%E3%83%BC%E3%83%AB%2B%E3%81%B7%E3%81%A1%E3%81%BE%E3%81%99%21%20%E3%81%99%E3%81%BA%E3%81%97%E3%82%83%E3%82%8B%E3%81%99%E3%81%A6%E3%83%BC%E3%81%98%20in%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%AE%E9%9B%BB%E6%92%83%20%E6%84%9F%E8%AC%9D%E7%A5%AD">
+  <rdf:Description rdf:about="%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%20%E3%83%AF%E3%83%B3%E3%83%95%E3%82%A9%E3%83%BC%E3%82%AA%E3%83%BC%E3%83%AB%2B%E3%81%B7%E3%81%A1%E3%81%BE%E3%81%99%21%20%E3%81%99%E3%81%BA%E3%81%97%E3%82%83%E3%82%8B%E3%81%99%E3%81%A6%E3%83%BC%E3%81%98%20in%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%AE%E9%9B%BB%E6%92%83%20%E6%84%9F%E8%AC%9D%E7%A5%AD">
     <schema:actor xml:lang="ja">長谷川明子</schema:actor>
     <schema:actor xml:lang="ja">沼倉愛美</schema:actor>
     <schema:actor xml:lang="ja">浅倉杏美</schema:actor>
@@ -1546,7 +1547,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/%E3%80%8CTHE%20IDOLM%40STER%20LIVE%20THE%40TER%20PERFORMANCE%2011%E3%80%8D%E7%99%BA%E5%A3%B2%E8%A8%98%E5%BF%B5%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%20%E7%AC%AC1%E5%9B%9E">
+  <rdf:Description rdf:about="%E3%80%8CTHE%20IDOLM%40STER%20LIVE%20THE%40TER%20PERFORMANCE%2011%E3%80%8D%E7%99%BA%E5%A3%B2%E8%A8%98%E5%BF%B5%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%20%E7%AC%AC1%E5%9B%9E">
     <schema:actor xml:lang="ja">角元明日香</schema:actor>
     <schema:actor xml:lang="ja">戸田めぐみ</schema:actor>
     <schema:actor xml:lang="ja">田所あずさ</schema:actor>
@@ -1606,7 +1607,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/%E3%80%8CTHE%20IDOLM%40STER%20LIVE%20THE%40TER%20PERFORMANCE%2011%E3%80%8D%E7%99%BA%E5%A3%B2%E8%A8%98%E5%BF%B5%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%20%E7%AC%AC2%E5%9B%9E">
+  <rdf:Description rdf:about="%E3%80%8CTHE%20IDOLM%40STER%20LIVE%20THE%40TER%20PERFORMANCE%2011%E3%80%8D%E7%99%BA%E5%A3%B2%E8%A8%98%E5%BF%B5%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%20%E7%AC%AC2%E5%9B%9E">
     <schema:actor xml:lang="ja">角元明日香</schema:actor>
     <schema:actor xml:lang="ja">戸田めぐみ</schema:actor>
     <schema:actor xml:lang="ja">田所あずさ</schema:actor>
@@ -1666,7 +1667,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/THE%20IDOLM%40STER%20CINDERELLA%20GIRLS%201stLIVE%20WONDERFUL%20M%40GIC%21%21%20Day1">
+  <rdf:Description rdf:about="THE%20IDOLM%40STER%20CINDERELLA%20GIRLS%201stLIVE%20WONDERFUL%20M%40GIC%21%21%20Day1">
     <schema:actor xml:lang="ja">大橋彩香</schema:actor>
     <schema:actor xml:lang="ja">福原綾香</schema:actor>
     <schema:actor xml:lang="ja">原紗友里</schema:actor>
@@ -1913,7 +1914,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/THE%20IDOLM%40STER%20CINDERELLA%20GIRLS%201stLIVE%20WONDERFUL%20M%40GIC%21%21%20Day2%20DayTime">
+  <rdf:Description rdf:about="THE%20IDOLM%40STER%20CINDERELLA%20GIRLS%201stLIVE%20WONDERFUL%20M%40GIC%21%21%20Day2%20DayTime">
     <schema:actor xml:lang="ja">大橋彩香</schema:actor>
     <schema:actor xml:lang="ja">福原綾香</schema:actor>
     <schema:actor xml:lang="ja">原紗友里</schema:actor>

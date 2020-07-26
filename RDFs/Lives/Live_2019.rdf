@@ -4,9 +4,10 @@
     xmlns:foaf="http://xmlns.com/foaf/0.1/"
     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
     xmlns:imas="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#"
+    xml:base="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/"
     >
 
-  <rdf:Description rdf:about="detail/THE%20IDOLM%40STER%20MILLION%20LIVE%21%206thLIVE%20TOUR%20%E7%A6%8F%E5%B2%A1%20Princess%20STATION%20Day1">
+  <rdf:Description rdf:about="THE%20IDOLM%40STER%20MILLION%20LIVE%21%206thLIVE%20TOUR%20%E7%A6%8F%E5%B2%A1%20Princess%20STATION%20Day1">
     <schema:actor xml:lang="ja">山崎はるか</schema:actor>
     <schema:actor xml:lang="ja">郁原ゆう</schema:actor>
     <schema:actor xml:lang="ja">上田麗奈</schema:actor>
@@ -28,7 +29,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Live"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/THE%20IDOLM%40STER%20MILLION%20LIVE%21%206thLIVE%20TOUR%20%E7%A6%8F%E5%B2%A1%20Princess%20STATION%20Day2">
+  <rdf:Description rdf:about="THE%20IDOLM%40STER%20MILLION%20LIVE%21%206thLIVE%20TOUR%20%E7%A6%8F%E5%B2%A1%20Princess%20STATION%20Day2">
     <schema:actor xml:lang="ja">山崎はるか</schema:actor>
     <schema:actor xml:lang="ja">郁原ゆう</schema:actor>
     <schema:actor xml:lang="ja">上田麗奈</schema:actor>
@@ -50,7 +51,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Live"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/THE%20IDOLM%40STER%20MILLION%20LIVE%21%206thLIVE%20TOUR%20%E7%A6%8F%E5%B2%A1%20Fairy%20STATION%20Day1">
+  <rdf:Description rdf:about="THE%20IDOLM%40STER%20MILLION%20LIVE%21%206thLIVE%20TOUR%20%E7%A6%8F%E5%B2%A1%20Fairy%20STATION%20Day1">
     <schema:actor xml:lang="ja">田所あずさ</schema:actor>
     <schema:actor xml:lang="ja">雨宮天</schema:actor>
     <schema:actor xml:lang="ja">愛美</schema:actor>
@@ -72,7 +73,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Live"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/THE%20IDOLM%40STER%20MILLION%20LIVE%21%206thLIVE%20TOUR%20%E7%A6%8F%E5%B2%A1%20Fairy%20STATION%20Day2">
+  <rdf:Description rdf:about="THE%20IDOLM%40STER%20MILLION%20LIVE%21%206thLIVE%20TOUR%20%E7%A6%8F%E5%B2%A1%20Fairy%20STATION%20Day2">
     <schema:actor xml:lang="ja">田所あずさ</schema:actor>
     <schema:actor xml:lang="ja">雨宮天</schema:actor>
     <schema:actor xml:lang="ja">愛美</schema:actor>
@@ -94,7 +95,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Live"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/%E3%82%A2%E3%82%BD%E3%83%93%E3%82%B9%E3%83%88%E3%82%A2%20presents%20THE%20IDOLM%40STER%20SHINY%20COLORS%20SUMMER%20PARTY%202019%20%E6%98%BC%E5%85%AC%E6%BC%94">
+  <rdf:Description rdf:about="%E3%82%A2%E3%82%BD%E3%83%93%E3%82%B9%E3%83%88%E3%82%A2%20presents%20THE%20IDOLM%40STER%20SHINY%20COLORS%20SUMMER%20PARTY%202019%20%E6%98%BC%E5%85%AC%E6%BC%94">
     <schema:actor xml:lang="ja">関根瞳</schema:actor>
     <schema:actor xml:lang="ja">近藤玲奈</schema:actor>
     <schema:actor xml:lang="ja">峯田茉優</schema:actor>
@@ -114,7 +115,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Live"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/%E3%82%A2%E3%82%BD%E3%83%93%E3%82%B9%E3%83%88%E3%82%A2%20presents%20THE%20IDOLM%40STER%20SHINY%20COLORS%20SUMMER%20PARTY%202019%20%E5%A4%9C%E5%85%AC%E6%BC%94">
+  <rdf:Description rdf:about="%E3%82%A2%E3%82%BD%E3%83%93%E3%82%B9%E3%83%88%E3%82%A2%20presents%20THE%20IDOLM%40STER%20SHINY%20COLORS%20SUMMER%20PARTY%202019%20%E5%A4%9C%E5%85%AC%E6%BC%94">
     <schema:actor xml:lang="ja">河野ひより</schema:actor>
     <schema:actor xml:lang="ja">白石晴香</schema:actor>
     <schema:actor xml:lang="ja">永井真里子</schema:actor>
@@ -134,7 +135,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Live"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/THE%20IDOLM%40STER%20CINDERELLA%20GIRLS%207thLIVE%20TOUR%20Special%203chord%E2%99%AA%20Comical%20Pops%21%20Day1">
+  <rdf:Description rdf:about="THE%20IDOLM%40STER%20CINDERELLA%20GIRLS%207thLIVE%20TOUR%20Special%203chord%E2%99%AA%20Comical%20Pops%21%20Day1">
     <schema:actor xml:lang="ja">会沢紗弥</schema:actor>
     <schema:actor xml:lang="ja">藍原ことみ</schema:actor>
     <schema:actor xml:lang="ja">天野聡美</schema:actor>
@@ -170,7 +171,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Live"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/THE%20IDOLM%40STER%20CINDERELLA%20GIRLS%207thLIVE%20TOUR%20Special%203chord%E2%99%AA%20Comical%20Pops%21%20Day2">
+  <rdf:Description rdf:about="THE%20IDOLM%40STER%20CINDERELLA%20GIRLS%207thLIVE%20TOUR%20Special%203chord%E2%99%AA%20Comical%20Pops%21%20Day2">
     <schema:actor xml:lang="ja">会沢紗弥</schema:actor>
     <schema:actor xml:lang="ja">藍原ことみ</schema:actor>
     <schema:actor xml:lang="ja">天野聡美</schema:actor>
@@ -206,7 +207,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Live"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/%E3%83%90%E3%83%B3%E3%83%80%E3%82%A4%E3%83%8A%E3%83%A0%E3%82%B3%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88%E3%83%95%E3%82%A7%E3%82%B9%E3%83%86%E3%82%A3%E3%83%90%E3%83%AB%20Day1">
+  <rdf:Description rdf:about="%E3%83%90%E3%83%B3%E3%83%80%E3%82%A4%E3%83%8A%E3%83%A0%E3%82%B3%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88%E3%83%95%E3%82%A7%E3%82%B9%E3%83%86%E3%82%A3%E3%83%90%E3%83%AB%20Day1">
     <schema:actor xml:lang="ja">大橋彩香</schema:actor>
     <schema:actor xml:lang="ja">福原綾香</schema:actor>
     <schema:actor xml:lang="ja">原紗友里</schema:actor>
@@ -257,7 +258,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Live"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/%E3%83%90%E3%83%B3%E3%83%80%E3%82%A4%E3%83%8A%E3%83%A0%E3%82%B3%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88%E3%83%95%E3%82%A7%E3%82%B9%E3%83%86%E3%82%A3%E3%83%90%E3%83%AB%20Day2">
+  <rdf:Description rdf:about="%E3%83%90%E3%83%B3%E3%83%80%E3%82%A4%E3%83%8A%E3%83%A0%E3%82%B3%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88%E3%83%95%E3%82%A7%E3%82%B9%E3%83%86%E3%82%A3%E3%83%90%E3%83%AB%20Day2">
     <schema:actor xml:lang="ja">中村繪里子</schema:actor>
     <schema:actor xml:lang="ja">今井麻美</schema:actor>
     <schema:actor xml:lang="ja">平田宏美</schema:actor>
@@ -317,7 +318,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Live"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/THE%20IDOLM%40STER%20CINDERELLA%20GIRLS%207thLIVE%20TOUR%20Special%203chord%E2%99%AA%20Funky%20Dancing%21%20Day1">
+  <rdf:Description rdf:about="THE%20IDOLM%40STER%20CINDERELLA%20GIRLS%207thLIVE%20TOUR%20Special%203chord%E2%99%AA%20Funky%20Dancing%21%20Day1">
     <schema:actor xml:lang="ja">大橋彩香</schema:actor>
     <schema:actor xml:lang="ja">藍原ことみ</schema:actor>
     <schema:actor xml:lang="ja">大空直美</schema:actor>
@@ -359,7 +360,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Live"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/THE%20IDOLM%40STER%20CINDERELLA%20GIRLS%207thLIVE%20TOUR%20Special%203chord%E2%99%AA%20Funky%20Dancing%21%20Day2">
+  <rdf:Description rdf:about="THE%20IDOLM%40STER%20CINDERELLA%20GIRLS%207thLIVE%20TOUR%20Special%203chord%E2%99%AA%20Funky%20Dancing%21%20Day2">
     <schema:actor xml:lang="ja">大橋彩香</schema:actor>
     <schema:actor xml:lang="ja">藍原ことみ</schema:actor>
     <schema:actor xml:lang="ja">大空直美</schema:actor>

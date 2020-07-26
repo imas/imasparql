@@ -4,9 +4,10 @@
     xmlns:foaf="http://xmlns.com/foaf/0.1/"
     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
     xmlns:imas="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#"
+    xml:base="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/"
     >
 
-  <rdf:Description rdf:about="detail/THE%20IDOLM%40STER%20WINTER%20C%40RNIVAL%21Daytime%20C%40RNIVAL%21">
+  <rdf:Description rdf:about="THE%20IDOLM%40STER%20WINTER%20C%40RNIVAL%21Daytime%20C%40RNIVAL%21">
     <schema:actor xml:lang="ja">中村繪里子</schema:actor>
     <schema:actor xml:lang="ja">長谷川明子</schema:actor>
     <schema:actor xml:lang="ja">下田麻美</schema:actor>
@@ -118,7 +119,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/THE%20IDOLM%40STER%20WINTER%20C%40RNIVAL%21Night%20C%40RNIVAL%21">
+  <rdf:Description rdf:about="THE%20IDOLM%40STER%20WINTER%20C%40RNIVAL%21Night%20C%40RNIVAL%21">
     <schema:actor xml:lang="ja">中村繪里子</schema:actor>
     <schema:actor xml:lang="ja">長谷川明子</schema:actor>
     <schema:actor xml:lang="ja">下田麻美</schema:actor>
@@ -230,7 +231,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%C3%97%E3%82%A2%E3%83%A0%E3%83%A9%E3%83%83%E3%82%AF%E3%82%B9%20%E3%82%B3%E3%83%A9%E3%83%9C%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%EF%BD%9E%E7%94%9F%E3%81%A3%E3%81%99%E3%81%8B%21%3F%E3%82%B5%E3%83%B3%E3%83%87%E3%83%BC%E5%87%BA%E5%BC%B5%E7%89%88%EF%BD%9E">
+  <rdf:Description rdf:about="%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%C3%97%E3%82%A2%E3%83%A0%E3%83%A9%E3%83%83%E3%82%AF%E3%82%B9%20%E3%82%B3%E3%83%A9%E3%83%9C%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%EF%BD%9E%E7%94%9F%E3%81%A3%E3%81%99%E3%81%8B%21%3F%E3%82%B5%E3%83%B3%E3%83%87%E3%83%BC%E5%87%BA%E5%BC%B5%E7%89%88%EF%BD%9E">
     <schema:actor xml:lang="ja">中村繪里子</schema:actor>
     <schema:actor xml:lang="ja">平田宏美</schema:actor>
     <schema:actor xml:lang="ja">浅倉杏美</schema:actor>
@@ -254,7 +255,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%AE%E9%9B%BB%E6%92%83%20%E6%84%9F%E8%AC%9D%E7%A5%AD%202012%20%E3%80%8E%E3%82%A2%E3%82%A4%E3%83%9E%E3%82%B9%E3%80%8F%2B%E3%80%8E%E3%81%B7%E3%81%A1%E3%81%BE%E3%81%99%21%E3%80%8F%E3%81%99%E3%81%BA%E3%81%97%E3%82%83%E3%82%8B%E3%81%99%E3%81%A6%E3%83%BC%E3%81%98%E3%81%A7%E3%81%99%E3%82%88%E3%81%A3%21%20%E3%81%AB%E3%81%A3%21%20in%E7%A7%8B%E8%91%89%E5%8E%9F">
+  <rdf:Description rdf:about="%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%AE%E9%9B%BB%E6%92%83%20%E6%84%9F%E8%AC%9D%E7%A5%AD%202012%20%E3%80%8E%E3%82%A2%E3%82%A4%E3%83%9E%E3%82%B9%E3%80%8F%2B%E3%80%8E%E3%81%B7%E3%81%A1%E3%81%BE%E3%81%99%21%E3%80%8F%E3%81%99%E3%81%BA%E3%81%97%E3%82%83%E3%82%8B%E3%81%99%E3%81%A6%E3%83%BC%E3%81%98%E3%81%A7%E3%81%99%E3%82%88%E3%81%A3%21%20%E3%81%AB%E3%81%A3%21%20in%E7%A7%8B%E8%91%89%E5%8E%9F">
     <schema:actor xml:lang="ja">若林直美</schema:actor>
     <schema:actor xml:lang="ja">浅倉杏美</schema:actor>
     <schema:actor xml:lang="ja">長谷川明子</schema:actor>
@@ -288,7 +289,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/THE%20IDOLM%40STER%20STATION%21%21%21%E3%83%95%E3%82%A1%E3%83%BC%E3%82%B9%E3%83%88%E3%83%BB%E3%83%A9%E3%82%A4%E3%83%96%E2%80%9CHEART%20AND%20SOUL%E2%80%9D">
+  <rdf:Description rdf:about="THE%20IDOLM%40STER%20STATION%21%21%21%E3%83%95%E3%82%A1%E3%83%BC%E3%82%B9%E3%83%88%E3%83%BB%E3%83%A9%E3%82%A4%E3%83%96%E2%80%9CHEART%20AND%20SOUL%E2%80%9D">
     <schema:actor xml:lang="ja">沼倉愛美</schema:actor>
     <schema:actor xml:lang="ja">原由実</schema:actor>
     <schema:actor xml:lang="ja">浅倉杏美</schema:actor>
@@ -432,7 +433,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/%E3%82%A2%E3%83%8B%E3%83%A1%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84%E3%82%A8%E3%82%AD%E3%82%B9%E3%83%9D2012%20ACE%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%E3%83%A9%E3%82%A4%E3%83%96%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8">
+  <rdf:Description rdf:about="%E3%82%A2%E3%83%8B%E3%83%A1%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84%E3%82%A8%E3%82%AD%E3%82%B9%E3%83%9D2012%20ACE%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%E3%83%A9%E3%82%A4%E3%83%96%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8">
     <schema:actor xml:lang="ja">LiSA</schema:actor>
     <schema:actor xml:lang="ja">中村繪里子</schema:actor>
     <schema:actor xml:lang="ja">長谷川明子</schema:actor>
@@ -478,7 +479,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/%E3%83%A9%E3%82%B8%E3%82%AAde%E3%82%A2%E3%82%A4%E3%83%9ECHU%21%21%E5%85%AC%E9%96%8B%E9%8C%B2%E9%9F%B3%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%EF%BD%9E%E6%98%A5%E6%BA%80%E9%96%8BCHU%21%21%E3%83%AA%E3%83%83%E3%83%97%E3%81%BE%E3%81%A0%E3%81%BE%E3%81%A0%E3%82%86%E3%81%A3%E3%81%8F%E3%82%8A%E6%97%85%E6%B0%97%E5%88%86%EF%BD%9E%0D%0A%0D%0A">
+  <rdf:Description rdf:about="%E3%83%A9%E3%82%B8%E3%82%AAde%E3%82%A2%E3%82%A4%E3%83%9ECHU%21%21%E5%85%AC%E9%96%8B%E9%8C%B2%E9%9F%B3%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%EF%BD%9E%E6%98%A5%E6%BA%80%E9%96%8BCHU%21%21%E3%83%AA%E3%83%83%E3%83%97%E3%81%BE%E3%81%A0%E3%81%BE%E3%81%A0%E3%82%86%E3%81%A3%E3%81%8F%E3%82%8A%E6%97%85%E6%B0%97%E5%88%86%EF%BD%9E%0D%0A%0D%0A">
     <schema:actor xml:lang="ja">仁後真耶子</schema:actor>
     <schema:actor xml:lang="ja">下田麻美</schema:actor>
     <schema:actor xml:lang="ja">長谷川明子</schema:actor>
@@ -539,7 +540,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/%E3%83%8B%E3%82%B3%E3%83%8B%E3%82%B3%E8%B6%85%E3%83%91%E3%83%BC%E3%83%86%E3%82%A3%E3%83%BCFirstNight%20%EF%BD%9E1%C3%970%EF%BD%9E%20%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%A1%E3%83%89%E3%83%AC%E3%83%BC%E8%B6%85%E3%83%91%E3%83%BC%E3%83%86%E3%82%A3%E3%83%BC%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%E3%83%90%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3">
+  <rdf:Description rdf:about="%E3%83%8B%E3%82%B3%E3%83%8B%E3%82%B3%E8%B6%85%E3%83%91%E3%83%BC%E3%83%86%E3%82%A3%E3%83%BCFirstNight%20%EF%BD%9E1%C3%970%EF%BD%9E%20%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%A1%E3%83%89%E3%83%AC%E3%83%BC%E8%B6%85%E3%83%91%E3%83%BC%E3%83%86%E3%82%A3%E3%83%BC%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%E3%83%90%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3">
     <schema:actor xml:lang="ja">中村繪里子</schema:actor>
     <schema:actor xml:lang="ja">仁後真耶子</schema:actor>
     <schema:actor xml:lang="ja">平田宏美</schema:actor>
@@ -663,7 +664,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/%E3%83%8B%E3%82%B3%E3%83%8B%E3%82%B3%E8%B6%85%E4%BC%9A%E8%AD%B02012%20%E9%9B%BB%E6%B3%A2%E7%A0%94%E7%A9%B6%E7%A4%BELIVE%20SPECIAL">
+  <rdf:Description rdf:about="%E3%83%8B%E3%82%B3%E3%83%8B%E3%82%B3%E8%B6%85%E4%BC%9A%E8%AD%B02012%20%E9%9B%BB%E6%B3%A2%E7%A0%94%E7%A9%B6%E7%A4%BELIVE%20SPECIAL">
     <schema:actor xml:lang="ja">浅倉杏美</schema:actor>
     <schema:actor xml:lang="ja">今井麻美</schema:actor>
     <schema:actor xml:lang="ja">仁後真耶子</schema:actor>
@@ -689,7 +690,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/%E3%83%9E%E3%83%81%E2%98%85%E3%82%A2%E3%82%BD%E3%83%93%20vol%2E8%20%E4%B8%80%E8%BF%85%E7%A4%BE%E3%83%95%E3%82%A7%E3%83%96%E3%83%AApresents%E3%80%8C%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%20%E3%82%B7%E3%83%B3%E3%83%87%E3%83%AC%E3%83%A9%E3%82%AC%E3%83%BC%E3%83%AB%E3%82%BA%E3%80%8DCD%E5%A4%A7%E3%83%92%E3%83%83%E3%83%88%E8%A8%98%E5%BF%B5%E3%83%88%E3%83%BC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%BC">
+  <rdf:Description rdf:about="%E3%83%9E%E3%83%81%E2%98%85%E3%82%A2%E3%82%BD%E3%83%93%20vol%2E8%20%E4%B8%80%E8%BF%85%E7%A4%BE%E3%83%95%E3%82%A7%E3%83%96%E3%83%AApresents%E3%80%8C%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%20%E3%82%B7%E3%83%B3%E3%83%87%E3%83%AC%E3%83%A9%E3%82%AC%E3%83%BC%E3%83%AB%E3%82%BA%E3%80%8DCD%E5%A4%A7%E3%83%92%E3%83%83%E3%83%88%E8%A8%98%E5%BF%B5%E3%83%88%E3%83%BC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%BC">
     <schema:actor xml:lang="ja">浅倉杏美</schema:actor>
     <schema:actor xml:lang="ja">今井麻美</schema:actor>
     <schema:actor xml:lang="ja">仁後真耶子</schema:actor>
@@ -711,7 +712,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/%E3%80%8E%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%96%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%AD%E3%83%83%E3%83%88%E3%80%8F%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%E3%83%A9%E3%82%A4%E3%83%96">
+  <rdf:Description rdf:about="%E3%80%8E%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%96%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%AD%E3%83%83%E3%83%88%E3%80%8F%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%E3%83%A9%E3%82%A4%E3%83%96">
     <schema:actor xml:lang="ja">中村繪里子</schema:actor>
     <schema:actor xml:lang="ja">今井麻美</schema:actor>
     <schema:actor xml:lang="ja">長谷川明子</schema:actor>
@@ -751,7 +752,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/THE%20IDOLM%40STER%207th%20ANNIVERSARY%20765PRO%20ALLSTARS%20%E3%81%BF%E3%82%93%E3%81%AA%E3%81%A8%E3%81%84%E3%81%A3%E3%81%97%E3%82%87%E3%81%AB%21%20Day1">
+  <rdf:Description rdf:about="THE%20IDOLM%40STER%207th%20ANNIVERSARY%20765PRO%20ALLSTARS%20%E3%81%BF%E3%82%93%E3%81%AA%E3%81%A8%E3%81%84%E3%81%A3%E3%81%97%E3%82%87%E3%81%AB%21%20Day1">
     <schema:actor xml:lang="ja">中村繪里子</schema:actor>
     <schema:actor xml:lang="ja">長谷川明子</schema:actor>
     <schema:actor xml:lang="ja">今井麻美</schema:actor>
@@ -1214,7 +1215,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/THE%20IDOLM%40STER%207th%20ANNIVERSARY%20765PRO%20ALLSTARS%20%E3%81%BF%E3%82%93%E3%81%AA%E3%81%A8%E3%81%84%E3%81%A3%E3%81%97%E3%82%87%E3%81%AB%21%20Day2">
+  <rdf:Description rdf:about="THE%20IDOLM%40STER%207th%20ANNIVERSARY%20765PRO%20ALLSTARS%20%E3%81%BF%E3%82%93%E3%81%AA%E3%81%A8%E3%81%84%E3%81%A3%E3%81%97%E3%82%87%E3%81%AB%21%20Day2">
     <schema:actor xml:lang="ja">中村繪里子</schema:actor>
     <schema:actor xml:lang="ja">長谷川明子</schema:actor>
     <schema:actor xml:lang="ja">今井麻美</schema:actor>
@@ -1677,7 +1678,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/%E3%83%A9%E3%82%B8%E3%82%AA%E3%80%8EiM%40STUDIO%E3%80%8F%E5%85%AC%E9%96%8B%E9%8C%B2%E9%9F%B3%EF%BC%86%E3%83%9F%E3%83%8BLIVE%20%EF%BD%9E%E3%81%BF%E3%82%93%E3%81%AA%E3%81%A8%E3%81%99%E3%81%94%E3%81%99%E5%A4%8F%E4%BC%91%E3%81%BF%20with%20%E3%81%88%E3%82%8A%E3%81%A3%E3%81%8F%E3%81%8F%E3%82%89%E3%81%B7%E3%81%A8%E3%82%8A%E3%82%93%EF%BD%9E">
+  <rdf:Description rdf:about="%E3%83%A9%E3%82%B8%E3%82%AA%E3%80%8EiM%40STUDIO%E3%80%8F%E5%85%AC%E9%96%8B%E9%8C%B2%E9%9F%B3%EF%BC%86%E3%83%9F%E3%83%8BLIVE%20%EF%BD%9E%E3%81%BF%E3%82%93%E3%81%AA%E3%81%A8%E3%81%99%E3%81%94%E3%81%99%E5%A4%8F%E4%BC%91%E3%81%BF%20with%20%E3%81%88%E3%82%8A%E3%81%A3%E3%81%8F%E3%81%8F%E3%82%89%E3%81%B7%E3%81%A8%E3%82%8A%E3%82%93%EF%BD%9E">
     <schema:actor xml:lang="ja">中村繪里子</schema:actor>
     <schema:actor xml:lang="ja">今井麻美</schema:actor>
     <schema:actor xml:lang="ja">長谷川明子</schema:actor>
@@ -1726,7 +1727,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/%E3%83%AF%E3%83%B3%E3%83%80%E3%83%BC%E3%83%95%E3%82%A7%E3%82%B9%E3%83%86%E3%82%A3%E3%83%90%E3%83%AB2012%20Summer%20%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%20in%20%E3%82%B3%E3%83%88%E3%83%96%E3%82%AD%E3%83%A4%EF%BD%9E%E3%83%AF%E3%83%B3%E3%83%95%E3%82%A7%E3%82%B9%E3%81%B8%E3%82%88%E3%81%86%E3%81%93%E3%81%9D%21%EF%BD%9E">
+  <rdf:Description rdf:about="%E3%83%AF%E3%83%B3%E3%83%80%E3%83%BC%E3%83%95%E3%82%A7%E3%82%B9%E3%83%86%E3%82%A3%E3%83%90%E3%83%AB2012%20Summer%20%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%20in%20%E3%82%B3%E3%83%88%E3%83%96%E3%82%AD%E3%83%A4%EF%BD%9E%E3%83%AF%E3%83%B3%E3%83%95%E3%82%A7%E3%82%B9%E3%81%B8%E3%82%88%E3%81%86%E3%81%93%E3%81%9D%21%EF%BD%9E">
     <schema:actor xml:lang="ja">浅倉杏美</schema:actor>
     <schema:actor xml:lang="ja">沼倉愛美</schema:actor>
     <schema:eventStatus rdf:resource="http://schema.org/EventScheduled" />
@@ -1760,7 +1761,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/%E9%9F%B3%E6%92%83%20GAME%20SOUND%20IMPACT%202012">
+  <rdf:Description rdf:about="%E9%9F%B3%E6%92%83%20GAME%20SOUND%20IMPACT%202012">
     <schema:actor xml:lang="ja">中村繪里子</schema:actor>
     <schema:actor xml:lang="ja">原由実</schema:actor>
     <schema:actor xml:lang="ja">浅倉杏美</schema:actor>
@@ -1812,7 +1813,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/MEGA%20Hobby%20Life%E6%9C%80%E5%BC%B7Figure%E5%B1%95%E7%A4%BA%E6%9C%83%20%E3%80%8A%E5%81%B6%E5%83%8F%E5%A4%A7%E5%B8%AB%E3%80%8B%E3%80%8C%E9%AB%98%E6%A7%BB%E5%BD%8C%E7%94%9F%E3%80%8D%E7%9A%84%E8%81%B2%E5%84%AA%E4%BB%81%E5%BE%8C%E7%9C%9F%E8%80%B6%E5%AD%90%E5%B0%8F%E5%A7%90%E7%9A%84Talk%20Show%E8%88%87Mini%20Live">
+  <rdf:Description rdf:about="MEGA%20Hobby%20Life%E6%9C%80%E5%BC%B7Figure%E5%B1%95%E7%A4%BA%E6%9C%83%20%E3%80%8A%E5%81%B6%E5%83%8F%E5%A4%A7%E5%B8%AB%E3%80%8B%E3%80%8C%E9%AB%98%E6%A7%BB%E5%BD%8C%E7%94%9F%E3%80%8D%E7%9A%84%E8%81%B2%E5%84%AA%E4%BB%81%E5%BE%8C%E7%9C%9F%E8%80%B6%E5%AD%90%E5%B0%8F%E5%A7%90%E7%9A%84Talk%20Show%E8%88%87Mini%20Live">
     <schema:actor xml:lang="ja">仁後真耶子</schema:actor>
     <schema:eventStatus rdf:resource="http://schema.org/EventScheduled" />
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MEGA Hobby Life最強Figure展示會 《偶像大師》「高槻彌生」的聲優仁後真耶子小姐的Talk Show與Mini Live</schema:name>
@@ -1830,7 +1831,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/%E3%83%90%E3%83%B3%E3%83%80%E3%82%A4%E3%83%8A%E3%83%A0%E3%82%B3%E3%83%A9%E3%82%A4%E3%83%96TV%20%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E7%89%B9%E7%95%AA%E3%80%8E%E5%A4%8F%E3%81%A0%211%E7%95%AA%E3%80%81%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E7%A5%AD%E3%82%8A%21%E3%80%8F">
+  <rdf:Description rdf:about="%E3%83%90%E3%83%B3%E3%83%80%E3%82%A4%E3%83%8A%E3%83%A0%E3%82%B3%E3%83%A9%E3%82%A4%E3%83%96TV%20%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E7%89%B9%E7%95%AA%E3%80%8E%E5%A4%8F%E3%81%A0%211%E7%95%AA%E3%80%81%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E7%A5%AD%E3%82%8A%21%E3%80%8F">
     <schema:actor xml:lang="ja">今井麻美</schema:actor>
     <schema:actor xml:lang="ja">若林直美</schema:actor>
     <schema:actor xml:lang="ja">沼倉愛美</schema:actor>
@@ -1872,7 +1873,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/THE%20IDOLM%40STER%20SHINY%20FESTA%E5%89%8D%E5%A4%9C%E7%A5%AD%20in%20TGS2012%20%EF%BD%9E%E6%96%B0%E6%9B%B2%E3%81%9F%E3%81%A3%E3%81%B7%E3%82%8A%E8%81%B4%E3%81%8B%E3%81%9B%E3%81%A1%E3%82%83%E3%81%84%E3%81%BE%E3%81%99%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%E2%99%AA%EF%BD%9E">
+  <rdf:Description rdf:about="THE%20IDOLM%40STER%20SHINY%20FESTA%E5%89%8D%E5%A4%9C%E7%A5%AD%20in%20TGS2012%20%EF%BD%9E%E6%96%B0%E6%9B%B2%E3%81%9F%E3%81%A3%E3%81%B7%E3%82%8A%E8%81%B4%E3%81%8B%E3%81%9B%E3%81%A1%E3%82%83%E3%81%84%E3%81%BE%E3%81%99%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%E2%99%AA%EF%BD%9E">
     <schema:actor xml:lang="ja">中村繪里子</schema:actor>
     <schema:actor xml:lang="ja">若林直美</schema:actor>
     <schema:actor xml:lang="ja">仁後真耶子</schema:actor>
@@ -1936,7 +1937,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/THE%20IDOLM%40STER%20%E7%94%9F%E3%81%A3%E3%81%99%E3%81%8B%21%3F%E3%82%B5%E3%83%B3%E3%83%87%E3%83%BC%E5%87%BA%E5%BC%B5%E7%89%88%20in%20TGS2012%20%EF%BD%9E%E8%A6%8B%E9%80%83%E3%81%97%E5%8E%B3%E7%A6%81%21%E9%A9%9A%E3%81%8D%E3%81%AE%E6%96%B0%E6%83%85%E5%A0%B1%E7%B6%9A%E3%80%85%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%21%21%EF%BD%9E">
+  <rdf:Description rdf:about="THE%20IDOLM%40STER%20%E7%94%9F%E3%81%A3%E3%81%99%E3%81%8B%21%3F%E3%82%B5%E3%83%B3%E3%83%87%E3%83%BC%E5%87%BA%E5%BC%B5%E7%89%88%20in%20TGS2012%20%EF%BD%9E%E8%A6%8B%E9%80%83%E3%81%97%E5%8E%B3%E7%A6%81%21%E9%A9%9A%E3%81%8D%E3%81%AE%E6%96%B0%E6%83%85%E5%A0%B1%E7%B6%9A%E3%80%85%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%21%21%EF%BD%9E">
     <schema:actor xml:lang="ja">今井麻美</schema:actor>
     <schema:actor xml:lang="ja">沼倉愛美</schema:actor>
     <schema:actor xml:lang="ja">原由実</schema:actor>
@@ -1979,7 +1980,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/%E3%80%8C%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%20%E3%82%B7%E3%83%A3%E3%82%A4%E3%83%8B%E3%83%BC%E3%83%95%E3%82%A7%E3%82%B9%E3%82%BF%E3%80%8D%E6%96%B0%E4%BD%9C%E3%82%A2%E3%83%8B%E3%83%A1%20%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0%E5%85%88%E8%A1%8C%E4%B8%8A%E6%98%A0%E4%BC%9A%20%E5%8D%88%E5%89%8D%E3%81%AE%E9%83%A8">
+  <rdf:Description rdf:about="%E3%80%8C%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%20%E3%82%B7%E3%83%A3%E3%82%A4%E3%83%8B%E3%83%BC%E3%83%95%E3%82%A7%E3%82%B9%E3%82%BF%E3%80%8D%E6%96%B0%E4%BD%9C%E3%82%A2%E3%83%8B%E3%83%A1%20%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0%E5%85%88%E8%A1%8C%E4%B8%8A%E6%98%A0%E4%BC%9A%20%E5%8D%88%E5%89%8D%E3%81%AE%E9%83%A8">
     <schema:actor xml:lang="ja">沼倉愛美</schema:actor>
     <schema:actor xml:lang="ja">今井麻美</schema:actor>
     <schema:actor xml:lang="ja">浅倉杏美</schema:actor>
@@ -2001,7 +2002,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/%E3%80%8C%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%20%E3%82%B7%E3%83%A3%E3%82%A4%E3%83%8B%E3%83%BC%E3%83%95%E3%82%A7%E3%82%B9%E3%82%BF%E3%80%8D%E6%96%B0%E4%BD%9C%E3%82%A2%E3%83%8B%E3%83%A1%20%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0%E5%85%88%E8%A1%8C%E4%B8%8A%E6%98%A0%E4%BC%9A%20%E5%8D%88%E5%BE%8C%E3%81%AE%E9%83%A8">
+  <rdf:Description rdf:about="%E3%80%8C%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%20%E3%82%B7%E3%83%A3%E3%82%A4%E3%83%8B%E3%83%BC%E3%83%95%E3%82%A7%E3%82%B9%E3%82%BF%E3%80%8D%E6%96%B0%E4%BD%9C%E3%82%A2%E3%83%8B%E3%83%A1%20%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0%E5%85%88%E8%A1%8C%E4%B8%8A%E6%98%A0%E4%BC%9A%20%E5%8D%88%E5%BE%8C%E3%81%AE%E9%83%A8">
     <schema:actor xml:lang="ja">沼倉愛美</schema:actor>
     <schema:actor xml:lang="ja">今井麻美</schema:actor>
     <schema:actor xml:lang="ja">浅倉杏美</schema:actor>
@@ -2023,7 +2024,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/%E3%83%9E%E3%83%81%E2%98%85%E3%82%A2%E3%82%BD%E3%83%93%20vol%2E9%20%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%BF%E3%82%A4%E3%83%97%20%E3%82%A2%E3%83%8B%E3%83%A1%E3%82%A2%E3%83%AF%E3%83%BC%E3%83%89%E6%8E%88%E8%B3%9E%E5%BC%8F">
+  <rdf:Description rdf:about="%E3%83%9E%E3%83%81%E2%98%85%E3%82%A2%E3%82%BD%E3%83%93%20vol%2E9%20%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%BF%E3%82%A4%E3%83%97%20%E3%82%A2%E3%83%8B%E3%83%A1%E3%82%A2%E3%83%AF%E3%83%BC%E3%83%89%E6%8E%88%E8%B3%9E%E5%BC%8F">
     <schema:actor xml:lang="ja">中村繪里子</schema:actor>
     <schema:actor xml:lang="ja">原由実</schema:actor>
     <schema:actor xml:lang="ja">長谷川明子</schema:actor>
@@ -2047,7 +2048,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/%E3%83%9E%E3%83%81%E2%98%85%E3%82%A2%E3%82%BD%E3%83%93%20vol%2E9%20%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%20%E3%82%B7%E3%83%A3%E3%82%A4%E3%83%8B%E3%83%BC%E3%83%95%E3%82%A7%E3%82%B9%E3%82%BF%20%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8%20in%20%E3%83%9E%E3%83%81%E2%98%85%E3%82%A2%E3%82%BD%E3%83%93">
+  <rdf:Description rdf:about="%E3%83%9E%E3%83%81%E2%98%85%E3%82%A2%E3%82%BD%E3%83%93%20vol%2E9%20%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%20%E3%82%B7%E3%83%A3%E3%82%A4%E3%83%8B%E3%83%BC%E3%83%95%E3%82%A7%E3%82%B9%E3%82%BF%20%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8%20in%20%E3%83%9E%E3%83%81%E2%98%85%E3%82%A2%E3%82%BD%E3%83%93">
     <schema:actor xml:lang="ja">中村繪里子</schema:actor>
     <schema:actor xml:lang="ja">原由実</schema:actor>
     <schema:actor xml:lang="ja">長谷川明子</schema:actor>
@@ -2099,7 +2100,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/THE%20IDOLM%40STER%20STATION%21%21%21%E5%85%AC%E9%96%8B%E9%8C%B2%E9%9F%B3">
+  <rdf:Description rdf:about="THE%20IDOLM%40STER%20STATION%21%21%21%E5%85%AC%E9%96%8B%E9%8C%B2%E9%9F%B3">
     <schema:actor xml:lang="ja">沼倉愛美</schema:actor>
     <schema:actor xml:lang="ja">原由実</schema:actor>
     <schema:actor xml:lang="ja">浅倉杏美</schema:actor>
@@ -2121,7 +2122,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Re%3Aanimation%2DRave%20In%20%E6%96%B0%E5%AE%BF%E6%AD%8C%E8%88%9E%E4%BC%8E%E7%94%BA%2DVol%2E4">
+  <rdf:Description rdf:about="Re%3Aanimation%2DRave%20In%20%E6%96%B0%E5%AE%BF%E6%AD%8C%E8%88%9E%E4%BC%8E%E7%94%BA%2DVol%2E4">
     <schema:actor xml:lang="ja">若林直美</schema:actor>
     <schema:actor xml:lang="ja">平田宏美</schema:actor>
     <schema:actor xml:lang="ja">長谷川明子</schema:actor>
@@ -2173,7 +2174,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/%E3%80%8C%E3%83%A9%E3%82%B8%E3%82%AA%20%E3%82%B7%E3%83%B3%E3%83%87%E3%83%AC%E3%83%A9%E3%82%AC%E3%83%BC%E3%83%AB%E3%82%BA%E3%80%8E%E3%83%87%E3%83%AC%E3%83%A9%E3%82%B8%E3%80%8F%E3%80%8D%E5%85%AC%E9%96%8B%E9%8C%B2%E9%9F%B3%20in%20%E3%83%8A%E3%83%B3%E3%82%B8%E3%83%A3%E3%82%BF%E3%82%A6%E3%83%B3%20%EF%BD%9E%E9%AD%94%E6%B3%95%E3%81%8C%E3%81%8B%E3%81%8B%E3%82%8B%E3%81%AE%E3%81%AF17%E6%99%82%E3%81%8B%E3%82%89%EF%BD%9E">
+  <rdf:Description rdf:about="%E3%80%8C%E3%83%A9%E3%82%B8%E3%82%AA%20%E3%82%B7%E3%83%B3%E3%83%87%E3%83%AC%E3%83%A9%E3%82%AC%E3%83%BC%E3%83%AB%E3%82%BA%E3%80%8E%E3%83%87%E3%83%AC%E3%83%A9%E3%82%B8%E3%80%8F%E3%80%8D%E5%85%AC%E9%96%8B%E9%8C%B2%E9%9F%B3%20in%20%E3%83%8A%E3%83%B3%E3%82%B8%E3%83%A3%E3%82%BF%E3%82%A6%E3%83%B3%20%EF%BD%9E%E9%AD%94%E6%B3%95%E3%81%8C%E3%81%8B%E3%81%8B%E3%82%8B%E3%81%AE%E3%81%AF17%E6%99%82%E3%81%8B%E3%82%89%EF%BD%9E">
     <schema:actor xml:lang="ja">大橋彩香</schema:actor>
     <schema:actor xml:lang="ja">佳村はるか</schema:actor>
     <schema:actor xml:lang="ja">福原綾香</schema:actor>
@@ -2207,7 +2208,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/%E3%80%8E%E3%82%A2%E3%82%A4%E3%83%9E%E3%82%B9%E3%80%8F%2B%E3%80%8E%E3%81%B7%E3%81%A1%E3%81%BE%E3%81%99%21%E3%80%8F%E3%81%99%E3%81%BA%E3%81%97%E3%82%83%E3%82%8B%E3%81%99%E3%81%A6%E3%83%BC%E3%81%98%E3%81%A7%E3%81%99%E3%82%88%E3%81%A3%21%20%E3%81%95%E3%82%93%E3%81%A3%21in%20%E9%9B%BB%E6%92%8320%E5%B9%B4%E7%A5%AD">
+  <rdf:Description rdf:about="%E3%80%8E%E3%82%A2%E3%82%A4%E3%83%9E%E3%82%B9%E3%80%8F%2B%E3%80%8E%E3%81%B7%E3%81%A1%E3%81%BE%E3%81%99%21%E3%80%8F%E3%81%99%E3%81%BA%E3%81%97%E3%82%83%E3%82%8B%E3%81%99%E3%81%A6%E3%83%BC%E3%81%98%E3%81%A7%E3%81%99%E3%82%88%E3%81%A3%21%20%E3%81%95%E3%82%93%E3%81%A3%21in%20%E9%9B%BB%E6%92%8320%E5%B9%B4%E7%A5%AD">
     <schema:actor xml:lang="ja">中村繪里子</schema:actor>
     <schema:actor xml:lang="ja">若林直美</schema:actor>
     <schema:actor xml:lang="ja">平田宏美</schema:actor>
@@ -2255,7 +2256,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/%E3%80%8C%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%20%E3%82%B7%E3%83%B3%E3%83%87%E3%83%AC%E3%83%A9%E3%82%AC%E3%83%BC%E3%83%AB%E3%82%BA%E3%80%8D%E3%81%8A%E6%B8%A1%E3%81%97%E4%BC%9A%EF%BC%86%E3%83%9F%E3%83%8B%E3%83%A9%E3%82%A4%E3%83%96%2013%E6%99%82%E3%81%AE%E5%9B%9E">
+  <rdf:Description rdf:about="%E3%80%8C%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%20%E3%82%B7%E3%83%B3%E3%83%87%E3%83%AC%E3%83%A9%E3%82%AC%E3%83%BC%E3%83%AB%E3%82%BA%E3%80%8D%E3%81%8A%E6%B8%A1%E3%81%97%E4%BC%9A%EF%BC%86%E3%83%9F%E3%83%8B%E3%83%A9%E3%82%A4%E3%83%96%2013%E6%99%82%E3%81%AE%E5%9B%9E">
     <schema:actor xml:lang="ja">五十嵐裕美</schema:actor>
     <schema:actor xml:lang="ja">福原綾香</schema:actor>
     <schema:eventStatus rdf:resource="http://schema.org/EventScheduled" />
@@ -2281,7 +2282,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/%E3%80%8C%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%20%E3%82%B7%E3%83%B3%E3%83%87%E3%83%AC%E3%83%A9%E3%82%AC%E3%83%BC%E3%83%AB%E3%82%BA%E3%80%8D%E3%81%8A%E6%B8%A1%E3%81%97%E4%BC%9A%EF%BC%86%E3%83%9F%E3%83%8B%E3%83%A9%E3%82%A4%E3%83%96%2015%E6%99%82%E3%81%AE%E5%9B%9E">
+  <rdf:Description rdf:about="%E3%80%8C%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%20%E3%82%B7%E3%83%B3%E3%83%87%E3%83%AC%E3%83%A9%E3%82%AC%E3%83%BC%E3%83%AB%E3%82%BA%E3%80%8D%E3%81%8A%E6%B8%A1%E3%81%97%E4%BC%9A%EF%BC%86%E3%83%9F%E3%83%8B%E3%83%A9%E3%82%A4%E3%83%96%2015%E6%99%82%E3%81%AE%E5%9B%9E">
     <schema:actor xml:lang="ja">五十嵐裕美</schema:actor>
     <schema:actor xml:lang="ja">福原綾香</schema:actor>
     <schema:eventStatus rdf:resource="http://schema.org/EventScheduled" />
@@ -2307,7 +2308,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/THE%20IDOLM%40STER%20ANIM%40TION%20MASTER%20SECRET%20COVER%20SONG%20EVENT%20%E7%94%9F%E3%81%A3%E3%81%99%E3%81%8BSPECIAL%20X%27mas%20P%40rty">
+  <rdf:Description rdf:about="THE%20IDOLM%40STER%20ANIM%40TION%20MASTER%20SECRET%20COVER%20SONG%20EVENT%20%E7%94%9F%E3%81%A3%E3%81%99%E3%81%8BSPECIAL%20X%27mas%20P%40rty">
     <schema:actor xml:lang="ja">長谷川明子</schema:actor>
     <schema:actor xml:lang="ja">仁後真耶子</schema:actor>
     <schema:actor xml:lang="ja">沼倉愛美</schema:actor>
@@ -2421,7 +2422,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%20%E3%82%B7%E3%83%A3%E3%82%A4%E3%83%8B%E3%83%BC%E3%83%95%E3%82%A7%E3%82%B9%E3%82%BF%2B%E3%82%B7%E3%83%B3%E3%83%87%E3%83%AC%E3%83%A9%E3%82%AC%E3%83%BC%E3%83%AB%E3%82%BA%20%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%E3%83%91%E3%83%BC%E3%83%86%E3%82%A3%E3%83%BC%20in%20%E6%96%B0%E5%AE%BFBLAZE">
+  <rdf:Description rdf:about="%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%20%E3%82%B7%E3%83%A3%E3%82%A4%E3%83%8B%E3%83%BC%E3%83%95%E3%82%A7%E3%82%B9%E3%82%BF%2B%E3%82%B7%E3%83%B3%E3%83%87%E3%83%AC%E3%83%A9%E3%82%AC%E3%83%BC%E3%83%AB%E3%82%BA%20%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%E3%83%91%E3%83%BC%E3%83%86%E3%82%A3%E3%83%BC%20in%20%E6%96%B0%E5%AE%BFBLAZE">
     <schema:actor xml:lang="ja">今井麻美</schema:actor>
     <schema:actor xml:lang="ja">浅倉杏美</schema:actor>
     <schema:actor xml:lang="ja">沼倉愛美</schema:actor>

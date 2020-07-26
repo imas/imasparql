@@ -4,9 +4,10 @@
     xmlns:foaf="http://xmlns.com/foaf/0.1/"
     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
     xmlns:imas="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#"
+    xml:base="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/"
     >
 
-  <rdf:Description rdf:about="detail/Sakuragi_Mano">
+  <rdf:Description rdf:about="Sakuragi_Mano">
     <schema:familyName xml:lang="ja">櫻木</schema:familyName>
     <schema:familyName xml:lang="en">Sakuragi</schema:familyName>
     <imas:familyNameKana xml:lang="ja">さくらぎ</imas:familyNameKana>
@@ -39,9 +40,10 @@
     <imas:Title xml:lang="en">283Pro</imas:Title>
     <schema:description xml:lang="ja">ほんわかした癒し系の女の子で、心優しい性格。見ていて守りたくなるタイプで、一緒にいるだけで何となく幸せな気持ちになる。高校1年生。</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/50011"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Hachimiya_Meguru">
+  <rdf:Description rdf:about="Hachimiya_Meguru">
     <schema:familyName xml:lang="ja">八宮</schema:familyName>
     <schema:familyName xml:lang="en">Hachimiya</schema:familyName>
     <imas:familyNameKana xml:lang="ja">はちみや</imas:familyNameKana>
@@ -74,9 +76,10 @@
     <imas:Title xml:lang="en">283Pro</imas:Title>
     <schema:description xml:lang="ja">天真爛漫な性格で、誰にでも積極的に話しかける。とにかく元気で友達想いの女の子。日本人の父とアメリカ人の母を持つ。高校1年生。</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/50017"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Kazano_Hiori">
+  <rdf:Description rdf:about="Kazano_Hiori">
     <schema:familyName xml:lang="ja">風野</schema:familyName>
     <schema:familyName xml:lang="en">Kazano</schema:familyName>
     <imas:familyNameKana xml:lang="ja">かざの</imas:familyNameKana>
@@ -111,9 +114,10 @@
     <imas:Title xml:lang="en">283Pro</imas:Title>
     <schema:description xml:lang="ja">後ろでまとめた黒髪が印象的な、クール系美少女。自分が納得するまで努力を欠かさないストイックな性格の持ち主。高校1年生。</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/50007"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Tsukioka_Kogane">
+  <rdf:Description rdf:about="Tsukioka_Kogane">
     <schema:familyName xml:lang="ja">月岡</schema:familyName>
     <schema:familyName xml:lang="en">Tsukioka</schema:familyName>
     <imas:familyNameKana xml:lang="ja">つきおか</imas:familyNameKana>
@@ -145,9 +149,10 @@
     <imas:Title xml:lang="en">283Pro</imas:Title>
     <schema:description xml:lang="ja">自信たっぷりで何があってもポジティブな性格。スタイルもよく人目を引く可愛さだが、よく転ぶ、ダンスを間違えるなどのドジな一面も併せ持つ。</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/50016"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Mitsumine_Yuika">
+  <rdf:Description rdf:about="Mitsumine_Yuika">
     <schema:familyName xml:lang="ja">三峰</schema:familyName>
     <schema:familyName xml:lang="en">Mitsumine</schema:familyName>
     <imas:familyNameKana xml:lang="ja">みつみね</imas:familyNameKana>
@@ -184,9 +189,10 @@
     <imas:Title xml:lang="en">283Pro</imas:Title>
     <schema:description xml:lang="ja">自由奔放で掴みどころのないサブカル系眼鏡女子。美人でノリもよく、初対面の人に対しても気後れせずに話しができる。大学1年生。</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/50021"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Shirase_Sakuya">
+  <rdf:Description rdf:about="Shirase_Sakuya">
     <schema:familyName xml:lang="ja">白瀬</schema:familyName>
     <schema:familyName xml:lang="en">Shirase</schema:familyName>
     <imas:familyNameKana xml:lang="ja">しらせ</imas:familyNameKana>
@@ -218,9 +224,10 @@
     <imas:Title xml:lang="en">283Pro</imas:Title>
     <schema:description xml:lang="ja">女子校に通い、スポーツ万能、学業優秀、容姿端麗なモデル系美人。立ち居振舞いも王子様のようにかっこよく、女子からの人気が高い。高校3年生。</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/50012"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Tanaka_Mamimi">
+  <rdf:Description rdf:about="Tanaka_Mamimi">
     <schema:familyName xml:lang="ja">田中</schema:familyName>
     <schema:familyName xml:lang="en">Tanaka</schema:familyName>
     <imas:familyNameKana xml:lang="ja">たなか</imas:familyNameKana>
@@ -253,9 +260,10 @@
     <imas:Title xml:lang="en">283Pro</imas:Title>
     <schema:description xml:lang="ja">ダウナー系で、面倒なことが嫌いなパンキッシュガール。顔もスタイルも抜群の美少女だが、自分の興味を持ったこと以外には無頓着な性格。高校3年生。</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/50015"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Yukoku_Kiriko">
+  <rdf:Description rdf:about="Yukoku_Kiriko">
     <schema:familyName xml:lang="ja">幽谷</schema:familyName>
     <schema:familyName xml:lang="en">Yukoku</schema:familyName>
     <imas:familyNameKana xml:lang="ja">ゆうこく</imas:familyNameKana>
@@ -291,9 +299,10 @@
     <imas:Title xml:lang="en">283Pro</imas:Title>
     <schema:description xml:lang="ja">ミステリアスな雰囲気を醸し出す銀髪の女の子。儚げな雰囲気とぐるぐると巻いた包帯が特徴的。口数は少ないが、心優しい性格。高校2年生。</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/50023"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Kuwayama_Chiyuki">
+  <rdf:Description rdf:about="Kuwayama_Chiyuki">
     <schema:familyName xml:lang="ja">桑山</schema:familyName>
     <schema:familyName xml:lang="en">Kuwayama</schema:familyName>
     <imas:familyNameKana xml:lang="ja">くわやま</imas:familyNameKana>
@@ -326,9 +335,10 @@
     <imas:Title xml:lang="en">283Pro</imas:Title>
     <schema:description xml:lang="ja">優しい笑顔が印象的な、事務所のお姉さん的存在。母性溢れる落ち着いた佇まいが特徴。手先が器用で、かわいい小物を作るのが趣味。</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/50008"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Osaki_Tenka">
+  <rdf:Description rdf:about="Osaki_Tenka">
     <schema:familyName xml:lang="ja">大崎</schema:familyName>
     <schema:familyName xml:lang="en">Osaki</schema:familyName>
     <imas:familyNameKana xml:lang="ja">おおさき</imas:familyNameKana>
@@ -363,9 +373,10 @@
     <imas:Title xml:lang="en">283Pro</imas:Title>
     <schema:description xml:lang="ja">大崎姉妹の双子の姉。幼い頃から妹の甘奈に面倒を見てもらっている。人と話すのが苦手で、アニメやゲームなど、インドアな趣味が多い。高校2年生。</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/50006"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Osaki_Amana">
+  <rdf:Description rdf:about="Osaki_Amana">
     <schema:familyName xml:lang="ja">大崎</schema:familyName>
     <schema:familyName xml:lang="en">Osaki</schema:familyName>
     <imas:familyNameKana xml:lang="ja">おおさき</imas:familyNameKana>
@@ -400,9 +411,10 @@
     <imas:Title xml:lang="en">283Pro</imas:Title>
     <schema:description xml:lang="ja">大崎姉妹の双子の妹。誰とでも分け隔てなく接する天真爛漫なギャル。今しかできないことを全力で楽しみたい今ドキの女の子。高校2年生。</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/50005"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Komiya_Kaho">
+  <rdf:Description rdf:about="Komiya_Kaho">
     <schema:familyName xml:lang="ja">小宮</schema:familyName>
     <schema:familyName xml:lang="en">Komiya</schema:familyName>
     <imas:familyNameKana xml:lang="ja">こみや</imas:familyNameKana>
@@ -435,9 +447,10 @@
     <imas:Title xml:lang="en">283Pro</imas:Title>
     <schema:description xml:lang="ja">大人びた容姿と高い身長が特徴の女の子。何にでも興味津々で純粋な様子は、まるで子犬のよう。特撮モノが大好きでヒーローに憧れている。小学6年生。</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/50009"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Saijo_Juri">
+  <rdf:Description rdf:about="Saijo_Juri">
     <schema:familyName xml:lang="ja">西城</schema:familyName>
     <schema:familyName xml:lang="en">Saijo</schema:familyName>
     <imas:familyNameKana xml:lang="ja">さいじょう</imas:familyNameKana>
@@ -471,9 +484,10 @@
     <imas:Title xml:lang="en">283Pro</imas:Title>
     <schema:description xml:lang="ja">ボーイッシュでクールな女の子。言葉遣いが乱暴なので人に怖がられることが多いが、根は純情で、素直になれないタイプ。高校2年生。</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/50010"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Arisugawa_Natsuha">
+  <rdf:Description rdf:about="Arisugawa_Natsuha">
     <schema:familyName xml:lang="ja">有栖川</schema:familyName>
     <schema:familyName xml:lang="en">Arisugawa</schema:familyName>
     <imas:familyNameKana xml:lang="ja">ありすがわ</imas:familyNameKana>
@@ -506,9 +520,10 @@
     <imas:Title xml:lang="en">283Pro</imas:Title>
     <schema:description xml:lang="ja">裕福な家庭に生まれた社長令嬢。家名に誇りを持ち、自らもその肩書に恥じぬよう日々鍛錬を積んでいる。スタイルがよく、引き締まっている。大学2年生。</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/50002"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Morino_Rinze">
+  <rdf:Description rdf:about="Morino_Rinze">
     <schema:familyName xml:lang="ja">杜野</schema:familyName>
     <schema:familyName xml:lang="en">Morino</schema:familyName>
     <imas:familyNameKana xml:lang="ja">もりの</imas:familyNameKana>
@@ -542,9 +557,10 @@
     <imas:Title xml:lang="en">283Pro</imas:Title>
     <schema:description xml:lang="ja">落ち着いた佇まいの大和撫子。常に礼儀正しく、一歩引いて相手を立てる性格。少女漫画好きという意外な趣味を持つ。高校1年生。</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/50022"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Sonoda_Chiyoko">
+  <rdf:Description rdf:about="Sonoda_Chiyoko">
     <schema:familyName xml:lang="ja">園田</schema:familyName>
     <schema:familyName xml:lang="en">Sonoda</schema:familyName>
     <imas:familyNameKana xml:lang="ja">そのだ</imas:familyNameKana>
@@ -576,9 +592,10 @@
     <imas:Title xml:lang="en">283Pro</imas:Title>
     <schema:description xml:lang="ja">クラスに一人はいるごく普通の女の子。明るく親しみやすい性格で、甘いものが大好き。名前にちなんで、チョコ好きアイドルを売りにしている。高校2年生。</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/50014"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Mayuzumi_Fuyuko">
+  <rdf:Description rdf:about="Mayuzumi_Fuyuko">
     <schema:familyName xml:lang="ja">黛</schema:familyName>
     <schema:familyName xml:lang="en">Mayuzumi</schema:familyName>
     <imas:familyNameKana xml:lang="ja">まゆずみ</imas:familyNameKana>
@@ -610,9 +627,10 @@
     <imas:Title xml:lang="en">283Pro</imas:Title>
     <schema:description xml:lang="ja">常に控えめな笑顔で、清楚に見える女の子。可愛いものが大好きで、周囲への気配りをするなど人に好かれるように振る舞う。専門学校1年生。</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/50020"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Serizawa_Asahi">
+  <rdf:Description rdf:about="Serizawa_Asahi">
     <schema:familyName xml:lang="ja">芹沢</schema:familyName>
     <schema:familyName xml:lang="en">Serizawa</schema:familyName>
     <imas:familyNameKana xml:lang="ja">せりざわ</imas:familyNameKana>
@@ -645,9 +663,10 @@
     <imas:Title xml:lang="en">283Pro</imas:Title>
     <schema:description xml:lang="ja">常に面白いことを探し、じっとしていることがない、探究心の強い女の子。興味を持ったら一直線だが、飽きっぽい一面も持つ中学2年生。</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/50013"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Izumi_Mei">
+  <rdf:Description rdf:about="Izumi_Mei">
     <schema:familyName xml:lang="ja">和泉</schema:familyName>
     <schema:familyName xml:lang="en">Izumi</schema:familyName>
     <imas:familyNameKana xml:lang="ja">いずみ</imas:familyNameKana>
@@ -680,9 +699,10 @@
     <imas:Title xml:lang="en">283Pro</imas:Title>
     <schema:description xml:lang="ja">ノリがよく、楽天的で大雑把な性格の女の子。難しいことを考えるのは苦手だが、親しみやすい高校3年生。</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/50003"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Asakura_Toru">
+  <rdf:Description rdf:about="Asakura_Toru">
     <schema:familyName xml:lang="ja">浅倉</schema:familyName>
     <schema:familyName xml:lang="en">Asakura</schema:familyName>
     <imas:familyNameKana xml:lang="ja">あさくら</imas:familyNameKana>
@@ -714,9 +734,10 @@
     <imas:Title xml:lang="en">283Pro</imas:Title>
     <schema:description xml:lang="ja">自然体で飾らない性格。周囲からどう見られるかということを気にせず、おおらかでマイペース。しかしその透明感あふれる佇まいには誰をも惹きつけるオーラがある。高校2年生。</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/50001"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Higuchi_Madoka">
+  <rdf:Description rdf:about="Higuchi_Madoka">
     <schema:familyName xml:lang="ja">樋口</schema:familyName>
     <schema:familyName xml:lang="en">Higuchi</schema:familyName>
     <imas:familyNameKana xml:lang="ja">ひぐち</imas:familyNameKana>
@@ -748,9 +769,10 @@
     <imas:Title xml:lang="en">283Pro</imas:Title>
     <schema:description xml:lang="ja">クールでシニカルな高校2年生。涼しげな目元と泣きぼくろが特徴。プロデューサーに冷たい態度を取る。</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/50018"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Fukumaru_Koito">
+  <rdf:Description rdf:about="Fukumaru_Koito">
     <schema:familyName xml:lang="ja">福丸</schema:familyName>
     <schema:familyName xml:lang="en">Fukumaru</schema:familyName>
     <imas:familyNameKana xml:lang="ja">ふくまる</imas:familyNameKana>
@@ -782,9 +804,10 @@
     <imas:Title xml:lang="en">283Pro</imas:Title>
     <schema:description xml:lang="ja">内弁慶な小動物系の女の子。真面目な努力家で、勉強が得意。騙されやすく、幼なじみによくからかわれている。高校1年生。</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/50019"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Ichikawa_Hinana">
+  <rdf:Description rdf:about="Ichikawa_Hinana">
     <schema:familyName xml:lang="ja">市川</schema:familyName>
     <schema:familyName xml:lang="en">Ichikawa</schema:familyName>
     <imas:familyNameKana xml:lang="ja">いちかわ</imas:familyNameKana>
@@ -816,5 +839,6 @@
     <imas:Title xml:lang="en">283Pro</imas:Title>
     <schema:description xml:lang="ja">自分の「しあわせ」に向かって突き進む、奔放な女の子。幼馴染みで先輩の透を慕っている。高校1年生。</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/50004"/>
   </rdf:Description>
 </rdf:RDF>

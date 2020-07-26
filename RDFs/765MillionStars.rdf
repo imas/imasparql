@@ -4,9 +4,10 @@
     xmlns:foaf="http://xmlns.com/foaf/0.1/"
     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
     xmlns:imas="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#"
+    xml:base="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/"
   >
 
-  <rdf:Description rdf:about="detail/Kasuga_Mirai">
+  <rdf:Description rdf:about="Kasuga_Mirai">
     <imas:Attribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vo</imas:Attribute>
     <schema:familyName xml:lang="ja">春日</schema:familyName>
     <schema:familyName xml:lang="en">Kasuga</schema:familyName>
@@ -40,9 +41,10 @@
     <schema:birthPlace xml:lang="ja">東京</schema:birthPlace>
     <imas:Division xml:lang="en">Princess</imas:Division>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/30004"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Mogami_Shizuka">
+  <rdf:Description rdf:about="Mogami_Shizuka">
     <imas:Attribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vo</imas:Attribute>
     <schema:familyName xml:lang="ja">最上</schema:familyName>
     <schema:familyName xml:lang="en">Mogami</schema:familyName>
@@ -76,9 +78,10 @@
     <schema:birthPlace xml:lang="ja">埼玉</schema:birthPlace>
     <imas:Division xml:lang="en">Fairy</imas:Division>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/30034"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Ibuki_Tsubasa">
+  <rdf:Description rdf:about="Ibuki_Tsubasa">
     <imas:Attribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vi</imas:Attribute>
     <schema:familyName xml:lang="ja">伊吹</schema:familyName>
     <schema:familyName xml:lang="en">Ibuki</schema:familyName>
@@ -112,9 +115,10 @@
     <schema:birthPlace xml:lang="ja">東京</schema:birthPlace>
     <imas:Division xml:lang="en">Angel</imas:Division>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/30001"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Tanaka_Kotoha">
+  <rdf:Description rdf:about="Tanaka_Kotoha">
     <imas:Attribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vo</imas:Attribute>
     <schema:familyName xml:lang="ja">田中</schema:familyName>
     <schema:familyName xml:lang="en">Tanaka</schema:familyName>
@@ -148,9 +152,10 @@
     <schema:birthPlace xml:lang="ja">東京</schema:birthPlace>
     <imas:Division xml:lang="en">Princess</imas:Division>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/30017"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Shimabara_Elena">
+  <rdf:Description rdf:about="Shimabara_Elena">
     <imas:Attribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Da</imas:Attribute>
     <schema:familyName xml:lang="ja">島原</schema:familyName>
     <schema:familyName xml:lang="en">Shimabara</schema:familyName>
@@ -184,9 +189,10 @@
     <schema:birthPlace xml:lang="ja">ブラジル</schema:birthPlace>
     <imas:Division xml:lang="en">Angel</imas:Division>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/30012"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Satake_Minako">
+  <rdf:Description rdf:about="Satake_Minako">
     <imas:Attribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Da</imas:Attribute>
     <schema:familyName xml:lang="ja">佐竹</schema:familyName>
     <schema:familyName xml:lang="en">Satake</schema:familyName>
@@ -220,9 +226,10 @@
     <schema:birthPlace xml:lang="ja">東京</schema:birthPlace>
     <imas:Division xml:lang="en">Princess</imas:Division>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/30010"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Tokoro_Megumi">
+  <rdf:Description rdf:about="Tokoro_Megumi">
     <imas:Attribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vi</imas:Attribute>
     <schema:familyName xml:lang="ja">所</schema:familyName>
     <schema:familyName xml:lang="en">Tokoro</schema:familyName>
@@ -256,9 +263,10 @@
     <schema:birthPlace xml:lang="ja">埼玉</schema:birthPlace>
     <imas:Division xml:lang="en">Fairy</imas:Division>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/30020"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Tokugawa_Matsuri">
+  <rdf:Description rdf:about="Tokugawa_Matsuri">
     <imas:Attribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vi</imas:Attribute>
     <schema:familyName xml:lang="ja">徳川</schema:familyName>
     <schema:familyName xml:lang="en">Tokugawa</schema:familyName>
@@ -293,9 +301,10 @@
     <schema:birthPlace xml:lang="ja">愛知</schema:birthPlace>
     <imas:Division xml:lang="en">Princess</imas:Division>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/30019"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Hakozaki_Serika">
+  <rdf:Description rdf:about="Hakozaki_Serika">
     <imas:Attribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vo</imas:Attribute>
     <schema:familyName xml:lang="ja">箱崎</schema:familyName>
     <schema:familyName xml:lang="en">Hakozaki</schema:familyName>
@@ -330,9 +339,10 @@
     <schema:birthPlace xml:lang="ja">東京</schema:birthPlace>
     <imas:Division xml:lang="en">Angel</imas:Division>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/30027"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Nonohara_Akane">
+  <rdf:Description rdf:about="Nonohara_Akane">
     <imas:Attribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Da</imas:Attribute>
     <schema:familyName xml:lang="ja">野々原</schema:familyName>
     <schema:familyName xml:lang="en">Nonohara</schema:familyName>
@@ -366,9 +376,10 @@
     <schema:birthPlace xml:lang="ja">埼玉</schema:birthPlace>
     <imas:Division xml:lang="en">Angel</imas:Division>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/30026"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Mochizuki_Anna">
+  <rdf:Description rdf:about="Mochizuki_Anna">
     <imas:Attribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vo</imas:Attribute>
     <schema:familyName xml:lang="ja">望月</schema:familyName>
     <schema:familyName xml:lang="en">Mochizuki</schema:familyName>
@@ -402,9 +413,10 @@
     <schema:birthPlace xml:lang="ja">神奈川</schema:birthPlace>
     <imas:Division xml:lang="en">Angel</imas:Division>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/30035"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Handa_Roco">
+  <rdf:Description rdf:about="Handa_Roco">
     <imas:Attribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vi</imas:Attribute>
     <schema:alternateName xml:lang="ja">ロコ</schema:alternateName>
     <schema:alternateName xml:lang="en">Roco</schema:alternateName>
@@ -441,9 +453,10 @@
     <schema:birthPlace xml:lang="ja">東京</schema:birthPlace>
     <imas:Division xml:lang="en">Fairy</imas:Division>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/30039"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Nanao_Yuriko">
+  <rdf:Description rdf:about="Nanao_Yuriko">
     <imas:Attribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vi</imas:Attribute>
     <schema:familyName xml:lang="ja">七尾</schema:familyName>
     <schema:familyName xml:lang="en">Nanao</schema:familyName>
@@ -477,9 +490,10 @@
     <schema:birthPlace xml:lang="ja">東京</schema:birthPlace>
     <imas:Division xml:lang="en">Princess</imas:Division>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/30024"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Takayama_Sayoko">
+  <rdf:Description rdf:about="Takayama_Sayoko">
     <imas:Attribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vo</imas:Attribute>
     <schema:familyName xml:lang="ja">高山</schema:familyName>
     <schema:familyName xml:lang="en">Takayama</schema:familyName>
@@ -514,9 +528,10 @@
     <schema:birthPlace xml:lang="ja">茨城</schema:birthPlace>
     <imas:Division xml:lang="en">Princess</imas:Division>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/30016"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Matsuda_Arisa">
+  <rdf:Description rdf:about="Matsuda_Arisa">
     <imas:Attribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vo</imas:Attribute>
     <schema:familyName xml:lang="ja">松田</schema:familyName>
     <schema:familyName xml:lang="en">Matsuda</schema:familyName>
@@ -550,9 +565,10 @@
     <schema:birthPlace xml:lang="ja">東京</schema:birthPlace>
     <imas:Division xml:lang="en">Princess</imas:Division>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/30032"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Kousaka_Umi">
+  <rdf:Description rdf:about="Kousaka_Umi">
     <imas:Attribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Da</imas:Attribute>
     <schema:familyName xml:lang="ja">高坂</schema:familyName>
     <schema:familyName xml:lang="en">Kousaka</schema:familyName>
@@ -586,9 +602,10 @@
     <schema:birthPlace xml:lang="ja">千葉</schema:birthPlace>
     <imas:Division xml:lang="en">Princess</imas:Division>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/30008"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Nakatani_Iku">
+  <rdf:Description rdf:about="Nakatani_Iku">
     <imas:Attribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vi</imas:Attribute>
     <schema:familyName xml:lang="ja">中谷</schema:familyName>
     <schema:familyName xml:lang="en">Nakatani</schema:familyName>
@@ -622,9 +639,10 @@
     <schema:birthPlace xml:lang="ja">東京</schema:birthPlace>
     <imas:Division xml:lang="en">Princess</imas:Division>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/30022"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Tenkubashi_Tomoka">
+  <rdf:Description rdf:about="Tenkubashi_Tomoka">
     <imas:Attribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vo</imas:Attribute>
     <schema:familyName xml:lang="ja">天空橋</schema:familyName>
     <schema:familyName xml:lang="en">Tenkubashi</schema:familyName>
@@ -658,9 +676,10 @@
     <schema:birthPlace xml:lang="ja">東京</schema:birthPlace>
     <imas:Division xml:lang="en">Fairy</imas:Division>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/30018"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Emily_Stewart">
+  <rdf:Description rdf:about="Emily_Stewart">
     <imas:Attribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Da</imas:Attribute>
     <schema:familyName xml:lang="ja">スチュアート</schema:familyName>
     <schema:familyName xml:lang="en">Stewart</schema:familyName>
@@ -694,9 +713,10 @@
     <schema:birthPlace xml:lang="ja">イギリス</schema:birthPlace>
     <imas:Division xml:lang="en">Princess</imas:Division>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/30002"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Kitazawa_Shiho">
+  <rdf:Description rdf:about="Kitazawa_Shiho">
     <imas:Attribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vi</imas:Attribute>
     <schema:familyName xml:lang="ja">北沢</schema:familyName>
     <schema:familyName xml:lang="en">Kitazawa</schema:familyName>
@@ -731,9 +751,10 @@
     <schema:birthPlace xml:lang="ja">東京</schema:birthPlace>
     <imas:Division xml:lang="en">Fairy</imas:Division>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/30006"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Maihama_Ayumu">
+  <rdf:Description rdf:about="Maihama_Ayumu">
     <imas:Attribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Da</imas:Attribute>
     <schema:familyName xml:lang="ja">舞浜</schema:familyName>
     <schema:familyName xml:lang="en">Maihama</schema:familyName>
@@ -767,9 +788,10 @@
     <schema:birthPlace xml:lang="ja">愛媛</schema:birthPlace>
     <imas:Division xml:lang="en">Fairy</imas:Division>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/30030"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Kinoshita_Hinata">
+  <rdf:Description rdf:about="Kinoshita_Hinata">
     <imas:Attribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vo</imas:Attribute>
     <schema:familyName xml:lang="ja">木下</schema:familyName>
     <schema:familyName xml:lang="en">Kinoshita</schema:familyName>
@@ -803,9 +825,10 @@
     <schema:birthPlace xml:lang="ja">北海道</schema:birthPlace>
     <imas:Division xml:lang="en">Angel</imas:Division>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/30007"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Yabuki_Kana">
+  <rdf:Description rdf:about="Yabuki_Kana">
     <imas:Attribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vo</imas:Attribute>
     <schema:familyName xml:lang="ja">矢吹</schema:familyName>
     <schema:familyName xml:lang="en">Yabuki</schema:familyName>
@@ -839,9 +862,10 @@
     <schema:birthPlace xml:lang="ja">神奈川</schema:birthPlace>
     <imas:Division xml:lang="en">Princess</imas:Division>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/30037"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Yokoyama_Nao">
+  <rdf:Description rdf:about="Yokoyama_Nao">
     <imas:Attribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Da</imas:Attribute>
     <schema:familyName xml:lang="ja">横山</schema:familyName>
     <schema:familyName xml:lang="en">Yokoyama</schema:familyName>
@@ -875,9 +899,10 @@
     <schema:birthPlace xml:lang="ja">大阪</schema:birthPlace>
     <imas:Division xml:lang="en">Princess</imas:Division>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/30038"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Nikaido_Chizuru">
+  <rdf:Description rdf:about="Nikaido_Chizuru">
     <imas:Attribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vi</imas:Attribute>
     <schema:familyName xml:lang="ja">二階堂</schema:familyName>
     <schema:familyName xml:lang="en">Nikaido</schema:familyName>
@@ -911,9 +936,10 @@
     <schema:birthPlace xml:lang="ja">東京</schema:birthPlace>
     <imas:Division xml:lang="en">Fairy</imas:Division>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/30025"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Baba_Konomi">
+  <rdf:Description rdf:about="Baba_Konomi">
     <imas:Attribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Da</imas:Attribute>
     <schema:familyName xml:lang="ja">馬場</schema:familyName>
     <schema:familyName xml:lang="en">Baba</schema:familyName>
@@ -947,9 +973,10 @@
     <schema:birthPlace xml:lang="ja">山口</schema:birthPlace>
     <imas:Division xml:lang="en">Angel</imas:Division>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/30028"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Ogami_Tamaki">
+  <rdf:Description rdf:about="Ogami_Tamaki">
     <imas:Attribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Da</imas:Attribute>
     <schema:familyName xml:lang="ja">大神</schema:familyName>
     <schema:familyName xml:lang="en">Ogami</schema:familyName>
@@ -983,9 +1010,10 @@
     <schema:birthPlace xml:lang="ja">香川</schema:birthPlace>
     <imas:Division xml:lang="en">Angel</imas:Division>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/30003"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Toyokawa_Fuka">
+  <rdf:Description rdf:about="Toyokawa_Fuka">
     <imas:Attribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vi</imas:Attribute>
     <schema:familyName xml:lang="ja">豊川</schema:familyName>
     <schema:familyName xml:lang="en">Toyokawa</schema:familyName>
@@ -1019,9 +1047,10 @@
     <schema:birthPlace xml:lang="ja">千葉</schema:birthPlace>
     <imas:Division xml:lang="en">Angel</imas:Division>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/30021"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Miyao_Miya">
+  <rdf:Description rdf:about="Miyao_Miya">
     <imas:Attribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vi</imas:Attribute>
     <schema:familyName xml:lang="ja">宮尾</schema:familyName>
     <schema:familyName xml:lang="en">Miyao</schema:familyName>
@@ -1056,9 +1085,10 @@
     <schema:birthPlace xml:lang="ja">東京</schema:birthPlace>
     <imas:Division xml:lang="en">Angel</imas:Division>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/30033"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Fukuda_Noriko">
+  <rdf:Description rdf:about="Fukuda_Noriko">
     <imas:Attribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Da</imas:Attribute>
     <schema:familyName xml:lang="ja">福田</schema:familyName>
     <schema:familyName xml:lang="en">Fukuda</schema:familyName>
@@ -1092,9 +1122,10 @@
     <schema:birthPlace xml:lang="ja">東京</schema:birthPlace>
     <imas:Division xml:lang="en">Princess</imas:Division>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/30029"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Makabe_Mizuki">
+  <rdf:Description rdf:about="Makabe_Mizuki">
     <imas:Attribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Da</imas:Attribute>
     <schema:familyName xml:lang="ja">真壁</schema:familyName>
     <schema:familyName xml:lang="en">Makabe</schema:familyName>
@@ -1128,9 +1159,10 @@
     <schema:birthPlace xml:lang="ja">神奈川</schema:birthPlace>
     <imas:Division xml:lang="en">Fairy</imas:Division>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/30031"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Shinomiya_Karen">
+  <rdf:Description rdf:about="Shinomiya_Karen">
     <imas:Attribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vi</imas:Attribute>
     <schema:familyName xml:lang="ja">篠宮</schema:familyName>
     <schema:familyName xml:lang="en">Shinomiya</schema:familyName>
@@ -1164,9 +1196,10 @@
     <schema:birthPlace xml:lang="ja">東京</schema:birthPlace>
     <imas:Division xml:lang="en">Angel</imas:Division>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/30011"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Momose_Rio">
+  <rdf:Description rdf:about="Momose_Rio">
     <imas:Attribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Da</imas:Attribute>
     <schema:familyName xml:lang="ja">百瀬</schema:familyName>
     <schema:familyName xml:lang="en">Momose</schema:familyName>
@@ -1200,9 +1233,10 @@
     <schema:birthPlace xml:lang="ja">広島</schema:birthPlace>
     <imas:Division xml:lang="en">Fairy</imas:Division>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/30036"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Nagayoshi_Subaru">
+  <rdf:Description rdf:about="Nagayoshi_Subaru">
     <imas:Attribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Da</imas:Attribute>
     <schema:familyName xml:lang="ja">永吉</schema:familyName>
     <schema:familyName xml:lang="en">Nagayoshi</schema:familyName>
@@ -1236,9 +1270,10 @@
     <schema:birthPlace xml:lang="ja">東京</schema:birthPlace>
     <imas:Division xml:lang="en">Fairy</imas:Division>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/30023"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Kitakami_Reika">
+  <rdf:Description rdf:about="Kitakami_Reika">
     <imas:Attribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Da</imas:Attribute>
     <schema:familyName xml:lang="ja">北上</schema:familyName>
     <schema:familyName xml:lang="en">Kitakami</schema:familyName>
@@ -1272,9 +1307,10 @@
     <schema:birthPlace xml:lang="ja">長野</schema:birthPlace>
     <imas:Division xml:lang="en">Angel</imas:Division>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/30005"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Suou_Momoko">
+  <rdf:Description rdf:about="Suou_Momoko">
     <imas:Attribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vi</imas:Attribute>
     <schema:familyName xml:lang="ja">周防</schema:familyName>
     <schema:familyName xml:lang="en">Suou</schema:familyName>
@@ -1308,9 +1344,10 @@
     <schema:birthPlace xml:lang="ja">東京</schema:birthPlace>
     <imas:Division xml:lang="en">Fairy</imas:Division>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/30015"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Julia">
+  <rdf:Description rdf:about="Julia">
     <imas:Attribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vo</imas:Attribute>
     <schema:alternateName xml:lang="ja">ジュリア</schema:alternateName>
     <schema:alternateName xml:lang="en">Julia</schema:alternateName>
@@ -1338,9 +1375,10 @@
     <schema:birthPlace xml:lang="ja">福岡</schema:birthPlace>
     <imas:Division xml:lang="en">Fairy</imas:Division>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/30013"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Shiraishi_Tsumugi">
+  <rdf:Description rdf:about="Shiraishi_Tsumugi">
     <imas:Attribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">(Vi)</imas:Attribute>
     <schema:familyName xml:lang="ja">白石</schema:familyName>
     <schema:familyName xml:lang="en">Shiraishi</schema:familyName>
@@ -1376,9 +1414,10 @@
     <schema:birthPlace xml:lang="ja">石川</schema:birthPlace>
     <imas:Division xml:lang="en">Fairy</imas:Division>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/30014"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Sakuramori_Kaori">
+  <rdf:Description rdf:about="Sakuramori_Kaori">
     <imas:Attribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">(Vo)</imas:Attribute>
     <schema:familyName xml:lang="ja">桜守</schema:familyName>
     <schema:familyName xml:lang="en">Sakuramori</schema:familyName>
@@ -1414,5 +1453,6 @@
     <schema:birthPlace xml:lang="ja">東京</schema:birthPlace>
     <imas:Division xml:lang="en">Angel</imas:Division>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/30009"/>
   </rdf:Description>
 </rdf:RDF>

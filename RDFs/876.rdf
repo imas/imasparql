@@ -4,9 +4,10 @@
     xmlns:foaf="http://xmlns.com/foaf/0.1/"
     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
     xmlns:imas="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#"
+    xml:base="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/"
     >
 
-  <rdf:Description rdf:about="detail/Hidaka_Ai">
+  <rdf:Description rdf:about="Hidaka_Ai">
     <schema:familyName xml:lang="ja">日高</schema:familyName>
     <schema:familyName xml:lang="en">Hidaka</schema:familyName>
     <imas:familyNameKana xml:lang="ja">ひだか</imas:familyNameKana>
@@ -28,6 +29,7 @@
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">O</imas:BloodType>
     <imas:Hobby xml:lang="ja">バーゲンの一点買い</imas:Hobby>
     <imas:Hobby xml:lang="ja">金魚すくい</imas:Hobby>
+    <schema:birthPlace xml:lang="ja">神奈川</schema:birthPlace>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">E85786</imas:Color>
     <imas:cv xml:lang="ja">戸松遥</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/戸松遥"/>
@@ -35,9 +37,10 @@
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">DearlyStars</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/210001"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Mizutani_Eri">
+  <rdf:Description rdf:about="Mizutani_Eri">
     <schema:familyName xml:lang="ja">水谷</schema:familyName>
     <schema:familyName xml:lang="en">Mizutani</schema:familyName>
     <imas:familyNameKana xml:lang="ja">みずたに</imas:familyNameKana>
@@ -59,6 +62,7 @@
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">B</imas:BloodType>
     <imas:Hobby xml:lang="ja">映像編集</imas:Hobby>
     <imas:Talent xml:lang="ja">ジグソーパズル</imas:Talent>
+    <schema:birthPlace xml:lang="ja">千葉</schema:birthPlace>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">00ADB9</imas:Color>
     <imas:cv xml:lang="ja">花澤香菜</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/花澤香菜"/>
@@ -66,9 +70,10 @@
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">DearlyStars</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/210002"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Akizuki_Ryo_876">
+  <rdf:Description rdf:about="Akizuki_Ryo_876">
     <schema:familyName xml:lang="ja">秋月</schema:familyName>
     <schema:familyName xml:lang="en">Akizuki</schema:familyName>
     <imas:familyNameKana xml:lang="ja">あきづき</imas:familyNameKana>
@@ -90,6 +95,7 @@
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">O</imas:BloodType>
     <imas:Hobby xml:lang="ja">掃除</imas:Hobby>
     <imas:Hobby xml:lang="ja">料理</imas:Hobby>
+    <schema:birthPlace xml:lang="ja">東京</schema:birthPlace>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">B2D468</imas:Color>
     <imas:cv xml:lang="ja">三瓶由布子</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/三瓶由布子"/>
@@ -97,9 +103,10 @@
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">DearlyStars</imas:Title>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/40004"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Sakurai_Yumeko">
+  <rdf:Description rdf:about="Sakurai_Yumeko">
     <schema:familyName xml:lang="ja">桜井</schema:familyName>
     <schema:familyName xml:lang="en">Sakurai</schema:familyName>
     <imas:familyNameKana xml:lang="ja">さくらい</imas:familyNameKana>
@@ -129,7 +136,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Suzuki_Ayane">
+  <rdf:Description rdf:about="Suzuki_Ayane">
     <schema:alternateName xml:lang="ja">サイネリア</schema:alternateName>
     <schema:alternateName xml:lang="en">Cineria</schema:alternateName>
     <imas:alternateNameKana xml:lang="ja">さいねりあ</imas:alternateNameKana>
@@ -163,7 +170,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Togoji_Reika">
+  <rdf:Description rdf:about="Togoji_Reika">
     <schema:familyName xml:lang="ja">東豪寺</schema:familyName>
     <schema:familyName xml:lang="en">Togoji</schema:familyName>
     <imas:familyNameKana xml:lang="ja">とうごうじ</imas:familyNameKana>
@@ -182,7 +189,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Asahina_Rin">
+  <rdf:Description rdf:about="Asahina_Rin">
     <schema:familyName xml:lang="ja">朝比奈</schema:familyName>
     <schema:familyName xml:lang="en">Asahina</schema:familyName>
     <imas:familyNameKana xml:lang="ja">あさひな</imas:familyNameKana>
@@ -201,7 +208,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Sanjo_Tomomi">
+  <rdf:Description rdf:about="Sanjo_Tomomi">
     <schema:familyName xml:lang="ja">三条</schema:familyName>
     <schema:familyName xml:lang="en">Sanjo</schema:familyName>
     <imas:familyNameKana xml:lang="ja">さんじょう</imas:familyNameKana>
