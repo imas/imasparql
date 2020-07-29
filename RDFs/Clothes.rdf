@@ -5531,6 +5531,9 @@
     <schema:name xml:lang="ja">コーロ♪ビバーチェ</schema:name>
     <schema:description xml:lang="ja">音楽の知識や経験は問いません！音を楽しむキモチと個性いっぱいの歌声を合わせて...さあ、皆で作る最高の演奏会、開演です♪</schema:description>
     <imas:Whose rdf:resource="Matsuda_Arisa"/>
+    <imas:Whose rdf:resource="Akizuki_Ritsuko"/>
+    <imas:Whose rdf:resource="Kinoshita_Hinata"/>
+    <imas:Whose rdf:resource="Satake_Minako"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
   <rdf:Description rdf:about="Coro_Vivace%2B">
@@ -5539,16 +5542,26 @@
     <imas:Whose rdf:resource="Matsuda_Arisa"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
-  <rdf:Description rdf:about="Tasogareno_Fuchi">
+  <rdf:Description rdf:about="Tasogareno_Fuchi_Joshikousei">
     <schema:name xml:lang="ja">誰ソ彼ノ淵・女子高生</schema:name>
     <schema:description xml:lang="ja">孤島に流されちゃってちょっぴり不安だけど、主人公なんだから負けないのだー！明日も絶対に...生き抜いて、みせるからね...！</schema:description>
     <imas:Whose rdf:resource="Nonohara_Akane"/>
+    <imas:Whose rdf:resource="Shimabara_Elena"/>
+    <imas:Whose rdf:resource="Nikaido_Chizuru"/>
+    <imas:Whose rdf:resource="Kitazawa_Shiho"/>
+    <imas:Whose rdf:resource="Sakuramori_Kaori"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
-  <rdf:Description rdf:about="Tasogareno_Fuchi%2B">
+  <rdf:Description rdf:about="Tasogareno_Fuchi_Joshikousei%2B">
     <schema:name xml:lang="ja">誰ソ彼ノ淵・女子高生+</schema:name>
     <schema:description xml:lang="ja">「誰ソ彼ノ淵・女子高生」のアナザー衣装です。</schema:description>
     <imas:Whose rdf:resource="Nonohara_Akane"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Tasogareno_Fuchi_Sensei">
+    <schema:name xml:lang="ja">誰ソ彼ノ淵・先生</schema:name>
+    <schema:description xml:lang="ja">生徒思いで心優しい学校の先生。予期せず流れ着いたこの孤島で、彼女は最後まで、生徒たちを守る存在でいられるのでしょうか...？</schema:description>
+    <imas:Whose rdf:resource="Sakuramori_Kaori"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
   <rdf:Description rdf:about="Wondering_Balloon">
