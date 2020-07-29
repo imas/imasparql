@@ -1393,6 +1393,18 @@
     <imas:Whose rdf:resource="Ogami_Tamaki"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
+  <rdf:Description rdf:about="Pure_One_Piece">
+    <schema:name xml:lang="ja">ピュアワンピース</schema:name>
+    <schema:description xml:lang="ja">清楚なワンピースをひらめかせて振り返る笑顔は、太陽に負けないくらい眩しい...。彼女と出会ったのは草原？それとも...夢の中...？</schema:description>
+    <imas:Whose rdf:resource="Julia"/>
+    <imas:Whose rdf:resource="Kasuga_Mirai"/>
+    <imas:Whose rdf:resource="Hoshii_Miki"/>
+    <imas:Whose rdf:resource="Shimabara_Elena"/>
+    <imas:Whose rdf:resource="Ogami_Tamaki"/>
+    <imas:Whose rdf:resource="Amami_Haruka"/>
+    <imas:Whose rdf:resource="Nagayoshi_Subaru"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
   <rdf:Description rdf:about="Infinite_Sky">
     <schema:name xml:lang="ja">インフィニット・スカイ</schema:name>
     <schema:description xml:lang="ja">それはまるで、無限に広がる空のように...私たちの軌跡は、新しい地図になる。さあ、輝く日々に向かって、共に挑戦を続けよう！</schema:description>
