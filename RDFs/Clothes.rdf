@@ -1405,6 +1405,12 @@
     <imas:Whose rdf:resource="Nagayoshi_Subaru"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
+  <rdf:Description rdf:about="Fresh_China">
+    <schema:name xml:lang="ja">フレッシュチャイナ</schema:name>
+    <schema:description xml:lang="ja">呀！哈！朱く翻るチャイナ服でアクションポーズを華麗に披露♪威力抜群！笑顔満開！魅力上々！これで私も功夫の達人...かも？</schema:description>
+    <imas:Whose rdf:resource="Emily_Stewart"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
   <rdf:Description rdf:about="Infinite_Sky">
     <schema:name xml:lang="ja">インフィニット・スカイ</schema:name>
     <schema:description xml:lang="ja">それはまるで、無限に広がる空のように...私たちの軌跡は、新しい地図になる。さあ、輝く日々に向かって、共に挑戦を続けよう！</schema:description>
@@ -3325,6 +3331,18 @@
     <imas:Whose rdf:resource="Maihama_Ayumu"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
+  <rdf:Description rdf:about="Nineteen_Love">
+    <schema:name xml:lang="ja">ナインティーン・ラブ</schema:name>
+    <schema:description xml:lang="ja">テニスボールデザインのリボンを添えた、キュートな衣装。白熱した勝負の後に思わず零れた涙は、重ねてきた努力の、輝く結晶...！</schema:description>
+    <imas:Whose rdf:resource="Maihama_Ayumu"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Nineteen_Love%2B">
+    <schema:name xml:lang="ja">ナインティーン・ラブ+</schema:name>
+    <schema:description xml:lang="ja">「ナインティーン・ラブ」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Maihama_Ayumu"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
   <rdf:Description rdf:about="Truely_Magic">
     <schema:name xml:lang="ja">トゥルーリーマジック</schema:name>
     <schema:description xml:lang="ja">紫のリボンがキュートな衣装。魔法をシルクハットに詰め込んで今宵は貴方を、ひとときの楽しいミラクルショータイムへご招待☆</schema:description>
@@ -3916,6 +3934,18 @@
   <rdf:Description rdf:about="Retro_Modern_Madonna%2B">
     <schema:name xml:lang="ja">レトロモダン・マドンナ+</schema:name>
     <schema:description xml:lang="ja">「レトロモダン・マドンナ」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Sakuramori_Kaori"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Gorgeous_Swan">
+    <schema:name xml:lang="ja">ゴージャス・スワン</schema:name>
+    <schema:description xml:lang="ja">しなやかに、ダイナミックに動く姿を美しく魅せてくれる衣装。湖に揺蕩う白鳥のように、優美で華麗な演技...とくとご覧あれ！</schema:description>
+    <imas:Whose rdf:resource="Sakuramori_Kaori"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Gorgeous_Swan%2B">
+    <schema:name xml:lang="ja">ゴージャス・スワン+</schema:name>
+    <schema:description xml:lang="ja">「ゴージャス・スワン」のアナザー衣装です。</schema:description>
     <imas:Whose rdf:resource="Sakuramori_Kaori"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
