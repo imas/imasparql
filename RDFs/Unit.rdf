@@ -10431,6 +10431,34 @@
     <schema:member rdf:resource="Momose_Rio"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
+  <rdf:Description rdf:about="ARCANA">
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ARCANA</schema:name>
+    <schema:member rdf:resource="Miura_Azusa"/>
+    <schema:member rdf:resource="Kisaragi_Chihaya"/>
+    <schema:member rdf:resource="Shijou_Takane"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="%E8%8A%B1%E5%92%B2%E5%A4%9C">
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">花咲夜</schema:name>
+    <schema:member rdf:resource="Emily_Stewart"/>
+    <schema:member rdf:resource="Shiraishi_Tsumugi"/>
+    <schema:member rdf:resource="Tenkubashi_Tomoka"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Jus-2-Mint">
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Jus-2-Mint</schema:name>
+    <schema:member rdf:resource="Satake_Minako"/>
+    <schema:member rdf:resource="Yokoyama_Nao"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="%E3%82%AA%E3%83%9A%E3%83%A9%E3%82%BB%E3%83%AA%E3%82%A2%E3%83%BB%E7%85%8C%E8%BC%9D%E5%BA%A7">
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">オペラセリア・煌輝座</schema:name>
+    <schema:member rdf:resource="Kitazawa_Shiho"/>
+    <schema:member rdf:resource="Sakuramori_Kaori"/>
+    <schema:member rdf:resource="Tokugawa_Matsuri"/>
+    <schema:member rdf:resource="Tanaka_Kotoha"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
+  </rdf:Description>
 
   <!--Collaboration-->
   <rdf:Description rdf:about="%E3%81%AF%E3%81%84%E3%81%95%E3%81%84%E3%83%95%E3%83%A5%E3%83%BC%E3%83%81%E3%83%A3%E3%83%BC%E3%82%B9%E3%82%BF%E3%83%BC">
