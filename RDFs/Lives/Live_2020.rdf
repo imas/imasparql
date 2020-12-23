@@ -283,10 +283,10 @@
     <schema:eventStatus rdf:resource="http://schema.org/EventScheduled" />
     <schema:eventAttendanceMode rdf:resource="http://schema.org/OnlineEventAttendanceMode" />
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">THE IDOLM@STER SHINY COLORS MUSIC DAWN Day2</schema:name>
-    <schema:location rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ASOBISTAGE</schema:location>
+    <schema:location rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ASOBISTAGE（アソビストア）</schema:location>
     <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-10-31</schema:startDate>
     <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-10-31</schema:endDate>
-    <schema:url rdf:resource="https://idolmaster-official.jp/live_event/shinycolors_musicdawn/"/>
+    <schema:url rdf:resource="https://idolmaster-official.jp/live_event/shinycolors_musicdawn/index.php"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Live"/>
   </rdf:Description>
 
@@ -318,10 +318,10 @@
     <schema:eventStatus rdf:resource="http://schema.org/EventScheduled" />
     <schema:eventAttendanceMode rdf:resource="http://schema.org/OnlineEventAttendanceMode" />
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">THE IDOLM@STER SHINY COLORS MUSIC DAWN Day2</schema:name>
-    <schema:location rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ASOBISTAGE</schema:location>
+    <schema:location rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ASOBISTAGE（アソビストア）</schema:location>
     <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-11-01</schema:startDate>
     <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-11-01</schema:endDate>
-    <schema:url rdf:resource="https://idolmaster-official.jp/live_event/shinycolors_musicdawn/"/>
+    <schema:url rdf:resource="https://idolmaster-official.jp/live_event/shinycolors_musicdawn/index.php"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Live"/>
   </rdf:Description>
 </rdf:RDF>
