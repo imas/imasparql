@@ -134,9 +134,9 @@ imas:Division           a   rdf:Property ;
     rdfs:comment            "区分(Princess・Fairy・Angel)を表すプロパティ" ;
     rdfs:label              "区分"@ja .
 
-imas:AttributeColor     a   rdf:Property ;
-    rdfs:comment            "属性色(ポップリンクス)を表すプロパティ" ;
-    rdfs:label              "属性色"@ja .
+imas:PopLinksAttribute  a   rdf:Property ;
+    rdfs:comment            "属性(ポップリンクス)を表すプロパティ" ;
+    rdfs:label              "属性"@ja .
 
 
 imas:BloodType          a   rdf:Property ;

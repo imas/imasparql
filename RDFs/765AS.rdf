@@ -42,8 +42,8 @@
     <schema:birthPlace xml:lang="ja">神奈川</schema:birthPlace>
     <imas:Division xml:lang="en">Princess</imas:Division>
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cu</imas:Type>
-    <imas:AttributeColor xml:lang="en">flower</imas:AttributeColor>
-    <imas:AttributeColor xml:lang="en">ocean</imas:AttributeColor>
+    <imas:PopLinksAttribute xml:lang="en">flower</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="en">ocean</imas:PopLinksAttribute>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/10002"/>
   </rdf:Description>
@@ -82,8 +82,8 @@
     <schema:birthPlace xml:lang="ja">東京</schema:birthPlace>
     <imas:Division xml:lang="en">Fairy</imas:Division>
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Co</imas:Type>
-    <imas:AttributeColor xml:lang="en">sky</imas:AttributeColor>
-    <imas:AttributeColor xml:lang="en">rainbow</imas:AttributeColor>
+    <imas:PopLinksAttribute xml:lang="en">sky</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="en">rainbow</imas:PopLinksAttribute>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/10005"/>
   </rdf:Description>
@@ -124,8 +124,8 @@
     <schema:birthPlace xml:lang="ja">神奈川</schema:birthPlace>
     <imas:Division xml:lang="en">Angel</imas:Division>
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pa</imas:Type>
-    <imas:AttributeColor xml:lang="en">moon</imas:AttributeColor>
-    <imas:AttributeColor xml:lang="en">star</imas:AttributeColor>
+    <imas:PopLinksAttribute xml:lang="en">moon</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="en">star</imas:PopLinksAttribute>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/10011"/>
   </rdf:Description>
