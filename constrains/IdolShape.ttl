@@ -256,4 +256,29 @@ imas-shape:IdolShape a sh:NodeShape;
         sh:path schema:owns;
         sh:class imas:Clothes;
     ];
+    sh:property [
+        rdfs:label "属性(PopLinks)の制約";
+        rdfs:comment "目的語はimas:PopLinksAttribute";
+        sh:path imas:PopLinksAttribute;
+        sh:datatype rdf:langString;
+        sh:in (
+            "darkness"@en
+            "dream"@en
+            "fire"@en
+            "flower"@en
+            "heaven"@en
+            "light"@en
+            "love"@en
+            "moon"@en
+            "ocean"@en
+            "rainbow"@en
+            "sky"@en
+            "snow"@en
+            "star"@en
+            "thunder"@en
+            "wind"@en
+        );
+        sh:languageIn ("en");
+        sh:maxCount 2;
+    ];
     sh:closed false.
