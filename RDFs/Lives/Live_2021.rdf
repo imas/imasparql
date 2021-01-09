@@ -1,0 +1,74 @@
+<rdf:RDF
+    xmlns:schema="http://schema.org/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:imas="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#"
+    xml:base="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/"
+    >
+
+  <rdf:Description rdf:about="THE%20IDOLM%40STER%20CINDERELLA%20GIRLS%20Broadcast%20%26%20LIVE%20Happy%20New%20Yell%20%21%21%21%20Day1">
+    <schema:actor xml:lang="ja">朝井彩加</schema:actor>
+    <schema:actor xml:lang="ja">立花理香</schema:actor>
+    <schema:actor xml:lang="ja">花谷麻妃</schema:actor>
+    <schema:actor xml:lang="ja">桜咲千依</schema:actor>
+    <schema:actor xml:lang="ja">鈴木みのり</schema:actor>
+    <schema:actor xml:lang="ja">ルゥティン</schema:actor>
+    <schema:actor xml:lang="ja">深川芹亜</schema:actor>
+    <schema:actor xml:lang="ja">梅澤めぐ</schema:actor>
+    <schema:actor xml:lang="ja">照井春佳</schema:actor>
+    <schema:actor xml:lang="ja">河瀬茉希</schema:actor>
+    <schema:actor xml:lang="ja">牧野由依</schema:actor>
+    <schema:actor xml:lang="ja">富田美憂</schema:actor>
+    <schema:actor xml:lang="ja">生田輝</schema:actor>
+    <schema:actor xml:lang="ja">星希成奏</schema:actor>
+    <schema:actor xml:lang="ja">大空直美</schema:actor>
+    <schema:actor xml:lang="ja">都丸ちよ</schema:actor>
+    <schema:actor xml:lang="ja">飯田友子</schema:actor>
+    <schema:actor xml:lang="ja">洲崎綾</schema:actor>
+    <schema:actor xml:lang="ja">中澤ミナ</schema:actor>
+    <schema:actor xml:lang="ja">高田憂希</schema:actor>
+    <schema:actor xml:lang="ja">松田颯水</schema:actor>
+    <schema:eventStatus rdf:resource="http://schema.org/EventScheduled" />
+    <schema:eventAttendanceMode rdf:resource="http://schema.org/OnlineEventAttendanceMode" />
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">THE IDOLM@STER CINDERELLA GIRLS Broadcast &amp; LIVE Happy New Yell !!! Day1</schema:name>
+    <schema:location rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ASOBISTAGE(アソビストア)</schema:location>
+    <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-01-09</schema:startDate>
+    <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-01-09</schema:endDate>
+    <schema:url rdf:resource="https://idolmaster-official.jp/live_event/cg_happynewyell/"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Live"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="THE%20IDOLM%40STER%20CINDERELLA%20GIRLS%20Broadcast%20%26%20LIVE%20Happy%20New%20Yell%20%21%21%21%20Day2">
+    <schema:actor xml:lang="ja">会沢紗弥</schema:actor>
+    <schema:actor xml:lang="ja">高森奈津美</schema:actor>
+    <schema:actor xml:lang="ja">新田ひより</schema:actor>
+    <schema:actor xml:lang="ja">三宅麻理恵</schema:actor>
+    <schema:actor xml:lang="ja">田辺留依</schema:actor>
+    <schema:actor xml:lang="ja">原田彩楓</schema:actor>
+    <schema:actor xml:lang="ja">村中知</schema:actor>
+    <schema:actor xml:lang="ja">武田羅梨沙多胡</schema:actor>
+    <schema:actor xml:lang="ja">藍原ことみ</schema:actor>
+    <schema:actor xml:lang="ja">津田美波</schema:actor>
+    <schema:actor xml:lang="ja">嘉山未紗</schema:actor>
+    <schema:actor xml:lang="ja">千菅春香</schema:actor>
+    <schema:actor xml:lang="ja">渕上舞</schema:actor>
+    <schema:actor xml:lang="ja">森下来奈</schema:actor>
+    <schema:actor xml:lang="ja">田澤茉純</schema:actor>
+    <schema:actor xml:lang="ja">天野聡美</schema:actor>
+    <schema:actor xml:lang="ja">高橋花林</schema:actor>
+    <schema:actor xml:lang="ja">長島光那</schema:actor>
+    <schema:actor xml:lang="ja">松井恵理子</schema:actor>
+    <schema:actor xml:lang="ja">金子有希</schema:actor>
+    <schema:actor xml:lang="ja">杜野まこ</schema:actor>
+    <schema:eventStatus rdf:resource="http://schema.org/EventScheduled" />
+    <schema:eventAttendanceMode rdf:resource="http://schema.org/OnlineEventAttendanceMode" />
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">THE IDOLM@STER CINDERELLA GIRLS Broadcast &amp; LIVE Happy New Yell !!! Day2</schema:name>
+    <schema:location rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ASOBISTAGE(アソビストア)</schema:location>
+    <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-01-10</schema:startDate>
+    <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-01-10</schema:endDate>
+    <schema:url rdf:resource="https://idolmaster-official.jp/live_event/cg_happynewyell/"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Live"/>
+  </rdf:Description>
+
+</rdf:RDF>
