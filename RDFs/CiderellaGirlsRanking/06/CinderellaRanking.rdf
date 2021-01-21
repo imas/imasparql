@@ -1,0 +1,225 @@
+<rdf:RDF
+    xmlns:schema="http://schema.org/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:imas="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#"
+    xml:base="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/"
+    >
+
+  <rdf:Description rdf:about="06th_01">
+    <schema:member rdf:resource="Takagaki_Kaede"/>
+    <imas:VoteNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1063033</imas:VoteNumber>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CinderellaRankingResult"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="06th_02">
+    <schema:member rdf:resource="Honda_Mio"/>
+    <imas:VoteNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">844017</imas:VoteNumber>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CinderellaRankingResult"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="06th_03">
+    <schema:member rdf:resource="Fujiwara_Hajime"/>
+    <imas:VoteNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">770989</imas:VoteNumber>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CinderellaRankingResult"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="06th_04">
+    <schema:member rdf:resource="Araki_Hina"/>
+    <imas:VoteNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">607600</imas:VoteNumber>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CinderellaRankingResult"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="06th_05">
+    <schema:member rdf:resource="Kitami_Yuzu"/>
+    <imas:VoteNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">541699</imas:VoteNumber>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CinderellaRankingResult"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="06th_06">
+    <schema:member rdf:resource="Sakuma_Mayu"/>
+    <imas:VoteNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">518837</imas:VoteNumber>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CinderellaRankingResult"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="06th_07">
+    <schema:member rdf:resource="Murakami_Tomoe"/>
+    <imas:VoteNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">462914</imas:VoteNumber>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CinderellaRankingResult"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="06th_08">
+    <schema:member rdf:resource="Hojo_Karen"/>
+    <imas:VoteNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">426659</imas:VoteNumber>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CinderellaRankingResult"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="06th_09">
+    <schema:member rdf:resource="Seki_Hiromi"/>
+    <imas:VoteNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">404133</imas:VoteNumber>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CinderellaRankingResult"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="06th_10">
+    <schema:member rdf:resource="Sagisawa_Fumika"/>
+    <imas:VoteNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">398036</imas:VoteNumber>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CinderellaRankingResult"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="06th_11">
+    <schema:member rdf:resource="Ogata_Chieri"/>
+    <imas:VoteNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">340944</imas:VoteNumber>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CinderellaRankingResult"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="06th_12">
+    <schema:member rdf:resource="Abe_Nana"/>
+    <imas:VoteNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">333643</imas:VoteNumber>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CinderellaRankingResult"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="06th_13">
+    <schema:member rdf:resource="Takafuji_Kako"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CinderellaRankingResult"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="06th_14">
+    <schema:member rdf:resource="Koshimizu_Sachiko"/>
+    <imas:VoteNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">302534</imas:VoteNumber>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CinderellaRankingResult"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="06th_15">
+    <schema:member rdf:resource="Kamiya_Nao"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CinderellaRankingResult"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="06th_16">
+    <schema:member rdf:resource="Kita_Hinako"/>
+    <imas:VoteNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">286875</imas:VoteNumber>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CinderellaRankingResult"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="06th_17">
+    <schema:member rdf:resource="Nanjo_Hikaru"/>
+    <imas:VoteNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">286630</imas:VoteNumber>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CinderellaRankingResult"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="06th_18">
+    <schema:member rdf:resource="Takamori_Aiko"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CinderellaRankingResult"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="06th_19">
+    <schema:member rdf:resource="Maekawa_Miku"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CinderellaRankingResult"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="06th_20">
+    <schema:member rdf:resource="Hayami_Kanade"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CinderellaRankingResult"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="06th_21">
+    <schema:member rdf:resource="Imai_Kana"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CinderellaRankingResult"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="06th_22">
+    <schema:member rdf:resource="Sajo_Yukimi"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CinderellaRankingResult"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="06th_23">
+    <schema:member rdf:resource="Yuuki_Haru"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CinderellaRankingResult"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="06th_24">
+    <schema:member rdf:resource="Shimamura_Uzuki"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CinderellaRankingResult"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="06th_25">
+    <schema:member rdf:resource="Tachibana_Arisu"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CinderellaRankingResult"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="06th_26">
+    <schema:member rdf:resource="Mifune_Miyu"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CinderellaRankingResult"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="06th_27">
+    <schema:member rdf:resource="Kohinata_Miho"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CinderellaRankingResult"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="06th_28">
+    <schema:member rdf:resource="Morikubo_Nono"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CinderellaRankingResult"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="06th_29">
+    <schema:member rdf:resource="Yusa_Kozue"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CinderellaRankingResult"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="06th_30">
+    <schema:member rdf:resource="Shibuya_Rin"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CinderellaRankingResult"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="06th_31">
+    <schema:member rdf:resource="Yagami_Makino"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CinderellaRankingResult"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="06th_32">
+    <schema:member rdf:resource="Jougasaki_Mika"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CinderellaRankingResult"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="06th_33">
+    <schema:member rdf:resource="Futaba_Anzu"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CinderellaRankingResult"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="06th_34">
+    <schema:member rdf:resource="Natalia"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CinderellaRankingResult"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="06th_35">
+    <schema:member rdf:resource="Kudo_Shinobu"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CinderellaRankingResult"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="06th_36">
+    <schema:member rdf:resource="Nitta_Minami"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CinderellaRankingResult"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="06th_37">
+    <schema:member rdf:resource="Ninomiya_Asuka"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CinderellaRankingResult"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="06th_38">
+    <schema:member rdf:resource="Igarashi_Kyoko"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CinderellaRankingResult"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="06th_39">
+    <schema:member rdf:resource="Anastasia"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CinderellaRankingResult"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="06th_40">
+    <schema:member rdf:resource="Hoshi_Syoko"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CinderellaRankingResult"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="06th_41">
+    <schema:member rdf:resource="Ichinose_Shiki"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CinderellaRankingResult"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="06th_42">
+    <schema:member rdf:resource="Kanzaki_Ranko"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CinderellaRankingResult"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="06th_43">
+    <schema:member rdf:resource="Aiba_Yumi"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CinderellaRankingResult"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="06th_44">
+    <schema:member rdf:resource="Takamine_Noa"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CinderellaRankingResult"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="06th_45">
+    <schema:member rdf:resource="Mimura_Kanako"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CinderellaRankingResult"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="06th_46">
+    <schema:member rdf:resource="Ohtsuki_Yui"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CinderellaRankingResult"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="06th_47">
+    <schema:member rdf:resource="Shirasaka_Koume"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CinderellaRankingResult"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="06th_48">
+    <schema:member rdf:resource="Shiomi_Syuko"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CinderellaRankingResult"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="06th_49">
+    <schema:member rdf:resource="Tada_Rina"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CinderellaRankingResult"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="06th_50">
+    <schema:member rdf:resource="Moroboshi_Kirari"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CinderellaRankingResult"/>
+  </rdf:Description>
+
+</rdf:RDF>

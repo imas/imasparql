@@ -59,9 +59,18 @@ imas:Facility                   a   rdfs:Class ;
     rdfs:label                      "施設"@ja ;
     rdfs:subClassOf                 schema:Place .
 
+imas:Production                 a   rdfs:Class ;
+    rdfs:comment                    "事務所を表すクラス" ;
+    rdfs:label                      "事務所"@ja ;
+    rdfs:subClassOf                 imas:Facility .
+
 imas:CinderellaRankingResult    a   rdfs:Class ;
     rdfs:comment                    "シンデレラガールズ総選挙結果を表すクラス" ;
     rdfs:label                      "シンデレラガールズ総選挙結果"@ja .
+
+imas:CinderellaVoiceIdolAudition    a   rdfs:Class ;
+    rdfs:comment                    "シンデレラガールズ ボイスアイドルオーディションを表すクラス" ;
+    rdfs:label                      "シンデレラガールズ ボイスアイドルオーディション"@ja .
 
 imas:Live                       a   rdfs:Class ;
     rdfs:comment                    "ライブを表すクラス" ;
@@ -125,6 +134,11 @@ imas:Division           a   rdf:Property ;
     rdfs:comment            "区分(Princess・Fairy・Angel)を表すプロパティ" ;
     rdfs:label              "区分"@ja .
 
+imas:PopLinksAttribute  a   rdf:Property ;
+    rdfs:comment            "属性(ポップリンクス)を表すプロパティ" ;
+    rdfs:label              "属性"@ja .
+
+
 imas:BloodType          a   rdf:Property ;
     rdfs:comment            "血液型を表すプロパティ" ;
     rdfs:label              "血液型"@ja .
@@ -168,6 +182,10 @@ imas:Color              a   rdf:Property ;
 imas:cv                 a   rdf:Property ;
     rdfs:comment            "担当声優を表すプロパティ" ;
     rdfs:label              "担当声優"@ja .
+
+imas:pastCv             a   rdf:Property ;
+    rdfs:comment            "過去の担当声優を表すプロパティ" ;
+    rdfs:label              "過去の担当声優"@ja .
 
 imas:Constellation      a   rdf:Property ;
     rdfs:comment            "星座を表すプロパティ" ;
@@ -224,3 +242,7 @@ imas:Title                  a   rdf:Property ;
 imas:Whose                  a   rdf:Property ;
     rdfs:comment            "所有者を表すプロパティ" ;
     rdfs:label              "所有者"@ja .
+
+imas:IdolListURL            a   rdf:Property ;
+    rdfs:comment            "アイドル名鑑のアイドル毎URL";
+    rdfs:label              "アイドル名鑑URL"@ja .

@@ -4,9 +4,10 @@
     xmlns:foaf="http://xmlns.com/foaf/0.1/"
     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
     xmlns:imas="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#"
+    xml:base="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/"
     >
 
-  <rdf:Description rdf:about="detail/Sakuragi_Mano">
+  <rdf:Description rdf:about="Sakuragi_Mano">
     <schema:familyName xml:lang="ja">櫻木</schema:familyName>
     <schema:familyName xml:lang="en">Sakuragi</schema:familyName>
     <imas:familyNameKana xml:lang="ja">さくらぎ</imas:familyNameKana>
@@ -16,7 +17,7 @@
     <imas:nameKana xml:lang="ja">さくらぎまの</imas:nameKana>
     <schema:name xml:lang="ja">櫻木真乃</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">櫻木真乃</rdfs:label>
-    <schema:name xml:lang="en">Sakuragi Mano</schema:name>
+    <schema:name xml:lang="en">Mano Sakuragi</schema:name>
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</foaf:age>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">155.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">48.0</schema:weight>
@@ -38,10 +39,13 @@
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">283Pro</imas:Title>
     <schema:description xml:lang="ja">ほんわかした癒し系の女の子で、心優しい性格。見ていて守りたくなるタイプで、一緒にいるだけで何となく幸せな気持ちになる。高校1年生。</schema:description>
+    <imas:PopLinksAttribute xml:lang="en">flower</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="en">star</imas:PopLinksAttribute>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/50011"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Hachimiya_Meguru">
+  <rdf:Description rdf:about="Hachimiya_Meguru">
     <schema:familyName xml:lang="ja">八宮</schema:familyName>
     <schema:familyName xml:lang="en">Hachimiya</schema:familyName>
     <imas:familyNameKana xml:lang="ja">はちみや</imas:familyNameKana>
@@ -51,7 +55,7 @@
     <imas:nameKana xml:lang="ja">はちみやめぐる</imas:nameKana>
     <schema:name xml:lang="ja">八宮めぐる</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">八宮めぐる</rdfs:label>
-    <schema:name xml:lang="en">Hachimiya Meguru</schema:name>
+    <schema:name xml:lang="en">Meguru Hachimiya</schema:name>
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</foaf:age>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">157.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">46.0</schema:weight>
@@ -73,10 +77,13 @@
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">283Pro</imas:Title>
     <schema:description xml:lang="ja">天真爛漫な性格で、誰にでも積極的に話しかける。とにかく元気で友達想いの女の子。日本人の父とアメリカ人の母を持つ。高校1年生。</schema:description>
+    <imas:PopLinksAttribute xml:lang="en">heaven</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="en">star</imas:PopLinksAttribute>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/50017"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Kazano_Hiori">
+  <rdf:Description rdf:about="Kazano_Hiori">
     <schema:familyName xml:lang="ja">風野</schema:familyName>
     <schema:familyName xml:lang="en">Kazano</schema:familyName>
     <imas:familyNameKana xml:lang="ja">かざの</imas:familyNameKana>
@@ -86,7 +93,7 @@
     <imas:nameKana xml:lang="ja">かざのひおり</imas:nameKana>
     <schema:name xml:lang="ja">風野灯織</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">風野灯織</rdfs:label>
-    <schema:name xml:lang="en">Kazano Hiori</schema:name>
+    <schema:name xml:lang="en">Hiori Kazano</schema:name>
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</foaf:age>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">154.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">43.0</schema:weight>
@@ -110,10 +117,13 @@
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">283Pro</imas:Title>
     <schema:description xml:lang="ja">後ろでまとめた黒髪が印象的な、クール系美少女。自分が納得するまで努力を欠かさないストイックな性格の持ち主。高校1年生。</schema:description>
+    <imas:PopLinksAttribute xml:lang="en">wind</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="en">star</imas:PopLinksAttribute>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/50007"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Tsukioka_Kogane">
+  <rdf:Description rdf:about="Tsukioka_Kogane">
     <schema:familyName xml:lang="ja">月岡</schema:familyName>
     <schema:familyName xml:lang="en">Tsukioka</schema:familyName>
     <imas:familyNameKana xml:lang="ja">つきおか</imas:familyNameKana>
@@ -123,7 +133,7 @@
     <imas:nameKana xml:lang="ja">つきおかこがね</imas:nameKana>
     <schema:name xml:lang="ja">月岡恋鐘</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">月岡恋鐘</rdfs:label>
-    <schema:name xml:lang="en">Tsukioka Kogane</schema:name>
+    <schema:name xml:lang="en">Kogane Tsukioka</schema:name>
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</foaf:age>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">165.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">58.0</schema:weight>
@@ -139,15 +149,16 @@
     <imas:cv xml:lang="ja">礒部花凜</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/礒部花凜"/>
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q18990383"/>
-    <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">F94CAD</imas:Color>
+    <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">F84CAD</imas:Color>
     <schema:birthPlace xml:lang="ja">長崎</schema:birthPlace>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">283Pro</imas:Title>
     <schema:description xml:lang="ja">自信たっぷりで何があってもポジティブな性格。スタイルもよく人目を引く可愛さだが、よく転ぶ、ダンスを間違えるなどのドジな一面も併せ持つ。</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/50016"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Mitsumine_Yuika">
+  <rdf:Description rdf:about="Mitsumine_Yuika">
     <schema:familyName xml:lang="ja">三峰</schema:familyName>
     <schema:familyName xml:lang="en">Mitsumine</schema:familyName>
     <imas:familyNameKana xml:lang="ja">みつみね</imas:familyNameKana>
@@ -157,7 +168,7 @@
     <imas:nameKana xml:lang="ja">みつみねゆいか</imas:nameKana>
     <schema:name xml:lang="ja">三峰結華</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">三峰結華</rdfs:label>
-    <schema:name xml:lang="en">Mitsumine Yuika</schema:name>
+    <schema:name xml:lang="en">Yuika Mitsumine</schema:name>
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</foaf:age>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">158.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">44.0</schema:weight>
@@ -184,9 +195,10 @@
     <imas:Title xml:lang="en">283Pro</imas:Title>
     <schema:description xml:lang="ja">自由奔放で掴みどころのないサブカル系眼鏡女子。美人でノリもよく、初対面の人に対しても気後れせずに話しができる。大学1年生。</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/50021"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Shirase_Sakuya">
+  <rdf:Description rdf:about="Shirase_Sakuya">
     <schema:familyName xml:lang="ja">白瀬</schema:familyName>
     <schema:familyName xml:lang="en">Shirase</schema:familyName>
     <imas:familyNameKana xml:lang="ja">しらせ</imas:familyNameKana>
@@ -196,7 +208,7 @@
     <imas:nameKana xml:lang="ja">しらせさくや</imas:nameKana>
     <schema:name xml:lang="ja">白瀬咲耶</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">白瀬咲耶</rdfs:label>
-    <schema:name xml:lang="en">Shirase Sakuya</schema:name>
+    <schema:name xml:lang="en">Sakuya Shirase</schema:name>
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</foaf:age>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">175.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">60.0</schema:weight>
@@ -218,9 +230,10 @@
     <imas:Title xml:lang="en">283Pro</imas:Title>
     <schema:description xml:lang="ja">女子校に通い、スポーツ万能、学業優秀、容姿端麗なモデル系美人。立ち居振舞いも王子様のようにかっこよく、女子からの人気が高い。高校3年生。</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/50012"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Tanaka_Mamimi">
+  <rdf:Description rdf:about="Tanaka_Mamimi">
     <schema:familyName xml:lang="ja">田中</schema:familyName>
     <schema:familyName xml:lang="en">Tanaka</schema:familyName>
     <imas:familyNameKana xml:lang="ja">たなか</imas:familyNameKana>
@@ -230,7 +243,7 @@
     <imas:nameKana xml:lang="ja">たなかまみみ</imas:nameKana>
     <schema:name xml:lang="ja">田中摩美々</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">田中摩美々</rdfs:label>
-    <schema:name xml:lang="en">Tanaka Mamimi</schema:name>
+    <schema:name xml:lang="en">Mamimi Tanaka</schema:name>
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</foaf:age>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">161.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">49.0</schema:weight>
@@ -253,9 +266,10 @@
     <imas:Title xml:lang="en">283Pro</imas:Title>
     <schema:description xml:lang="ja">ダウナー系で、面倒なことが嫌いなパンキッシュガール。顔もスタイルも抜群の美少女だが、自分の興味を持ったこと以外には無頓着な性格。高校3年生。</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/50015"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Yukoku_Kiriko">
+  <rdf:Description rdf:about="Yukoku_Kiriko">
     <schema:familyName xml:lang="ja">幽谷</schema:familyName>
     <schema:familyName xml:lang="en">Yukoku</schema:familyName>
     <imas:familyNameKana xml:lang="ja">ゆうこく</imas:familyNameKana>
@@ -265,7 +279,7 @@
     <imas:nameKana xml:lang="ja">ゆうこくきりこ</imas:nameKana>
     <schema:name xml:lang="ja">幽谷霧子</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">幽谷霧子</rdfs:label>
-    <schema:name xml:lang="en">Yukoku Kiriko</schema:name>
+    <schema:name xml:lang="en">Kiriko Yukoku</schema:name>
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</foaf:age>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">160.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">51.0</schema:weight>
@@ -285,15 +299,16 @@
     <imas:cv xml:lang="ja">結名美月</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/結名美月"/>
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q17225022"/>
-    <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">D9F2DD</imas:Color>
+    <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">D9F2FF</imas:Color>
     <schema:birthPlace xml:lang="ja">青森</schema:birthPlace>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">283Pro</imas:Title>
     <schema:description xml:lang="ja">ミステリアスな雰囲気を醸し出す銀髪の女の子。儚げな雰囲気とぐるぐると巻いた包帯が特徴的。口数は少ないが、心優しい性格。高校2年生。</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/50023"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Kuwayama_Chiyuki">
+  <rdf:Description rdf:about="Kuwayama_Chiyuki">
     <schema:familyName xml:lang="ja">桑山</schema:familyName>
     <schema:familyName xml:lang="en">Kuwayama</schema:familyName>
     <imas:familyNameKana xml:lang="ja">くわやま</imas:familyNameKana>
@@ -303,7 +318,7 @@
     <imas:nameKana xml:lang="ja">くわやまちゆき</imas:nameKana>
     <schema:name xml:lang="ja">桑山千雪</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">桑山千雪</rdfs:label>
-    <schema:name xml:lang="en">Kuwayama Chiyuki</schema:name>
+    <schema:name xml:lang="en">Chiyuki Kuwayama</schema:name>
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">23</foaf:age>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">163.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">47.0</schema:weight>
@@ -320,15 +335,18 @@
     <imas:cv xml:lang="ja">芝崎典子</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/芝崎典子"/>
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q20040525"/>
-    <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">FBFBFB</imas:Color>
+    <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">FBFAFA</imas:Color>
     <schema:birthPlace xml:lang="ja">山口</schema:birthPlace>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">283Pro</imas:Title>
+    <imas:PopLinksAttribute xml:lang="en">flower</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="en">snow</imas:PopLinksAttribute>
     <schema:description xml:lang="ja">優しい笑顔が印象的な、事務所のお姉さん的存在。母性溢れる落ち着いた佇まいが特徴。手先が器用で、かわいい小物を作るのが趣味。</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/50008"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Osaki_Tenka">
+  <rdf:Description rdf:about="Osaki_Tenka">
     <schema:familyName xml:lang="ja">大崎</schema:familyName>
     <schema:familyName xml:lang="en">Osaki</schema:familyName>
     <imas:familyNameKana xml:lang="ja">おおさき</imas:familyNameKana>
@@ -338,7 +356,7 @@
     <imas:nameKana xml:lang="ja">おおさきてんか</imas:nameKana>
     <schema:name xml:lang="ja">大崎甜花</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">大崎甜花</rdfs:label>
-    <schema:name xml:lang="en">Osaki Tenka</schema:name>
+    <schema:name xml:lang="en">Tenka Osaki</schema:name>
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</foaf:age>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">159.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">44.0</schema:weight>
@@ -361,11 +379,14 @@
     <schema:birthPlace xml:lang="ja">富山</schema:birthPlace>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">283Pro</imas:Title>
+    <imas:PopLinksAttribute xml:lang="en">flower</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="en">dream</imas:PopLinksAttribute>
     <schema:description xml:lang="ja">大崎姉妹の双子の姉。幼い頃から妹の甘奈に面倒を見てもらっている。人と話すのが苦手で、アニメやゲームなど、インドアな趣味が多い。高校2年生。</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/50006"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Osaki_Amana">
+  <rdf:Description rdf:about="Osaki_Amana">
     <schema:familyName xml:lang="ja">大崎</schema:familyName>
     <schema:familyName xml:lang="en">Osaki</schema:familyName>
     <imas:familyNameKana xml:lang="ja">おおさき</imas:familyNameKana>
@@ -375,7 +396,7 @@
     <imas:nameKana xml:lang="ja">おおさきあまな</imas:nameKana>
     <schema:name xml:lang="ja">大崎甘奈</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">大崎甘奈</rdfs:label>
-    <schema:name xml:lang="en">Osaki Amana</schema:name>
+    <schema:name xml:lang="en">Amana Osaki</schema:name>
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</foaf:age>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">159.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">43.0</schema:weight>
@@ -398,11 +419,14 @@
     <schema:birthPlace xml:lang="ja">富山</schema:birthPlace>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">283Pro</imas:Title>
+    <imas:PopLinksAttribute xml:lang="en">light</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="en">flower</imas:PopLinksAttribute>
     <schema:description xml:lang="ja">大崎姉妹の双子の妹。誰とでも分け隔てなく接する天真爛漫なギャル。今しかできないことを全力で楽しみたい今ドキの女の子。高校2年生。</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/50005"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Komiya_Kaho">
+  <rdf:Description rdf:about="Komiya_Kaho">
     <schema:familyName xml:lang="ja">小宮</schema:familyName>
     <schema:familyName xml:lang="en">Komiya</schema:familyName>
     <imas:familyNameKana xml:lang="ja">こみや</imas:familyNameKana>
@@ -412,7 +436,7 @@
     <imas:nameKana xml:lang="ja">こみやかほ</imas:nameKana>
     <schema:name xml:lang="ja">小宮果穂</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">小宮果穂</rdfs:label>
-    <schema:name xml:lang="en">Komiya Kaho</schema:name>
+    <schema:name xml:lang="en">Kaho Komiya</schema:name>
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</foaf:age>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">163.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">45.0</schema:weight>
@@ -429,15 +453,16 @@
     <imas:cv xml:lang="ja">河野ひより</imas:cv>
     <!--<imas:cv rdf:resource="http://ja.dbpedia.org/resource/河野ひより"/>-->
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q43427019"/>
-    <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">E75029</imas:Color>
+    <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">E5461C</imas:Color>
     <schema:birthPlace xml:lang="ja">東京</schema:birthPlace>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">283Pro</imas:Title>
     <schema:description xml:lang="ja">大人びた容姿と高い身長が特徴の女の子。何にでも興味津々で純粋な様子は、まるで子犬のよう。特撮モノが大好きでヒーローに憧れている。小学6年生。</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/50009"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Saijo_Juri">
+  <rdf:Description rdf:about="Saijo_Juri">
     <schema:familyName xml:lang="ja">西城</schema:familyName>
     <schema:familyName xml:lang="en">Saijo</schema:familyName>
     <imas:familyNameKana xml:lang="ja">さいじょう</imas:familyNameKana>
@@ -447,7 +472,7 @@
     <imas:nameKana xml:lang="ja">さいじょうじゅり</imas:nameKana>
     <schema:name xml:lang="ja">西城樹里</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">西城樹里</rdfs:label>
-    <schema:name xml:lang="en">Saijo Juri</schema:name>
+    <schema:name xml:lang="en">Juri Saijo</schema:name>
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</foaf:age>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">160.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">48.0</schema:weight>
@@ -465,15 +490,16 @@
     <imas:cv xml:lang="ja">永井真里子</imas:cv>
     <!--<imas:cv rdf:resource="http://ja.dbpedia.org/resource/永井真里子"/>-->
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q62024310"/>
-    <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">FFCB13</imas:Color>
+    <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">FFC602</imas:Color>
     <schema:birthPlace xml:lang="ja">神奈川</schema:birthPlace>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">283Pro</imas:Title>
     <schema:description xml:lang="ja">ボーイッシュでクールな女の子。言葉遣いが乱暴なので人に怖がられることが多いが、根は純情で、素直になれないタイプ。高校2年生。</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/50010"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Arisugawa_Natsuha">
+  <rdf:Description rdf:about="Arisugawa_Natsuha">
     <schema:familyName xml:lang="ja">有栖川</schema:familyName>
     <schema:familyName xml:lang="en">Arisugawa</schema:familyName>
     <imas:familyNameKana xml:lang="ja">ありすがわ</imas:familyNameKana>
@@ -483,7 +509,7 @@
     <imas:nameKana xml:lang="ja">ありすがわなつは</imas:nameKana>
     <schema:name xml:lang="ja">有栖川夏葉</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">有栖川夏葉</rdfs:label>
-    <schema:name xml:lang="en">Arisugawa Natsuha</schema:name>
+    <schema:name xml:lang="en">Natsuha Arisugawa</schema:name>
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</foaf:age>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">168.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">49.0</schema:weight>
@@ -506,9 +532,10 @@
     <imas:Title xml:lang="en">283Pro</imas:Title>
     <schema:description xml:lang="ja">裕福な家庭に生まれた社長令嬢。家名に誇りを持ち、自らもその肩書に恥じぬよう日々鍛錬を積んでいる。スタイルがよく、引き締まっている。大学2年生。</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/50002"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Morino_Rinze">
+  <rdf:Description rdf:about="Morino_Rinze">
     <schema:familyName xml:lang="ja">杜野</schema:familyName>
     <schema:familyName xml:lang="en">Morino</schema:familyName>
     <imas:familyNameKana xml:lang="ja">もりの</imas:familyNameKana>
@@ -518,7 +545,7 @@
     <imas:nameKana xml:lang="ja">もりのりんぜ</imas:nameKana>
     <schema:name xml:lang="ja">杜野凛世</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">杜野凛世</rdfs:label>
-    <schema:name xml:lang="en">Morino Rinze</schema:name>
+    <schema:name xml:lang="en">Rinze Morino</schema:name>
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</foaf:age>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">155.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">44.0</schema:weight>
@@ -536,15 +563,16 @@
     <imas:cv xml:lang="ja">丸岡和佳奈</imas:cv>
     <!--<imas:cv rdf:resource="http://ja.dbpedia.org/resource/丸岡和佳奈"/>-->
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q56702852"/>
-    <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">84C0EA</imas:Color>
+    <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">89C3EB</imas:Color>
     <schema:birthPlace xml:lang="ja">鳥取</schema:birthPlace>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">283Pro</imas:Title>
     <schema:description xml:lang="ja">落ち着いた佇まいの大和撫子。常に礼儀正しく、一歩引いて相手を立てる性格。少女漫画好きという意外な趣味を持つ。高校1年生。</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/50022"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Sonoda_Chiyoko">
+  <rdf:Description rdf:about="Sonoda_Chiyoko">
     <schema:familyName xml:lang="ja">園田</schema:familyName>
     <schema:familyName xml:lang="en">Sonoda</schema:familyName>
     <imas:familyNameKana xml:lang="ja">そのだ</imas:familyNameKana>
@@ -554,7 +582,7 @@
     <imas:nameKana xml:lang="ja">そのだちよこ</imas:nameKana>
     <schema:name xml:lang="ja">園田智代子</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">園田智代子</rdfs:label>
-    <schema:name xml:lang="en">Sonoda Chiyoko</schema:name>
+    <schema:name xml:lang="en">Chiyoko Sonoda</schema:name>
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</foaf:age>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">149.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">46.0</schema:weight>
@@ -576,9 +604,10 @@
     <imas:Title xml:lang="en">283Pro</imas:Title>
     <schema:description xml:lang="ja">クラスに一人はいるごく普通の女の子。明るく親しみやすい性格で、甘いものが大好き。名前にちなんで、チョコ好きアイドルを売りにしている。高校2年生。</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/50014"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Mayuzumi_Fuyuko">
+  <rdf:Description rdf:about="Mayuzumi_Fuyuko">
     <schema:familyName xml:lang="ja">黛</schema:familyName>
     <schema:familyName xml:lang="en">Mayuzumi</schema:familyName>
     <imas:familyNameKana xml:lang="ja">まゆずみ</imas:familyNameKana>
@@ -588,7 +617,7 @@
     <imas:nameKana xml:lang="ja">まゆずみふゆこ</imas:nameKana>
     <schema:name xml:lang="ja">黛冬優子</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">黛冬優子</rdfs:label>
-    <schema:name xml:lang="en">Mayuzumi Fuyuko</schema:name>
+    <schema:name xml:lang="en">Fuyuko Mayuzumi</schema:name>
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</foaf:age>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">163.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">55.0</schema:weight>
@@ -610,9 +639,10 @@
     <imas:Title xml:lang="en">283Pro</imas:Title>
     <schema:description xml:lang="ja">常に控えめな笑顔で、清楚に見える女の子。可愛いものが大好きで、周囲への気配りをするなど人に好かれるように振る舞う。専門学校1年生。</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/50020"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Serizawa_Asahi">
+  <rdf:Description rdf:about="Serizawa_Asahi">
     <schema:familyName xml:lang="ja">芹沢</schema:familyName>
     <schema:familyName xml:lang="en">Serizawa</schema:familyName>
     <imas:familyNameKana xml:lang="ja">せりざわ</imas:familyNameKana>
@@ -622,7 +652,7 @@
     <imas:nameKana xml:lang="ja">せりざわあさひ</imas:nameKana>
     <schema:name xml:lang="ja">芹沢あさひ</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">芹沢あさひ</rdfs:label>
-    <schema:name xml:lang="en">Serizawa Asahi</schema:name>
+    <schema:name xml:lang="en">Asahi Serizawa</schema:name>
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14</foaf:age>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">153.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">47.0</schema:weight>
@@ -645,9 +675,10 @@
     <imas:Title xml:lang="en">283Pro</imas:Title>
     <schema:description xml:lang="ja">常に面白いことを探し、じっとしていることがない、探究心の強い女の子。興味を持ったら一直線だが、飽きっぽい一面も持つ中学2年生。</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/50013"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="detail/Izumi_Mei">
+  <rdf:Description rdf:about="Izumi_Mei">
     <schema:familyName xml:lang="ja">和泉</schema:familyName>
     <schema:familyName xml:lang="en">Izumi</schema:familyName>
     <imas:familyNameKana xml:lang="ja">いずみ</imas:familyNameKana>
@@ -657,7 +688,7 @@
     <imas:nameKana xml:lang="ja">いずみめい</imas:nameKana>
     <schema:name xml:lang="ja">和泉愛依</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">和泉愛依</rdfs:label>
-    <schema:name xml:lang="en">Izumi Mei</schema:name>
+    <schema:name xml:lang="en">Mei Izumi</schema:name>
     <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</foaf:age>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">162.0</schema:height>
     <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">51.0</schema:weight>
@@ -680,5 +711,146 @@
     <imas:Title xml:lang="en">283Pro</imas:Title>
     <schema:description xml:lang="ja">ノリがよく、楽天的で大雑把な性格の女の子。難しいことを考えるのは苦手だが、親しみやすい高校3年生。</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/50003"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="Asakura_Toru">
+    <schema:familyName xml:lang="ja">浅倉</schema:familyName>
+    <schema:familyName xml:lang="en">Asakura</schema:familyName>
+    <imas:familyNameKana xml:lang="ja">あさくら</imas:familyNameKana>
+    <schema:givenName xml:lang="ja">透</schema:givenName>
+    <schema:givenName xml:lang="en">Toru</schema:givenName>
+    <imas:givenNameKana xml:lang="ja">とおる</imas:givenNameKana>
+    <imas:nameKana xml:lang="ja">あさくらとおる</imas:nameKana>
+    <schema:name xml:lang="ja">浅倉透</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">浅倉透</rdfs:label>
+    <schema:name xml:lang="en">Toru Asakura</schema:name>
+    <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</foaf:age>
+    <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">160.0</schema:height>
+    <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">50.0</schema:weight>
+    <imas:Bust rdf:datatype="http://www.w3.org/2001/XMLSchema#float">82.0</imas:Bust>
+    <imas:Waist rdf:datatype="http://www.w3.org/2001/XMLSchema#float">57.0</imas:Waist>
+    <imas:Hip rdf:datatype="http://www.w3.org/2001/XMLSchema#float">78.0</imas:Hip>
+    <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--05-04</schema:birthDate>
+    <imas:Constellation xml:lang="ja">牡牛座</imas:Constellation>
+    <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">B</imas:BloodType>
+    <imas:Handedness rdf:datatype="http://www.w3.org/2001/XMLSchema#string">right</imas:Handedness>
+    <imas:Hobby xml:lang="ja">映画やドラマを見ること</imas:Hobby>
+    <imas:Talent xml:lang="ja">人の顔を覚えること</imas:Talent>
+    <imas:cv xml:lang="ja">和久井優</imas:cv>
+    <imas:cv rdf:resource="http://ja.dbpedia.org/resource/和久井優"/>
+    <imas:cv rdf:resource="http://www.wikidata.org/entity/Q23948953"/>
+    <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">50D0D0</imas:Color>
+    <schema:birthPlace xml:lang="ja">東京</schema:birthPlace>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
+    <imas:Title xml:lang="en">283Pro</imas:Title>
+    <schema:description xml:lang="ja">自然体で飾らない性格。周囲からどう見られるかということを気にせず、おおらかでマイペース。しかしその透明感あふれる佇まいには誰をも惹きつけるオーラがある。高校2年生。</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/50001"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="Higuchi_Madoka">
+    <schema:familyName xml:lang="ja">樋口</schema:familyName>
+    <schema:familyName xml:lang="en">Higuchi</schema:familyName>
+    <imas:familyNameKana xml:lang="ja">ひぐち</imas:familyNameKana>
+    <schema:givenName xml:lang="ja">円香</schema:givenName>
+    <schema:givenName xml:lang="en">Madoka</schema:givenName>
+    <imas:givenNameKana xml:lang="ja">まどか</imas:givenNameKana>
+    <imas:nameKana xml:lang="ja">ひぐちまどか</imas:nameKana>
+    <schema:name xml:lang="ja">樋口円香</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">樋口円香</rdfs:label>
+    <schema:name xml:lang="en">Madoka Higuchi</schema:name>
+    <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</foaf:age>
+    <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">159.0</schema:height>
+    <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">47.0</schema:weight>
+    <imas:Bust rdf:datatype="http://www.w3.org/2001/XMLSchema#float">79.0</imas:Bust>
+    <imas:Waist rdf:datatype="http://www.w3.org/2001/XMLSchema#float">55.0</imas:Waist>
+    <imas:Hip rdf:datatype="http://www.w3.org/2001/XMLSchema#float">79.0</imas:Hip>
+    <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--10-27</schema:birthDate>
+    <imas:Constellation xml:lang="ja">蠍座</imas:Constellation>
+    <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">B</imas:BloodType>
+    <imas:Handedness rdf:datatype="http://www.w3.org/2001/XMLSchema#string">right</imas:Handedness>
+    <imas:Hobby xml:lang="ja">別にないです</imas:Hobby>
+    <imas:Talent xml:lang="ja">別にないです</imas:Talent>
+    <imas:cv xml:lang="ja">土屋李央</imas:cv>
+    <!--<imas:cv rdf:resource="http://ja.dbpedia.org/resource/土屋李央"/>-->
+    <imas:cv rdf:resource="http://www.wikidata.org/entity/Q67821352"/>
+    <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">BE1E3E</imas:Color>
+    <schema:birthPlace xml:lang="ja">東京</schema:birthPlace>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
+    <imas:Title xml:lang="en">283Pro</imas:Title>
+    <schema:description xml:lang="ja">クールでシニカルな高校2年生。涼しげな目元と泣きぼくろが特徴。プロデューサーに冷たい態度を取る。</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/50018"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="Fukumaru_Koito">
+    <schema:familyName xml:lang="ja">福丸</schema:familyName>
+    <schema:familyName xml:lang="en">Fukumaru</schema:familyName>
+    <imas:familyNameKana xml:lang="ja">ふくまる</imas:familyNameKana>
+    <schema:givenName xml:lang="ja">小糸</schema:givenName>
+    <schema:givenName xml:lang="en">Koito</schema:givenName>
+    <imas:givenNameKana xml:lang="ja">こいと</imas:givenNameKana>
+    <imas:nameKana xml:lang="ja">ふくまるこいと</imas:nameKana>
+    <schema:name xml:lang="ja">福丸小糸</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">福丸小糸</rdfs:label>
+    <schema:name xml:lang="en">Koito Fukumaru</schema:name>
+    <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</foaf:age>
+    <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">148.0</schema:height>
+    <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">42.0</schema:weight>
+    <imas:Bust rdf:datatype="http://www.w3.org/2001/XMLSchema#float">71.0</imas:Bust>
+    <imas:Waist rdf:datatype="http://www.w3.org/2001/XMLSchema#float">54.0</imas:Waist>
+    <imas:Hip rdf:datatype="http://www.w3.org/2001/XMLSchema#float">73.0</imas:Hip>
+    <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--11-11</schema:birthDate>
+    <imas:Constellation xml:lang="ja">蠍座</imas:Constellation>
+    <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">O</imas:BloodType>
+    <imas:Handedness rdf:datatype="http://www.w3.org/2001/XMLSchema#string">right</imas:Handedness>
+    <imas:Hobby xml:lang="ja">読書</imas:Hobby>
+    <imas:Talent xml:lang="ja">勉強</imas:Talent>
+    <imas:cv xml:lang="ja">田嶌紗蘭</imas:cv>
+    <!--<imas:cv rdf:resource="http://ja.dbpedia.org/resource/田嶌紗蘭"/>-->
+    <imas:cv rdf:resource="http://www.wikidata.org/entity/Q88349126"/>
+    <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">7967C3</imas:Color>
+    <schema:birthPlace xml:lang="ja">東京</schema:birthPlace>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
+    <imas:Title xml:lang="en">283Pro</imas:Title>
+    <schema:description xml:lang="ja">内弁慶な小動物系の女の子。真面目な努力家で、勉強が得意。騙されやすく、幼なじみによくからかわれている。高校1年生。</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/50019"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="Ichikawa_Hinana">
+    <schema:familyName xml:lang="ja">市川</schema:familyName>
+    <schema:familyName xml:lang="en">Ichikawa</schema:familyName>
+    <imas:familyNameKana xml:lang="ja">いちかわ</imas:familyNameKana>
+    <schema:givenName xml:lang="ja">雛菜</schema:givenName>
+    <schema:givenName xml:lang="en">Hinana</schema:givenName>
+    <imas:givenNameKana xml:lang="ja">ひなな</imas:givenNameKana>
+    <imas:nameKana xml:lang="ja">いちかわひなな</imas:nameKana>
+    <schema:name xml:lang="ja">市川雛菜</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">市川雛菜</rdfs:label>
+    <schema:name xml:lang="en">Hinana Ichikawa</schema:name>
+    <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</foaf:age>
+    <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">165.0</schema:height>
+    <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">56.0</schema:weight>
+    <imas:Bust rdf:datatype="http://www.w3.org/2001/XMLSchema#float">87.0</imas:Bust>
+    <imas:Waist rdf:datatype="http://www.w3.org/2001/XMLSchema#float">60.0</imas:Waist>
+    <imas:Hip rdf:datatype="http://www.w3.org/2001/XMLSchema#float">86.0</imas:Hip>
+    <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--03-17</schema:birthDate>
+    <imas:Constellation xml:lang="ja">魚座</imas:Constellation>
+    <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A</imas:BloodType>
+    <imas:Handedness rdf:datatype="http://www.w3.org/2001/XMLSchema#string">left</imas:Handedness>
+    <imas:Hobby xml:lang="ja">なんでもそれなりに好き～</imas:Hobby>
+    <imas:Talent xml:lang="ja">なんでもそれなりにできる～</imas:Talent>
+    <imas:cv xml:lang="ja">岡咲美保</imas:cv>
+    <!--<imas:cv rdf:resource="http://ja.dbpedia.org/resource/岡咲美保"/>-->
+    <imas:cv rdf:resource="http://www.wikidata.org/entity/Q51676463"/>
+    <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">FFC639</imas:Color>
+    <schema:birthPlace xml:lang="ja">神奈川</schema:birthPlace>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
+    <imas:Title xml:lang="en">283Pro</imas:Title>
+    <schema:description xml:lang="ja">自分の「しあわせ」に向かって突き進む、奔放な女の子。幼馴染みで先輩の透を慕っている。高校1年生。</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/50004"/>
   </rdf:Description>
 </rdf:RDF>

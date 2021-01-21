@@ -1,0 +1,2164 @@
+<rdf:RDF
+    xmlns:schema="http://schema.org/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:imas="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#"
+    xml:base="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/"
+    >
+  <rdf:Description rdf:about="%E3%80%8CTHE%20IDOLM%40STER%20LIVE%20THE%40TER%20PERFORMANCE%2009%E3%80%8D%E7%99%BA%E5%A3%B2%E8%A8%98%E5%BF%B5%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%20%E7%AC%AC1%E5%9B%9E">
+    <schema:actor xml:lang="ja">山崎はるか</schema:actor>
+    <schema:actor xml:lang="ja">麻倉もも</schema:actor>
+    <schema:actor xml:lang="ja">大関英里</schema:actor>
+    <schema:actor xml:lang="ja">田村奈央</schema:actor>
+    <schema:actor xml:lang="ja">村川梨衣</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">「THE IDOLM@STER LIVE THE@TER PERFORMANCE 09」発売記念イベント 第1回</schema:name>
+    <schema:location rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Twin Box AKIHABARA</schema:location>
+    <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-01-11</schema:startDate>
+    <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-01-11</schema:endDate>
+    <imas:Performance rdf:nodeID="SetlistNumber165_01"/>
+    <imas:Performance rdf:nodeID="SetlistNumber165_02"/>
+    <imas:Performance rdf:nodeID="SetlistNumber165_03"/>
+    <imas:Performance rdf:nodeID="SetlistNumber165_04"/>
+    <imas:Performance rdf:nodeID="SetlistNumber165_05"/>
+    <imas:Performance rdf:nodeID="SetlistNumber165_06"/>
+    <imas:NumPerformance rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</imas:NumPerformance>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Live"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer165_01">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">大関英里</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">スマイルいちばん</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer165_02">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">田村奈央</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">あのね、聞いてほしいことがあるんだ</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer165_03">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">村川梨衣</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">チョー↑元気Show☆アイドルch@ng!</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer165_04">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">麻倉もも</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">トキメキの音符になって</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer165_05">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">山崎はるか</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">素敵なキセキ</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer165_06">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">山崎はるか</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">麻倉もも</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">大関英里</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">田村奈央</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">村川梨衣</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Thank You!</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="%E3%80%8CTHE%20IDOLM%40STER%20LIVE%20THE%40TER%20PERFORMANCE%2009%E3%80%8D%E7%99%BA%E5%A3%B2%E8%A8%98%E5%BF%B5%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%20%E7%AC%AC2%E5%9B%9E">
+    <schema:actor xml:lang="ja">山崎はるか</schema:actor>
+    <schema:actor xml:lang="ja">麻倉もも</schema:actor>
+    <schema:actor xml:lang="ja">大関英里</schema:actor>
+    <schema:actor xml:lang="ja">田村奈央</schema:actor>
+    <schema:actor xml:lang="ja">村川梨衣</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">「THE IDOLM@STER LIVE THE@TER PERFORMANCE 09」発売記念イベント 第2回</schema:name>
+    <schema:location rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Twin Box AKIHABARA</schema:location>
+    <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-01-11</schema:startDate>
+    <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-01-11</schema:endDate>
+    <imas:Performance rdf:nodeID="SetlistNumber166_01"/>
+    <imas:Performance rdf:nodeID="SetlistNumber166_02"/>
+    <imas:Performance rdf:nodeID="SetlistNumber166_03"/>
+    <imas:Performance rdf:nodeID="SetlistNumber166_04"/>
+    <imas:Performance rdf:nodeID="SetlistNumber166_05"/>
+    <imas:Performance rdf:nodeID="SetlistNumber166_06"/>
+    <imas:NumPerformance rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</imas:NumPerformance>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Live"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer166_01">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">大関英里</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">スマイルいちばん</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer166_02">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">田村奈央</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">あのね、聞いてほしいことがあるんだ</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer166_03">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">村川梨衣</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">チョー↑元気Show☆アイドルch@ng!</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer166_04">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">麻倉もも</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">トキメキの音符になって</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer166_05">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">山崎はるか</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">素敵なキセキ</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer166_06">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">山崎はるか</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">麻倉もも</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">大関英里</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">田村奈央</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">村川梨衣</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Thank You!</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="%E3%83%AA%E3%82%B9%E3%82%A2%E3%83%8B%21LIVE-4%20SATURDAY%20STAGE">
+    <schema:actor xml:lang="ja">松嵜麗</schema:actor>
+    <schema:actor xml:lang="ja">原紗友里</schema:actor>
+    <schema:actor xml:lang="ja">佳村はるか</schema:actor>
+    <schema:actor xml:lang="ja">津田美波</schema:actor>
+    <schema:actor xml:lang="ja">大橋彩香</schema:actor>
+    <schema:actor xml:lang="ja">五十嵐裕美</schema:actor>
+    <schema:actor xml:lang="ja">内田真礼</schema:actor>
+    <schema:actor xml:lang="ja">福原綾香</schema:actor>
+    <schema:actor xml:lang="ja">洲崎綾</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">リスアニ!LIVE-4 SATURDAY STAGE</schema:name>
+    <schema:location rdf:datatype="http://www.w3.org/2001/XMLSchema#string">日本武道館</schema:location>
+    <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-01-25</schema:startDate>
+    <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-01-25</schema:endDate>
+    <imas:Performance rdf:nodeID="SetlistNumber167_01"/>
+    <imas:Performance rdf:nodeID="SetlistNumber167_02"/>
+    <imas:Performance rdf:nodeID="SetlistNumber167_03"/>
+    <imas:Performance rdf:nodeID="SetlistNumber167_04"/>
+    <imas:Performance rdf:nodeID="SetlistNumber167_05"/>
+    <imas:NumPerformance rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</imas:NumPerformance>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Live"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer167_01">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">松嵜麗</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">原紗友里</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">佳村はるか</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">津田美波</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">大橋彩香</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">五十嵐裕美</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">内田真礼</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">福原綾香</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">洲崎綾</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">お願い!シンデレラ(M@STER VERSION)</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer167_02">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">松嵜麗</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">原紗友里</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">佳村はるか</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Orange Sapphire</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer167_03">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">津田美波</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">大橋彩香</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">五十嵐裕美</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">アタシポンコツアンドロイド</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer167_04">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">内田真礼</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">福原綾香</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">洲崎綾</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nation Blue</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer167_05">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">松嵜麗</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">原紗友里</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">佳村はるか</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">津田美波</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">大橋彩香</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">五十嵐裕美</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">内田真礼</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">福原綾香</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">洲崎綾</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ススメ☆オトメ 〜jewel parade〜</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%20%E3%82%B7%E3%83%B3%E3%83%87%E3%83%AC%E3%83%A9%E3%82%AC%E3%83%BC%E3%83%AB%E3%82%BA%E3%80%8E%E3%83%87%E3%83%AC%E3%83%A9%E3%82%B8%E3%80%8F%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8%20IN%20%E3%83%AF%E3%83%B3%E3%83%80%E3%83%BC%E3%83%95%E3%82%A7%E3%82%B9%E3%83%86%E3%82%A3%E3%83%90%E3%83%AB2014%E5%86%AC">
+    <schema:actor xml:lang="ja">松嵜麗</schema:actor>
+    <schema:actor xml:lang="ja">原紗友里</schema:actor>
+    <schema:actor xml:lang="ja">佳村はるか</schema:actor>
+    <schema:actor xml:lang="ja">津田美波</schema:actor>
+    <schema:actor xml:lang="ja">大橋彩香</schema:actor>
+    <schema:actor xml:lang="ja">五十嵐裕美</schema:actor>
+    <schema:actor xml:lang="ja">内田真礼</schema:actor>
+    <schema:actor xml:lang="ja">福原綾香</schema:actor>
+    <schema:actor xml:lang="ja">洲崎綾</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">アイドルマスター シンデレラガールズ『デレラジ』スペシャルステージ IN ワンダーフェスティバル2014冬</schema:name>
+    <schema:location rdf:datatype="http://www.w3.org/2001/XMLSchema#string">幕張メッセ国際展示場</schema:location>
+    <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-02-10</schema:startDate>
+    <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-02-10</schema:endDate>
+    <imas:Performance rdf:nodeID="SetlistNumber168_01"/>
+    <imas:Performance rdf:nodeID="SetlistNumber168_02"/>
+    <imas:NumPerformance rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</imas:NumPerformance>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Live"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer168_01">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">大橋彩香</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">福原綾香</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">原紗友里</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">お願い!シンデレラ(M@STER VERSION)</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer168_02">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">大橋彩香</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">福原綾香</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">原紗友里</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ススメ☆オトメ 〜jewel parade〜</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="%E3%80%8CTHE%20IDOLM%40STER%20LIVE%20THE%40TER%20PERFORMANCE%2010%E3%80%8D%E7%99%BA%E5%A3%B2%E8%A8%98%E5%BF%B5%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%20%E7%AC%AC1%E5%9B%9E">
+    <schema:actor xml:lang="ja">山崎はるか</schema:actor>
+    <schema:actor xml:lang="ja">麻倉もも</schema:actor>
+    <schema:actor xml:lang="ja">原由実</schema:actor>
+    <schema:actor xml:lang="ja">田所あずさ</schema:actor>
+    <schema:actor xml:lang="ja">上田麗奈</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">「THE IDOLM@STER LIVE THE@TER PERFORMANCE 10」発売記念イベント 第1回</schema:name>
+    <schema:location rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Twin Box AKIHABARA</schema:location>
+    <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-02-15</schema:startDate>
+    <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-02-15</schema:endDate>
+    <imas:Performance rdf:nodeID="SetlistNumber169_01"/>
+    <imas:Performance rdf:nodeID="SetlistNumber169_02"/>
+    <imas:Performance rdf:nodeID="SetlistNumber169_03"/>
+    <imas:Performance rdf:nodeID="SetlistNumber169_04"/>
+    <imas:Performance rdf:nodeID="SetlistNumber169_05"/>
+    <imas:Performance rdf:nodeID="SetlistNumber169_06"/>
+    <imas:NumPerformance rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</imas:NumPerformance>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Live"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer169_01">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">上田麗奈</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ココロ☆エクササイズ</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer169_02">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">山崎はるか</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">素敵なキセキ</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer169_03">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">麻倉もも</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">トキメキの音符になって</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer169_04">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">田所あずさ</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Precious Grain</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer169_05">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">原由実</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">恋花</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer169_06">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">原由実</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">山崎はるか</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">田所あずさ</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">麻倉もも</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">上田麗奈</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Thank You!</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="%E3%80%8CTHE%20IDOLM%40STER%20LIVE%20THE%40TER%20PERFORMANCE%2010%E3%80%8D%E7%99%BA%E5%A3%B2%E8%A8%98%E5%BF%B5%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%20%E7%AC%AC2%E5%9B%9E">
+    <schema:actor xml:lang="ja">山崎はるか</schema:actor>
+    <schema:actor xml:lang="ja">麻倉もも</schema:actor>
+    <schema:actor xml:lang="ja">原由実</schema:actor>
+    <schema:actor xml:lang="ja">田所あずさ</schema:actor>
+    <schema:actor xml:lang="ja">上田麗奈</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">「THE IDOLM@STER LIVE THE@TER PERFORMANCE 10」発売記念イベント 第2回</schema:name>
+    <schema:location rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Twin Box AKIHABARA</schema:location>
+    <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-02-15</schema:startDate>
+    <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-02-15</schema:endDate>
+    <imas:Performance rdf:nodeID="SetlistNumber170_01"/>
+    <imas:Performance rdf:nodeID="SetlistNumber170_02"/>
+    <imas:Performance rdf:nodeID="SetlistNumber170_03"/>
+    <imas:Performance rdf:nodeID="SetlistNumber170_04"/>
+    <imas:Performance rdf:nodeID="SetlistNumber170_05"/>
+    <imas:Performance rdf:nodeID="SetlistNumber170_06"/>
+    <imas:NumPerformance rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</imas:NumPerformance>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Live"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer170_01">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">上田麗奈</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ココロ☆エクササイズ</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer170_02">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">山崎はるか</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">素敵なキセキ</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer170_03">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">麻倉もも</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">トキメキの音符になって</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer170_04">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">田所あずさ</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Precious Grain</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer170_05">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">原由実</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">恋花</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer170_06">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">原由実</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">山崎はるか</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">田所あずさ</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">麻倉もも</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">上田麗奈</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Thank You!</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="THE%20IDOLM%40STER%20M%40STERS%20OF%20IDOL%20WORLD%21%212014%20Day1">
+    <schema:actor xml:lang="ja">中村繪里子</schema:actor>
+    <schema:actor xml:lang="ja">長谷川明子</schema:actor>
+    <schema:actor xml:lang="ja">今井麻美</schema:actor>
+    <schema:actor xml:lang="ja">仁後真耶子</schema:actor>
+    <schema:actor xml:lang="ja">浅倉杏美</schema:actor>
+    <schema:actor xml:lang="ja">平田宏美</schema:actor>
+    <schema:actor xml:lang="ja">下田麻美</schema:actor>
+    <schema:actor xml:lang="ja">釘宮理恵</schema:actor>
+    <schema:actor xml:lang="ja">たかはし智秋</schema:actor>
+    <schema:actor xml:lang="ja">原由実</schema:actor>
+    <schema:actor xml:lang="ja">沼倉愛美</schema:actor>
+    <schema:actor xml:lang="ja">滝田樹里</schema:actor>
+    <schema:actor xml:lang="ja">福原綾香</schema:actor>
+    <schema:actor xml:lang="ja">松嵜麗</schema:actor>
+    <schema:actor xml:lang="ja">佳村はるか</schema:actor>
+    <schema:actor xml:lang="ja">大橋彩香</schema:actor>
+    <schema:actor xml:lang="ja">原紗友里</schema:actor>
+    <schema:actor xml:lang="ja">青木瑠璃子</schema:actor>
+    <schema:actor xml:lang="ja">麻倉もも</schema:actor>
+    <schema:actor xml:lang="ja">田所あずさ</schema:actor>
+    <schema:actor xml:lang="ja">山崎はるか</schema:actor>
+    <schema:actor xml:lang="ja">渡部優衣</schema:actor>
+    <schema:actor xml:lang="ja">木戸衣吹</schema:actor>
+    <schema:actor xml:lang="ja">Machico</schema:actor>
+    <schema:actor xml:lang="ja">伊藤美来</schema:actor>
+    <schema:actor xml:lang="ja">夏川椎菜</schema:actor>
+    <schema:actor xml:lang="ja">雨宮天</schema:actor>
+    <schema:actor xml:lang="ja">藤井ゆきよ</schema:actor>
+    <schema:actor xml:lang="ja">愛美</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">THE IDOLM@STER M@STERS OF IDOL WORLD!!2014 Day1</schema:name>
+    <schema:location rdf:datatype="http://www.w3.org/2001/XMLSchema#string">さいたまスーパーアリーナ</schema:location>
+    <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-02-22</schema:startDate>
+    <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-02-22</schema:endDate>
+    <imas:Performance rdf:nodeID="SetlistNumber180_01"/>
+    <imas:Performance rdf:nodeID="SetlistNumber180_02"/>
+    <imas:Performance rdf:nodeID="SetlistNumber180_03"/>
+    <imas:Performance rdf:nodeID="SetlistNumber180_04"/>
+    <imas:Performance rdf:nodeID="SetlistNumber180_05"/>
+    <imas:Performance rdf:nodeID="SetlistNumber180_06"/>
+    <imas:Performance rdf:nodeID="SetlistNumber180_07"/>
+    <imas:Performance rdf:nodeID="SetlistNumber180_08"/>
+    <imas:Performance rdf:nodeID="SetlistNumber180_09"/>
+    <imas:Performance rdf:nodeID="SetlistNumber180_10"/>
+    <imas:Performance rdf:nodeID="SetlistNumber180_11"/>
+    <imas:Performance rdf:nodeID="SetlistNumber180_12"/>
+    <imas:Performance rdf:nodeID="SetlistNumber180_13"/>
+    <imas:Performance rdf:nodeID="SetlistNumber180_14"/>
+    <imas:Performance rdf:nodeID="SetlistNumber180_15"/>
+    <imas:Performance rdf:nodeID="SetlistNumber180_16"/>
+    <imas:Performance rdf:nodeID="SetlistNumber180_17"/>
+    <imas:Performance rdf:nodeID="SetlistNumber180_18"/>
+    <imas:Performance rdf:nodeID="SetlistNumber180_19"/>
+    <imas:Performance rdf:nodeID="SetlistNumber180_20"/>
+    <imas:Performance rdf:nodeID="SetlistNumber180_21"/>
+    <imas:Performance rdf:nodeID="SetlistNumber180_22"/>
+    <imas:Performance rdf:nodeID="SetlistNumber180_23"/>
+    <imas:Performance rdf:nodeID="SetlistNumber180_24"/>
+    <imas:Performance rdf:nodeID="SetlistNumber180_25"/>
+    <imas:Performance rdf:nodeID="SetlistNumber180_26"/>
+    <imas:Performance rdf:nodeID="SetlistNumber180_27"/>
+    <imas:Performance rdf:nodeID="SetlistNumber180_28"/>
+    <imas:Performance rdf:nodeID="SetlistNumber180_29"/>
+    <imas:Performance rdf:nodeID="SetlistNumber180_30"/>
+    <imas:Performance rdf:nodeID="SetlistNumber180_31"/>
+    <imas:Performance rdf:nodeID="SetlistNumber180_32"/>
+    <imas:Performance rdf:nodeID="SetlistNumber180_33"/>
+    <imas:Performance rdf:nodeID="SetlistNumber180_34"/>
+    <imas:Performance rdf:nodeID="SetlistNumber180_35"/>
+    <imas:Performance rdf:nodeID="SetlistNumber180_36"/>
+    <imas:Performance rdf:nodeID="SetlistNumber180_37"/>
+    <imas:Performance rdf:nodeID="SetlistNumber180_38"/>
+    <imas:Performance rdf:nodeID="SetlistNumber180_39"/>
+    <imas:Performance rdf:nodeID="SetlistNumber180_40"/>
+    <imas:Performance rdf:nodeID="SetlistNumber180_41"/>
+    <imas:Performance rdf:nodeID="SetlistNumber180_42"/>
+    <imas:Performance rdf:nodeID="SetlistNumber180_43"/>
+    <imas:Performance rdf:nodeID="SetlistNumber180_44"/>
+    <imas:Performance rdf:nodeID="SetlistNumber180_45"/>
+    <imas:Performance rdf:nodeID="SetlistNumber180_46"/>
+    <imas:Performance rdf:nodeID="SetlistNumber180_47"/>
+    <imas:Performance rdf:nodeID="SetlistNumber180_48"/>
+    <imas:Performance rdf:nodeID="SetlistNumber180_49"/>
+    <imas:Performance rdf:nodeID="SetlistNumber180_50"/>
+    <imas:Performance rdf:nodeID="SetlistNumber180_51"/>
+    <imas:Performance rdf:nodeID="SetlistNumber180_52"/>
+    <imas:Performance rdf:nodeID="SetlistNumber180_53"/>
+    <imas:Performance rdf:nodeID="SetlistNumber180_54"/>
+    <imas:NumPerformance rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">54</imas:NumPerformance>
+    <schema:url rdf:resource="https://idolmaster.jp/event/event2014.php"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Live"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer180_01">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">中村繪里子</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">長谷川明子</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">今井麻美</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">仁後真耶子</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">浅倉杏美</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">平田宏美</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">下田麻美</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">釘宮理恵</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">たかはし智秋</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">原由実</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">沼倉愛美</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">滝田樹里</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">福原綾香</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">松嵜麗</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">佳村はるか</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">大橋彩香</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">原紗友里</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">青木瑠璃子</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">麻倉もも</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">田所あずさ</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">山崎はるか</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">渡部優衣</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">木戸衣吹</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Machico</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">伊藤美来</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">夏川椎菜</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">雨宮天</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">藤井ゆきよ</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">愛美</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">THE IDOLM@STER(M@STER VERSION)</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer180_02">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">中村繪里子</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">長谷川明子</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">今井麻美</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">仁後真耶子</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">浅倉杏美</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">平田宏美</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">下田麻美</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">釘宮理恵</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">たかはし智秋</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">原由実</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">沼倉愛美</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">滝田樹里</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">READY!!(M@STER VERSION)</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer180_03">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">中村繪里子</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">たかはし智秋</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">浅倉杏美</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">仁後真耶子</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CHANGE!!!!(M@STER VERSION)</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer180_04">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">釘宮理恵</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">平田宏美</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">滝田樹里</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">長谷川明子</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ラムネ色 青春(M@STER VERSION)</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer180_05">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">沼倉愛美</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rebellion</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer180_06">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">たかはし智秋</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mythmaker</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer180_07">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">下田麻美</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ビジョナリー(M@STER VERSION)</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer180_08">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">中村繪里子</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">乙女よ大志を抱け!!</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer180_09">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">中村繪里子</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">山崎はるか</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">大橋彩香</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The world is all one !!(M@STER VERSION)</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer180_10">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">大橋彩香</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">松嵜麗</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">アタシポンコツアンドロイド</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer180_11">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">佳村はるか</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">TOKIMEKIエスカレート</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer180_12">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">松嵜麗</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ましゅまろ☆キッス</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer180_13">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">原紗友里</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ミツボシ☆☆★</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer180_14">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">長谷川明子</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Machico</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">原紗友里</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MEGARE!(M@STER VERSION)</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer180_15">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">田所あずさ</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">雨宮天</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">藤井ゆきよ</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Machico</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Blue Symphony</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer180_16">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">雨宮天</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ライアー・ルージュ</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer180_17">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">愛美</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">流星群</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer180_18">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">山崎はるか</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">夏川椎菜</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">渡部優衣</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PRETTY DREAMER</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer180_19">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">浅倉杏美</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ALRIGHT*</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer180_20">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">平田宏美</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">自転車</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer180_21">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">21</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">長谷川明子</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">edeN(M@STER VERSION)</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer180_22">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">今井麻美</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">原由実</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">下田麻美</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">沼倉愛美</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">自分REST@RT(M@STER VERSION)</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer180_23">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">23</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">仁後真耶子</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">釘宮理恵</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">山崎はるか</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">松嵜麗</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">キラメキラリ(GAME Ver.)</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer180_24">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">たかはし智秋</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">渡部優衣</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">佳村はるか</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ラ♥ブ♥リ♥(GAME Ver.)</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer180_25">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">25</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">中村繪里子</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">浅倉杏美</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">滝田樹里</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Machico</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">私はアイドル♡(GAME Ver.)</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer180_26">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">26</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">平田宏美</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">下田麻美</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">青木瑠璃子</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">エージェント夜を往く(GAME Ver.)</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer180_27">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">27</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">今井麻美</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">長谷川明子</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">雨宮天</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">arcadia(SHORT Ver.)</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer180_28">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">28</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">沼倉愛美</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">たかはし智秋</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">愛美</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">福原綾香</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Alice or Guilty(GAME Ver.)</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer180_29">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">29</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">原由実</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">夏川椎菜</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">大橋彩香</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">“HELLO!!”(GAME Ver.)</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer180_30">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">30</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">浅倉杏美</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">長谷川明子</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">麻倉もも</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">田所あずさ</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GO MY WAY!!(GAME Ver.)</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer180_31">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">31</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">釘宮理恵</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">平田宏美</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">藤井ゆきよ</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">待ち受けプリンス(GAMEver)</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer180_32">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">32</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">今井麻美</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">下田麻美</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">木戸衣吹</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">原紗友里</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">i(GAME Ver.)</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer180_33">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">33</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">仁後真耶子</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">原由実</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">いっぱいいっぱい(GAMEver)</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer180_34">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">34</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">沼倉愛美</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">中村繪里子</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">伊藤美来</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vault That Borderline!(GAME Ver.)</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer180_35">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">35</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">滝田樹里</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">空(SHORT Ver.)</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer180_36">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">36</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">福原綾香</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">松嵜麗</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">佳村はるか</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">大橋彩香</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">原紗友里</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">青木瑠璃子</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">お願い!シンデレラ(M@STER VERSION)</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer180_37">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">37</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">原紗友里</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">佳村はるか</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Orange Sapphire</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer180_38">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">38</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">青木瑠璃子</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">福原綾香</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nation Blue</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer180_39">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">39</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">青木瑠璃子</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Twilight Sky</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer180_40">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">40</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">大橋彩香</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">S(mile)ING!</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer180_41">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">41</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">福原綾香</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Never say never</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer180_42">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">42</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">今井麻美</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">田所あずさ</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">福原綾香</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MUSIC♪(M@STER VERSION)</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer180_43">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">43</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">藤井ゆきよ</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">アフタースクールパーリータイム</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer180_44">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">44</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">夏川椎菜</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Happy Darling</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer180_45">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">45</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">伊藤美来</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">透明なプロローグ</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer180_46">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">46</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">釘宮理恵</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">麻倉もも</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">木戸衣吹</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">伊藤美来</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">愛美</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sentimental Venus</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer180_47">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">47</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">釘宮理恵</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">my song(M@STER VERSION)</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer180_48">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">48</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">仁後真耶子</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">チクタク</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer180_49">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">49</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">原由実</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">恋花</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer180_50">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">50</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">滝田樹里</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">君が選ぶ道</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer180_51">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">51</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">今井麻美</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">約束</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer180_52">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">52</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">麻倉もも</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">田所あずさ</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">山崎はるか</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">渡部優衣</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">木戸衣吹</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Machico</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">伊藤美来</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">夏川椎菜</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">雨宮天</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">藤井ゆきよ</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">愛美</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Thank You!</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer180_53">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">53</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">中村繪里子</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">長谷川明子</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">今井麻美</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">仁後真耶子</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">浅倉杏美</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">平田宏美</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">下田麻美</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">釘宮理恵</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">たかはし智秋</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">原由実</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">沼倉愛美</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">滝田樹里</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">M@STERPIECE</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer180_54">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">54</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">中村繪里子</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">長谷川明子</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">今井麻美</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">仁後真耶子</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">浅倉杏美</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">平田宏美</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">下田麻美</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">釘宮理恵</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">たかはし智秋</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">原由実</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">沼倉愛美</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">滝田樹里</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">福原綾香</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">松嵜麗</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">佳村はるか</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">大橋彩香</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">原紗友里</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">青木瑠璃子</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">麻倉もも</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">田所あずさ</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">山崎はるか</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">渡部優衣</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">木戸衣吹</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Machico</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">伊藤美来</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">夏川椎菜</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">雨宮天</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">藤井ゆきよ</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">愛美</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IDOL POWER RAINBOW</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="THE%20IDOLM%40STER%20M%40STERS%20OF%20IDOL%20WORLD%21%212014%20Day2">
+    <schema:actor xml:lang="ja">中村繪里子</schema:actor>
+    <schema:actor xml:lang="ja">長谷川明子</schema:actor>
+    <schema:actor xml:lang="ja">今井麻美</schema:actor>
+    <schema:actor xml:lang="ja">仁後真耶子</schema:actor>
+    <schema:actor xml:lang="ja">浅倉杏美</schema:actor>
+    <schema:actor xml:lang="ja">平田宏美</schema:actor>
+    <schema:actor xml:lang="ja">下田麻美</schema:actor>
+    <schema:actor xml:lang="ja">釘宮理恵</schema:actor>
+    <schema:actor xml:lang="ja">たかはし智秋</schema:actor>
+    <schema:actor xml:lang="ja">原由実</schema:actor>
+    <schema:actor xml:lang="ja">沼倉愛美</schema:actor>
+    <schema:actor xml:lang="ja">滝田樹里</schema:actor>
+    <schema:actor xml:lang="ja">福原綾香</schema:actor>
+    <schema:actor xml:lang="ja">松嵜麗</schema:actor>
+    <schema:actor xml:lang="ja">佳村はるか</schema:actor>
+    <schema:actor xml:lang="ja">大橋彩香</schema:actor>
+    <schema:actor xml:lang="ja">原紗友里</schema:actor>
+    <schema:actor xml:lang="ja">青木瑠璃子</schema:actor>
+    <schema:actor xml:lang="ja">五十嵐裕美</schema:actor>
+    <schema:actor xml:lang="ja">山本希望</schema:actor>
+    <schema:actor xml:lang="ja">高森奈津美</schema:actor>
+    <schema:actor xml:lang="ja">黒沢ともよ</schema:actor>
+    <schema:actor xml:lang="ja">三宅麻理恵</schema:actor>
+    <schema:actor xml:lang="ja">麻倉もも</schema:actor>
+    <schema:actor xml:lang="ja">田所あずさ</schema:actor>
+    <schema:actor xml:lang="ja">山崎はるか</schema:actor>
+    <schema:actor xml:lang="ja">渡部優衣</schema:actor>
+    <schema:actor xml:lang="ja">木戸衣吹</schema:actor>
+    <schema:actor xml:lang="ja">Machico</schema:actor>
+    <schema:actor xml:lang="ja">戸松遥</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">THE IDOLM@STER M@STERS OF IDOL WORLD!!2014 Day2</schema:name>
+    <schema:location rdf:datatype="http://www.w3.org/2001/XMLSchema#string">さいたまスーパーアリーナ</schema:location>
+    <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-02-23</schema:startDate>
+    <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-02-23</schema:endDate>
+    <imas:Performance rdf:nodeID="SetlistNumber181_01"/>
+    <imas:Performance rdf:nodeID="SetlistNumber181_02"/>
+    <imas:Performance rdf:nodeID="SetlistNumber181_03"/>
+    <imas:Performance rdf:nodeID="SetlistNumber181_04"/>
+    <imas:Performance rdf:nodeID="SetlistNumber181_05"/>
+    <imas:Performance rdf:nodeID="SetlistNumber181_06"/>
+    <imas:Performance rdf:nodeID="SetlistNumber181_07"/>
+    <imas:Performance rdf:nodeID="SetlistNumber181_08"/>
+    <imas:Performance rdf:nodeID="SetlistNumber181_09"/>
+    <imas:Performance rdf:nodeID="SetlistNumber181_10"/>
+    <imas:Performance rdf:nodeID="SetlistNumber181_11"/>
+    <imas:Performance rdf:nodeID="SetlistNumber181_12"/>
+    <imas:Performance rdf:nodeID="SetlistNumber181_13"/>
+    <imas:Performance rdf:nodeID="SetlistNumber181_14"/>
+    <imas:Performance rdf:nodeID="SetlistNumber181_15"/>
+    <imas:Performance rdf:nodeID="SetlistNumber181_16"/>
+    <imas:Performance rdf:nodeID="SetlistNumber181_17"/>
+    <imas:Performance rdf:nodeID="SetlistNumber181_18"/>
+    <imas:Performance rdf:nodeID="SetlistNumber181_19"/>
+    <imas:Performance rdf:nodeID="SetlistNumber181_20"/>
+    <imas:Performance rdf:nodeID="SetlistNumber181_21"/>
+    <imas:Performance rdf:nodeID="SetlistNumber181_22"/>
+    <imas:Performance rdf:nodeID="SetlistNumber181_23"/>
+    <imas:Performance rdf:nodeID="SetlistNumber181_24"/>
+    <imas:Performance rdf:nodeID="SetlistNumber181_25"/>
+    <imas:Performance rdf:nodeID="SetlistNumber181_26"/>
+    <imas:Performance rdf:nodeID="SetlistNumber181_27"/>
+    <imas:Performance rdf:nodeID="SetlistNumber181_28"/>
+    <imas:Performance rdf:nodeID="SetlistNumber181_29"/>
+    <imas:Performance rdf:nodeID="SetlistNumber181_30"/>
+    <imas:Performance rdf:nodeID="SetlistNumber181_31"/>
+    <imas:Performance rdf:nodeID="SetlistNumber181_32"/>
+    <imas:Performance rdf:nodeID="SetlistNumber181_33"/>
+    <imas:Performance rdf:nodeID="SetlistNumber181_34"/>
+    <imas:Performance rdf:nodeID="SetlistNumber181_35"/>
+    <imas:Performance rdf:nodeID="SetlistNumber181_36"/>
+    <imas:Performance rdf:nodeID="SetlistNumber181_37"/>
+    <imas:Performance rdf:nodeID="SetlistNumber181_38"/>
+    <imas:Performance rdf:nodeID="SetlistNumber181_39"/>
+    <imas:Performance rdf:nodeID="SetlistNumber181_40"/>
+    <imas:Performance rdf:nodeID="SetlistNumber181_41"/>
+    <imas:Performance rdf:nodeID="SetlistNumber181_42"/>
+    <imas:Performance rdf:nodeID="SetlistNumber181_43"/>
+    <imas:Performance rdf:nodeID="SetlistNumber181_44"/>
+    <imas:Performance rdf:nodeID="SetlistNumber181_45"/>
+    <imas:Performance rdf:nodeID="SetlistNumber181_46"/>
+    <imas:Performance rdf:nodeID="SetlistNumber181_47"/>
+    <imas:Performance rdf:nodeID="SetlistNumber181_48"/>
+    <imas:Performance rdf:nodeID="SetlistNumber181_49"/>
+    <imas:Performance rdf:nodeID="SetlistNumber181_50"/>
+    <imas:Performance rdf:nodeID="SetlistNumber181_51"/>
+    <imas:Performance rdf:nodeID="SetlistNumber181_52"/>
+    <imas:Performance rdf:nodeID="SetlistNumber181_53"/>
+    <imas:Performance rdf:nodeID="SetlistNumber181_54"/>
+    <imas:NumPerformance rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">54</imas:NumPerformance>
+    <schema:url rdf:resource="https://idolmaster.jp/event/event2014.php"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Live"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer181_01">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">中村繪里子</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">長谷川明子</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">今井麻美</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">仁後真耶子</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">浅倉杏美</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">平田宏美</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">下田麻美</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">釘宮理恵</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">たかはし智秋</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">原由実</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">沼倉愛美</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">滝田樹里</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">福原綾香</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">松嵜麗</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">佳村はるか</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">大橋彩香</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">原紗友里</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">青木瑠璃子</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">五十嵐裕美</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">山本希望</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">高森奈津美</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">黒沢ともよ</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">三宅麻理恵</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">麻倉もも</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">田所あずさ</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">山崎はるか</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">渡部優衣</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">木戸衣吹</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Machico</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">THE IDOLM@STER(M@STER VERSION)</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer181_02">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">中村繪里子</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">長谷川明子</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">今井麻美</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">仁後真耶子</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">浅倉杏美</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">平田宏美</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">下田麻美</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">釘宮理恵</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">たかはし智秋</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">原由実</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">沼倉愛美</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">滝田樹里</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">READY!!(M@STER VERSION)</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer181_03">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">中村繪里子</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">たかはし智秋</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">浅倉杏美</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">仁後真耶子</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CHANGE!!!!(M@STER VERSION)</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer181_04">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">釘宮理恵</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">平田宏美</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">滝田樹里</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">長谷川明子</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ラムネ色 青春(M@STER VERSION)</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer181_05">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">沼倉愛美</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rebellion</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer181_06">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">たかはし智秋</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mythmaker</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer181_07">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">下田麻美</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ビジョナリー(M@STER VERSION)</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer181_08">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">中村繪里子</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">乙女よ大志を抱け!!</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer181_09">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">中村繪里子</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">山崎はるか</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">大橋彩香</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The world is all one !!(M@STER VERSION)</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer181_10">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">山崎はるか</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">渡部優衣</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PRETTY DREAMER</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer181_11">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">麻倉もも</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">トキメキの音符になって</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer181_12">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">木戸衣吹</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">オリジナル声になって</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer181_13">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">田所あずさ</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Machico</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Blue Symphony</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer181_14">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">長谷川明子</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Machico</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">原紗友里</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MEGARE!(M@STER VERSION)</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer181_15">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">原紗友里</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">佳村はるか</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">三宅麻理恵</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">山本希望</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Orange Sapphire</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer181_16">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">五十嵐裕美</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">あんずのうた</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer181_17">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">高森奈津美</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">おねだり Shall We 〜?</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer181_18">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">三宅麻理恵</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">メルヘンデビュー!</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer181_19">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">浅倉杏美</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ALRIGHT*</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer181_20">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">平田宏美</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">自転車</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer181_21">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">21</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">長谷川明子</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">edeN(M@STER VERSION)</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer181_22">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">今井麻美</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">原由実</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">下田麻美</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">沼倉愛美</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">自分REST@RT(M@STER VERSION)</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer181_23">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">23</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">仁後真耶子</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">釘宮理恵</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">山崎はるか</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">松嵜麗</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">キラメキラリ(GAME Ver.)</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer181_24">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">たかはし智秋</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">渡部優衣</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">佳村はるか</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ラ♥ブ♥リ♥(GAME Ver.)</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer181_25">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">25</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">中村繪里子</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">浅倉杏美</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">滝田樹里</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Machico</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">私はアイドル♡(GAME Ver.)</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer181_26">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">26</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">平田宏美</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">下田麻美</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">青木瑠璃子</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">エージェント夜を往く(GAME Ver.)</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer181_27">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">27</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">今井麻美</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">長谷川明子</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">黒沢ともよ</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">arcadia(SHORT Ver.)</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer181_28">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">28</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">沼倉愛美</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">たかはし智秋</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">福原綾香</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">三宅麻理恵</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Alice or Guilty(GAME Ver.)</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer181_29">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">29</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">戸松遥</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">“HELLO!!”(M@STER VERSION)</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer181_30">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">30</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">浅倉杏美</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">長谷川明子</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">原由実</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">麻倉もも</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">田所あずさ</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">大橋彩香</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">高森奈津美</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GO MY WAY!!(GAME Ver.)</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer181_31">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">31</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">釘宮理恵</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">平田宏美</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">山本希望</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">待ち受けプリンス(GAMEver)</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer181_32">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">32</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">今井麻美</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">下田麻美</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">木戸衣吹</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">原紗友里</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">i(GAME Ver.)</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer181_33">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">33</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">仁後真耶子</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">原由実</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">いっぱいいっぱい(GAMEver)</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer181_34">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">34</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">沼倉愛美</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">中村繪里子</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">五十嵐裕美</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vault That Borderline!(GAME Ver.)</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer181_35">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">35</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">滝田樹里</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">空(SHORT Ver.)</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer181_36">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">36</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">麻倉もも</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">田所あずさ</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">山崎はるか</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">渡部優衣</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">木戸衣吹</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Machico</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Thank You!</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer181_37">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">37</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">福原綾香</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">松嵜麗</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">佳村はるか</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">大橋彩香</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">原紗友里</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">青木瑠璃子</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">五十嵐裕美</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">山本希望</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">高森奈津美</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">黒沢ともよ</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">三宅麻理恵</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">お願い!シンデレラ(M@STER VERSION)</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer181_38">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">38</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">黒沢ともよ</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Romantic Now</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer181_39">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">39</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">山本希望</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DOKIDOKIリズム</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer181_40">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">40</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">大橋彩香</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">松嵜麗</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">五十嵐裕美</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">高森奈津美</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">アタシポンコツアンドロイド</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer181_41">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">41</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">青木瑠璃子</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">福原綾香</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">黒沢ともよ</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nation Blue</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer181_42">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">42</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">今井麻美</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">田所あずさ</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">福原綾香</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MUSIC♪(M@STER VERSION)</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer181_43">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">43</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">田所あずさ</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Precious Grain</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer181_44">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">44</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">山崎はるか</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">素敵なキセキ</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer181_45">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">45</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">渡部優衣</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ハッピー☆ラッキー☆ジェットマシーン</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer181_46">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">46</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Machico</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">恋のLesson初級編</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer181_47">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">47</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">釘宮理恵</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">麻倉もも</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">木戸衣吹</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sentimental Venus</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer181_48">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">48</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">釘宮理恵</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">my song(M@STER VERSION)</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer181_49">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">49</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">仁後真耶子</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">チクタク</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer181_50">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">50</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">原由実</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">恋花</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer181_51">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">51</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">滝田樹里</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">君が選ぶ道</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer181_52">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">52</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">今井麻美</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">約束</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer181_53">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">53</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">中村繪里子</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">長谷川明子</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">今井麻美</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">仁後真耶子</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">浅倉杏美</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">平田宏美</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">下田麻美</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">釘宮理恵</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">たかはし智秋</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">原由実</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">沼倉愛美</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">滝田樹里</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">M@STERPIECE</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer181_54">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">54</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">中村繪里子</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">長谷川明子</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">今井麻美</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">仁後真耶子</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">浅倉杏美</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">平田宏美</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">下田麻美</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">釘宮理恵</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">たかはし智秋</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">原由実</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">沼倉愛美</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">滝田樹里</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">福原綾香</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">松嵜麗</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">佳村はるか</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">大橋彩香</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">原紗友里</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">青木瑠璃子</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">五十嵐裕美</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">山本希望</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">高森奈津美</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">黒沢ともよ</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">三宅麻理恵</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">麻倉もも</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">田所あずさ</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">山崎はるか</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">渡部優衣</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">木戸衣吹</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Machico</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">戸松遥</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IDOL POWER RAINBOW</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="%E5%8A%87%E5%A0%B4%E7%89%88%E3%80%8ETHE%20IDOLM%40STER%20MOVIE%EF%BD%9E%E8%BC%9D%E3%81%8D%E3%81%AE%E5%90%91%E3%81%93%E3%81%86%E5%81%B4%E3%81%B8%21%EF%BD%9E%E3%80%8F%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88">
+    <schema:actor xml:lang="ja">中村繪里子</schema:actor>
+    <schema:actor xml:lang="ja">今井麻美</schema:actor>
+    <schema:actor xml:lang="ja">雨宮天</schema:actor>
+    <schema:actor xml:lang="ja">麻倉もも</schema:actor>
+    <schema:actor xml:lang="ja">木戸衣吹</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">劇場版『THE IDOLM@STER MOVIE～輝きの向こう側へ!～』スペシャルイベント</schema:name>
+    <schema:location rdf:datatype="http://www.w3.org/2001/XMLSchema#string">山野ホール</schema:location>
+    <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-03-09</schema:startDate>
+    <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-03-09</schema:endDate>
+    <imas:Performance rdf:nodeID="SetlistNumber182_01"/>
+    <imas:Performance rdf:nodeID="SetlistNumber182_02"/>
+    <imas:NumPerformance rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</imas:NumPerformance>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Live"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer182_01">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">中村繪里子</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">今井麻美</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">雨宮天</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">麻倉もも</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">木戸衣吹</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">M@STERPIECE</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer182_02">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">中村繪里子</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">今井麻美</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">雨宮天</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">麻倉もも</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">木戸衣吹</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">THE IDOLM@STER(M@STER VERSION)</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%20%E3%83%AF%E3%83%B3%E3%83%95%E3%82%A9%E3%83%BC%E3%82%AA%E3%83%BC%E3%83%AB%2B%E3%81%B7%E3%81%A1%E3%81%BE%E3%81%99%21%20%E3%81%99%E3%81%BA%E3%81%97%E3%82%83%E3%82%8B%E3%81%99%E3%81%A6%E3%83%BC%E3%81%98%20in%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%AE%E9%9B%BB%E6%92%83%20%E6%84%9F%E8%AC%9D%E7%A5%AD">
+    <schema:actor xml:lang="ja">長谷川明子</schema:actor>
+    <schema:actor xml:lang="ja">沼倉愛美</schema:actor>
+    <schema:actor xml:lang="ja">浅倉杏美</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">アイドルマスター ワンフォーオール+ぷちます! すぺしゃるすてーじ inゲームの電撃 感謝祭</schema:name>
+    <schema:location rdf:datatype="http://www.w3.org/2001/XMLSchema#string">幕張メッセ国際展示場</schema:location>
+    <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-03-15</schema:startDate>
+    <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-03-15</schema:endDate>
+    <imas:Performance rdf:nodeID="SetlistNumber183_01"/>
+    <imas:NumPerformance rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</imas:NumPerformance>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Live"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer183_01">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">長谷川明子</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">沼倉愛美</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">浅倉杏美</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">M@STERPIECE</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="%E3%80%8CTHE%20IDOLM%40STER%20LIVE%20THE%40TER%20PERFORMANCE%2011%E3%80%8D%E7%99%BA%E5%A3%B2%E8%A8%98%E5%BF%B5%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%20%E7%AC%AC1%E5%9B%9E">
+    <schema:actor xml:lang="ja">角元明日香</schema:actor>
+    <schema:actor xml:lang="ja">戸田めぐみ</schema:actor>
+    <schema:actor xml:lang="ja">田所あずさ</schema:actor>
+    <schema:actor xml:lang="ja">麻倉もも</schema:actor>
+    <schema:actor xml:lang="ja">山崎はるか</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">「THE IDOLM@STER LIVE THE@TER PERFORMANCE 11」発売記念イベント 第1回</schema:name>
+    <schema:location rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Twin Box AKIHABARA</schema:location>
+    <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-03-15</schema:startDate>
+    <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-03-15</schema:endDate>
+    <imas:Performance rdf:nodeID="SetlistNumber184_01"/>
+    <imas:Performance rdf:nodeID="SetlistNumber184_02"/>
+    <imas:Performance rdf:nodeID="SetlistNumber184_03"/>
+    <imas:Performance rdf:nodeID="SetlistNumber184_04"/>
+    <imas:Performance rdf:nodeID="SetlistNumber184_05"/>
+    <imas:Performance rdf:nodeID="SetlistNumber184_06"/>
+    <imas:NumPerformance rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</imas:NumPerformance>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Live"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer184_01">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">角元明日香</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">想いはCarnaval</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer184_02">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">戸田めぐみ</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Get My Shinin’</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer184_03">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">田所あずさ</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Precious Grain</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer184_04">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">麻倉もも</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">トキメキの音符になって</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer184_05">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">山崎はるか</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">素敵なキセキ</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer184_06">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">山崎はるか</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">麻倉もも</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">田所あずさ</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">戸田めぐみ</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">角元明日香</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Thank You!</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="%E3%80%8CTHE%20IDOLM%40STER%20LIVE%20THE%40TER%20PERFORMANCE%2011%E3%80%8D%E7%99%BA%E5%A3%B2%E8%A8%98%E5%BF%B5%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%20%E7%AC%AC2%E5%9B%9E">
+    <schema:actor xml:lang="ja">角元明日香</schema:actor>
+    <schema:actor xml:lang="ja">戸田めぐみ</schema:actor>
+    <schema:actor xml:lang="ja">田所あずさ</schema:actor>
+    <schema:actor xml:lang="ja">麻倉もも</schema:actor>
+    <schema:actor xml:lang="ja">山崎はるか</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">「THE IDOLM@STER LIVE THE@TER PERFORMANCE 11」発売記念イベント 第2回</schema:name>
+    <schema:location rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Twin Box AKIHABARA</schema:location>
+    <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-03-15</schema:startDate>
+    <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-03-15</schema:endDate>
+    <imas:Performance rdf:nodeID="SetlistNumber185_01"/>
+    <imas:Performance rdf:nodeID="SetlistNumber185_02"/>
+    <imas:Performance rdf:nodeID="SetlistNumber185_03"/>
+    <imas:Performance rdf:nodeID="SetlistNumber185_04"/>
+    <imas:Performance rdf:nodeID="SetlistNumber185_05"/>
+    <imas:Performance rdf:nodeID="SetlistNumber185_06"/>
+    <imas:NumPerformance rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</imas:NumPerformance>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Live"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer185_01">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">角元明日香</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">想いはCarnaval</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer185_02">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">戸田めぐみ</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Get My Shinin’</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer185_03">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">田所あずさ</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Precious Grain</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer185_04">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">麻倉もも</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">トキメキの音符になって</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer185_05">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">山崎はるか</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">素敵なキセキ</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer185_06">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">山崎はるか</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">麻倉もも</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">田所あずさ</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">戸田めぐみ</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">角元明日香</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Thank You!</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="THE%20IDOLM%40STER%20CINDERELLA%20GIRLS%201stLIVE%20WONDERFUL%20M%40GIC%21%21%20Day1">
+    <schema:actor xml:lang="ja">大橋彩香</schema:actor>
+    <schema:actor xml:lang="ja">福原綾香</schema:actor>
+    <schema:actor xml:lang="ja">原紗友里</schema:actor>
+    <schema:actor xml:lang="ja">青木瑠璃子</schema:actor>
+    <schema:actor xml:lang="ja">赤﨑千夏</schema:actor>
+    <schema:actor xml:lang="ja">五十嵐裕美</schema:actor>
+    <schema:actor xml:lang="ja">上坂すみれ</schema:actor>
+    <schema:actor xml:lang="ja">桜咲千依</schema:actor>
+    <schema:actor xml:lang="ja">大坪由佳</schema:actor>
+    <schema:actor xml:lang="ja">高森奈津美</schema:actor>
+    <schema:actor xml:lang="ja">津田美波</schema:actor>
+    <schema:actor xml:lang="ja">松嵜麗</schema:actor>
+    <schema:actor xml:lang="ja">三宅麻理恵</schema:actor>
+    <schema:actor xml:lang="ja">山本希望</schema:actor>
+    <schema:actor xml:lang="ja">佳村はるか</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">THE IDOLM@STER CINDERELLA GIRLS 1stLIVE WONDERFUL M@GIC!! Day1</schema:name>
+    <schema:location rdf:datatype="http://www.w3.org/2001/XMLSchema#string">舞浜アンフィシアター</schema:location>
+    <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-04-05</schema:startDate>
+    <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-04-05</schema:endDate>
+    <imas:Performance rdf:nodeID="SetlistNumber186_01"/>
+    <imas:Performance rdf:nodeID="SetlistNumber186_02"/>
+    <imas:Performance rdf:nodeID="SetlistNumber186_03"/>
+    <imas:Performance rdf:nodeID="SetlistNumber186_04"/>
+    <imas:Performance rdf:nodeID="SetlistNumber186_05"/>
+    <imas:Performance rdf:nodeID="SetlistNumber186_06"/>
+    <imas:Performance rdf:nodeID="SetlistNumber186_07"/>
+    <imas:Performance rdf:nodeID="SetlistNumber186_08"/>
+    <imas:Performance rdf:nodeID="SetlistNumber186_09"/>
+    <imas:Performance rdf:nodeID="SetlistNumber186_10"/>
+    <imas:Performance rdf:nodeID="SetlistNumber186_11"/>
+    <imas:Performance rdf:nodeID="SetlistNumber186_12"/>
+    <imas:Performance rdf:nodeID="SetlistNumber186_13"/>
+    <imas:Performance rdf:nodeID="SetlistNumber186_14"/>
+    <imas:Performance rdf:nodeID="SetlistNumber186_15"/>
+    <imas:Performance rdf:nodeID="SetlistNumber186_16"/>
+    <imas:Performance rdf:nodeID="SetlistNumber186_17"/>
+    <imas:Performance rdf:nodeID="SetlistNumber186_18"/>
+    <imas:Performance rdf:nodeID="SetlistNumber186_19"/>
+    <imas:Performance rdf:nodeID="SetlistNumber186_20"/>
+    <imas:Performance rdf:nodeID="SetlistNumber186_21"/>
+    <imas:Performance rdf:nodeID="SetlistNumber186_22"/>
+    <imas:NumPerformance rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22</imas:NumPerformance>
+    <schema:url rdf:resource="https://idolmaster.jp/event/cinderella1st.php"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Live"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer186_01">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">大橋彩香</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">福原綾香</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">原紗友里</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">青木瑠璃子</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">赤﨑千夏</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">五十嵐裕美</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">上坂すみれ</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">桜咲千依</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">大坪由佳</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">高森奈津美</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">津田美波</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">松嵜麗</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">三宅麻理恵</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">山本希望</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">佳村はるか</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">お願い!シンデレラ(M@STER VERSION)</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer186_02">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">原紗友里</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ミツボシ☆☆★</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer186_03">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">赤﨑千夏</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">熱血乙女A</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer186_04">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">山本希望</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DOKIDOKIリズム</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer186_05">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">佳村はるか</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">TOKIMEKIエスカレート</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer186_06">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">松嵜麗</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ましゅまろ☆キッス</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer186_07">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">原紗友里</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">赤﨑千夏</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">山本希望</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">佳村はるか</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">松嵜麗</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Orange Sapphire</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer186_08">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">桜咲千依</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">小さな恋の密室事件</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer186_09">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">青木瑠璃子</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Twilight Sky</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer186_10">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">福原綾香</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Never say never</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer186_11">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">上坂すみれ</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">You're stars shine on me</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer186_12">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">桜咲千依</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">青木瑠璃子</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">福原綾香</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">上坂すみれ</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nation Blue</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer186_13">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">大橋彩香</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">福原綾香</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">原紗友里</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">青木瑠璃子</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">赤﨑千夏</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">五十嵐裕美</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">上坂すみれ</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">桜咲千依</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">大坪由佳</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">高森奈津美</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">津田美波</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">松嵜麗</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">三宅麻理恵</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">山本希望</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">佳村はるか</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">輝く世界の魔法(M@STER VERSION)</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer186_14">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">五十嵐裕美</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">あんずのうた</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer186_15">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">高森奈津美</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">おねだり Shall We 〜?</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer186_16">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">三宅麻理恵</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">メルヘンデビュー!</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer186_17">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">大坪由佳</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ショコラ・ティアラ</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer186_18">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">津田美波</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Naked Romance</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer186_19">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">大橋彩香</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">S(mile)ING!</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer186_20">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">五十嵐裕美</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">高森奈津美</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">三宅麻理恵</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">大坪由佳</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">津田美波</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">大橋彩香</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">アタシポンコツアンドロイド</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer186_21">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">21</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">大橋彩香</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">福原綾香</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">原紗友里</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">青木瑠璃子</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">赤﨑千夏</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">五十嵐裕美</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">上坂すみれ</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">桜咲千依</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">大坪由佳</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">高森奈津美</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">津田美波</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">松嵜麗</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">三宅麻理恵</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">山本希望</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">佳村はるか</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ススメ☆オトメ 〜jewel parade〜</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer186_22">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">大橋彩香</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">福原綾香</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">原紗友里</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">青木瑠璃子</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">赤﨑千夏</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">五十嵐裕美</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">上坂すみれ</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">桜咲千依</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">大坪由佳</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">高森奈津美</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">津田美波</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">松嵜麗</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">三宅麻理恵</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">山本希望</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">佳村はるか</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">お願い!シンデレラ(M@STER VERSION)</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="THE%20IDOLM%40STER%20CINDERELLA%20GIRLS%201stLIVE%20WONDERFUL%20M%40GIC%21%21%20Day2%20DayTime">
+    <schema:actor xml:lang="ja">大橋彩香</schema:actor>
+    <schema:actor xml:lang="ja">福原綾香</schema:actor>
+    <schema:actor xml:lang="ja">原紗友里</schema:actor>
+    <schema:actor xml:lang="ja">青木瑠璃子</schema:actor>
+    <schema:actor xml:lang="ja">五十嵐裕美</schema:actor>
+    <schema:actor xml:lang="ja">内田真礼</schema:actor>
+    <schema:actor xml:lang="ja">大坪由佳</schema:actor>
+    <schema:actor xml:lang="ja">黒沢ともよ</schema:actor>
+    <schema:actor xml:lang="ja">洲崎綾</schema:actor>
+    <schema:actor xml:lang="ja">高森奈津美</schema:actor>
+    <schema:actor xml:lang="ja">津田美波</schema:actor>
+    <schema:actor xml:lang="ja">早見沙織</schema:actor>
+    <schema:actor xml:lang="ja">松嵜麗</schema:actor>
+    <schema:actor xml:lang="ja">山本希望</schema:actor>
+    <schema:actor xml:lang="ja">佳村はるか</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">THE IDOLM@STER CINDERELLA GIRLS 1stLIVE WONDERFUL M@GIC!! Day2 DayTime</schema:name>
+    <schema:location rdf:datatype="http://www.w3.org/2001/XMLSchema#string">舞浜アンフィシアター</schema:location>
+    <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-04-06</schema:startDate>
+    <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-04-06</schema:endDate>
+    <imas:Performance rdf:nodeID="SetlistNumber187_01"/>
+    <imas:Performance rdf:nodeID="SetlistNumber187_02"/>
+    <imas:Performance rdf:nodeID="SetlistNumber187_03"/>
+    <imas:Performance rdf:nodeID="SetlistNumber187_04"/>
+    <imas:Performance rdf:nodeID="SetlistNumber187_05"/>
+    <imas:Performance rdf:nodeID="SetlistNumber187_06"/>
+    <imas:Performance rdf:nodeID="SetlistNumber187_07"/>
+    <imas:Performance rdf:nodeID="SetlistNumber187_08"/>
+    <imas:Performance rdf:nodeID="SetlistNumber187_09"/>
+    <imas:Performance rdf:nodeID="SetlistNumber187_10"/>
+    <imas:Performance rdf:nodeID="SetlistNumber187_11"/>
+    <imas:Performance rdf:nodeID="SetlistNumber187_12"/>
+    <imas:Performance rdf:nodeID="SetlistNumber187_13"/>
+    <imas:Performance rdf:nodeID="SetlistNumber187_14"/>
+    <imas:Performance rdf:nodeID="SetlistNumber187_15"/>
+    <imas:Performance rdf:nodeID="SetlistNumber187_16"/>
+    <imas:Performance rdf:nodeID="SetlistNumber187_17"/>
+    <imas:Performance rdf:nodeID="SetlistNumber187_18"/>
+    <imas:Performance rdf:nodeID="SetlistNumber187_19"/>
+    <imas:Performance rdf:nodeID="SetlistNumber187_20"/>
+    <imas:Performance rdf:nodeID="SetlistNumber187_21"/>
+    <imas:Performance rdf:nodeID="SetlistNumber187_22"/>
+    <imas:NumPerformance rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22</imas:NumPerformance>
+    <schema:url rdf:resource="https://idolmaster.jp/event/cinderella1st.php"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Live"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer187_01">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">大橋彩香</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">福原綾香</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">原紗友里</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">青木瑠璃子</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">五十嵐裕美</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">内田真礼</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">大坪由佳</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">黒沢ともよ</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">洲崎綾</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">高森奈津美</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">津田美波</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">早見沙織</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">松嵜麗</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">山本希望</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">佳村はるか</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">お願い!シンデレラ(M@STER VERSION)</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer187_02">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">原紗友里</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ミツボシ☆☆★</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer187_03">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">山本希望</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DOKIDOKIリズム</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer187_04">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">佳村はるか</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">TOKIMEKIエスカレート</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer187_05">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">松嵜麗</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ましゅまろ☆キッス</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer187_06">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">黒沢ともよ</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Romantic Now</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer187_07">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">原紗友里</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">山本希望</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">佳村はるか</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">松嵜麗</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">黒沢ともよ</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Orange Sapphire</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer187_08">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">五十嵐裕美</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">高森奈津美</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">大坪由佳</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">津田美波</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">大橋彩香</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">アタシポンコツアンドロイド</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer187_09">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">五十嵐裕美</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">あんずのうた</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer187_10">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">高森奈津美</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">おねだり Shall We 〜?</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer187_11">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">大坪由佳</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ショコラ・ティアラ</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer187_12">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">津田美波</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Naked Romance</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer187_13">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">大橋彩香</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">S(mile)ING!</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer187_14">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">大橋彩香</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">福原綾香</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">原紗友里</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">青木瑠璃子</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">五十嵐裕美</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">内田真礼</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">大坪由佳</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">黒沢ともよ</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">洲崎綾</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">高森奈津美</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">津田美波</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">早見沙織</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">松嵜麗</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">山本希望</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">佳村はるか</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">輝く世界の魔法(M@STER VERSION)</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer187_15">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">青木瑠璃子</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">福原綾香</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">洲崎綾</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">内田真礼</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">早見沙織</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nation Blue</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer187_16">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">青木瑠璃子</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Twilight Sky</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer187_17">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">福原綾香</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Never say never</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer187_18">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">洲崎綾</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ヴィーナスシンドローム</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer187_19">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">内田真礼</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">華蕾夢ミル狂詩曲〜魂ノ導〜</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer187_20">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">早見沙織</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">こいかぜ</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer187_21">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">21</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">大橋彩香</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">福原綾香</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">原紗友里</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">青木瑠璃子</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">五十嵐裕美</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">内田真礼</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">大坪由佳</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">黒沢ともよ</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">洲崎綾</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">高森奈津美</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">津田美波</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">早見沙織</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">松嵜麗</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">山本希望</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">佳村はるか</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ススメ☆オトメ 〜jewel parade〜</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="SetlistNubmer187_22">
+    <imas:TuneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22</imas:TuneNumber>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">大橋彩香</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">福原綾香</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">原紗友里</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">青木瑠璃子</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">五十嵐裕美</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">内田真礼</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">大坪由佳</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">黒沢ともよ</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">洲崎綾</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">高森奈津美</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">津田美波</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">早見沙織</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">松嵜麗</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">山本希望</schema:actor>
+    <schema:actor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">佳村はるか</schema:actor>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">お願い!シンデレラ(M@STER VERSION)</schema:name>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#SetlistNumber"/>
+  </rdf:Description>
+
+</rdf:RDF>
