@@ -1,1 +1,3159 @@
-
+<rdf:RDF
+    xmlns:schema="http://schema.org/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:imas="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#"
+    xml:base="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/"
+    >
+  <rdf:Description rdf:about="Sweety_Blossom">
+    <schema:name xml:lang="ja">スウィーティーブロッサム</schema:name>
+    <schema:description xml:lang="ja">甘い香りに誘われて、出会ったのはブロッサム！たくさんのリボンが人々を魅了します♪</schema:description>
+    <imas:Whose rdf:resource="Amami_Haruka"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sweety_Blossom%2B">
+    <schema:name xml:lang="ja">スウィーティーブロッサム+</schema:name>
+    <schema:description xml:lang="ja">「スウィーティーブロッサム」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Amami_Haruka"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sweety_Blossom%2B%2B">
+    <schema:name xml:lang="ja">スウィーティーブロッサム++</schema:name>
+    <schema:description xml:lang="ja">「スウィーティーブロッサム」のアナザー2衣装です。</schema:description>
+    <imas:Whose rdf:resource="Amami_Haruka"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Happy_Cooking_Time">
+    <schema:name xml:lang="ja">ハッピークッキングタイム♪</schema:name>
+    <schema:description xml:lang="ja">いらっしゃいませ、お客さま♪今日のおすすめメニューは愛情をたっぷり込めた、特製ハッピーソング☆おひとついかがですか？</schema:description>
+    <imas:Whose rdf:resource="Amami_Haruka"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Happy_Cooking_Time%2B">
+    <schema:name xml:lang="ja">ハッピークッキングタイム♪+</schema:name>
+    <schema:description xml:lang="ja">「ハッピークッキングタイム♪」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Amami_Haruka"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Happy_Cooking_Time%2B%2B">
+    <schema:name xml:lang="ja">ハッピークッキングタイム♪++</schema:name>
+    <schema:description xml:lang="ja">「ハッピークッキングタイム♪」のアナザー2衣装です。</schema:description>
+    <imas:Whose rdf:resource="Amami_Haruka"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pastel_Night_Sheep">
+    <schema:name xml:lang="ja">パステルナイトシープ</schema:name>
+    <schema:description xml:lang="ja">メェ～メェ～、メェ～メェ～。ふわふわの夢色羊が、あなたをやさしい眠りの世界へ誘います。おやすみなさい、よい夢を...♪</schema:description>
+    <imas:Whose rdf:resource="Amami_Haruka"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pastel_Night_Sheep%2B">
+    <schema:name xml:lang="ja">パステルナイトシープ+</schema:name>
+    <schema:description xml:lang="ja">「パステルナイトシープ」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Amami_Haruka"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="End_Of_Leonhart">
+    <schema:name xml:lang="ja">エンド・オブ・レオンハート</schema:name>
+    <schema:description xml:lang="ja">アウトレイジ軍トップの戦闘衣装。揺るがぬ信念は、世界に変革をもたらすために。たとえ、道程で幾万の犠牲を生もうとも。</schema:description>
+    <imas:Whose rdf:resource="Amami_Haruka"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="End_Of_Leonhart%2B">
+    <schema:name xml:lang="ja">エンド・オブ・レオンハート+</schema:name>
+    <schema:description xml:lang="ja">「エンド・オブ・レオンハート」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Amami_Haruka"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Eclat_De_Fleurs">
+    <schema:name xml:lang="ja">エクラ・ド・フルール</schema:name>
+    <schema:description xml:lang="ja">太陽に負けないくらい眩しい笑顔を浮かべながら、隣の彼女と目を合わせる。みんなに輝く未来を届けるために...♪</schema:description>
+    <imas:Whose rdf:resource="Amami_Haruka"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Eclat_De_Fleurs%2B">
+    <schema:name xml:lang="ja">エクラ・ド・フルール+</schema:name>
+    <schema:description xml:lang="ja">「エクラ・ド・フルール」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Amami_Haruka"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Angelique_Nadeshiko">
+    <schema:name xml:lang="ja">アンジェリックなでしこ</schema:name>
+    <schema:description xml:lang="ja">キュートなデザインに、和のテイストを上品に表現したドレス。甘くて可愛い格子柄に可憐な紫の撫子をアクセントに添えました。</schema:description>
+    <imas:Whose rdf:resource="Emily_Stewart"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Angelique_Nadeshiko%2B">
+    <schema:name xml:lang="ja">アンジェリックなでしこ+</schema:name>
+    <schema:description xml:lang="ja">「アンジェリックなでしこ」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Emily_Stewart"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Angelique_Nadeshiko%2B%2B">
+    <schema:name xml:lang="ja">アンジェリックなでしこ++</schema:name>
+    <schema:description xml:lang="ja">「アンジェリックなでしこ」のアナザー2衣装です。</schema:description>
+    <imas:Whose rdf:resource="Emily_Stewart"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Souten_No_Mangekyo">
+    <schema:name xml:lang="ja">蒼天の万華鏡</schema:name>
+    <schema:description xml:lang="ja">美しい蒼天の中に花を散らして可憐に舞い踊る姿はまるで万華鏡のよう...次々変わる花の表情から目を逸らす事は出来ないのです。</schema:description>
+    <imas:Whose rdf:resource="Emily_Stewart"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Souten_No_Mangekyo%2B">
+    <schema:name xml:lang="ja">蒼天の万華鏡+</schema:name>
+    <schema:description xml:lang="ja">「蒼天の万華鏡」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Emily_Stewart"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Souten_No_Mangekyo%2B%2B">
+    <schema:name xml:lang="ja">蒼天の万華鏡++</schema:name>
+    <schema:description xml:lang="ja">「蒼天の万華鏡」のアナザー2衣装です。</schema:description>
+    <imas:Whose rdf:resource="Emily_Stewart"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kyokasuigetsu_No_Koromo">
+    <schema:name xml:lang="ja">鏡花水月の衣</schema:name>
+    <schema:description xml:lang="ja">影として生きる乙女の装束。夜の闇に紛れ、時にはこの身を刃に変え、ただ見つめるは己の使命。華麗に可憐に、くのいち参上！</schema:description>
+    <imas:Whose rdf:resource="Emily_Stewart"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kyokasuigetsu_No_Koromo%2B">
+    <schema:name xml:lang="ja">鏡花水月の衣+</schema:name>
+    <schema:description xml:lang="ja">「鏡花水月の衣」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Emily_Stewart"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Very_Merry_Mail_Girl">
+    <schema:name xml:lang="ja">ベリーメリー♪メールガール</schema:name>
+    <schema:description xml:lang="ja">こんにちは！ヤギさん達と一緒にお手紙をお届けに参りました♪大切な皆様の気持ちを運ぶため、いつでもどこでも向かいます！</schema:description>
+    <imas:Whose rdf:resource="Emily_Stewart"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Very_Merry_Mail_Girl%2B">
+    <schema:name xml:lang="ja">ベリーメリー♪メールガール+</schema:name>
+    <schema:description xml:lang="ja">「ベリーメリー♪メールガール」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Emily_Stewart"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Dreaming_Pink">
+    <schema:name xml:lang="ja">ドリーミングピンク</schema:name>
+    <schema:description xml:lang="ja">流れる星はまるで虹のように...。キュートなピンクが、星に願いをかけた少女の魅力を輝かせます。</schema:description>
+    <imas:Whose rdf:resource="Kasuga_Mirai"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Dreaming_Pink%2B">
+    <schema:name xml:lang="ja">ドリーミングピンク+</schema:name>
+    <schema:description xml:lang="ja">「ドリーミングピンク」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Kasuga_Mirai"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Dreaming_Pink%2B%2B">
+    <schema:name xml:lang="ja">ドリーミングピンク++</schema:name>
+    <schema:description xml:lang="ja">「ドリーミングピンク」のアナザー2衣装です。</schema:description>
+    <imas:Whose rdf:resource="Kasuga_Mirai"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Ajisai_Drop">
+    <schema:name xml:lang="ja">あじさいドロップ</schema:name>
+    <schema:description xml:lang="ja">雨の中で元気に咲く花をイメージしたドレス。衣装の花たちは、少女が次々と抱く、たくさんの小さな好奇心を表現しています。</schema:description>
+    <imas:Whose rdf:resource="Kasuga_Mirai"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Ajisai_Drop%2B">
+    <schema:name xml:lang="ja">あじさいドロップ+</schema:name>
+    <schema:description xml:lang="ja">「あじさいドロップ」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Kasuga_Mirai"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Ajisai_Drop%2B%2B">
+    <schema:name xml:lang="ja">あじさいドロップ++</schema:name>
+    <schema:description xml:lang="ja">「あじさいドロップ」のアナザー2衣装です。</schema:description>
+    <imas:Whose rdf:resource="Kasuga_Mirai"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Electro_Accelerator">
+    <schema:name xml:lang="ja">エレクトロ・アクセラレータ</schema:name>
+    <schema:description xml:lang="ja">シャープなシルエットにビビッドピンクが駆け巡る、サイバー感あふれる近未来モチーフ衣装で、少女は明日もフルスロットル！</schema:description>
+    <imas:Whose rdf:resource="Kasuga_Mirai"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Electro_Accelerator%2B">
+    <schema:name xml:lang="ja">エレクトロ・アクセラレータ+</schema:name>
+    <schema:description xml:lang="ja">「エレクトロ・アクセラレータ」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Kasuga_Mirai"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="More_Happiness">
+    <schema:name xml:lang="ja">モア・ハピネス</schema:name>
+    <schema:description xml:lang="ja">フラワーピンクドレスのキュートレディが投げたブーケは、幸せのバトン。さあ、次はあなたの番。とびっきりの笑顔を見せて...♡</schema:description>
+    <imas:Whose rdf:resource="Kasuga_Mirai"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="More_Happiness%2B">
+    <schema:name xml:lang="ja">モア・ハピネス+</schema:name>
+    <schema:description xml:lang="ja">「モア・ハピネス」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Kasuga_Mirai"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Benitoite_Horizon">
+    <schema:name xml:lang="ja">ベニトアイト・ホライズン</schema:name>
+    <schema:description xml:lang="ja">海に溶けてしまいそうなほど儚い蒼を身に纏う彼女は、今宵も遠い地平線を眺めていた。自分もあの笑い声の一つになれると信じて。</schema:description>
+    <imas:Whose rdf:resource="Kasuga_Mirai"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Benitoite_Horizon%2B">
+    <schema:name xml:lang="ja">ベニトアイト・ホライズン+</schema:name>
+    <schema:description xml:lang="ja">「ベニトアイト・ホライズン」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Kasuga_Mirai"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Wild_Classic_Star">
+    <schema:name xml:lang="ja">ワイルドクラシックスター</schema:name>
+    <schema:description xml:lang="ja">大胆なワイルドさと、ちょっと懐かしいレトロさを組み合わせたデザインは、全ての人の心を掴み離すことはないでしょう。</schema:description>
+    <imas:Whose rdf:resource="Ganaha_Hibiki"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Wild_Classic_Star%2B">
+    <schema:name xml:lang="ja">ワイルドクラシックスター+</schema:name>
+    <schema:description xml:lang="ja">「ワイルドクラシックスター」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Ganaha_Hibiki"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Wild_Classic_Star%2B%2B">
+    <schema:name xml:lang="ja">ワイルドクラシックスター++</schema:name>
+    <schema:description xml:lang="ja">「ワイルドクラシックスター」のアナザー2衣装です。</schema:description>
+    <imas:Whose rdf:resource="Ganaha_Hibiki"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Fuwari_Fuwari_Sakurairo">
+    <schema:name xml:lang="ja">ふわりフワリ☆桜色</schema:name>
+    <schema:description xml:lang="ja">青空の下を楽しそうに舞い踊る桜の花びらをイメージしたドレス。ふわりふわりと風に乗り、貴方の肩にそっと触れてもいいですか？</schema:description>
+    <imas:Whose rdf:resource="Ganaha_Hibiki"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Fuwari_Fuwari_Sakurairo%2B">
+    <schema:name xml:lang="ja">ふわりフワリ☆桜色+</schema:name>
+    <schema:description xml:lang="ja">「ふわりフワリ☆桜色」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Ganaha_Hibiki"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Fuwari_Fuwari_Sakurairo%2B%2B">
+    <schema:name xml:lang="ja">ふわりフワリ☆桜色++</schema:name>
+    <schema:description xml:lang="ja">「ふわりフワリ☆桜色」のアナザー2衣装です。</schema:description>
+    <imas:Whose rdf:resource="Ganaha_Hibiki"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Light_Of_Vibes">
+    <schema:name xml:lang="ja">ライトオブバイブス</schema:name>
+    <schema:description xml:lang="ja">燦然たる太陽の光をイメージしたステージ衣装。ほとばしる情熱は大地に響き渡り、闇を切り裂く。...そして、おとずれる夜明け。</schema:description>
+    <imas:Whose rdf:resource="Ganaha_Hibiki"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Light_Of_Vibes%2B">
+    <schema:name xml:lang="ja">ライトオブバイブス+</schema:name>
+    <schema:description xml:lang="ja">「ライトオブバイブス」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Ganaha_Hibiki"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Marine_Blue_Ship">
+    <schema:name xml:lang="ja">マリンブルーシップ</schema:name>
+    <schema:description xml:lang="ja">いよいよ出航のとき。船に積んだのは、大きな夢。果てなき旅を祝福するかのように、青い航路は彼方までキラキラと輝いて...。</schema:description>
+    <imas:Whose rdf:resource="Ganaha_Hibiki"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Marine_Blue_Ship%2B">
+    <schema:name xml:lang="ja">マリンブルーシップ+</schema:name>
+    <schema:description xml:lang="ja">「マリンブルーシップ」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Ganaha_Hibiki"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Otoginokuni_No_Ookami_Isho">
+    <schema:name xml:lang="ja">おとぎの国のオオカミ衣装</schema:name>
+    <schema:description xml:lang="ja">ふわふわモフモフな毛並みのオオカミさん。みんなに撫でてもらいたくて、毎日毛並みのお手入れをしているんだとか...。</schema:description>
+    <imas:Whose rdf:resource="Ganaha_Hibiki"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Otoginokuni_No_Ookami_Isho%2B">
+    <schema:name xml:lang="ja">おとぎの国のオオカミ衣装+</schema:name>
+    <schema:description xml:lang="ja">「おとぎの国のオオカミ衣装」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Ganaha_Hibiki"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sincerely_Marine">
+    <schema:name xml:lang="ja">シンシアリー・マリーヌ</schema:name>
+    <schema:description xml:lang="ja">パンツスタイルの上品な衣装。黒と紫の上品な色合いが優雅なステージを魅力的に演出します。そして今宵も貴方へ心を込めて。</schema:description>
+    <imas:Whose rdf:resource="Kikuchi_Makoto"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sincerely_Marine%2B">
+    <schema:name xml:lang="ja">シンシアリー・マリーヌ+</schema:name>
+    <schema:description xml:lang="ja">「シンシアリー・マリーヌ」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Kikuchi_Makoto"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sincerely_Marine%2B%2B">
+    <schema:name xml:lang="ja">シンシアリー・マリーヌ++</schema:name>
+    <schema:description xml:lang="ja">「シンシアリー・マリーヌ」のアナザー2衣装です。</schema:description>
+    <imas:Whose rdf:resource="Kikuchi_Makoto"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Lioness_Whitia">
+    <schema:name xml:lang="ja">ライオネスホワイティア</schema:name>
+    <schema:description xml:lang="ja">その輝く白い衣装は、数多の獣を統べる誇り高き王のためのもの。麗しくも鋭い眼光にさらされた時全ての野生がひれ伏すという。</schema:description>
+    <imas:Whose rdf:resource="Kikuchi_Makoto"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Lioness_Whitia%2B">
+    <schema:name xml:lang="ja">ライオネスホワイティア+</schema:name>
+    <schema:description xml:lang="ja">「ライオネスホワイティア」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Kikuchi_Makoto"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Violent_Desire">
+    <schema:name xml:lang="ja">バイオレント・デザイア</schema:name>
+    <schema:description xml:lang="ja">この身の奥から湧いてくる破壊の衝動は何処から来たものなのか...それを知らぬまま、無情な女神はただ目に映る全てを灰燼に帰す。</schema:description>
+    <imas:Whose rdf:resource="Kikuchi_Makoto"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Violent_Desire%2B">
+    <schema:name xml:lang="ja">バイオレント・デザイア+</schema:name>
+    <schema:description xml:lang="ja">「バイオレント・デザイア」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Kikuchi_Makoto"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="End_Of_Mad_Dog">
+    <schema:name xml:lang="ja">エンド・オブ・マッドドッグ</schema:name>
+    <schema:description xml:lang="ja">アウトレイジ軍特攻隊長の戦闘衣装。主人より下された命令が、正しいかどうかは関係ない。ただ、己は、忠義を尽くすのみ！</schema:description>
+    <imas:Whose rdf:resource="Kikuchi_Makoto"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="End_Of_Mad_Dog%2B">
+    <schema:name xml:lang="ja">エンド・オブ・マッドドッグ+</schema:name>
+    <schema:description xml:lang="ja">「エンド・オブ・マッドドッグ」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Kikuchi_Makoto"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Maiden_Bloom">
+    <schema:name xml:lang="ja">メイデン・ブルーム</schema:name>
+    <schema:description xml:lang="ja">可愛らしいお花のフリルのついたドレスは、鳥さんとの友達の証☆歌ったり踊ったりして、お祭りを思いっきり楽しんじゃおう♪</schema:description>
+    <imas:Whose rdf:resource="Kikuchi_Makoto"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Maiden_Bloom%2B">
+    <schema:name xml:lang="ja">メイデン・ブルーム+</schema:name>
+    <schema:description xml:lang="ja">「メイデン・ブルーム」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Kikuchi_Makoto"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Passion_Energy">
+    <schema:name xml:lang="ja">パッションエナジー！</schema:name>
+    <schema:description xml:lang="ja">エネルギッシュなピンクが魅力のキュートな衣装。星の輝きにも負けないパワーで、みんなの心にトキメキをフルチャージ！</schema:description>
+    <imas:Whose rdf:resource="Kousaka_Umi"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Passion_Energy%2B">
+    <schema:name xml:lang="ja">パッションエナジー！+</schema:name>
+    <schema:description xml:lang="ja">「パッションエナジー！」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Kousaka_Umi"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Passion_Energy%2B%2B">
+    <schema:name xml:lang="ja">パッションエナジー！++</schema:name>
+    <schema:description xml:lang="ja">「パッションエナジー！」のアナザー2衣装です。</schema:description>
+    <imas:Whose rdf:resource="Kousaka_Umi"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Wonderland_Princess">
+    <schema:name xml:lang="ja">ワンダーランド・プリンセス</schema:name>
+    <schema:description xml:lang="ja">気分はまるでおとぎ話のお姫様♪女子力満開のメルヘンドレスで、夢も、幸せも、素敵な王子様も、スキップで迎えにいっちゃおう☆</schema:description>
+    <imas:Whose rdf:resource="Kousaka_Umi"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Wonderland_Princess%2B">
+    <schema:name xml:lang="ja">ワンダーランド・プリンセス+</schema:name>
+    <schema:description xml:lang="ja">「ワンダーランド・プリンセス」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Kousaka_Umi"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Brilliant_March">
+    <schema:name xml:lang="ja">ブリリアント・マーチ</schema:name>
+    <schema:description xml:lang="ja">可愛いもカッコいいも私のもの！華やかピンクがクールな黒で引き締まる、キュート＆ビューティーなドレスで、3月を華麗に行進♪</schema:description>
+    <imas:Whose rdf:resource="Kousaka_Umi"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Brilliant_March%2B">
+    <schema:name xml:lang="ja">ブリリアント・マーチ+</schema:name>
+    <schema:description xml:lang="ja">「ブリリアント・マーチ」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Kousaka_Umi"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Miko_No_Saigo">
+    <schema:name xml:lang="ja">神子の祭娯</schema:name>
+    <schema:description xml:lang="ja">新たな門出をド派手にお祝い！パワフルなアイドルパワーでどんな災厄も吹き飛ばそう！これで先行きは絶好調♪</schema:description>
+    <imas:Whose rdf:resource="Kousaka_Umi"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Miko_No_Saigo%2B">
+    <schema:name xml:lang="ja">神子の祭娯+</schema:name>
+    <schema:description xml:lang="ja">「神子の祭娯」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Kousaka_Umi"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="La_Vanille_Parfait">
+    <schema:name xml:lang="ja">ラヴァニーユ・パルフェ</schema:name>
+    <schema:description xml:lang="ja">甘〜いバニラの香りがしそうな、スウィーティーな衣装。暑い時は冷たいジュースやアイスで気分爽快☆でも食べすぎには注意！</schema:description>
+    <imas:Whose rdf:resource="Kousaka_Umi"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="La_Vanille_Parfait%2B">
+    <schema:name xml:lang="ja">ラヴァニーユ・パルフェ+</schema:name>
+    <schema:description xml:lang="ja">「ラヴァニーユ・パルフェ」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Kousaka_Umi"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Blue_Sky_Fantasia">
+    <schema:name xml:lang="ja">ブルースカイファンタジア</schema:name>
+    <schema:description xml:lang="ja">雲一つない晴れやかな青空を思わせる、爽やかな青い衣装。いつでもあなたの心を明るく、元気で満たしてくれるでしょう。</schema:description>
+    <imas:Whose rdf:resource="Satake_Minako"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Blue_Sky_Fantasia%2B">
+    <schema:name xml:lang="ja">ブルースカイファンタジア+</schema:name>
+    <schema:description xml:lang="ja">「ブルースカイファンタジア」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Satake_Minako"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Blue_Sky_Fantasia%2B%2B">
+    <schema:name xml:lang="ja">ブルースカイファンタジア++</schema:name>
+    <schema:description xml:lang="ja">「ブルースカイファンタジア」のアナザー2衣装です。</schema:description>
+    <imas:Whose rdf:resource="Satake_Minako"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Juicy_Sparkling">
+    <schema:name xml:lang="ja">ジューシースパークリング！</schema:name>
+    <schema:description xml:lang="ja">甘酸っぱいストロベリーをイメージしたポップなドレス。夏の暑さを吹き飛ばすくらい、ココロもカラダも思いっきり弾けちゃお☆</schema:description>
+    <imas:Whose rdf:resource="Satake_Minako"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Juicy_Sparkling%2B">
+    <schema:name xml:lang="ja">ジューシースパークリング！+</schema:name>
+    <schema:description xml:lang="ja">「ジューシースパークリング！」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Satake_Minako"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Shin_Mugen">
+    <schema:name xml:lang="ja">真・夢幻</schema:name>
+    <schema:description xml:lang="ja">魑魅魍魎が跋扈する降魔の都...。悪意に蝕まれた人々を救うのは、心優しき陰陽師。破魔の力は皆のために！......悪霊退散！</schema:description>
+    <imas:Whose rdf:resource="Satake_Minako"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Shin_Mugen%2B">
+    <schema:name xml:lang="ja">真・夢幻+</schema:name>
+    <schema:description xml:lang="ja">「真・夢幻」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Satake_Minako"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sun_Sun_Feast">
+    <schema:name xml:lang="ja">サン♡SUN♡フィースト</schema:name>
+    <schema:description xml:lang="ja">会いたいと思えば真っすぐに！その気持ちを胸に、どこまでも！いつでもそばにいて、眩しい程の微笑みで、ゲンキと愛をあげる♡</schema:description>
+    <imas:Whose rdf:resource="Satake_Minako"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sun_Sun_Feast%2B">
+    <schema:name xml:lang="ja">サン♡SUN♡フィースト+</schema:name>
+    <schema:description xml:lang="ja">「サン♡SUN♡フィースト」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Satake_Minako"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Starry_Invitation">
+    <schema:name xml:lang="ja">スターリーインビテーション</schema:name>
+    <schema:description xml:lang="ja">人々を魅了し続ける宇宙の惑星。そんな星たちが作り出した衣装は上品で美しく、その魅力から目が離せないと言い伝えられている。</schema:description>
+    <imas:Whose rdf:resource="Takayama_Sayoko"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Starry_Invitation%2B">
+    <schema:name xml:lang="ja">スターリーインビテーション+</schema:name>
+    <schema:description xml:lang="ja">「スターリーインビテーション」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Takayama_Sayoko"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Starry_Invitation%2B%2B">
+    <schema:name xml:lang="ja">スターリーインビテーション++</schema:name>
+    <schema:description xml:lang="ja">「スターリーインビテーション」のアナザー2衣装です。</schema:description>
+    <imas:Whose rdf:resource="Takayama_Sayoko"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Million_Captain_Uniform">
+    <schema:name xml:lang="ja">海理音キャプテンユニフォーム</schema:name>
+    <schema:description xml:lang="ja">海理音高校、超ビーチバレー部キャプテンの水着。大人っぽさと機能性を両立したデザイン。あきらめない心が勝利を導く！</schema:description>
+    <imas:Whose rdf:resource="Takayama_Sayoko"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Million_Captain_Uniform%2B">
+    <schema:name xml:lang="ja">海理音キャプテンユニフォーム+</schema:name>
+    <schema:description xml:lang="ja">「海理音キャプテンユニフォーム」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Takayama_Sayoko"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Noel_Joyeux">
+    <schema:name xml:lang="ja">ノエル・ジョワイユ</schema:name>
+    <schema:description xml:lang="ja">最高のプレゼントは赤いドレスとベルの音色とともに...。聖夜に舞い降りた、ひとりの少女の歌声が、人々に幸せを届けます。</schema:description>
+    <imas:Whose rdf:resource="Takayama_Sayoko"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Noel_Joyeux%2B">
+    <schema:name xml:lang="ja">ノエル・ジョワイユ+</schema:name>
+    <schema:description xml:lang="ja">「ノエル・ジョワイユ」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Takayama_Sayoko"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Natural_Grace">
+    <schema:name xml:lang="ja">ナチュラルグレイス</schema:name>
+    <schema:description xml:lang="ja">豊穣の女神をイメージした衣装。豊かに実った作物は、自然の恵と人々の努力の結晶なのです。...さあ、おいしく召し上がれ♪</schema:description>
+    <imas:Whose rdf:resource="Takayama_Sayoko"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Natural_Grace%2B">
+    <schema:name xml:lang="ja">ナチュラルグレイス+</schema:name>
+    <schema:description xml:lang="ja">「ナチュラルグレイス」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Takayama_Sayoko"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Harry_Phantom_Thief">
+    <schema:name xml:lang="ja">ハリー・ファントムシーフ</schema:name>
+    <schema:description xml:lang="ja">狙ったエモノは必ず頂戴します♡神出鬼没の新米女怪盗、参上！監視カメラも赤外線センサーも、私にかかれば楽勝......あ、あれ？</schema:description>
+    <imas:Whose rdf:resource="Takayama_Sayoko"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Harry_Phantom_Thief%2B">
+    <schema:name xml:lang="ja">ハリー・ファントムシーフ+</schema:name>
+    <schema:description xml:lang="ja">「ハリー・ファントムシーフ」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Takayama_Sayoko"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Purely_Bloom">
+    <schema:name xml:lang="ja">ピュアリーブルーム</schema:name>
+    <schema:description xml:lang="ja">「私もいつか素敵な女性に...」純粋な少女の中でほのかに潜む、大人の階段への淡い好奇心を肩出しドレスで表現しました。</schema:description>
+    <imas:Whose rdf:resource="Tanaka_Kotoha"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Purely_Bloom%2B">
+    <schema:name xml:lang="ja">ピュアリーブルーム+</schema:name>
+    <schema:description xml:lang="ja">「ピュアリーブルーム」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Tanaka_Kotoha"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Purely_Bloom%2B%2B">
+    <schema:name xml:lang="ja">ピュアリーブルーム++</schema:name>
+    <schema:description xml:lang="ja">「ピュアリーブルーム」のアナザー2衣装です。</schema:description>
+    <imas:Whose rdf:resource="Tanaka_Kotoha"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Heart_Of_Tristar">
+    <schema:name xml:lang="ja">ハートオブトライスター</schema:name>
+    <schema:description xml:lang="ja">夜空に輝く3つ星が目指す、誰も見たことのない景色。優しさと芯の強さを兼ね備えたハートが前へと進む原動力となるのです。</schema:description>
+    <imas:Whose rdf:resource="Tanaka_Kotoha"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Heart_Of_Tristar%2B">
+    <schema:name xml:lang="ja">ハートオブトライスター+</schema:name>
+    <schema:description xml:lang="ja">「ハートオブトライスター」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Tanaka_Kotoha"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Fall_Titania">
+    <schema:name xml:lang="ja">フォール・ティターニア</schema:name>
+    <schema:description xml:lang="ja">清く澄んだ空に咲いた、小さく可憐な金木犀の花は、秋の訪れを貴方に教えてくれる、美しくも優しい妖精なのかもしれません。</schema:description>
+    <imas:Whose rdf:resource="Tanaka_Kotoha"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Fall_Titania%2B">
+    <schema:name xml:lang="ja">フォール・ティターニア+</schema:name>
+    <schema:description xml:lang="ja">「フォール・ティターニア」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Tanaka_Kotoha"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Afternoon_Tea_Break">
+    <schema:name xml:lang="ja">アフタヌーンティーブレイク</schema:name>
+    <schema:description xml:lang="ja">青く優雅なドレスで微笑みかける少女は、まるで映画のヒロインのよう。ティーパーティに相応しいとっておきの時間を、貴方に...。</schema:description>
+    <imas:Whose rdf:resource="Tanaka_Kotoha"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Afternoon_Tea_Break%2B">
+    <schema:name xml:lang="ja">アフタヌーンティーブレイク+</schema:name>
+    <schema:description xml:lang="ja">「アフタヌーンティーブレイク」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Tanaka_Kotoha"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Ribbon_Suite_Emerald">
+    <schema:name xml:lang="ja">リボンスイート☆エメラルド</schema:name>
+    <schema:description xml:lang="ja">ピンクとエメラルドが愛らしい印象の、ラブリーなドレス。お姫様の手を取って夢の世界へ誘う王子様は、すぐそばに...？</schema:description>
+    <imas:Whose rdf:resource="Tokugawa_Matsuri"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Ribbon_Suite_Emerald%2B">
+    <schema:name xml:lang="ja">リボンスイート☆エメラルド+</schema:name>
+    <schema:description xml:lang="ja">「リボンスイート☆エメラルド」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Tokugawa_Matsuri"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Ribbon_Suite_Emerald%2B%2B">
+    <schema:name xml:lang="ja">リボンスイート☆エメラルド++</schema:name>
+    <schema:description xml:lang="ja">「リボンスイート☆エメラルド」のアナザー2衣装です。</schema:description>
+    <imas:Whose rdf:resource="Tokugawa_Matsuri"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Polka_Dot_Mushroom">
+    <schema:name xml:lang="ja">ポルカドット・マッシュルーム</schema:name>
+    <schema:description xml:lang="ja">きのこの世界から飛び出した、きのこモチーフの水玉ドレス。驚きのこの衣装、大胆なようで、飽きのこない絶妙なデザインです。</schema:description>
+    <imas:Whose rdf:resource="Tokugawa_Matsuri"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Polka_Dot_Mushroom%2B">
+    <schema:name xml:lang="ja">ポルカドット・マッシュルーム+</schema:name>
+    <schema:description xml:lang="ja">「ポルカドット・マッシュルーム」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Tokugawa_Matsuri"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Plaisir_Printemps">
+    <schema:name xml:lang="ja">プレジール・プランタン</schema:name>
+    <schema:description xml:lang="ja">お日様色の菜の花をあしらった、爽やかな春風のようなドレス。あなたの胸にもいっぱいに暖かな春の喜びを咲かせましょう。</schema:description>
+    <imas:Whose rdf:resource="Tokugawa_Matsuri"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Plaisir_Printemps%2B">
+    <schema:name xml:lang="ja">プレジール・プランタン+</schema:name>
+    <schema:description xml:lang="ja">「プレジール・プランタン」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Tokugawa_Matsuri"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sweet_Reindeer">
+    <schema:name xml:lang="ja">スイート・レインディア</schema:name>
+    <schema:description xml:lang="ja">忙しいサンタさんのお手伝いをするトナカイさんの好物は甘〜いスイーツ！だけど、プレゼントのつまみ食いは、めっ！なのです♪</schema:description>
+    <imas:Whose rdf:resource="Tokugawa_Matsuri"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sweet_Reindeer%2B">
+    <schema:name xml:lang="ja">スイート・レインディア+</schema:name>
+    <schema:description xml:lang="ja">「スイート・レインディア」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Tokugawa_Matsuri"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Princess_Pop">
+    <schema:name xml:lang="ja">プリンセス・ポップ</schema:name>
+    <schema:description xml:lang="ja">姫に相応しい志の高さを、泡のようにふんわり包み込んだ衣装。皆をフワフワのあわあわにして、キラキラのゆめを作るのです！</schema:description>
+    <imas:Whose rdf:resource="Tokugawa_Matsuri"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Princess_Pop%2B">
+    <schema:name xml:lang="ja">プリンセス・ポップ+</schema:name>
+    <schema:description xml:lang="ja">「プリンセス・ポップ」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Tokugawa_Matsuri"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pretty_Party">
+    <schema:name xml:lang="ja">プリティパーティー♪</schema:name>
+    <schema:description xml:lang="ja">愛らしいリボンを大胆にあしらった衣装。散りばめられたアーガイルとフラワー模様につつまれて、女の子はみんなレディに大変身♪</schema:description>
+    <imas:Whose rdf:resource="Nakatani_Iku"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pretty_Party%2B">
+    <schema:name xml:lang="ja">プリティパーティー♪+</schema:name>
+    <schema:description xml:lang="ja">「プリティパーティー♪」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Nakatani_Iku"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pretty_Party%2B%2B">
+    <schema:name xml:lang="ja">プリティパーティー♪++</schema:name>
+    <schema:description xml:lang="ja">「プリティパーティー♪」のアナザー2衣装です。</schema:description>
+    <imas:Whose rdf:resource="Nakatani_Iku"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Fuwamoko_Ichigo_Milk">
+    <schema:name xml:lang="ja">ふわもこ♡いちごミルク</schema:name>
+    <schema:description xml:lang="ja">リボンをたっぷり散りばめたふわふわモコモコ甘かわ衣装。歌って踊って、みんなの心もぽかぽかあっためちゃいますよ♪</schema:description>
+    <imas:Whose rdf:resource="Nakatani_Iku"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Fuwamoko_Ichigo_Milk%2B">
+    <schema:name xml:lang="ja">ふわもこ♡いちごミルク+</schema:name>
+    <schema:description xml:lang="ja">「ふわもこ♡いちごミルク」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Nakatani_Iku"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Divine_Earth">
+    <schema:name xml:lang="ja">ディバイン・アース</schema:name>
+    <schema:description xml:lang="ja">友の危機に、土の守護者は聖なる黄金樹の衣を纏う大地の女神へと覚醒する。熱き友情を力に変えてさあ、拳を握り立ち上がろう！</schema:description>
+    <imas:Whose rdf:resource="Nakatani_Iku"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Divine_Earth%2B">
+    <schema:name xml:lang="ja">ディバイン・アース+</schema:name>
+    <schema:description xml:lang="ja">「ディバイン・アース」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Nakatani_Iku"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Charmy_Fang">
+    <schema:name xml:lang="ja">チャーミー・ファング</schema:name>
+    <schema:description xml:lang="ja">私はヴァンパイア。人智を超えた気高き闇の眷属...。みたいだよ？「カワイイ〜」って油断してるとかぷーってしちゃうんだからね！</schema:description>
+    <imas:Whose rdf:resource="Nakatani_Iku"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Charmy_Fang%2B">
+    <schema:name xml:lang="ja">チャーミー・ファング+</schema:name>
+    <schema:description xml:lang="ja">「チャーミー・ファング」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Nakatani_Iku"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Swing_With_You">
+    <schema:name xml:lang="ja">スウィング・ウィズ・ユー</schema:name>
+    <schema:description xml:lang="ja">時計模様をかわいくあしらったがんばりやさんのための衣装。なんだって一人でできるけど...、ときどきは、二人でいさせてね。</schema:description>
+    <imas:Whose rdf:resource="Nakatani_Iku"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Swing_With_You%2B">
+    <schema:name xml:lang="ja">スウィング・ウィズ・ユー+</schema:name>
+    <schema:description xml:lang="ja">「スウィング・ウィズ・ユー」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Nakatani_Iku"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Blue_Marine_Realize">
+    <schema:name xml:lang="ja">ブルーマリン・リアライズ</schema:name>
+    <schema:description xml:lang="ja">爽やかな色使いが、青い海を思わせる衣装。カモメの声が聞こえたら、輝く砂浜へ駆け出そう！</schema:description>
+    <imas:Whose rdf:resource="Nanao_Yuriko"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Blue_Marine_Realize%2B">
+    <schema:name xml:lang="ja">ブルーマリン・リアライズ+</schema:name>
+    <schema:description xml:lang="ja">「ブルーマリン・リアライズ」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Nanao_Yuriko"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Blue_Marine_Realize%2B%2B">
+    <schema:name xml:lang="ja">ブルーマリン・リアライズ++</schema:name>
+    <schema:description xml:lang="ja">「ブルーマリン・リアライズ」のアナザー2衣装です。</schema:description>
+    <imas:Whose rdf:resource="Nanao_Yuriko"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Epic_Navigator">
+    <schema:name xml:lang="ja">エピックナビゲーター</schema:name>
+    <schema:description xml:lang="ja">貴方が主人公の物語に登場する案内人の衣装。どんなに辛くて苦しい物語でも、貴方を必ずハッピーエンドへ導きます♪</schema:description>
+    <imas:Whose rdf:resource="Nanao_Yuriko"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Epic_Navigator%2B">
+    <schema:name xml:lang="ja">エピックナビゲーター+</schema:name>
+    <schema:description xml:lang="ja">「エピックナビゲーター」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Nanao_Yuriko"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Million_Theater_Clothes_Lily">
+    <schema:name xml:lang="ja">ミリオン座衣装(リリー)</schema:name>
+    <schema:description xml:lang="ja">ミリオン座の事件を担当する警部リリーの衣装。謎多き事件...。屋根裏の道化師は実在するのか？私は真実にたどり着けるのか...？</schema:description>
+    <imas:Whose rdf:resource="Nanao_Yuriko"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Choir_Love">
+    <schema:name xml:lang="ja">クワイア・ラブ</schema:name>
+    <schema:description xml:lang="ja">私たちのクリスマスパーティーはまだまだ続くよ♪プレゼントは大切な人との特別な時間。今宵の世界はどこも愛情に満ちてます♡</schema:description>
+    <imas:Whose rdf:resource="Nanao_Yuriko"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Choir_Love%2B">
+    <schema:name xml:lang="ja">クワイア・ラブ+</schema:name>
+    <schema:description xml:lang="ja">「クワイア・ラブ」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Nanao_Yuriko"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Storia_Fantasia">
+    <schema:name xml:lang="ja">ストーリア・ファンタジア</schema:name>
+    <schema:description xml:lang="ja">空想物語に心を踊らせ、少女は、まるで本の頁を捲るような速さで一歩、また一歩と足を進める。先に見える展開は、果たして...。</schema:description>
+    <imas:Whose rdf:resource="Nanao_Yuriko"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Storia_Fantasia%2B">
+    <schema:name xml:lang="ja">ストーリア・ファンタジア+</schema:name>
+    <schema:description xml:lang="ja">「ストーリア・ファンタジア」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Nanao_Yuriko"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="White_Snow_Crystal">
+    <schema:name xml:lang="ja">ホワイトスノークリスタル</schema:name>
+    <schema:description xml:lang="ja">雪のクリスタルがあしらわれた、上品なドレス。光が触れると、まるで雪のプリンセスのようにきらめきを降り注ぎます。</schema:description>
+    <imas:Whose rdf:resource="Hagiwara_Yukiho"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="White_Snow_Crystal%2B">
+    <schema:name xml:lang="ja">ホワイトスノークリスタル+</schema:name>
+    <schema:description xml:lang="ja">「ホワイトスノークリスタル」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Hagiwara_Yukiho"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="White_Snow_Crystal%2B%2B">
+    <schema:name xml:lang="ja">ホワイトスノークリスタル++</schema:name>
+    <schema:description xml:lang="ja">「ホワイトスノークリスタル」のアナザー2衣装です。</schema:description>
+    <imas:Whose rdf:resource="Hagiwara_Yukiho"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Darkness_Nightmare">
+    <schema:name xml:lang="ja">ダークネスナイトメア</schema:name>
+    <schema:description xml:lang="ja">闇に潜んでいた孤独と悲しみが作り出した漆黒の衣装。闇に愛されしものは、終わらない痛みを胸に抱きながら静かに微笑む...。</schema:description>
+    <imas:Whose rdf:resource="Hagiwara_Yukiho"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Darkness_Nightmare%2B">
+    <schema:name xml:lang="ja">ダークネスナイトメア+</schema:name>
+    <schema:description xml:lang="ja">「ダークネスナイトメア」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Hagiwara_Yukiho"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Relax_Jasmine">
+    <schema:name xml:lang="ja">リラックスジャスミン</schema:name>
+    <schema:description xml:lang="ja">優しく上品な甘い香りが漂う、爽やかな初夏の日には、安らぎのジャスミンのドレスを身に纏い、癒しの時間を貴方と過ごしたい...</schema:description>
+    <imas:Whose rdf:resource="Hagiwara_Yukiho"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Relax_Jasmine%2B">
+    <schema:name xml:lang="ja">リラックスジャスミン+</schema:name>
+    <schema:description xml:lang="ja">「リラックスジャスミン」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Hagiwara_Yukiho"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="We_Are_Alright">
+    <schema:name xml:lang="ja">ウィア・オールライト</schema:name>
+    <schema:description xml:lang="ja">誰もが、なりたい自分になっていい。だけど、どうしても一歩を踏み出す勇気が出ないときは、あの魔法の言葉を口にしてみて。</schema:description>
+    <imas:Whose rdf:resource="Hagiwara_Yukiho"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="We_Are_Alright%2B">
+    <schema:name xml:lang="ja">ウィア・オールライト+</schema:name>
+    <schema:description xml:lang="ja">「ウィア・オールライト」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Hagiwara_Yukiho"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Action_Spirits">
+    <schema:name xml:lang="ja">アクションスピリッツ</schema:name>
+    <schema:description xml:lang="ja">キュートとワイルドを合わせて、元気いっぱいな爽やかさを鮮やかに表現しました。ほら、そこのキミも、一緒にハジケちゃおっ！</schema:description>
+    <imas:Whose rdf:resource="Fukuda_Noriko"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Action_Spirits%2B">
+    <schema:name xml:lang="ja">アクションスピリッツ+</schema:name>
+    <schema:description xml:lang="ja">「アクションスピリッツ」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Fukuda_Noriko"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Action_Spirits%2B%2B">
+    <schema:name xml:lang="ja">アクションスピリッツ++</schema:name>
+    <schema:description xml:lang="ja">「アクションスピリッツ」のアナザー2衣装です。</schema:description>
+    <imas:Whose rdf:resource="Fukuda_Noriko"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="God_Red_String">
+    <schema:name xml:lang="ja">ゴッド・レッドストリング</schema:name>
+    <schema:description xml:lang="ja">燃える炎のように鮮やかな赤は、みんなとアタシを結ぶ縁の色！神様も思わずうなる、一期一会のドリームタッグマッチ！</schema:description>
+    <imas:Whose rdf:resource="Fukuda_Noriko"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="God_Red_String%2B">
+    <schema:name xml:lang="ja">ゴッド・レッドストリング+</schema:name>
+    <schema:description xml:lang="ja">「ゴッド・レッドストリング」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Fukuda_Noriko"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pastel_Pop_Rabbit">
+    <schema:name xml:lang="ja">パステルポップ・ラビット</schema:name>
+    <schema:description xml:lang="ja">カラフルキュートなウサギさんが届けてくれた、幸せのタマゴ♪さあ、キミだけの色で始めようスペシャル・デコレーション！</schema:description>
+    <imas:Whose rdf:resource="Fukuda_Noriko"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pastel_Pop_Rabbit%2B">
+    <schema:name xml:lang="ja">パステルポップ・ラビット+</schema:name>
+    <schema:description xml:lang="ja">「パステルポップ・ラビット」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Fukuda_Noriko"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Milk_Teen_Dia">
+    <schema:name xml:lang="ja">ミルクティーン・ダイヤ</schema:name>
+    <schema:description xml:lang="ja">白薔薇の花言葉の力を受けて、日頃のお礼にあなたの元へ。ねえ、変じゃない？良かったら、今だけ隣にいても...いいかな？</schema:description>
+    <imas:Whose rdf:resource="Fukuda_Noriko"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Milk_Teen_Dia%2B">
+    <schema:name xml:lang="ja">ミルクティーン・ダイヤ+</schema:name>
+    <schema:description xml:lang="ja">「ミルクティーン・ダイヤ」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Fukuda_Noriko"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Staring_Revolution">
+    <schema:name xml:lang="ja">スターリングレボリューション</schema:name>
+    <schema:description xml:lang="ja">思わず目を引くチェックの衣装。優しい色の中にそっと添えられた星のグラデーションはまるで流星のように輝く姿を表しています。</schema:description>
+    <imas:Whose rdf:resource="Matsuda_Arisa"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Staring_Revolution%2B">
+    <schema:name xml:lang="ja">スターリングレボリューション+</schema:name>
+    <schema:description xml:lang="ja">「スターリングレボリューション」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Matsuda_Arisa"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Staring_Revolution%2B%2B">
+    <schema:name xml:lang="ja">スターリングレボリューション++</schema:name>
+    <schema:description xml:lang="ja">「スターリングレボリューション」のアナザー2衣装です。</schema:description>
+    <imas:Whose rdf:resource="Matsuda_Arisa"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Devils_Checker">
+    <schema:name xml:lang="ja">デビルズ★チェッカー</schema:name>
+    <schema:description xml:lang="ja">はーい、チェック、チェック！このドレスのアクマ的可愛さポイント、絶対に見逃さないで！見逃したら...悪戯しちゃいます★</schema:description>
+    <imas:Whose rdf:resource="Matsuda_Arisa"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Devils_Checker%2B">
+    <schema:name xml:lang="ja">デビルズ★チェッカー+</schema:name>
+    <schema:description xml:lang="ja">「デビルズ★チェッカー」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Matsuda_Arisa"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Bouncing_Neon">
+    <schema:name xml:lang="ja">バウンシング・ネオン</schema:name>
+    <schema:description xml:lang="ja">ネオンカラーのキュートでポップな衣装☆羽が生えてるみたいに軽快なステップで、キミの心もうっきうきに弾ませちゃうよ♪</schema:description>
+    <imas:Whose rdf:resource="Matsuda_Arisa"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Bouncing_Neon%2B">
+    <schema:name xml:lang="ja">バウンシング・ネオン+</schema:name>
+    <schema:description xml:lang="ja">「バウンシング・ネオン」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Matsuda_Arisa"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Flowering_Parade">
+    <schema:name xml:lang="ja">フラワーリングパレード</schema:name>
+    <schema:description xml:lang="ja">元気いっぱい咲いている花たちがまるで歌い出すかのような衣装。陽気なリズムに乗って、さぁ一緒に歌いましょう♪</schema:description>
+    <imas:Whose rdf:resource="Yabuki_Kana"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Flowering_Parade%2B">
+    <schema:name xml:lang="ja">フラワーリングパレード+</schema:name>
+    <schema:description xml:lang="ja">「フラワーリングパレード」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Yabuki_Kana"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Flowering_Parade%2B%2B">
+    <schema:name xml:lang="ja">フラワーリングパレード++</schema:name>
+    <schema:description xml:lang="ja">「フラワーリングパレード」のアナザー2衣装です。</schema:description>
+    <imas:Whose rdf:resource="Yabuki_Kana"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Delight_Snow_Drop">
+    <schema:name xml:lang="ja">ディライト・スノードロップ</schema:name>
+    <schema:description xml:lang="ja">私が輝けるのは、雪原に降り注ぐオーロラの光のように、あなたが照らしてくれるから。ねえ、一緒にみんなを笑顔にしよう！</schema:description>
+    <imas:Whose rdf:resource="Yabuki_Kana"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Delight_Snow_Drop%2B">
+    <schema:name xml:lang="ja">ディライト・スノードロップ+</schema:name>
+    <schema:description xml:lang="ja">「ディライト・スノードロップ」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Yabuki_Kana"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Smiley_Applause">
+    <schema:name xml:lang="ja">スマイリーアプローズ</schema:name>
+    <schema:description xml:lang="ja">煌めく魔法のような世界が広がるサーカステント。どんな人でも笑顔にさせちゃう彼女は、実はホンモノの魔法使いなのかも...？</schema:description>
+    <imas:Whose rdf:resource="Yabuki_Kana"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Smiley_Applause%2B">
+    <schema:name xml:lang="ja">スマイリーアプローズ+</schema:name>
+    <schema:description xml:lang="ja">「スマイリーアプローズ」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Yabuki_Kana"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Meets_The_Notes">
+    <schema:name xml:lang="ja">ミーツ・ザ・ノーツ</schema:name>
+    <schema:description xml:lang="ja">悲しくなったり泣きたくなったらいっしょに歌ってみない？元気になれるおまじない、たくさんの音符に乗って届くといいな♪</schema:description>
+    <imas:Whose rdf:resource="Yabuki_Kana"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Meets_The_Notes%2B">
+    <schema:name xml:lang="ja">ミーツ・ザ・ノーツ+</schema:name>
+    <schema:description xml:lang="ja">「ミーツ・ザ・ノーツ」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Yabuki_Kana"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Leopardo_Checker">
+    <schema:name xml:lang="ja">レオパルドチェッカー</schema:name>
+    <schema:description xml:lang="ja">キュートで可愛いチェック柄に、ちょっぴりワイルドなヒョウ柄を合わせて、スパイシーキュートな女の子に変身しちゃおう！</schema:description>
+    <imas:Whose rdf:resource="Yokoyama_Nao"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Leopardo_Checker%2B">
+    <schema:name xml:lang="ja">レオパルドチェッカー+</schema:name>
+    <schema:description xml:lang="ja">「レオパルドチェッカー」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Yokoyama_Nao"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Leopardo_Checker%2B%2B">
+    <schema:name xml:lang="ja">レオパルドチェッカー++</schema:name>
+    <schema:description xml:lang="ja">「レオパルドチェッカー」のアナザー2衣装です。</schema:description>
+    <imas:Whose rdf:resource="Yokoyama_Nao"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="La_Bijou_Rose">
+    <schema:name xml:lang="ja">ラ・ビジューロゼ</schema:name>
+    <schema:description xml:lang="ja">ローズピンクのキュートなハイヒールが魅力のドレス。ヒールの弾む靴音が聞こえたら、あなたの心もきっと踊りだす...♪</schema:description>
+    <imas:Whose rdf:resource="Yokoyama_Nao"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="La_Bijou_Rose%2B">
+    <schema:name xml:lang="ja">ラ・ビジューロゼ+</schema:name>
+    <schema:description xml:lang="ja">「ラ・ビジューロゼ」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Yokoyama_Nao"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="La_Bijou_Rose%2B%2B">
+    <schema:name xml:lang="ja">ラ・ビジューロゼ++</schema:name>
+    <schema:description xml:lang="ja">「ラ・ビジューロゼ」のアナザー2衣装です。</schema:description>
+    <imas:Whose rdf:resource="Yokoyama_Nao"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Marchen_Forest">
+    <schema:name xml:lang="ja">メルヘン・フォレスト</schema:name>
+    <schema:description xml:lang="ja">兄妹が迷い込んだのは魔法の森。勇気と機転で悪い魔女を倒したグレーテルは、お菓子の家の新しいご主人になりましたとさ♪</schema:description>
+    <imas:Whose rdf:resource="Yokoyama_Nao"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Marchen_Forest%2B">
+    <schema:name xml:lang="ja">メルヘン・フォレスト+</schema:name>
+    <schema:description xml:lang="ja">「メルヘン・フォレスト」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Yokoyama_Nao"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Matador_Alma">
+    <schema:name xml:lang="ja">マタドール・アルマ</schema:name>
+    <schema:description xml:lang="ja">猛る巨牛も恐れない、激しい魂の音色は赤く美しい。薔薇よりも鮮やかで、血よりも濃い命の色を漲らせて、キミの心をも貫こう！</schema:description>
+    <imas:Whose rdf:resource="Yokoyama_Nao"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Matador_Alma%2B">
+    <schema:name xml:lang="ja">マタドール・アルマ+</schema:name>
+    <schema:description xml:lang="ja">「マタドール・アルマ」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Yokoyama_Nao"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Green_Noble_Lady">
+    <schema:name xml:lang="ja">グリーンノーブルレディ</schema:name>
+    <schema:description xml:lang="ja">知的なグリーンをクラシカルにまとめた上品なドレス。小さなハットが、レディが持つキュートな少女の心を表現しています。</schema:description>
+    <imas:Whose rdf:resource="Akizuki_Ritsuko"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Green_Noble_Lady%2B">
+    <schema:name xml:lang="ja">グリーンノーブルレディ+</schema:name>
+    <schema:description xml:lang="ja">「グリーンノーブルレディ」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Akizuki_Ritsuko"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Green_Noble_Lady%2B%2B">
+    <schema:name xml:lang="ja">グリーンノーブルレディ++</schema:name>
+    <schema:description xml:lang="ja">「グリーンノーブルレディ」のアナザー2衣装です。</schema:description>
+    <imas:Whose rdf:resource="Akizuki_Ritsuko"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Modern_Girl_Memories">
+    <schema:name xml:lang="ja">モダンガール・メモリーズ</schema:name>
+    <schema:description xml:lang="ja">懐かしいのに新しい淑女の装いが貴方を思い出の世界に誘います。いつの世も時代を変えるのは、知性とセンス。そして、行動力。</schema:description>
+    <imas:Whose rdf:resource="Akizuki_Ritsuko"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Modern_Girl_Memories%2B">
+    <schema:name xml:lang="ja">モダンガール・メモリーズ+</schema:name>
+    <schema:description xml:lang="ja">「モダンガール・メモリーズ」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Akizuki_Ritsuko"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="White_Feather_Queen">
+    <schema:name xml:lang="ja">ホワイトフェザー・クイーン</schema:name>
+    <schema:description xml:lang="ja">天使のような純白のドレス衣装と信頼できる仲間とともに、晴れの大舞台に臨みます。さあ、私たちのベストをお見せしましょう...！</schema:description>
+    <imas:Whose rdf:resource="Akizuki_Ritsuko"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="White_Feather_Queen%2B">
+    <schema:name xml:lang="ja">ホワイトフェザー・クイーン+</schema:name>
+    <schema:description xml:lang="ja">「ホワイトフェザー・クイーン」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Akizuki_Ritsuko"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Brilliant_Diva">
+    <schema:name xml:lang="ja">ブリリアントディーヴァ</schema:name>
+    <schema:description xml:lang="ja">星に願いを、ディーヴァに愛を。上品で力強い歌声を引き立てる、柔らかなドレスのラインに合わせ今宵も愛をこめて歌を届けます。</schema:description>
+    <imas:Whose rdf:resource="Kisaragi_Chihaya"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Brilliant_Diva%2B">
+    <schema:name xml:lang="ja">ブリリアントディーヴァ+</schema:name>
+    <schema:description xml:lang="ja">「ブリリアントディーヴァ」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Kisaragi_Chihaya"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Brilliant_Diva%2B%2B">
+    <schema:name xml:lang="ja">ブリリアントディーヴァ++</schema:name>
+    <schema:description xml:lang="ja">「ブリリアントディーヴァ」のアナザー2衣装です。</schema:description>
+    <imas:Whose rdf:resource="Kisaragi_Chihaya"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Dream_Sky_Attendant">
+    <schema:name xml:lang="ja">ドリームスカイ・アテンダント</schema:name>
+    <schema:description xml:lang="ja">どこまでも飛んで行けそうな、眩しく美しい翼に乗って...。蒼く広がる空の先にある、まだ見ぬ夢を捜す旅へご案内します！</schema:description>
+    <imas:Whose rdf:resource="Kisaragi_Chihaya"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Dream_Sky_Attendant%2B">
+    <schema:name xml:lang="ja">ドリームスカイ・アテンダント+</schema:name>
+    <schema:description xml:lang="ja">「ドリームスカイ・アテンダント」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Kisaragi_Chihaya"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Clearest_Echo">
+    <schema:name xml:lang="ja">クリアレスト・エコー</schema:name>
+    <schema:description xml:lang="ja">海の魔女さえも魅了するという、蒼い人魚の歌声。その透き通ったメロディは、今夜も水平線を越え遠く、貴方の街へと届くだろう。</schema:description>
+    <imas:Whose rdf:resource="Kisaragi_Chihaya"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Clearest_Echo%2B">
+    <schema:name xml:lang="ja">クリアレスト・エコー+</schema:name>
+    <schema:description xml:lang="ja">「クリアレスト・エコー」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Kisaragi_Chihaya"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Blossom_Wave">
+    <schema:name xml:lang="ja">ブロッサム・ウェーブ</schema:name>
+    <schema:description xml:lang="ja">川を撫でる春の風に小舟を揺られながら、その桜色の唇で、少女は穏やかに歌を口ずさむ。この声をあなたはどうか、覚えていて...。</schema:description>
+    <imas:Whose rdf:resource="Kisaragi_Chihaya"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Blossom_Wave%2B">
+    <schema:name xml:lang="ja">ブロッサム・ウェーブ+</schema:name>
+    <schema:description xml:lang="ja">「ブロッサム・ウェーブ」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Kisaragi_Chihaya"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Chocoliere_Rose">
+    <schema:name xml:lang="ja">チョコリエールローゼ</schema:name>
+    <schema:description xml:lang="ja">甘くてほろ苦い...それはまるで少女が恋したチョコレート。アクセントのローズたちが、クラシカルな魅力を引き立てます。</schema:description>
+    <imas:Whose rdf:resource="Kitazawa_Shiho"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Chocoliere_Rose%2B">
+    <schema:name xml:lang="ja">チョコリエールローゼ+</schema:name>
+    <schema:description xml:lang="ja">「チョコリエールローゼ」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Kitazawa_Shiho"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Chocoliere_Rose%2B%2B">
+    <schema:name xml:lang="ja">チョコリエールローゼ++</schema:name>
+    <schema:description xml:lang="ja">「チョコリエールローゼ」のアナザー2衣装です。</schema:description>
+    <imas:Whose rdf:resource="Kitazawa_Shiho"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Tenderly_Proud">
+    <schema:name xml:lang="ja">テンダリープラウド</schema:name>
+    <schema:description xml:lang="ja">少女の誇りと、秘めた優しさを表したドレス。輝く海の向こうを見つめる貴方を、微笑みながら支えてくれることでしょう...♪</schema:description>
+    <imas:Whose rdf:resource="Kitazawa_Shiho"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Tenderly_Proud%2B">
+    <schema:name xml:lang="ja">テンダリープラウド+</schema:name>
+    <schema:description xml:lang="ja">「テンダリープラウド」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Kitazawa_Shiho"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Blight_Aurora_Jewel">
+    <schema:name xml:lang="ja">ブライト・オーロラジュエル</schema:name>
+    <schema:description xml:lang="ja">冴え冴えとしたオーロラの光は、少女の強い決意の色。まっすぐに前へと進み続ける彼女の願いは、ただ雪だけが知っている...。</schema:description>
+    <imas:Whose rdf:resource="Kitazawa_Shiho"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Blight_Aurora_Jewel%2B">
+    <schema:name xml:lang="ja">ブライト・オーロラジュエル+</schema:name>
+    <schema:description xml:lang="ja">「ブライト・オーロラジュエル」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Kitazawa_Shiho"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Soraneko_Coffee_Ten_Shippo_Coordination">
+    <schema:name xml:lang="ja">空猫珈琲店 しっぽコーデ</schema:name>
+    <schema:description xml:lang="ja">三姉妹の店、空猫珈琲店に居つくクールな黒猫の着ぐるみ風衣装。素っ気ないように見えても、お店の皆を気にかけているんですよ。</schema:description>
+    <imas:Whose rdf:resource="Kitazawa_Shiho"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Packaged_Affection">
+    <schema:name xml:lang="ja">パッケージド・アフェクション</schema:name>
+    <schema:description xml:lang="ja">ドレスのリボンにあしらわれた、薔薇の花言葉...秘めた想いに彼女自身も気づいているのか。確かめるように、少女は歩を進める。</schema:description>
+    <imas:Whose rdf:resource="Kitazawa_Shiho"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Packaged_Affection%2B">
+    <schema:name xml:lang="ja">パッケージド・アフェクション+</schema:name>
+    <schema:description xml:lang="ja">「パッケージド・アフェクション」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Kitazawa_Shiho"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Tasogareno_Fuchi_Maid">
+    <schema:name xml:lang="ja">誰ソ彼ノ淵・メイド</schema:name>
+    <schema:description xml:lang="ja">館の主人に仕える寡黙なメイド。命じられるまま着実に『仕事』をこなすその様は、沈着で真面目ながら、どこか謎めいている...。</schema:description>
+    <imas:Whose rdf:resource="Kitazawa_Shiho"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Tasogareno_Fuchi_Maid%2B">
+    <schema:name xml:lang="ja">誰ソ彼ノ淵・メイド+</schema:name>
+    <schema:description xml:lang="ja">「誰ソ彼ノ淵・メイド」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Kitazawa_Shiho"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Twilight_Eternity">
+    <schema:name xml:lang="ja">トワイライトエタニティ</schema:name>
+    <schema:description xml:lang="ja">夕暮れと夜の幻想的なドレス。妖艶な空も、ミステリアスな表情も、トワイライトの一瞬だけ。だから目を逸らさないで...。</schema:description>
+    <imas:Whose rdf:resource="Shijou_Takane"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Twilight_Eternity%2B">
+    <schema:name xml:lang="ja">トワイライトエタニティ+</schema:name>
+    <schema:description xml:lang="ja">「トワイライトエタニティ」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Shijou_Takane"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Twilight_Eternity%2B%2B">
+    <schema:name xml:lang="ja">トワイライトエタニティ++</schema:name>
+    <schema:description xml:lang="ja">「トワイライトエタニティ」のアナザー2衣装です。</schema:description>
+    <imas:Whose rdf:resource="Shijou_Takane"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Beauty_Frozen">
+    <schema:name xml:lang="ja">ビューティーフローズン</schema:name>
+    <schema:description xml:lang="ja">真っ白な雪の世界を連想させる、魅惑的なドレス。穏やかに溶け込んだ、神秘的なアイスブルーにきっと癒されることでしょう。</schema:description>
+    <imas:Whose rdf:resource="Shijou_Takane"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Beauty_Frozen%2B">
+    <schema:name xml:lang="ja">ビューティーフローズン+</schema:name>
+    <schema:description xml:lang="ja">「ビューティーフローズン」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Shijou_Takane"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Beauty_Frozen%2B%2B">
+    <schema:name xml:lang="ja">ビューティーフローズン++</schema:name>
+    <schema:description xml:lang="ja">「ビューティーフローズン」のアナザー2衣装です。</schema:description>
+    <imas:Whose rdf:resource="Shijou_Takane"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Light_Of_Nobles">
+    <schema:name xml:lang="ja">ライトオブノーブルス</schema:name>
+    <schema:description xml:lang="ja">気高い月の光をイメージしたステージ衣装。それは夜の暗闇を照らす貴き音色となり、遥か遠くの同胞に届く希望となるだろう。</schema:description>
+    <imas:Whose rdf:resource="Shijou_Takane"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Light_Of_Nobles%2B">
+    <schema:name xml:lang="ja">ライトオブノーブルス+</schema:name>
+    <schema:description xml:lang="ja">「ライトオブノーブルス」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Shijou_Takane"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Lady_Alucard">
+    <schema:name xml:lang="ja">レディ・アルカード</schema:name>
+    <schema:description xml:lang="ja">麗しきヴァンパイアの女王は、今宵も甘美な赤い雫で喉を潤す。見初めた少女の白い首筋に、真珠のごとき牙を突き立てて...。</schema:description>
+    <imas:Whose rdf:resource="Shijou_Takane"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Lady_Alucard%2B">
+    <schema:name xml:lang="ja">レディ・アルカード+</schema:name>
+    <schema:description xml:lang="ja">「レディ・アルカード」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Shijou_Takane"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Lofty_Dream">
+    <schema:name xml:lang="ja">ロフティ・ドリーム</schema:name>
+    <schema:description xml:lang="ja">淑女たるもの、慎ましく優美に。祝福のドレスに飾られた彼女が極めるのは、花嫁修業ではなく...そう、トップアイドルへの道...！</schema:description>
+    <imas:Whose rdf:resource="Shijou_Takane"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Lofty_Dream%2B">
+    <schema:name xml:lang="ja">ロフティ・ドリーム+</schema:name>
+    <schema:description xml:lang="ja">「ロフティ・ドリーム」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Shijou_Takane"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sparking_Music">
+    <schema:name xml:lang="ja">スパーキングミュージック</schema:name>
+    <schema:description xml:lang="ja">キュート×クール＝マイスタイル カッコよさの中に潜んでいるセクシーさが、ロックな音楽をさらに引き立たせます！</schema:description>
+    <imas:Whose rdf:resource="Julia"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sparking_Music%2B">
+    <schema:name xml:lang="ja">スパーキングミュージック+</schema:name>
+    <schema:description xml:lang="ja">「スパーキングミュージック」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Julia"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sparking_Music%2B%2B">
+    <schema:name xml:lang="ja">スパーキングミュージック++</schema:name>
+    <schema:description xml:lang="ja">「スパーキングミュージック」のアナザー2衣装です。</schema:description>
+    <imas:Whose rdf:resource="Julia"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="New_Wind_Crimson">
+    <schema:name xml:lang="ja">ニューウィンド・クリムゾン</schema:name>
+    <schema:description xml:lang="ja">巫女装束をコンセプトにした、思いきったコスチューム。型にはまらない彼女の周りには、つねに新しい風が吹いている！</schema:description>
+    <imas:Whose rdf:resource="Julia"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="New_Wind_Crimson%2B">
+    <schema:name xml:lang="ja">ニューウィンド・クリムゾン+</schema:name>
+    <schema:description xml:lang="ja">「ニューウィンド・クリムゾン」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Julia"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Bel_Canto_Aria">
+    <schema:name xml:lang="ja">ベルカント・アリア</schema:name>
+    <schema:description xml:lang="ja">歌姫のために用意されたミッドナイトブルーのドレス。歌声は流れ星のように人々の心に降り注ぎ、消えない光を灯らせる。</schema:description>
+    <imas:Whose rdf:resource="Julia"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Bel_Canto_Aria%2B">
+    <schema:name xml:lang="ja">ベルカント・アリア+</schema:name>
+    <schema:description xml:lang="ja">「ベルカント・アリア」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Julia"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Cool_Bullet">
+    <schema:name xml:lang="ja">クール・バレット</schema:name>
+    <schema:description xml:lang="ja">全ては1枚の予告状から始まった...宝石を巡る、catch and run。ここで逃がす訳にはいかない！降参するなら...今のうちだぜ？</schema:description>
+    <imas:Whose rdf:resource="Julia"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Cool_Bullet%2B">
+    <schema:name xml:lang="ja">クール・バレット+</schema:name>
+    <schema:description xml:lang="ja">「クール・バレット」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Julia"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Lapis_Lazuli_Nostalgia">
+    <schema:name xml:lang="ja">ラピスラズリ・ノスタルジア</schema:name>
+    <schema:description xml:lang="ja">近未来と和を融合させたドレス。瑠璃色に和柄をあしらったデザインは、どこか懐かしくも切ない気持ちに誘います。</schema:description>
+    <imas:Whose rdf:resource="Shiraishi_Tsumugi"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Lapis_Lazuli_Nostalgia%2B">
+    <schema:name xml:lang="ja">ラピスラズリ・ノスタルジア+</schema:name>
+    <schema:description xml:lang="ja">「ラピスラズリ・ノスタルジア」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Shiraishi_Tsumugi"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Lapis_Lazuli_Nostalgia%2B%2B">
+    <schema:name xml:lang="ja">ラピスラズリ・ノスタルジア++</schema:name>
+    <schema:description xml:lang="ja">「ラピスラズリ・ノスタルジア」のアナザー2衣装です。</schema:description>
+    <imas:Whose rdf:resource="Shiraishi_Tsumugi"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Grace_Mermaid">
+    <schema:name xml:lang="ja">グレイスマーメイド</schema:name>
+    <schema:description xml:lang="ja">都会に降りたマーメイドは、輝くイルミネーションに溶ける事なく健気に光を放ち続けるのです...。あなたに、気づいてほしくて...。</schema:description>
+    <imas:Whose rdf:resource="Shiraishi_Tsumugi"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Grace_Mermaid%2B">
+    <schema:name xml:lang="ja">グレイスマーメイド+</schema:name>
+    <schema:description xml:lang="ja">「グレイスマーメイド」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Shiraishi_Tsumugi"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Grace_Mermaid%2B%2B">
+    <schema:name xml:lang="ja">グレイスマーメイド++</schema:name>
+    <schema:description xml:lang="ja">「グレイスマーメイド」のアナザー2衣装です。</schema:description>
+    <imas:Whose rdf:resource="Shiraishi_Tsumugi"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Million_Theater_Clothes_Walker">
+    <schema:name xml:lang="ja">ミリオン座衣装(ウォーカー)</schema:name>
+    <schema:description xml:lang="ja">ミリオン座の常連でもある名探偵ウォーカーの衣装。彼が事件を誘うのか、事件が彼を招くのか。真実はいつだって、ただ１つ。</schema:description>
+    <imas:Whose rdf:resource="Shiraishi_Tsumugi"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Million_Theater_Clothes_Walker%2B">
+    <schema:name xml:lang="ja">ミリオン座衣装(ウォーカー)+</schema:name>
+    <schema:description xml:lang="ja">「ミリオン座衣装(ウォーカー)」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Shiraishi_Tsumugi"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Celebrate_Miyabi">
+    <schema:name xml:lang="ja">セレブレイト・ミヤビ</schema:name>
+    <schema:description xml:lang="ja">純白の衣を彩る艶やかな赤と金、添えられるのはホワイトローズ。和洋折衷の美しいドレスを身に纏い、特別なこの日を迎えます。</schema:description>
+    <imas:Whose rdf:resource="Shiraishi_Tsumugi"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Celebrate_Miyabi%2B">
+    <schema:name xml:lang="ja">セレブレイト・ミヤビ+</schema:name>
+    <schema:description xml:lang="ja">「セレブレイト・ミヤビ」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Shiraishi_Tsumugi"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Chanson_Sirene">
+    <schema:name xml:lang="ja">シャンソン・シレーヌ</schema:name>
+    <schema:description xml:lang="ja">カモメや潮風と戯れながら、光る波打ち際を軽い足取りで歩く。その姿は自由に陸を上がることを許された幸せな人魚姫のよう...。</schema:description>
+    <imas:Whose rdf:resource="Shiraishi_Tsumugi"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Chanson_Sirene%2B">
+    <schema:name xml:lang="ja">シャンソン・シレーヌ+</schema:name>
+    <schema:description xml:lang="ja">「シャンソン・シレーヌ」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Shiraishi_Tsumugi"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Fancy_A_La_Mode">
+    <schema:name xml:lang="ja">ファンシーアラモード</schema:name>
+    <schema:description xml:lang="ja">お菓子の世界から飛び出したような、プリティなドレス☆それはまるで甘い甘いスイーツのように皆を笑顔にしちゃいます♪</schema:description>
+    <imas:Whose rdf:resource="Suou_Momoko"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Fancy_A_La_Mode%2B">
+    <schema:name xml:lang="ja">ファンシーアラモード+</schema:name>
+    <schema:description xml:lang="ja">「ファンシーアラモード」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Suou_Momoko"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Fancy_A_La_Mode%2B%2B">
+    <schema:name xml:lang="ja">ファンシーアラモード++</schema:name>
+    <schema:description xml:lang="ja">「ファンシーアラモード」のアナザー2衣装です。</schema:description>
+    <imas:Whose rdf:resource="Suou_Momoko"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Irodori_Yumegasane">
+    <schema:name xml:lang="ja">彩り夢がさね</schema:name>
+    <schema:description xml:lang="ja">十二単を思わせる、和テイストたっぷりの色鮮やかなドレス。絵巻を紐解けば、広がるのはちょっぴり大人の恋物語...。</schema:description>
+    <imas:Whose rdf:resource="Suou_Momoko"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Irodori_Yumegasane%2B">
+    <schema:name xml:lang="ja">彩り夢がさね+</schema:name>
+    <schema:description xml:lang="ja">「彩り夢がさね」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Suou_Momoko"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Going_Charmmy">
+    <schema:name xml:lang="ja">ゴーイングチャーミィ</schema:name>
+    <schema:description xml:lang="ja">フレー！フレー！お腹の底から声出して、気持ちを伝えたい☆自分を信じて、頑張っているアナタは誰よりもキラキラだよ！</schema:description>
+    <imas:Whose rdf:resource="Suou_Momoko"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Going_Charmmy%2B">
+    <schema:name xml:lang="ja">ゴーイングチャーミィ+</schema:name>
+    <schema:description xml:lang="ja">「ゴーイングチャーミィ」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Suou_Momoko"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Melty_Fang">
+    <schema:name xml:lang="ja">メルティ・ファング</schema:name>
+    <schema:description xml:lang="ja">私はヴァンパイア。人智を超えた気高き闇の眷属...。怖いでしょ？逃げようなんて考えないで。夜が明けるまで、一緒にいてあげる！</schema:description>
+    <imas:Whose rdf:resource="Suou_Momoko"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Melty_Fang%2B">
+    <schema:name xml:lang="ja">メルティ・ファング+</schema:name>
+    <schema:description xml:lang="ja">「メルティ・ファング」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Suou_Momoko"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Gatto_Marciale">
+    <schema:name xml:lang="ja">ガット・マルチャーレ</schema:name>
+    <schema:description xml:lang="ja">夜の遊園地に鈴の音をひとつ。ネコさんたちの秘密のパレード、いかがかニャ？響き渡る楽しい歌声の行進は、まだまだ続く...♪</schema:description>
+    <imas:Whose rdf:resource="Suou_Momoko"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Gatto_Marciale%2B">
+    <schema:name xml:lang="ja">ガット・マルチャーレ+</schema:name>
+    <schema:description xml:lang="ja">「ガット・マルチャーレ」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Suou_Momoko"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Le_Ciel_Eternal">
+    <schema:name xml:lang="ja">ル・シエル・エターナル</schema:name>
+    <schema:description xml:lang="ja">美しい青をキュートで爽やかに使用した衣装。流れるようにあしらわれたリボンが、限りなく続く空を優雅に表現している。</schema:description>
+    <imas:Whose rdf:resource="Tenkubashi_Tomoka"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Le_Ciel_Eternal%2B">
+    <schema:name xml:lang="ja">ル・シエル・エターナル+</schema:name>
+    <schema:description xml:lang="ja">「ル・シエル・エターナル」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Tenkubashi_Tomoka"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Le_Ciel_Eternal%2B%2B">
+    <schema:name xml:lang="ja">ル・シエル・エターナル++</schema:name>
+    <schema:description xml:lang="ja">「ル・シエル・エターナル」のアナザー2衣装です。</schema:description>
+    <imas:Whose rdf:resource="Tenkubashi_Tomoka"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Knights_Of_Temperance">
+    <schema:name xml:lang="ja">ナイツ・オブ・テンペランス</schema:name>
+    <schema:description xml:lang="ja">天の恵みのような慈しみに満ちた聖なるドレス。知っていますか？誰かに愛される喜びを。それにも勝る、誰かを愛する喜びを...。</schema:description>
+    <imas:Whose rdf:resource="Tenkubashi_Tomoka"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Knights_Of_Temperance%2B">
+    <schema:name xml:lang="ja">ナイツ・オブ・テンペランス+</schema:name>
+    <schema:description xml:lang="ja">「ナイツ・オブ・テンペランス」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Tenkubashi_Tomoka"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Flower_Temptation">
+    <schema:name xml:lang="ja">フラワー・テンプテーション</schema:name>
+    <schema:description xml:lang="ja">芽吹きのフレッシュグリーンが映える、エレガントな春の妖精のドレス。花に誘われた可憐な蝶が帽子にそっと、佇んでいます。</schema:description>
+    <imas:Whose rdf:resource="Tenkubashi_Tomoka"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Flower_Temptation%2B">
+    <schema:name xml:lang="ja">フラワー・テンプテーション+</schema:name>
+    <schema:description xml:lang="ja">「フラワー・テンプテーション」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Tenkubashi_Tomoka"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Madonna_Pop">
+    <schema:name xml:lang="ja">マドンナ・ポップ</schema:name>
+    <schema:description xml:lang="ja">子豚ちゃんを想う真摯さを、泡のように気高く包み込んだ衣装。聖母が両手にこめた愛、取り零すことなく味わってくださいね...♡</schema:description>
+    <imas:Whose rdf:resource="Tenkubashi_Tomoka"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Madonna_Pop%2B">
+    <schema:name xml:lang="ja">マドンナ・ポップ+</schema:name>
+    <schema:description xml:lang="ja">「マドンナ・ポップ」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Tenkubashi_Tomoka"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Garlish_Discotti">
+    <schema:name xml:lang="ja">ガーリッシュディスコッティ</schema:name>
+    <schema:description xml:lang="ja">テーマはクール＆ガーリー！ミラーボールが放つキラメキに負けないくらい輝きを放てば、今日のステージは私のもの♪</schema:description>
+    <imas:Whose rdf:resource="Tokoro_Megumi"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Garlish_Discotti%2B">
+    <schema:name xml:lang="ja">ガーリッシュディスコッティ+</schema:name>
+    <schema:description xml:lang="ja">「ガーリッシュディスコッティ」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Tokoro_Megumi"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Garlish_Discotti%2B%2B">
+    <schema:name xml:lang="ja">ガーリッシュディスコッティ++</schema:name>
+    <schema:description xml:lang="ja">「ガーリッシュディスコッティ」のアナザー2衣装です。</schema:description>
+    <imas:Whose rdf:resource="Tokoro_Megumi"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Hearty_Neophilia">
+    <schema:name xml:lang="ja">ハーティーネオフィリア</schema:name>
+    <schema:description xml:lang="ja">トレンドに敏感なおしゃれガールもワクワクしちゃう、キュートなドレス。女の子の「カワイイ！」をぎゅぎゅっと詰め込みました☆</schema:description>
+    <imas:Whose rdf:resource="Tokoro_Megumi"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Hearty_Neophilia%2B">
+    <schema:name xml:lang="ja">ハーティーネオフィリア+</schema:name>
+    <schema:description xml:lang="ja">「ハーティーネオフィリア」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Tokoro_Megumi"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Wing_Of_Tristar">
+    <schema:name xml:lang="ja">ウイングオブトライスター</schema:name>
+    <schema:description xml:lang="ja">夜空に輝く3つ星が目指す、誰も見たことのない景色。軽やかに羽ばたく翼に仲間たちの笑顔を乗せて、どこまでも高く、遠く。</schema:description>
+    <imas:Whose rdf:resource="Tokoro_Megumi"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Wing_Of_Tristar%2B">
+    <schema:name xml:lang="ja">ウイングオブトライスター+</schema:name>
+    <schema:description xml:lang="ja">「ウイングオブトライスター」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Tokoro_Megumi"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Thousand_Arabian">
+    <schema:name xml:lang="ja">サウザンド・アラビアン</schema:name>
+    <schema:description xml:lang="ja">濃紫の生地に金の装飾が施されたアラビアンな衣装。セクシーな踊り子とともに、熱砂の都で千一夜踊り明かしましょう。</schema:description>
+    <imas:Whose rdf:resource="Tokoro_Megumi"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Thousand_Arabian%2B">
+    <schema:name xml:lang="ja">サウザンド・アラビアン+</schema:name>
+    <schema:description xml:lang="ja">「サウザンド・アラビアン」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Tokoro_Megumi"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Rainy_Glow">
+    <schema:name xml:lang="ja">レイニー・グロウ</schema:name>
+    <schema:description xml:lang="ja">綺麗なツバサが自慢の青い鳥。1度は雨で飛べなくなっちゃったけど、助けてくれた友達のために再び空を舞ってみせるのでした♪</schema:description>
+    <imas:Whose rdf:resource="Tokoro_Megumi"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Rainy_Glow%2B">
+    <schema:name xml:lang="ja">レイニー・グロウ+</schema:name>
+    <schema:description xml:lang="ja">「レイニー・グロウ」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Tokoro_Megumi"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="G_S_H">
+    <schema:name xml:lang="ja">G☆S☆H</schema:name>
+    <schema:description xml:lang="ja">爽やかな青を基調としたドレス。ちょこっと元気が足りない日は、満点笑顔のホームランで、君を誰よりも元気にしてあげるよ！</schema:description>
+    <imas:Whose rdf:resource="Nagayoshi_Subaru"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="G_S_H%2B">
+    <schema:name xml:lang="ja">G☆S☆H+</schema:name>
+    <schema:description xml:lang="ja">「G☆S☆H」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Nagayoshi_Subaru"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="G_S_H%2B%2B">
+    <schema:name xml:lang="ja">G☆S☆H++</schema:name>
+    <schema:description xml:lang="ja">「G☆S☆H」のアナザー2衣装です。</schema:description>
+    <imas:Whose rdf:resource="Nagayoshi_Subaru"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Master_Of_Chocolat">
+    <schema:name xml:lang="ja">マスター・オブ・ショコラ</schema:name>
+    <schema:description xml:lang="ja">カカオが香る招待状をもらったらショコラカラーのシックな正装にチェンジ！君へのチョコレートをもって、パーティへ出かけよう♪</schema:description>
+    <imas:Whose rdf:resource="Nagayoshi_Subaru"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Master_Of_Chocolat%2B">
+    <schema:name xml:lang="ja">マスター・オブ・ショコラ+</schema:name>
+    <schema:description xml:lang="ja">「マスター・オブ・ショコラ」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Nagayoshi_Subaru"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Otoginokuni_No_Ouji_Isho">
+    <schema:name xml:lang="ja">おとぎの国の王子衣装</schema:name>
+    <schema:description xml:lang="ja">記憶を取り戻した若い旅人さん。その謎めいた正体は...民を愛し、民に愛される、ハッピーエンドの似合うステキな王子様でした。</schema:description>
+    <imas:Whose rdf:resource="Nagayoshi_Subaru"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Otoginokuni_No_Ouji_Isho%2B">
+    <schema:name xml:lang="ja">おとぎの国の王子衣装+</schema:name>
+    <schema:description xml:lang="ja">「おとぎの国の王子衣装」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Nagayoshi_Subaru"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Purity_Emerald">
+    <schema:name xml:lang="ja">ピュリティエメラルド</schema:name>
+    <schema:description xml:lang="ja">誰だって、大切な人にはいつでも笑顔でいてほしいもの。かわいいリボンとフリルに想いをのせて祈ります。...早く元気にな〜れ！</schema:description>
+    <imas:Whose rdf:resource="Nagayoshi_Subaru"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Purity_Emerald%2B">
+    <schema:name xml:lang="ja">ピュリティエメラルド+</schema:name>
+    <schema:description xml:lang="ja">「ピュリティエメラルド」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Nagayoshi_Subaru"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Elegance_Bright">
+    <schema:name xml:lang="ja">エレガンスブライト</schema:name>
+    <schema:description xml:lang="ja">それは優雅に羽ばたく蝶のよう...上品に閃くオレンジ色が印象的なエレガントな衣装。軽やかに舞うレディを絵画のように彩ります。</schema:description>
+    <imas:Whose rdf:resource="Nikaido_Chizuru"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Elegance_Bright%2B">
+    <schema:name xml:lang="ja">エレガンスブライト+</schema:name>
+    <schema:description xml:lang="ja">「エレガンスブライト」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Nikaido_Chizuru"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Elegance_Bright%2B%2B">
+    <schema:name xml:lang="ja">エレガンスブライト++</schema:name>
+    <schema:description xml:lang="ja">「エレガンスブライト」のアナザー2衣装です。</schema:description>
+    <imas:Whose rdf:resource="Nikaido_Chizuru"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Bergamot_Hibiscus">
+    <schema:name xml:lang="ja">ベルガモット・ハイビスカス</schema:name>
+    <schema:description xml:lang="ja">パッションカラーの水着を上品なワンピース風に仕立てました。浜辺を歩くとふわりと広がる裾は海風のおちゃめなイタズラ...♪</schema:description>
+    <imas:Whose rdf:resource="Nikaido_Chizuru"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Bergamot_Hibiscus%2B">
+    <schema:name xml:lang="ja">ベルガモット・ハイビスカス+</schema:name>
+    <schema:description xml:lang="ja">「ベルガモット・ハイビスカス」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Nikaido_Chizuru"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Prism_Grace">
+    <schema:name xml:lang="ja">プリズム・グレイス</schema:name>
+    <schema:description xml:lang="ja">七色の輝きを閉じこめたドレスを纏い、女神は歌い始める。聖なるひととき、彼女が愛する世界を祝福で包み込むために。</schema:description>
+    <imas:Whose rdf:resource="Nikaido_Chizuru"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Prism_Grace%2B">
+    <schema:name xml:lang="ja">プリズム・グレイス+</schema:name>
+    <schema:description xml:lang="ja">「プリズム・グレイス」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Nikaido_Chizuru"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Tasogareno_Fuchi_Onna_Syujin">
+    <schema:name xml:lang="ja">誰ソ彼ノ淵・女主人</schema:name>
+    <schema:description xml:lang="ja">新鮮な食材で調理されたソレを前に、美貌の女主人は会話に花を咲かせ、満悦の表情を浮かべる。その真意を仮面に潜めながら...。</schema:description>
+    <imas:Whose rdf:resource="Nikaido_Chizuru"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Tasogareno_Fuchi_Onna_Syujin%2B">
+    <schema:name xml:lang="ja">誰ソ彼ノ淵・女主人+</schema:name>
+    <schema:description xml:lang="ja">「誰ソ彼ノ淵・女主人」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Nikaido_Chizuru"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Shaking_Beat">
+    <schema:name xml:lang="ja">シェイキングビート！</schema:name>
+    <schema:description xml:lang="ja">クールなミュージックが流れたらそこはいつだってホットサマー！リズムに合わせて揺れるアクセがハートビートをシェイキング！</schema:description>
+    <imas:Whose rdf:resource="Maihama_Ayumu"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Shaking_Beat%2B">
+    <schema:name xml:lang="ja">シェイキングビート！+</schema:name>
+    <schema:description xml:lang="ja">「シェイキングビート！」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Maihama_Ayumu"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Shaking_Beat%2B%2B">
+    <schema:name xml:lang="ja">シェイキングビート！++</schema:name>
+    <schema:description xml:lang="ja">「シェイキングビート！」のアナザー2衣装です。</schema:description>
+    <imas:Whose rdf:resource="Maihama_Ayumu"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Darkness_Amethyst">
+    <schema:name xml:lang="ja">ダークネス・アメジスト</schema:name>
+    <schema:description xml:lang="ja">闇に溶ける紫水晶をイメージしたドレス。その深く、ひそやかな輝きに触れた時、貴方は永遠の囚われ人となるでしょう...。</schema:description>
+    <imas:Whose rdf:resource="Maihama_Ayumu"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Darkness_Amethyst%2B">
+    <schema:name xml:lang="ja">ダークネス・アメジスト+</schema:name>
+    <schema:description xml:lang="ja">「ダークネス・アメジスト」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Maihama_Ayumu"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Dramatic_Scene">
+    <schema:name xml:lang="ja">ドラマティックシーン</schema:name>
+    <schema:description xml:lang="ja">ショータイムに胸は躍る。最高のパフォーマンスを披露しよう！後悔なんてさせないから、どうかフィナーレまで、じっと見届けて。</schema:description>
+    <imas:Whose rdf:resource="Maihama_Ayumu"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Dramatic_Scene%2B">
+    <schema:name xml:lang="ja">ドラマティックシーン+</schema:name>
+    <schema:description xml:lang="ja">「ドラマティックシーン」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Maihama_Ayumu"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="My_Only_Casual_Ayumu">
+    <schema:name xml:lang="ja">マイオンリーカジュアル</schema:name>
+    <schema:description xml:lang="ja">ハッピーバースデー！歩の誕生日を記念して作られたオンリーワンデザインのTシャツ。祝ってくれて嬉しいよ！サンキュー！</schema:description>
+    <imas:Whose rdf:resource="Maihama_Ayumu"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Nineteen_Love">
+    <schema:name xml:lang="ja">ナインティーン・ラブ</schema:name>
+    <schema:description xml:lang="ja">テニスボールデザインのリボンを添えた、キュートな衣装。白熱した勝負の後に思わず零れた涙は、重ねてきた努力の、輝く結晶...！</schema:description>
+    <imas:Whose rdf:resource="Maihama_Ayumu"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Nineteen_Love%2B">
+    <schema:name xml:lang="ja">ナインティーン・ラブ+</schema:name>
+    <schema:description xml:lang="ja">「ナインティーン・ラブ」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Maihama_Ayumu"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Truely_Magic">
+    <schema:name xml:lang="ja">トゥルーリーマジック</schema:name>
+    <schema:description xml:lang="ja">紫のリボンがキュートな衣装。魔法をシルクハットに詰め込んで今宵は貴方を、ひとときの楽しいミラクルショータイムへご招待☆</schema:description>
+    <imas:Whose rdf:resource="Makabe_Mizuki"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Truely_Magic%2B">
+    <schema:name xml:lang="ja">トゥルーリーマジック+</schema:name>
+    <schema:description xml:lang="ja">「トゥルーリーマジック」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Makabe_Mizuki"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Truely_Magic%2B%2B">
+    <schema:name xml:lang="ja">トゥルーリーマジック++</schema:name>
+    <schema:description xml:lang="ja">「トゥルーリーマジック」のアナザー2衣装です。</schema:description>
+    <imas:Whose rdf:resource="Makabe_Mizuki"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Million_Theater_Clothes_Mills">
+    <schema:name xml:lang="ja">ミリオン座衣装(ミルズ)</schema:name>
+    <schema:description xml:lang="ja">ミリオン座の支配人、ミルズの衣装。裏方に徹した佇まいだが、その心の内に渦巻く感情は誰にも窺い知ることは出来ない...。</schema:description>
+    <imas:Whose rdf:resource="Makabe_Mizuki"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Million_Theater_Clothes_Mills%2B">
+    <schema:name xml:lang="ja">ミリオン座衣装(ミルズ)+</schema:name>
+    <schema:description xml:lang="ja">「ミリオン座衣装(ミルズ)」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Makabe_Mizuki"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Dolphin_Surfer">
+    <schema:name xml:lang="ja">ドルフィンサーファー</schema:name>
+    <schema:description xml:lang="ja">大波に乗って特大ジャンプッ！かわいいイルカたちの、クジラにも負けないダイナミックなショータイムをお楽しみあれ♪</schema:description>
+    <imas:Whose rdf:resource="Makabe_Mizuki"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Dolphin_Surfer%2B">
+    <schema:name xml:lang="ja">ドルフィンサーファー+</schema:name>
+    <schema:description xml:lang="ja">「ドルフィンサーファー」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Makabe_Mizuki"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Secret_LOVE">
+    <schema:name xml:lang="ja">シークレット・“LOVE”</schema:name>
+    <schema:description xml:lang="ja">貴方に、会える。心を、伝える。そう、私らしく...準備オーケー。胸に浮かぶいつもの気持ちは、なんだか痛くて...少しスイート。</schema:description>
+    <imas:Whose rdf:resource="Makabe_Mizuki"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Secret_LOVE%2B">
+    <schema:name xml:lang="ja">シークレット・“LOVE”+</schema:name>
+    <schema:description xml:lang="ja">「シークレット・“LOVE”」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Makabe_Mizuki"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Cuty_Little_Witch">
+    <schema:name xml:lang="ja">キューティーリトルウィッチ</schema:name>
+    <schema:description xml:lang="ja">女の子は可愛いだけじゃダメ♪ピンクにブラックを添えてちょっぴり大人に変身したら、今宵はどの子を誘惑しちゃう？</schema:description>
+    <imas:Whose rdf:resource="Minase_Iori"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Cuty_Little_Witch%2B">
+    <schema:name xml:lang="ja">キューティーリトルウィッチ+</schema:name>
+    <schema:description xml:lang="ja">「キューティーリトルウィッチ」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Minase_Iori"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Cuty_Little_Witch%2B%2B">
+    <schema:name xml:lang="ja">キューティーリトルウィッチ++</schema:name>
+    <schema:description xml:lang="ja">「キューティーリトルウィッチ」のアナザー2衣装です。</schema:description>
+    <imas:Whose rdf:resource="Minase_Iori"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Rose_Show_Celebrate">
+    <schema:name xml:lang="ja">ローズシャワー・セレブレイト</schema:name>
+    <schema:description xml:lang="ja">踊るたびにバラの香りが漂う、キュートでエレガンスなドレス。まるで、降り注ぐバラの花びらたちが祝福しているかのよう。</schema:description>
+    <imas:Whose rdf:resource="Minase_Iori"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Rose_Show_Celebrate%2B">
+    <schema:name xml:lang="ja">ローズシャワー・セレブレイト+</schema:name>
+    <schema:description xml:lang="ja">「ローズシャワー・セレブレイト」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Minase_Iori"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Rose_Show_Celebrate%2B%2B">
+    <schema:name xml:lang="ja">ローズシャワー・セレブレイト++</schema:name>
+    <schema:description xml:lang="ja">「ローズシャワー・セレブレイト」のアナザー2衣装です。</schema:description>
+    <imas:Whose rdf:resource="Minase_Iori"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Artemis_Usachan">
+    <schema:name xml:lang="ja">アルテミス・ウサチャン</schema:name>
+    <schema:description xml:lang="ja">降り注ぐ月光はステージライト。月明かりに誘われて跳ねる可愛いうさぎと、幻想的な月夜の光景を表現したロマンティックな衣装。</schema:description>
+    <imas:Whose rdf:resource="Minase_Iori"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Artemis_Usachan%2B">
+    <schema:name xml:lang="ja">アルテミス・ウサチャン+</schema:name>
+    <schema:description xml:lang="ja">「アルテミス・ウサチャン」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Minase_Iori"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="New_Age_Star">
+    <schema:name xml:lang="ja">ニューエイジ・スタア</schema:name>
+    <schema:description xml:lang="ja">和洋の伝統がまじり合う大正の舞台でひときわ輝く若手スタア。無二の煌めきは、まるで新たな時代の幕開けを告げているよう。</schema:description>
+    <imas:Whose rdf:resource="Minase_Iori"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="New_Age_Star%2B">
+    <schema:name xml:lang="ja">ニューエイジ・スタア+</schema:name>
+    <schema:description xml:lang="ja">「ニューエイジ・スタア」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Minase_Iori"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Playback_Weekday">
+    <schema:name xml:lang="ja">プレイバック・ウィークデイ</schema:name>
+    <schema:description xml:lang="ja">過去と今は繋がっているから。レッドカーペットのような気高いドレスの少女は、輝く未来をもそのフィルムに焼き付けていく。</schema:description>
+    <imas:Whose rdf:resource="Minase_Iori"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Playback_Weekday%2B">
+    <schema:name xml:lang="ja">プレイバック・ウィークデイ+</schema:name>
+    <schema:description xml:lang="ja">「プレイバック・ウィークデイ」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Minase_Iori"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mystic_Aurora">
+    <schema:name xml:lang="ja">ミスティックオーロラ</schema:name>
+    <schema:description xml:lang="ja">優雅に人々を魅了するオーロラをイメージしたドレス。美しいグラデーションが、アイドルの魅力をより引き立たせます。</schema:description>
+    <imas:Whose rdf:resource="Mogami_Shizuka"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mystic_Aurora%2B">
+    <schema:name xml:lang="ja">ミスティックオーロラ+</schema:name>
+    <schema:description xml:lang="ja">「ミスティックオーロラ」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Mogami_Shizuka"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mystic_Aurora%2B%2B">
+    <schema:name xml:lang="ja">ミスティックオーロラ++</schema:name>
+    <schema:description xml:lang="ja">「ミスティックオーロラ」のアナザー2衣装です。</schema:description>
+    <imas:Whose rdf:resource="Mogami_Shizuka"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sacred_Lotus">
+    <schema:name xml:lang="ja">セイクリッド・ロータス</schema:name>
+    <schema:description xml:lang="ja">水面に浮かぶ冷静沈着な蓮の花。たとえ気づかれなくても、そっと見守る控えめな愛は、優しい色の幻想的なドレスになりました。</schema:description>
+    <imas:Whose rdf:resource="Mogami_Shizuka"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sacred_Lotus%2B">
+    <schema:name xml:lang="ja">セイクリッド・ロータス+</schema:name>
+    <schema:description xml:lang="ja">「セイクリッド・ロータス」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Mogami_Shizuka"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sacred_Lotus%2B%2B">
+    <schema:name xml:lang="ja">セイクリッド・ロータス++</schema:name>
+    <schema:description xml:lang="ja">「セイクリッド・ロータス」のアナザー2衣装です。</schema:description>
+    <imas:Whose rdf:resource="Mogami_Shizuka"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Yell_And_Yell">
+    <schema:name xml:lang="ja">エール＆エール</schema:name>
+    <schema:description xml:lang="ja">ストイックな黒い団服に袖通し、紅蓮のハチマキきりりと締めて。厳しくやさしい応援団長が、あなたを全身全霊応援します！</schema:description>
+    <imas:Whose rdf:resource="Mogami_Shizuka"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Yell_And_Yell%2B">
+    <schema:name xml:lang="ja">エール＆エール+</schema:name>
+    <schema:description xml:lang="ja">「エール＆エール」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Mogami_Shizuka"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Senzai_Ranka">
+    <schema:name xml:lang="ja">千載蘭歌</schema:name>
+    <schema:description xml:lang="ja">三十一文字に綴られた私の想い、届いたでしょうか...。便利な今の時代もいいけれど、時には古風に気持ちを表してみるのはいかが？</schema:description>
+    <imas:Whose rdf:resource="Mogami_Shizuka"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Senzai_Ranka%2B">
+    <schema:name xml:lang="ja">千載蘭歌+</schema:name>
+    <schema:description xml:lang="ja">「千載蘭歌」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Mogami_Shizuka"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Next_Dream_Stage">
+    <schema:name xml:lang="ja">ネクストドリームステージ</schema:name>
+    <schema:description xml:lang="ja">時間が止まる事は無くても、確実に夢に向かっているはずだから。明るい空の色に彩られた少女は、新たな未来への扉に手をかける。</schema:description>
+    <imas:Whose rdf:resource="Mogami_Shizuka"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Next_Dream_Stage%2B">
+    <schema:name xml:lang="ja">ネクストドリームステージ+</schema:name>
+    <schema:description xml:lang="ja">「ネクストドリームステージ」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Mogami_Shizuka"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Charming_Flutter">
+    <schema:name xml:lang="ja">チャーミングフラッター</schema:name>
+    <schema:description xml:lang="ja">キュートなピンクですら、妖艶な変えてしまうセクシーなドレス。ひらひらと舞うフリルが、優雅なステージへと引き込むでしょう。</schema:description>
+    <imas:Whose rdf:resource="Momose_Rio"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Charming_Flutter%2B">
+    <schema:name xml:lang="ja">チャーミングフラッター+</schema:name>
+    <schema:description xml:lang="ja">「チャーミングフラッター」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Momose_Rio"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Charming_Flutter%2B%2B">
+    <schema:name xml:lang="ja">チャーミングフラッター++</schema:name>
+    <schema:description xml:lang="ja">「チャーミングフラッター」のアナザー2衣装です。</schema:description>
+    <imas:Whose rdf:resource="Momose_Rio"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Soraneko_Coffee_Ten_Yuri_Coordination">
+    <schema:name xml:lang="ja">空猫珈琲店 悠利コーデ</schema:name>
+    <schema:description xml:lang="ja">三姉妹の店、空猫珈琲店を訪れた青年の衣装。胸をあたためるのは挽きたての珈琲。そして、誰より想いを秘めた、切ない恋心。</schema:description>
+    <imas:Whose rdf:resource="Momose_Rio"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Soraneko_Coffee_Ten_Yuri_Coordination%2B">
+    <schema:name xml:lang="ja">空猫珈琲店 悠利コーデ+</schema:name>
+    <schema:description xml:lang="ja">「空猫珈琲店 悠利コーデ」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Momose_Rio"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Holy_Resurrection">
+    <schema:name xml:lang="ja">ホーリー・リザレクション</schema:name>
+    <schema:description xml:lang="ja">気高きエルフの戦士が纏う装束。古代の神聖な力が宿っており、あらゆる邪悪な力から戦士の体と魂を守る、という伝承がある。</schema:description>
+    <imas:Whose rdf:resource="Momose_Rio"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Holy_Resurrection%2B">
+    <schema:name xml:lang="ja">ホーリー・リザレクション+</schema:name>
+    <schema:description xml:lang="ja">「ホーリー・リザレクション」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Momose_Rio"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Drowning_In_Love">
+    <schema:name xml:lang="ja">ドラウニング・イン・ラブ</schema:name>
+    <schema:description xml:lang="ja">あなたに会いたい...伝えたい...。送信未遂のメールは増える一方。切ない恋心は未だ届くことなく、美しいドレスに包まれたまま...。</schema:description>
+    <imas:Whose rdf:resource="Momose_Rio"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Drowning_In_Love%2B">
+    <schema:name xml:lang="ja">ドラウニング・イン・ラブ+</schema:name>
+    <schema:description xml:lang="ja">「ドラウニング・イン・ラブ」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Momose_Rio"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Atractive_Roco_World">
+    <schema:name xml:lang="ja">アトラクティブ☆ロコワールド</schema:name>
+    <schema:description xml:lang="ja">平凡？風変わり？なんだってノープロブレム！ありのままの自分をエクスプレッションすることがアートなの！</schema:description>
+    <imas:Whose rdf:resource="Handa_Roco"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Atractive_Roco_World%2B">
+    <schema:name xml:lang="ja">アトラクティブ☆ロコワールド+</schema:name>
+    <schema:description xml:lang="ja">「アトラクティブ☆ロコワールド」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Handa_Roco"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Atractive_Roco_World%2B%2B">
+    <schema:name xml:lang="ja">アトラクティブ☆ロコワールド++</schema:name>
+    <schema:description xml:lang="ja">「アトラクティブ☆ロコワールド」のアナザー2衣装です。</schema:description>
+    <imas:Whose rdf:resource="Handa_Roco"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Cherish_Bride">
+    <schema:name xml:lang="ja">チェリッシュブライド</schema:name>
+    <schema:description xml:lang="ja">チャペルの窓からのぞく白い雲と晴れやかな青空のように爽やかなウェディングドレス風衣装。さあハッピーな明日をクリエイト！</schema:description>
+    <imas:Whose rdf:resource="Handa_Roco"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Cherish_Bride%2B">
+    <schema:name xml:lang="ja">チェリッシュブライド+</schema:name>
+    <schema:description xml:lang="ja">「チェリッシュブライド」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Handa_Roco"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Carnelian_Tail">
+    <schema:name xml:lang="ja">カーネリアンテイル</schema:name>
+    <schema:description xml:lang="ja">ふいに空を見上げたとき、視界に映ったのは鮮烈なカーネリアン。それは、太陽の鱗を煌めかせ、軽やかに大空を泳ぐ自由の魚。</schema:description>
+    <imas:Whose rdf:resource="Handa_Roco"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Carnelian_Tail%2B">
+    <schema:name xml:lang="ja">カーネリアンテイル+</schema:name>
+    <schema:description xml:lang="ja">「カーネリアンテイル」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Handa_Roco"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Imperial_Swimsuit_Hana_Petit">
+    <schema:name xml:lang="ja">インペリアルスイムスーツ・花</schema:name>
+    <schema:description xml:lang="ja">帝花女学院、超ビーチバレー部プチキングの水着。孤高の王者の背中を追い続けるのは、彼女の技と生き様に魅せられたから...。</schema:description>
+    <imas:Whose rdf:resource="Handa_Roco"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Breakthrough_Buddy">
+    <schema:name xml:lang="ja">ブレイクスルー・バディ</schema:name>
+    <schema:description xml:lang="ja">普段は真面目な優等生。でも悪友のあのコと一緒なら...大変身！？この新たなコスチュームで、私も知らない新たな私、ここに誕生！</schema:description>
+    <imas:Whose rdf:resource="Handa_Roco"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Breakthrough_Buddy%2B">
+    <schema:name xml:lang="ja">ブレイクスルー・バディ+</schema:name>
+    <schema:description xml:lang="ja">「ブレイクスルー・バディ」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Handa_Roco"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Little_Temptation">
+    <schema:name xml:lang="ja">リトルテンプテーション</schema:name>
+    <schema:description xml:lang="ja">ロックなカッコよさとキュートなチェック柄。背中に背負った小さな羽は、小悪魔ガールのチャームポイント♪</schema:description>
+    <imas:Whose rdf:resource="Ibuki_Tsubasa"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Little_Temptation%2B">
+    <schema:name xml:lang="ja">リトルテンプテーション+</schema:name>
+    <schema:description xml:lang="ja">「リトルテンプテーション」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Ibuki_Tsubasa"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Little_Temptation%2B%2B">
+    <schema:name xml:lang="ja">リトルテンプテーション++</schema:name>
+    <schema:description xml:lang="ja">「リトルテンプテーション」のアナザー2衣装です。</schema:description>
+    <imas:Whose rdf:resource="Ibuki_Tsubasa"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Himawari_Komachi">
+    <schema:name xml:lang="ja">ひまわり小町</schema:name>
+    <schema:description xml:lang="ja">初夏の香りを纏った夏色ドレス。無邪気な中に織り交ぜた、温かなデザインは、あなたを優しく包み癒してくれることでしょう...。</schema:description>
+    <imas:Whose rdf:resource="Ibuki_Tsubasa"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Himawari_Komachi%2B">
+    <schema:name xml:lang="ja">ひまわり小町+</schema:name>
+    <schema:description xml:lang="ja">「ひまわり小町」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Ibuki_Tsubasa"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Himawari_Komachi%2B%2B">
+    <schema:name xml:lang="ja">ひまわり小町++</schema:name>
+    <schema:description xml:lang="ja">「ひまわり小町」のアナザー2衣装です。</schema:description>
+    <imas:Whose rdf:resource="Ibuki_Tsubasa"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sunny_Ocean">
+    <schema:name xml:lang="ja">サニーオーシャン</schema:name>
+    <schema:description xml:lang="ja">真夏の太陽にキラキラ輝く水面。見てるだけなんてナシだよね？ねえ、一緒に飛び込んじゃお☆レッツ・エンジョイ・サマー！</schema:description>
+    <imas:Whose rdf:resource="Ibuki_Tsubasa"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sunny_Ocean%2B">
+    <schema:name xml:lang="ja">サニーオーシャン+</schema:name>
+    <schema:description xml:lang="ja">「サニーオーシャン」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Ibuki_Tsubasa"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Reversi_Hunting">
+    <schema:name xml:lang="ja">リバーシ・ハンティング</schema:name>
+    <schema:description xml:lang="ja">ハンターたちとの追いかけっこはもう終わり。今度はこっちの番！セクシーでクールなスーツに身を包み、狙った獲物は逃さない♪</schema:description>
+    <imas:Whose rdf:resource="Ibuki_Tsubasa"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Reversi_Hunting%2B">
+    <schema:name xml:lang="ja">リバーシ・ハンティング+</schema:name>
+    <schema:description xml:lang="ja">「リバーシ・ハンティング」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Ibuki_Tsubasa"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="My_Only_Casual_Tsubasa">
+    <schema:name xml:lang="ja">マイオンリーカジュアル</schema:name>
+    <schema:description xml:lang="ja">ハッピーバースデー！翼の誕生日を記念して作られたオンリーワンデザインのTシャツ。お祝い、ありがと〜♪ねぇ、かわいい？</schema:description>
+    <imas:Whose rdf:resource="Ibuki_Tsubasa"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Brazing_Sunshine">
+    <schema:name xml:lang="ja">ブレイジングサンシャイン</schema:name>
+    <schema:description xml:lang="ja">元気いっぱいビタミンカラー！見てるだけでワクワクエネルギーをチャージ出来そうな衣装に、太陽も嫉妬しちゃうかも！？</schema:description>
+    <imas:Whose rdf:resource="Ogami_Tamaki"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Brazing_Sunshine%2B">
+    <schema:name xml:lang="ja">ブレイジングサンシャイン+</schema:name>
+    <schema:description xml:lang="ja">「ブレイジングサンシャイン」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Ogami_Tamaki"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Brazing_Sunshine%2B%2B">
+    <schema:name xml:lang="ja">ブレイジングサンシャイン++</schema:name>
+    <schema:description xml:lang="ja">「ブレイジングサンシャイン」のアナザー2衣装です。</schema:description>
+    <imas:Whose rdf:resource="Ogami_Tamaki"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Girl_Of_Bungaku">
+    <schema:name xml:lang="ja">ガール・オブ・ブンガク</schema:name>
+    <schema:description xml:lang="ja">知性とかわいさを兼ね備えた、リボンがアクセントの上品なドレス。かかとを鳴らして、本の世界を軽やかに駆け回ろう！</schema:description>
+    <imas:Whose rdf:resource="Ogami_Tamaki"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Girl_Of_Bungaku%2B">
+    <schema:name xml:lang="ja">ガール・オブ・ブンガク+</schema:name>
+    <schema:description xml:lang="ja">「ガール・オブ・ブンガク」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Ogami_Tamaki"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Surprise_Pumpkin">
+    <schema:name xml:lang="ja">サプライズ☆パンプキン</schema:name>
+    <schema:description xml:lang="ja">おばけの森に住むかぼちゃのおばけさん。とっても人懐っこい性格で、人間を脅かせるより、喜ばせる方が得意なんだって！</schema:description>
+    <imas:Whose rdf:resource="Ogami_Tamaki"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Surprise_Pumpkin%2B">
+    <schema:name xml:lang="ja">サプライズ☆パンプキン+</schema:name>
+    <schema:description xml:lang="ja">「サプライズ☆パンプキン」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Ogami_Tamaki"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Cheerful_Smile">
+    <schema:name xml:lang="ja">チアフル♪スマイル！</schema:name>
+    <schema:description xml:lang="ja">毎日を頑張るみんなのために、とびきりのエールを届けるぞー！いっぱい頑張って、いっぱい笑お！隣で、ちゃんと見てるからねっ！</schema:description>
+    <imas:Whose rdf:resource="Ogami_Tamaki"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Cheerful_Smile%2B">
+    <schema:name xml:lang="ja">チアフル♪スマイル！+</schema:name>
+    <schema:description xml:lang="ja">「チアフル♪スマイル！」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Ogami_Tamaki"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Flowery_Breeze">
+    <schema:name xml:lang="ja">フラワリー・ブリーズ</schema:name>
+    <schema:description xml:lang="ja">そよ風が踊りだすような、清楚なドレス。穏やかな風に吹かれて花たちも優しく歌い出す...それは夢の中のパーティータイム♪</schema:description>
+    <imas:Whose rdf:resource="Kitakami_Reika"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Flowery_Breeze%2B">
+    <schema:name xml:lang="ja">フラワリー・ブリーズ+</schema:name>
+    <schema:description xml:lang="ja">「フラワリー・ブリーズ」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Kitakami_Reika"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Flowery_Breeze%2B%2B">
+    <schema:name xml:lang="ja">フラワリー・ブリーズ++</schema:name>
+    <schema:description xml:lang="ja">「フラワリー・ブリーズ」のアナザー2衣装です。</schema:description>
+    <imas:Whose rdf:resource="Kitakami_Reika"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Wonderful_Carol">
+    <schema:name xml:lang="ja">ワンダフルキャロル</schema:name>
+    <schema:description xml:lang="ja">明るいサンタクロースの歌が白銀の街に響き渡る時、人々はとびきりの喜びを分かち合う。さあ、メリー・クリスマス♪</schema:description>
+    <imas:Whose rdf:resource="Kitakami_Reika"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Wonderful_Carol%2B">
+    <schema:name xml:lang="ja">ワンダフルキャロル+</schema:name>
+    <schema:description xml:lang="ja">「ワンダフルキャロル」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Kitakami_Reika"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Red_Rose_Empress">
+    <schema:name xml:lang="ja">レッドローズ・エンプレス</schema:name>
+    <schema:description xml:lang="ja">咲き誇るバラのような紅いドレスでステージもヒートアップ！ゴールは次のスタート地点。私はいつも、全力前進ですよー♪</schema:description>
+    <imas:Whose rdf:resource="Kitakami_Reika"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Red_Rose_Empress%2B">
+    <schema:name xml:lang="ja">レッドローズ・エンプレス+</schema:name>
+    <schema:description xml:lang="ja">「レッドローズ・エンプレス」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Kitakami_Reika"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Lovely_Fruity">
+    <schema:name xml:lang="ja">ラブリーフルーティア</schema:name>
+    <schema:description xml:lang="ja">つややかで甘い香りが漂いそうなキュートな衣装♪ちょっぴりレトロなデザインが、より一層親しみを感じさせてくれます。</schema:description>
+    <imas:Whose rdf:resource="Kinoshita_Hinata"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Lovely_Fruity%2B">
+    <schema:name xml:lang="ja">ラブリーフルーティア+</schema:name>
+    <schema:description xml:lang="ja">「ラブリーフルーティア」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Kinoshita_Hinata"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Lovely_Fruity%2B%2B">
+    <schema:name xml:lang="ja">ラブリーフルーティア++</schema:name>
+    <schema:description xml:lang="ja">「ラブリーフルーティア」のアナザー2衣装です。</schema:description>
+    <imas:Whose rdf:resource="Kinoshita_Hinata"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Country_Teddy">
+    <schema:name xml:lang="ja">カントリー♡テディ</schema:name>
+    <schema:description xml:lang="ja">ある日、森の中で出会ったのはキュートなクマでした♡一緒におやつを食べて、友達になったら、仲良く歌いましょう♪</schema:description>
+    <imas:Whose rdf:resource="Kinoshita_Hinata"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Country_Teddy%2B">
+    <schema:name xml:lang="ja">カントリー♡テディ+</schema:name>
+    <schema:description xml:lang="ja">「カントリー♡テディ」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Kinoshita_Hinata"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Chouchou_Boulanger">
+    <schema:name xml:lang="ja">シュシュ・ブーランジェ</schema:name>
+    <schema:description xml:lang="ja">ふかふかほかほか、焼き立てパンの匂いのように、みんなを幸せな気持ちにしてくれる。可愛らしいあの子にぴったりの衣装です！</schema:description>
+    <imas:Whose rdf:resource="Kinoshita_Hinata"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Chouchou_Boulanger%2B">
+    <schema:name xml:lang="ja">シュシュ・ブーランジェ+</schema:name>
+    <schema:description xml:lang="ja">「シュシュ・ブーランジェ」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Kinoshita_Hinata"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Fluffy_Sprite">
+    <schema:name xml:lang="ja">フラフィースプライト</schema:name>
+    <schema:description xml:lang="ja">草原に咲く花を手に取れば、懐かしく温かい思い出が花開く。少女の優しい心は、綿毛に乗ってどこまでも飛んでいくのです...♪</schema:description>
+    <imas:Whose rdf:resource="Kinoshita_Hinata"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Fluffy_Sprite%2B">
+    <schema:name xml:lang="ja">フラフィースプライト+</schema:name>
+    <schema:description xml:lang="ja">「フラフィースプライト」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Kinoshita_Hinata"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="My_Only_Casual_Hinata">
+    <schema:name xml:lang="ja">マイオンリーカジュアル</schema:name>
+    <schema:description xml:lang="ja">ハッピーバースデー！ひなたの誕生日を記念して作られたオンリーワンデザインのTシャツ。お祝いしてくれて、ありがとうねぇ。</schema:description>
+    <imas:Whose rdf:resource="Kinoshita_Hinata"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Esperance_Notes">
+    <schema:name xml:lang="ja">エスペランスノーツ</schema:name>
+    <schema:description xml:lang="ja">クラシックで高貴な雰囲気をイメージした衣装。音符たちに誘われて、鳥たちのハミングが聞こえてくるかも♪</schema:description>
+    <imas:Whose rdf:resource="Sakuramori_Kaori"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Esperance_Notes%2B">
+    <schema:name xml:lang="ja">エスペランスノーツ+</schema:name>
+    <schema:description xml:lang="ja">「エスペランスノーツ」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Sakuramori_Kaori"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Esperance_Notes%2B%2B">
+    <schema:name xml:lang="ja">エスペランスノーツ++</schema:name>
+    <schema:description xml:lang="ja">「エスペランスノーツ」のアナザー2衣装です。</schema:description>
+    <imas:Whose rdf:resource="Sakuramori_Kaori"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Snowflake_Romance">
+    <schema:name xml:lang="ja">スノーフレーク・ロマンス</schema:name>
+    <schema:description xml:lang="ja">降り注ぐ雪の結晶の儚いダンスがあまりにもロマンティックで...「私を忘れないで」と囁くようにエレガントなドレスになりました。</schema:description>
+    <imas:Whose rdf:resource="Sakuramori_Kaori"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Snowflake_Romance%2B">
+    <schema:name xml:lang="ja">スノーフレーク・ロマンス+</schema:name>
+    <schema:description xml:lang="ja">「スノーフレーク・ロマンス」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Sakuramori_Kaori"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Snowflake_Romance%2B%2B">
+    <schema:name xml:lang="ja">スノーフレーク・ロマンス++</schema:name>
+    <schema:description xml:lang="ja">「スノーフレーク・ロマンス」のアナザー2衣装です。</schema:description>
+    <imas:Whose rdf:resource="Sakuramori_Kaori"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Diabolus_Idea">
+    <schema:name xml:lang="ja">ディアボロス・イデア</schema:name>
+    <schema:description xml:lang="ja">その深紅は正義の欺瞞への怒りによって染められたもの。我が力に敗れ、地に伏せし者には鉄槌を。無力こそが真の悪なのだから。</schema:description>
+    <imas:Whose rdf:resource="Sakuramori_Kaori"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Diabolus_Idea%2B">
+    <schema:name xml:lang="ja">ディアボロス・イデア+</schema:name>
+    <schema:description xml:lang="ja">「ディアボロス・イデア」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Sakuramori_Kaori"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Retro_Modern_Madonna">
+    <schema:name xml:lang="ja">レトロモダン・マドンナ</schema:name>
+    <schema:description xml:lang="ja">皆が新たな文化の産声を聞く中で不変の美がそこにはありました。激動の時代、社交界の華は優雅にたたずんでいます。</schema:description>
+    <imas:Whose rdf:resource="Sakuramori_Kaori"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Retro_Modern_Madonna%2B">
+    <schema:name xml:lang="ja">レトロモダン・マドンナ+</schema:name>
+    <schema:description xml:lang="ja">「レトロモダン・マドンナ」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Sakuramori_Kaori"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Gorgeous_Swan">
+    <schema:name xml:lang="ja">ゴージャス・スワン</schema:name>
+    <schema:description xml:lang="ja">しなやかに、ダイナミックに動く姿を美しく魅せてくれる衣装。湖に揺蕩う白鳥のように、優美で華麗な演技...とくとご覧あれ！</schema:description>
+    <imas:Whose rdf:resource="Sakuramori_Kaori"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Gorgeous_Swan%2B">
+    <schema:name xml:lang="ja">ゴージャス・スワン+</schema:name>
+    <schema:description xml:lang="ja">「ゴージャス・スワン」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Sakuramori_Kaori"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Classical_Rose">
+    <schema:name xml:lang="ja">クラシカルローズ</schema:name>
+    <schema:description xml:lang="ja">臆病な心に、ちょっとだけ勇気を届けてくれる、ワインレッドの上品なドレス。仄かに香るバラの誘惑に、ドキドキしてみない...？</schema:description>
+    <imas:Whose rdf:resource="Shinomiya_Karen"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Classical_Rose%2B">
+    <schema:name xml:lang="ja">クラシカルローズ+</schema:name>
+    <schema:description xml:lang="ja">「クラシカルローズ」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Shinomiya_Karen"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Classical_Rose%2B%2B">
+    <schema:name xml:lang="ja">クラシカルローズ++</schema:name>
+    <schema:description xml:lang="ja">「クラシカルローズ」のアナザー2衣装です。</schema:description>
+    <imas:Whose rdf:resource="Shinomiya_Karen"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Noble_High_Priestess">
+    <schema:name xml:lang="ja">ノーブル・ハイプリーステス</schema:name>
+    <schema:description xml:lang="ja">明と暗。破壊と再生。知と本能。すべてを見通す高貴なまなざし。歓びに溢れた希望のドレスは、あまねく世界に光をもたらす...。</schema:description>
+    <imas:Whose rdf:resource="Shinomiya_Karen"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Noble_High_Priestess%2B">
+    <schema:name xml:lang="ja">ノーブル・ハイプリーステス+</schema:name>
+    <schema:description xml:lang="ja">「ノーブル・ハイプリーステス」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Shinomiya_Karen"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Rose_Avenir">
+    <schema:name xml:lang="ja">ローズ・アヴニール</schema:name>
+    <schema:description xml:lang="ja">ゴールドローズ煌めく、豪華なウェディングドレス風衣装。怯まずに、胸を張って。ここは私が主役の舞台なんだから...。</schema:description>
+    <imas:Whose rdf:resource="Shinomiya_Karen"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Rose_Avenir%2B">
+    <schema:name xml:lang="ja">ローズ・アヴニール+</schema:name>
+    <schema:description xml:lang="ja">「ローズ・アヴニール」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Shinomiya_Karen"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Eclat_De_Bijou">
+    <schema:name xml:lang="ja">エクラ・ド・ビジュー</schema:name>
+    <schema:description xml:lang="ja">太陽の眩しさに負けないで。私もついてますから...！緊張は笑顔に変えて、もっと先へ行くために...一緒に来てくれますか？</schema:description>
+    <imas:Whose rdf:resource="Shinomiya_Karen"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Eclat_De_Bijou%2B">
+    <schema:name xml:lang="ja">エクラ・ド・ビジュー+</schema:name>
+    <schema:description xml:lang="ja">「エクラ・ド・ビジュー」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Shinomiya_Karen"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Tropical_Sunflower">
+    <schema:name xml:lang="ja">トロピカルサンフラワー</schema:name>
+    <schema:description xml:lang="ja">元気いっぱい！トロピカルでキュートな衣装。爽やかな緑のパッションスタイルは、まるでお花畑に咲き誇る太陽のよう！</schema:description>
+    <imas:Whose rdf:resource="Shimabara_Elena"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Tropical_Sunflower%2B">
+    <schema:name xml:lang="ja">トロピカルサンフラワー+</schema:name>
+    <schema:description xml:lang="ja">「トロピカルサンフラワー」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Shimabara_Elena"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Tropical_Sunflower%2B%2B">
+    <schema:name xml:lang="ja">トロピカルサンフラワー++</schema:name>
+    <schema:description xml:lang="ja">「トロピカルサンフラワー」のアナザー2衣装です。</schema:description>
+    <imas:Whose rdf:resource="Shimabara_Elena"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sunny_Day_Pirates">
+    <schema:name xml:lang="ja">サニー・デイ・パイレーツ！</schema:name>
+    <schema:description xml:lang="ja">天気は良好、最高の航海日和。さぁ、太陽の行く先へ進もう！そこにはきっと、キラキラ輝くお宝が眠ってるに違いないから！</schema:description>
+    <imas:Whose rdf:resource="Shimabara_Elena"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sunny_Day_Pirates%2B">
+    <schema:name xml:lang="ja">サニー・デイ・パイレーツ！+</schema:name>
+    <schema:description xml:lang="ja">「サニー・デイ・パイレーツ！」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Shimabara_Elena"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Light_Of_Tristar">
+    <schema:name xml:lang="ja">ライトオブトライスター</schema:name>
+    <schema:description xml:lang="ja">夜空に輝く3つ星が目指す、誰も見たことのない景色。その道程を太陽のように明るく照らす光こそかけがえのない宝物なのです。</schema:description>
+    <imas:Whose rdf:resource="Shimabara_Elena"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Light_Of_Tristar%2B">
+    <schema:name xml:lang="ja">ライトオブトライスター+</schema:name>
+    <schema:description xml:lang="ja">「ライトオブトライスター」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Shimabara_Elena"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Blessing_Bouquet">
+    <schema:name xml:lang="ja">ブレッシング・ブーケ</schema:name>
+    <schema:description xml:lang="ja">踊りやすいステキな衣装だけど、流石に緊張しちゃうカモ...もっと色んな景色を見てみたいから、どうかこの手を取ってほしいナ♪</schema:description>
+    <imas:Whose rdf:resource="Shimabara_Elena"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Blessing_Bouquet%2B">
+    <schema:name xml:lang="ja">ブレッシング・ブーケ+</schema:name>
+    <schema:description xml:lang="ja">「ブレッシング・ブーケ」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Shimabara_Elena"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Poppin_Sugar_Cosmic">
+    <schema:name xml:lang="ja">ポッピンシュガーコズミック</schema:name>
+    <schema:description xml:lang="ja">爽やかなオレンジが眩しい衣装。散りばめられた色とりどりの星がまるで太陽が照らす宇宙のようにワクワクする空間を演出します。</schema:description>
+    <imas:Whose rdf:resource="Takatsuki_Yayoi"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Poppin_Sugar_Cosmic%2B">
+    <schema:name xml:lang="ja">ポッピンシュガーコズミック+</schema:name>
+    <schema:description xml:lang="ja">「ポッピンシュガーコズミック」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Takatsuki_Yayoi"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Poppin_Sugar_Cosmic%2B%2B">
+    <schema:name xml:lang="ja">ポッピンシュガーコズミック++</schema:name>
+    <schema:description xml:lang="ja">「ポッピンシュガーコズミック」のアナザー2衣装です。</schema:description>
+    <imas:Whose rdf:resource="Takatsuki_Yayoi"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sunset_Nostalgia">
+    <schema:name xml:lang="ja">サンセットノスタルジア</schema:name>
+    <schema:description xml:lang="ja">目の前に広がるのは一面の紅葉...どこか郷愁を誘う秋色のドレス。歌い踊る姿は、元気でかわいいもみじの妖精のよう！</schema:description>
+    <imas:Whose rdf:resource="Takatsuki_Yayoi"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sunset_Nostalgia%2B">
+    <schema:name xml:lang="ja">サンセットノスタルジア+</schema:name>
+    <schema:description xml:lang="ja">「サンセットノスタルジア」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Takatsuki_Yayoi"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Angel_On_Ice">
+    <schema:name xml:lang="ja">エンジェル・オン・アイス</schema:name>
+    <schema:description xml:lang="ja">ふわふわ粉雪がテーマの衣装。天使が落とした羽根のように冬の空を軽やかに舞いながら、見る人の心を弾ませます♪</schema:description>
+    <imas:Whose rdf:resource="Takatsuki_Yayoi"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Angel_On_Ice%2B">
+    <schema:name xml:lang="ja">エンジェル・オン・アイス+</schema:name>
+    <schema:description xml:lang="ja">「エンジェル・オン・アイス」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Takatsuki_Yayoi"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Fine_Sky_Blue">
+    <schema:name xml:lang="ja">ファイン・スカイブルー</schema:name>
+    <schema:description xml:lang="ja">爽快なホワイトブルーに、陽気なオレンジカラーがアクセントのスポーティなアイドル衣装です。みんなで踊って、みんなで笑お☆</schema:description>
+    <imas:Whose rdf:resource="Takatsuki_Yayoi"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Fine_Sky_Blue%2B">
+    <schema:name xml:lang="ja">ファイン・スカイブルー+</schema:name>
+    <schema:description xml:lang="ja">「ファイン・スカイブルー」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Takatsuki_Yayoi"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Milky_Peach">
+    <schema:name xml:lang="ja">ミルキィ♡ピーチ</schema:name>
+    <schema:description xml:lang="ja">清き心の人だけに見える...かもしれない、かわいい妖精さん♡桃の優しい甘さと滑らかなくちどけを、どうぞご賞味あれ...♪</schema:description>
+    <imas:Whose rdf:resource="Takatsuki_Yayoi"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Milky_Peach%2B">
+    <schema:name xml:lang="ja">ミルキィ♡ピーチ+</schema:name>
+    <schema:description xml:lang="ja">「ミルキィ♡ピーチ」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Takatsuki_Yayoi"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Floral_Aqua">
+    <schema:name xml:lang="ja">フローラルアクア</schema:name>
+    <schema:description xml:lang="ja">流れる水のようにカットされたスカートと、散りばめられた淡い色の花たちが、あなたの心を優しく包んで癒やしてくれます。</schema:description>
+    <imas:Whose rdf:resource="Toyokawa_Fuka"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Floral_Aqua%2B">
+    <schema:name xml:lang="ja">フローラルアクア+</schema:name>
+    <schema:description xml:lang="ja">「フローラルアクア」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Toyokawa_Fuka"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Floral_Aqua%2B%2B">
+    <schema:name xml:lang="ja">フローラルアクア++</schema:name>
+    <schema:description xml:lang="ja">「フローラルアクア」のアナザー2衣装です。</schema:description>
+    <imas:Whose rdf:resource="Toyokawa_Fuka"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Imperial_Swimsuit_Hana">
+    <schema:name xml:lang="ja">インペリアルスイムスーツ・華</schema:name>
+    <schema:description xml:lang="ja">帝花女学院、超ビーチバレー部キングの水着。華のように美しく艶やかなデザインは、選ばれた者のみに許された王者の証。</schema:description>
+    <imas:Whose rdf:resource="Toyokawa_Fuka"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Imperial_Swimsuit_Hana%2B">
+    <schema:name xml:lang="ja">インペリアルスイムスーツ・華+</schema:name>
+    <schema:description xml:lang="ja">「インペリアルスイムスーツ・華」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Toyokawa_Fuka"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Signorina_Rosso">
+    <schema:name xml:lang="ja">シニョリーナ・ロッソ</schema:name>
+    <schema:description xml:lang="ja">最高級のワインのように艷やかな深紅のドレスを身に纏う貴婦人。彼女にたった一度微笑まれたら、その芳香に心まで酔いしれて...。</schema:description>
+    <imas:Whose rdf:resource="Toyokawa_Fuka"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Signorina_Rosso%2B">
+    <schema:name xml:lang="ja">シニョリーナ・ロッソ+</schema:name>
+    <schema:description xml:lang="ja">「シニョリーナ・ロッソ」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Toyokawa_Fuka"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Tomorrow_Twilight">
+    <schema:name xml:lang="ja">トゥモロー・トワイライト</schema:name>
+    <schema:description xml:lang="ja">夢の軌跡を描く度、ふと思うのはかつての仲間達の笑顔と声援。今度は私がみんなの力になれるよう...温かなエールを送ります。</schema:description>
+    <imas:Whose rdf:resource="Toyokawa_Fuka"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Tomorrow_Twilight%2B">
+    <schema:name xml:lang="ja">トゥモロー・トワイライト+</schema:name>
+    <schema:description xml:lang="ja">「トゥモロー・トワイライト」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Toyokawa_Fuka"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pop_De_Nyanyanyan">
+    <schema:name xml:lang="ja">ポップdeにゃにゃにゃん！</schema:name>
+    <schema:description xml:lang="ja">元気をくれるキュートなドレス！辛いことや悲しいことがあっても大丈夫！幸せの鈴を鳴らしてキミの心をハッピーにするからね☆</schema:description>
+    <imas:Whose rdf:resource="Nonohara_Akane"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pop_De_Nyanyanyan%2B">
+    <schema:name xml:lang="ja">ポップdeにゃにゃにゃん！+</schema:name>
+    <schema:description xml:lang="ja">「ポップdeにゃにゃにゃん！」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Nonohara_Akane"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pop_De_Nyanyanyan%2B%2B">
+    <schema:name xml:lang="ja">ポップdeにゃにゃにゃん！++</schema:name>
+    <schema:description xml:lang="ja">「ポップdeにゃにゃにゃん！」のアナザー2衣装です。</schema:description>
+    <imas:Whose rdf:resource="Nonohara_Akane"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Cutie_Choco_Whip">
+    <schema:name xml:lang="ja">キューティ♡チョコホイップ</schema:name>
+    <schema:description xml:lang="ja">ふんわりあま～いチョコホイップクリームのようなキュートなバレンタインドレス。真っ赤なイチゴが甘酸っぱいアクセント♡</schema:description>
+    <imas:Whose rdf:resource="Nonohara_Akane"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Cutie_Choco_Whip%2B">
+    <schema:name xml:lang="ja">キューティ♡チョコホイップ+</schema:name>
+    <schema:description xml:lang="ja">「キューティ♡チョコホイップ」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Nonohara_Akane"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Suzuneko_Hanayukata">
+    <schema:name xml:lang="ja">鈴猫花浴衣</schema:name>
+    <schema:description xml:lang="ja">抜き足差し足、猫の足。猫又娘のいたずらは今日も大成功♪町民の方々には、鈴の音鳴らして踊る姿で許されちゃってますニャン♡</schema:description>
+    <imas:Whose rdf:resource="Nonohara_Akane"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Suzuneko_Hanayukata%2B">
+    <schema:name xml:lang="ja">鈴猫花浴衣+</schema:name>
+    <schema:description xml:lang="ja">「鈴猫花浴衣」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Nonohara_Akane"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Nade_Nade_My_Heart">
+    <schema:name xml:lang="ja">ナデ♡ナデ☆マイハート</schema:name>
+    <schema:description xml:lang="ja">沢山のハートは愛されアイドルの証♡これからも、毎日毎晩楽しくガマンせずに行くからね！...つまり今日も可愛くってゴメンナサイ☆</schema:description>
+    <imas:Whose rdf:resource="Nonohara_Akane"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Nade_Nade_My_Heart%2B">
+    <schema:name xml:lang="ja">ナデ♡ナデ☆マイハート+</schema:name>
+    <schema:description xml:lang="ja">「ナデ♡ナデ☆マイハート」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Nonohara_Akane"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Happiness_Clover">
+    <schema:name xml:lang="ja">ハピネスクローバー</schema:name>
+    <schema:description xml:lang="ja">パステルピンクとミントグリーンに、ラブリーなクローバーをトッピング☆メルヘンな可愛さ、おひとついかがですか？</schema:description>
+    <imas:Whose rdf:resource="Hakozaki_Serika"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Happiness_Clover%2B">
+    <schema:name xml:lang="ja">ハピネスクローバー+</schema:name>
+    <schema:description xml:lang="ja">「ハピネスクローバー」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Hakozaki_Serika"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Happiness_Clover%2B%2B">
+    <schema:name xml:lang="ja">ハピネスクローバー++</schema:name>
+    <schema:description xml:lang="ja">「ハピネスクローバー」のアナザー2衣装です。</schema:description>
+    <imas:Whose rdf:resource="Hakozaki_Serika"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Little_Conductor">
+    <schema:name xml:lang="ja">リトルコンダクター</schema:name>
+    <schema:description xml:lang="ja">春を誘う、小さな指揮者さん。虹色のタクトを振れば、どんな音楽も満開の花を咲かせます。さぁ、一緒に春を歌いましょう♪</schema:description>
+    <imas:Whose rdf:resource="Hakozaki_Serika"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Little_Conductor%2B">
+    <schema:name xml:lang="ja">リトルコンダクター+</schema:name>
+    <schema:description xml:lang="ja">「リトルコンダクター」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Hakozaki_Serika"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Little_Conductor%2B%2B">
+    <schema:name xml:lang="ja">リトルコンダクター++</schema:name>
+    <schema:description xml:lang="ja">「リトルコンダクター」のアナザー2衣装です。</schema:description>
+    <imas:Whose rdf:resource="Hakozaki_Serika"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pure_Present">
+    <schema:name xml:lang="ja">ピュアプレゼント</schema:name>
+    <schema:description xml:lang="ja">包んだのは真心。可愛いリボンできゅっと結んで...。いつかキミがこの秘密のプレゼントを開けてくれる日を、ずっと待ってるよ。</schema:description>
+    <imas:Whose rdf:resource="Hakozaki_Serika"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pure_Present%2B">
+    <schema:name xml:lang="ja">ピュアプレゼント+</schema:name>
+    <schema:description xml:lang="ja">「ピュアプレゼント」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Hakozaki_Serika"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Shokashukusan">
+    <schema:name xml:lang="ja">笑花祝霰</schema:name>
+    <schema:description xml:lang="ja">これからもたくさんの楽しい事をみんなと過ごせますように...♪散りばめた花を広げるような、とびきりの福をお届けします！</schema:description>
+    <imas:Whose rdf:resource="Hakozaki_Serika"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Shokashukusan%2B">
+    <schema:name xml:lang="ja">笑花祝霰+</schema:name>
+    <schema:description xml:lang="ja">「笑花祝霰」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Hakozaki_Serika"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Peach_Fleur">
+    <schema:name xml:lang="ja">ピーチフルール</schema:name>
+    <schema:description xml:lang="ja">キュートで愛らしい桃色ドレス。可愛さの中にちょこっとブラックを添えた、絶妙な甘辛テイストでオトナの魅力を引き立たせます。</schema:description>
+    <imas:Whose rdf:resource="Baba_Konomi"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Peach_Fleur%2B">
+    <schema:name xml:lang="ja">ピーチフルール+</schema:name>
+    <schema:description xml:lang="ja">「ピーチフルール」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Baba_Konomi"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Peach_Fleur%2B%2B">
+    <schema:name xml:lang="ja">ピーチフルール++</schema:name>
+    <schema:description xml:lang="ja">「ピーチフルール」のアナザー2衣装です。</schema:description>
+    <imas:Whose rdf:resource="Baba_Konomi"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="White_Ripple">
+    <schema:name xml:lang="ja">ホワイトリップル</schema:name>
+    <schema:description xml:lang="ja">優しいさざなみをイメージした衣装。静かな砂浜で聴いた優しい波の音を連想するようなカーデが貴方の心を優しく包み込みます。</schema:description>
+    <imas:Whose rdf:resource="Baba_Konomi"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="White_Ripple%2B">
+    <schema:name xml:lang="ja">ホワイトリップル+</schema:name>
+    <schema:description xml:lang="ja">「ホワイトリップル」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Baba_Konomi"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kakuyoku_Kurenai_Hanagoromo">
+    <schema:name xml:lang="ja">鶴翼紅華衣</schema:name>
+    <schema:description xml:lang="ja">白い翼を衣に変え、胸にそっと添えるは冬の大地に凛と咲いた紅の華。そして彼女は飛び立つ、助けてくれたあの人のもとへ...。</schema:description>
+    <imas:Whose rdf:resource="Baba_Konomi"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Kakuyoku_Kurenai_Hanagoromo%2B">
+    <schema:name xml:lang="ja">鶴翼紅華衣+</schema:name>
+    <schema:description xml:lang="ja">「鶴翼紅華衣」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Baba_Konomi"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Junen_Tenimuhou">
+    <schema:name xml:lang="ja">純炎・天衣無縫</schema:name>
+    <schema:description xml:lang="ja">この1局で...決める！笑顔で放つ完全勝利宣言！でも負けても気を落とさないでね。素敵な歌とダンスを見せてあげるから♪</schema:description>
+    <imas:Whose rdf:resource="Baba_Konomi"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Junen_Tenimuhou%2B">
+    <schema:name xml:lang="ja">純炎・天衣無縫+</schema:name>
+    <schema:description xml:lang="ja">「純炎・天衣無縫」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Baba_Konomi"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Poppin_Lemon_Star">
+    <schema:name xml:lang="ja">ポッピン☆レモンスター</schema:name>
+    <schema:description xml:lang="ja">レモンイエローはスターの証！まるで宇宙へ旅立てそうな爽やかさは、すべての人の心を掴んで夢のひとときへと誘うでしょう。</schema:description>
+    <imas:Whose rdf:resource="Futami_Ami"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Poppin_Lemon_Star%2B">
+    <schema:name xml:lang="ja">ポッピン☆レモンスター+</schema:name>
+    <schema:description xml:lang="ja">「ポッピン☆レモンスター」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Futami_Ami"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Poppin_Lemon_Star%2B%2B">
+    <schema:name xml:lang="ja">ポッピン☆レモンスター++</schema:name>
+    <schema:description xml:lang="ja">「ポッピン☆レモンスター」のアナザー2衣装です。</schema:description>
+    <imas:Whose rdf:resource="Futami_Ami"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Country_Flapper">
+    <schema:name xml:lang="ja">カントリー・フラッパー</schema:name>
+    <schema:description xml:lang="ja">ステップに合わせて揺れるフリルが可愛い看板娘のドレス。陽気な音楽に合わせて、今宵も楽しく踊り明かしましょ♪</schema:description>
+    <imas:Whose rdf:resource="Futami_Ami"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Country_Flapper%2B">
+    <schema:name xml:lang="ja">カントリー・フラッパー+</schema:name>
+    <schema:description xml:lang="ja">「カントリー・フラッパー」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Futami_Ami"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Country_Flapper%2B%2B">
+    <schema:name xml:lang="ja">カントリー・フラッパー++</schema:name>
+    <schema:description xml:lang="ja">「カントリー・フラッパー」のアナザー2衣装です。</schema:description>
+    <imas:Whose rdf:resource="Futami_Ami"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Toka_HINA_ARARE">
+    <schema:name xml:lang="ja">桃花♡HINA♡ARARE</schema:name>
+    <schema:description xml:lang="ja">お内裏様もうっとり見惚れちゃうメチャイケ・キュートなお雛様♡おすまし顔なんてつまんない！テンションアゲアゲでお祭りだ☆</schema:description>
+    <imas:Whose rdf:resource="Futami_Ami"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Toka_HINA_ARARE%2B">
+    <schema:name xml:lang="ja">桃花♡HINA♡ARARE+</schema:name>
+    <schema:description xml:lang="ja">「桃花♡HINA♡ARARE」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Futami_Ami"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Goody_Bad_Girl">
+    <schema:name xml:lang="ja">グッディ・バッドガール</schema:name>
+    <schema:description xml:lang="ja">授業なんてタイクツ！？やっぱり毎日楽しまなくっちゃ！いつもの学校をステージに変えて熱く歌うから、目に焼き付けてよねっ！</schema:description>
+    <imas:Whose rdf:resource="Futami_Ami"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Goody_Bad_Girl%2B">
+    <schema:name xml:lang="ja">グッディ・バッドガール+</schema:name>
+    <schema:description xml:lang="ja">「グッディ・バッドガール」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Futami_Ami"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Fresh_Citron">
+    <schema:name xml:lang="ja">フレッシュ☆シトロン</schema:name>
+    <schema:description xml:lang="ja">ビタミンカラーがまぶしい衣装。まるでシトロンのような爽やかさに、キラリと星を散りばめて今日も元気いっぱいアピール！</schema:description>
+    <imas:Whose rdf:resource="Futami_Mami"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Fresh_Citron%2B">
+    <schema:name xml:lang="ja">フレッシュ☆シトロン+</schema:name>
+    <schema:description xml:lang="ja">「フレッシュ☆シトロン」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Futami_Mami"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Fresh_Citron%2B%2B">
+    <schema:name xml:lang="ja">フレッシュ☆シトロン++</schema:name>
+    <schema:description xml:lang="ja">「フレッシュ☆シトロン」のアナザー2衣装です。</schema:description>
+    <imas:Whose rdf:resource="Futami_Mami"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Wakuwaku_Japanesque">
+    <schema:name xml:lang="ja">ワクワク☆ジャパネスク</schema:name>
+    <schema:description xml:lang="ja">男子の平安装束、童水干をイメージした個性的なドレス。橋の上の牛若丸のように、ひらり軽やかに舞い踊っちゃうよ～☆</schema:description>
+    <imas:Whose rdf:resource="Futami_Mami"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Wakuwaku_Japanesque%2B">
+    <schema:name xml:lang="ja">ワクワク☆ジャパネスク+</schema:name>
+    <schema:description xml:lang="ja">「ワクワク☆ジャパネスク」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Futami_Mami"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sky_High_Prince">
+    <schema:name xml:lang="ja">スカイハイプリンス</schema:name>
+    <schema:description xml:lang="ja">パワフルチャーミングな王子様の原動力は、無限大の好奇心。チャレンジはチャンス！一緒に『楽しい』の一等賞を目指そう☆</schema:description>
+    <imas:Whose rdf:resource="Futami_Mami"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sky_High_Prince%2B">
+    <schema:name xml:lang="ja">スカイハイプリンス+</schema:name>
+    <schema:description xml:lang="ja">「スカイハイプリンス」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Futami_Mami"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Decorate_Fancies">
+    <schema:name xml:lang="ja">デコレート・ファンシーズ</schema:name>
+    <schema:description xml:lang="ja">今日一番のスマイルをフレームの中にパシャリ。このカワイさも、友情も、思い出も...何年経っても色褪せることはないんだよ☆</schema:description>
+    <imas:Whose rdf:resource="Futami_Mami"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Decorate_Fancies%2B">
+    <schema:name xml:lang="ja">デコレート・ファンシーズ+</schema:name>
+    <schema:description xml:lang="ja">「デコレート・ファンシーズ」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Futami_Mami"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sparkling_Gem">
+    <schema:name xml:lang="ja">スパークリング・ジェム</schema:name>
+    <schema:description xml:lang="ja">いつだってキラキラでいたい！そんなワガママガールの魅惑的なドレス☆...ほらね？キミの視線はもうあの子のモノだから...♪</schema:description>
+    <imas:Whose rdf:resource="Hoshii_Miki"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sparkling_Gem%2B">
+    <schema:name xml:lang="ja">スパークリング・ジェム+</schema:name>
+    <schema:description xml:lang="ja">「スパークリング・ジェム」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Hoshii_Miki"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sparkling_Gem%2B%2B">
+    <schema:name xml:lang="ja">スパークリング・ジェム++</schema:name>
+    <schema:description xml:lang="ja">「スパークリング・ジェム」のアナザー2衣装です。</schema:description>
+    <imas:Whose rdf:resource="Hoshii_Miki"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Grayish_Butterfly">
+    <schema:name xml:lang="ja">グレイッシュバタフライ</schema:name>
+    <schema:description xml:lang="ja">クールでスタイリッシュな衣装を身にまとい、蝶のようにひらひら舞う彼女。その魅力に、とことん振り回されるのも悪くないかも？</schema:description>
+    <imas:Whose rdf:resource="Hoshii_Miki"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Grayish_Butterfly%2B">
+    <schema:name xml:lang="ja">グレイッシュバタフライ+</schema:name>
+    <schema:description xml:lang="ja">「グレイッシュバタフライ」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Hoshii_Miki"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Light_Of_Wishes">
+    <schema:name xml:lang="ja">ライトオブウィッシュズ</schema:name>
+    <schema:description xml:lang="ja">煌めく星の光をイメージしたステージ衣装。昼と夜の狭間で輝き始める一番星に少女は美しく希望に満ちた目で微笑みます。</schema:description>
+    <imas:Whose rdf:resource="Hoshii_Miki"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Light_Of_Wishes%2B">
+    <schema:name xml:lang="ja">ライトオブウィッシュズ+</schema:name>
+    <schema:description xml:lang="ja">「ライトオブウィッシュズ」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Hoshii_Miki"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Naked_Pure_Heart">
+    <schema:name xml:lang="ja">ネイキッド・ピュアハート</schema:name>
+    <schema:description xml:lang="ja">彼女の飾らない本当のキモチを映し出すような、愛らしい衣装。チョコより甘くて幸せな時間、あなたも一緒に溺れてみない？</schema:description>
+    <imas:Whose rdf:resource="Hoshii_Miki"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Naked_Pure_Heart%2B">
+    <schema:name xml:lang="ja">ネイキッド・ピュアハート+</schema:name>
+    <schema:description xml:lang="ja">「ネイキッド・ピュアハート」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Hoshii_Miki"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Romantic_Violet">
+    <schema:name xml:lang="ja">ロマンティックバイオレット</schema:name>
+    <schema:description xml:lang="ja">つい見とれてしまう誘惑の紫。ダンスに合わせて揺れるチャームが、ゆったりとした甘美な一時を優雅に演出します。</schema:description>
+    <imas:Whose rdf:resource="Miura_Azusa"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Romantic_Violet%2B">
+    <schema:name xml:lang="ja">ロマンティックバイオレット+</schema:name>
+    <schema:description xml:lang="ja">「ロマンティックバイオレット」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Miura_Azusa"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Romantic_Violet%2B%2B">
+    <schema:name xml:lang="ja">ロマンティックバイオレット++</schema:name>
+    <schema:description xml:lang="ja">「ロマンティックバイオレット」のアナザー2衣装です。</schema:description>
+    <imas:Whose rdf:resource="Miura_Azusa"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Barista_Brown">
+    <schema:name xml:lang="ja">バリスタブラウン</schema:name>
+    <schema:description xml:lang="ja">コーヒー色のキュートな衣装。美味しさの秘訣は魅力と鮮度♪挽きたての歌を届けて、貴方の心も体もホッと温めます...。</schema:description>
+    <imas:Whose rdf:resource="Miura_Azusa"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Barista_Brown%2B">
+    <schema:name xml:lang="ja">バリスタブラウン+</schema:name>
+    <schema:description xml:lang="ja">「バリスタブラウン」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Miura_Azusa"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Barista_Brown%2B%2B">
+    <schema:name xml:lang="ja">バリスタブラウン++</schema:name>
+    <schema:description xml:lang="ja">「バリスタブラウン」のアナザー2衣装です。</schema:description>
+    <imas:Whose rdf:resource="Miura_Azusa"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mystic_Azure">
+    <schema:name xml:lang="ja">ミスティック・アズール</schema:name>
+    <schema:description xml:lang="ja">氷雪を想起させるミステリアスなドレス。雪の女王の透き通った美しい旋律は、あなたを幻想と神秘の世界へ導くことでしょう。</schema:description>
+    <imas:Whose rdf:resource="Miura_Azusa"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mystic_Azure%2B">
+    <schema:name xml:lang="ja">ミスティック・アズール+</schema:name>
+    <schema:description xml:lang="ja">「ミスティック・アズール」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Miura_Azusa"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Lovely_Everyday">
+    <schema:name xml:lang="ja">ラブリーエブリデイ</schema:name>
+    <schema:description xml:lang="ja">占いの結果はいつも同じ。だから信じてしまう。願ってしまう。貴方が本当に、私の運命の人ならいいのになぁ、って...♡</schema:description>
+    <imas:Whose rdf:resource="Miura_Azusa"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Lovely_Everyday%2B">
+    <schema:name xml:lang="ja">ラブリーエブリデイ+</schema:name>
+    <schema:description xml:lang="ja">「ラブリーエブリデイ」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Miura_Azusa"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="My_Only_Casual_Azusa">
+    <schema:name xml:lang="ja">マイオンリーカジュアル</schema:name>
+    <schema:description xml:lang="ja">ハッピーバースデー！あずさの誕生日を記念して作られたオンリーワンデザインのTシャツ。お祝い、ありがとうございます〜。</schema:description>
+    <imas:Whose rdf:resource="Miura_Azusa"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Honey_Of_Butterfly">
+    <schema:name xml:lang="ja">ハニーオブバタフライ</schema:name>
+    <schema:description xml:lang="ja">見てるだけで心も踊りだしそうなキュートで爽やかな衣装。ひらひら飛んでいく可愛い蝶々、ちゃんとつかまえていてね...？</schema:description>
+    <imas:Whose rdf:resource="Miyao_Miya"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Honey_Of_Butterfly%2B">
+    <schema:name xml:lang="ja">ハニーオブバタフライ+</schema:name>
+    <schema:description xml:lang="ja">「ハニーオブバタフライ」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Miyao_Miya"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Honey_Of_Butterfly%2B%2B">
+    <schema:name xml:lang="ja">ハニーオブバタフライ++</schema:name>
+    <schema:description xml:lang="ja">「ハニーオブバタフライ」のアナザー2衣装です。</schema:description>
+    <imas:Whose rdf:resource="Miyao_Miya"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Soraneko_Coffee_Ten_Myao_Coodination">
+    <schema:name xml:lang="ja">空猫珈琲店 ミャオコーデ</schema:name>
+    <schema:description xml:lang="ja">三姉妹の店、空猫珈琲店に居つくおっとり猫の着ぐるみ風衣装。猫耳、しっぽ、肉球をそろえて貴方の来店待ってます。ミャオ♪</schema:description>
+    <imas:Whose rdf:resource="Miyao_Miya"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Soraneko_Coffee_Ten_Myao_Coodination%2B">
+    <schema:name xml:lang="ja">空猫珈琲店 ミャオコーデ+</schema:name>
+    <schema:description xml:lang="ja">「空猫珈琲店 ミャオコーデ」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Miyao_Miya"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Ciel_Etoilee">
+    <schema:name xml:lang="ja">シエル・エトワレ</schema:name>
+    <schema:description xml:lang="ja">満天の星空をくりぬいたドレスは星々の案内人のために用意された特注品。さあ、あなたも無限に広がる星の海へ旅立ちましょう！</schema:description>
+    <imas:Whose rdf:resource="Miyao_Miya"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Ciel_Etoilee%2B">
+    <schema:name xml:lang="ja">シエル・エトワレ+</schema:name>
+    <schema:description xml:lang="ja">「シエル・エトワレ」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Miyao_Miya"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pokapoka_Snowman">
+    <schema:name xml:lang="ja">ぽかぽか♡スノーマン</schema:name>
+    <schema:description xml:lang="ja">ひんやりしたまんまるボディにあたたかな心を宿した雪だるま。ツリーの飾りつけを頑張るよい子のお手伝いをしてくれるよ☆</schema:description>
+    <imas:Whose rdf:resource="Miyao_Miya"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pokapoka_Snowman%2B">
+    <schema:name xml:lang="ja">ぽかぽか♡スノーマン+</schema:name>
+    <schema:description xml:lang="ja">「ぽかぽか♡スノーマン」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Miyao_Miya"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Healing_Pop">
+    <schema:name xml:lang="ja">ヒーリング・ポップ</schema:name>
+    <schema:description xml:lang="ja">癒しのオーラと強い信念を、泡のように優しく包み込んだ衣装。グラスに注がれたラムネみたいにしゅわ〜と弾けていきますよ〜♪</schema:description>
+    <imas:Whose rdf:resource="Miyao_Miya"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Healing_Pop%2B">
+    <schema:name xml:lang="ja">ヒーリング・ポップ+</schema:name>
+    <schema:description xml:lang="ja">「ヒーリング・ポップ」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Miyao_Miya"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Rabbits_Labyrinth">
+    <schema:name xml:lang="ja">ラビッツラビリンス</schema:name>
+    <schema:description xml:lang="ja">今日もハッピーふわふわぴょん♪みんなで一緒にラビラビぴょん♪みんなの心には、いつだって可愛いうさぎさんがいるんだよ☆</schema:description>
+    <imas:Whose rdf:resource="Mochizuki_Anna"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Rabbits_Labyrinth%2B">
+    <schema:name xml:lang="ja">ラビッツラビリンス+</schema:name>
+    <schema:description xml:lang="ja">「ラビッツラビリンス」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Mochizuki_Anna"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Rabbits_Labyrinth%2B%2B">
+    <schema:name xml:lang="ja">ラビッツラビリンス++</schema:name>
+    <schema:description xml:lang="ja">「ラビッツラビリンス」のアナザー2衣装です。</schema:description>
+    <imas:Whose rdf:resource="Mochizuki_Anna"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Legend_Knight_Armor">
+    <schema:name xml:lang="ja">レジェンドナイトアーマー</schema:name>
+    <schema:description xml:lang="ja">選ばれし者のみが着ることを許される、伝説の戦闘衣装。使命を託された騎士が大事な者を守る時それは覚醒すると言われている。</schema:description>
+    <imas:Whose rdf:resource="Mochizuki_Anna"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Legend_Knight_Armor%2B">
+    <schema:name xml:lang="ja">レジェンドナイトアーマー+</schema:name>
+    <schema:description xml:lang="ja">「レジェンドナイトアーマー」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Mochizuki_Anna"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Night_Sky_Flowers">
+    <schema:name xml:lang="ja">ナイトスカイ・フラワーズ</schema:name>
+    <schema:description xml:lang="ja">夏の夜空に咲く大輪の花たちよ。一瞬で散ってしまっても、どうか一生の思い出として、あの人の記憶のフィルムに焼きついて...。</schema:description>
+    <imas:Whose rdf:resource="Mochizuki_Anna"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Night_Sky_Flowers%2B">
+    <schema:name xml:lang="ja">ナイトスカイ・フラワーズ+</schema:name>
+    <schema:description xml:lang="ja">「ナイトスカイ・フラワーズ」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Mochizuki_Anna"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Choir_Peace">
+    <schema:name xml:lang="ja">クワイア・ピース</schema:name>
+    <schema:description xml:lang="ja">私たちのクリスマスパーティーへようこそ！たっくさん食べて、踊って、笑ってね。今宵の世界はどこも平和に満ちてます☆</schema:description>
+    <imas:Whose rdf:resource="Mochizuki_Anna"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Choir_Peace%2B">
+    <schema:name xml:lang="ja">クワイア・ピース+</schema:name>
+    <schema:description xml:lang="ja">「クワイア・ピース」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Mochizuki_Anna"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Wake_up_rabbit">
+    <schema:name xml:lang="ja">Wake up_rabbit!</schema:name>
+    <schema:description xml:lang="ja">まるでゲーム世界から飛び出したような、ビビッドカラーが光る衣装。普段の私もステージに立つ私も同じ私。飛ばしていくよー！</schema:description>
+    <imas:Whose rdf:resource="Mochizuki_Anna"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Wake_up_rabbit%2B">
+    <schema:name xml:lang="ja">Wake up_rabbit!+</schema:name>
+    <schema:description xml:lang="ja">「Wake up_rabbit!」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Mochizuki_Anna"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Marchen_Lily">
+    <schema:name xml:lang="ja">メルヘンリリー</schema:name>
+    <schema:description xml:lang="ja">百合の花のお姫様が、童話の中から飛び出して、みんなの笑顔を咲かせます。</schema:description>
+    <imas:Whose rdf:resource="Shika"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Marchen_Lily%2B">
+    <schema:name xml:lang="ja">メルヘンリリー+</schema:name>
+    <schema:description xml:lang="ja">「メルヘンリリー」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Shika"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Real_Ambition">
+    <schema:name xml:lang="ja">リアルアンビション</schema:name>
+    <schema:description xml:lang="ja">彼女は頂に君臨せし女王にして、さらなる高みを目指す挑戦者。満身なき瞳に映るのは、数多の栄光でも称賛でもなく......。</schema:description>
+    <imas:Whose rdf:resource="Leon"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Real_Ambition%2B">
+    <schema:name xml:lang="ja">リアルアンビション+</schema:name>
+    <schema:description xml:lang="ja">「リアルアンビション」のアナザー衣装です。</schema:description>
+    <imas:Whose rdf:resource="Leon"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+</rdf:RDF>
