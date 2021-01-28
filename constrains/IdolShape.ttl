@@ -277,8 +277,23 @@ imas-shape:IdolShape a sh:NodeShape;
             "star"@en
             "thunder"@en
             "wind"@en
+            "闇"@en
+            "夢"@en
+            "火"@en
+            "花"@en
+            "天"@en
+            "光"@en
+            "愛"@en
+            "月"@en
+            "海"@en
+            "虹"@en
+            "空"@en
+            "雪"@en
+            "星"@en
+            "雷"@en
+            "風"@en
         );
-        sh:languageIn ("en");
+        sh:languageIn ("en" "ja");
         sh:maxCount 2;
     ];
     sh:closed false.
