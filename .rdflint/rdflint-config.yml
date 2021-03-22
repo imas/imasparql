@@ -17,6 +17,7 @@ rules:
         r = rs.next()
         jn = [r.getLiteral("fn").value + r.getLiteral("gn").value,
               r.getLiteral("gn").value + r.getLiteral("fn").value,
+              r.getLiteral("fn").value + "・" + r.getLiteral("gn").value,
               r.getLiteral("gn").value + "・" + r.getLiteral("fn").value]
         nm = r.getLiteral("nm").value
         if (!(nm in jn)) {
@@ -25,6 +26,7 @@ rules:
 
         jnk = [r.getLiteral("fnk").value + r.getLiteral("gnk").value,
                r.getLiteral("gnk").value + r.getLiteral("fnk").value,
+               r.getLiteral("fnk").value + "・" + r.getLiteral("gnk").value,
                r.getLiteral("gnk").value + "・" + r.getLiteral("fnk").value]
         nmk = r.getLiteral("nmk").value
         if (!(nmk in jnk)) {
