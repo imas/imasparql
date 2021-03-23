@@ -235,9 +235,13 @@ imas:Called                 a   rdf:Property ;
     rdfs:comment            "呼び方を表すプロパティ" ;
     rdfs:label              "呼び方"@ja .
 
+imas:Brand                  a   rdf:Property ;
+    rdfs:comment            "所属ブランドを表すプロパティ" ;
+    rdfs:label              "所属ブランド"@ja .
+
 imas:Title                  a   rdf:Property ;
-    rdfs:comment            "所属コンテンツを表すプロパティ" ;
-    rdfs:label              "所属コンテンツ"@ja .
+    rdfs:comment            "出演タイトルを表すプロパティ" ;
+    rdfs:label              "出演タイトル"@ja .
 
 imas:Whose                  a   rdf:Property ;
     rdfs:comment            "所有者を表すプロパティ" ;
