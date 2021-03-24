@@ -59,6 +59,7 @@ imas-shape:IdolShape a sh:NodeShape;
         sh:minCount 1;
         sh:maxCount 1;
         sh:in (
+            "1stVision"@en # 特殊
             "765AS"@en
             "CinderellaGirls"@en
             "MillionLive"@en
