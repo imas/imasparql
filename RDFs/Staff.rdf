@@ -32,6 +32,7 @@
     <schema:gender xml:lang="en">male</schema:gender>
     <schema:memberOf xml:lang="en">765Staff</schema:memberOf>
     <schema:position xml:lang="ja">会長</schema:position>
+    <schema:workLocation rdf:resource="765Production"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Staff"/>
   </rdf:Description>
   <rdf:Description rdf:about="Takagi_Junjiro">
@@ -59,6 +60,7 @@
     <schema:gender xml:lang="en">male</schema:gender>
     <schema:memberOf xml:lang="en">765Staff</schema:memberOf>
     <schema:position xml:lang="ja">社長</schema:position>
+    <schema:workLocation rdf:resource="765Production"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Staff"/>
   </rdf:Description>
   <rdf:Description rdf:about="Kuroi_Takao">
@@ -86,6 +88,7 @@
     <schema:gender xml:lang="en">male</schema:gender>
     <schema:memberOf xml:lang="en">961Staff</schema:memberOf>
     <schema:position xml:lang="ja">社長</schema:position>
+    <schema:workLocation rdf:resource="961Production"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Staff"/>
   </rdf:Description>
   <rdf:Description rdf:about="Saito_Takashi">
@@ -106,6 +109,7 @@
     <schema:gender xml:lang="en">male</schema:gender>
     <schema:memberOf xml:lang="en">315Staff</schema:memberOf>
     <schema:position xml:lang="ja">社長</schema:position>
+    <schema:workLocation rdf:resource="315Production"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Staff"/>
   </rdf:Description>
   <rdf:Description rdf:about="Ishikawa_Minori">
@@ -122,6 +126,7 @@
     <schema:gender xml:lang="en">female</schema:gender>
     <schema:memberOf xml:lang="en">876Staff</schema:memberOf>
     <schema:position xml:lang="ja">社長</schema:position>
+    <schema:workLocation rdf:resource="876Production"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Staff"/>
   </rdf:Description>
   <rdf:Description rdf:about="Amai_Tsutomu">
@@ -141,6 +146,7 @@
     <schema:gender xml:lang="en">male</schema:gender>
     <schema:memberOf xml:lang="en">283Staff</schema:memberOf>
     <schema:position xml:lang="ja">社長</schema:position>
+    <schema:workLocation rdf:resource="283Production"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Staff"/>
   </rdf:Description>
 
@@ -173,6 +179,7 @@
     <schema:gender xml:lang="en">female</schema:gender>
     <schema:memberOf xml:lang="en">765Staff</schema:memberOf>
     <schema:position xml:lang="ja">事務員</schema:position>
+    <schema:workLocation rdf:resource="765Production"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Staff"/>
   </rdf:Description>
   <rdf:Description rdf:about="Senkawa_Chihiro">
@@ -234,6 +241,7 @@
     <schema:gender xml:lang="en">male</schema:gender>
     <schema:memberOf xml:lang="en">315Staff</schema:memberOf>
     <schema:position xml:lang="ja">事務員</schema:position>
+    <schema:workLocation rdf:resource="315Production"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Staff"/>
   </rdf:Description>
   <rdf:Description rdf:about="Aoba_Misaki">
@@ -256,6 +264,7 @@
     <schema:gender xml:lang="en">female</schema:gender>
     <schema:memberOf xml:lang="en">765Staff</schema:memberOf>
     <schema:position xml:lang="ja">事務員</schema:position>
+    <schema:workLocation rdf:resource="765ProLiveTheater"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Staff"/>
   </rdf:Description>
   <rdf:Description rdf:about="Nanakusa_Hazuki">
@@ -278,6 +287,7 @@
     <schema:memberOf xml:lang="en">283Staff</schema:memberOf>
     <schema:birthPlace xml:lang="ja">埼玉</schema:birthPlace>
     <schema:position xml:lang="ja">事務員</schema:position>
+    <schema:workLocation rdf:resource="283Production"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Staff"/>
   </rdf:Description>
 
@@ -298,6 +308,7 @@
     <schema:gender xml:lang="en">female</schema:gender>
     <schema:memberOf xml:lang="en">765Staff</schema:memberOf>
     <schema:position xml:lang="ja">フォトグラファー</schema:position>
+    <schema:workLocation rdf:resource="765ProLiveTheater"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Staff"/>
   </rdf:Description>
 
