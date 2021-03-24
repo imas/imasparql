@@ -19,6 +19,7 @@
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q256910"/>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">961ProIdols</imas:Title>
+    <schema:workLocation rdf:resource="961Production"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/220001"/>
   </rdf:Description>
@@ -47,6 +48,7 @@
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q17160610"/>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">961ProIdols</imas:Title>
+    <schema:workLocation rdf:resource="961Production"/>
     <schema:birthPlace xml:lang="ja">オーストリア</schema:birthPlace>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/230001"/>
