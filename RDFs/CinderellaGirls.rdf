@@ -40,7 +40,9 @@
     <schema:birthPlace xml:lang="ja">東京</schema:birthPlace>
     <imas:Hobby xml:lang="ja">友達と長電話</imas:Hobby>
     <imas:PopLinksAttribute xml:lang="en">moon</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="ja">月</imas:PopLinksAttribute>
     <imas:PopLinksAttribute xml:lang="en">dream</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="ja">夢</imas:PopLinksAttribute>
     <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20084"/>
   </rdf:Description>
 
@@ -813,7 +815,9 @@
     <imas:Hobby xml:lang="ja">ポケットティッシュ収集</imas:Hobby>
     <imas:Hobby xml:lang="ja">お風呂に入ること</imas:Hobby>
     <imas:PopLinksAttribute xml:lang="en">ocean</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="ja">海</imas:PopLinksAttribute>
     <imas:PopLinksAttribute xml:lang="en">love</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="ja">愛</imas:PopLinksAttribute>
     <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20034"/>
   </rdf:Description>
 
@@ -853,7 +857,9 @@
     <imas:Talent xml:lang="ja">どこでも寝る</imas:Talent>
     <imas:Favorite xml:lang="ja">刺激的な調味料</imas:Favorite>
     <imas:PopLinksAttribute xml:lang="en">rainbow</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="ja">虹</imas:PopLinksAttribute>
     <imas:PopLinksAttribute xml:lang="en">thunder</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="ja">雷</imas:PopLinksAttribute>
     <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20019"/>
   </rdf:Description>
 
@@ -1015,7 +1021,9 @@
     <imas:Talent xml:lang="ja">食レポ</imas:Talent>
     <imas:Favorite xml:lang="ja">プロヴァンス風味噌汁</imas:Favorite>
     <imas:PopLinksAttribute xml:lang="en">love</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="ja">愛</imas:PopLinksAttribute>
     <imas:PopLinksAttribute xml:lang="en">rainbow</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="ja">虹</imas:PopLinksAttribute>
     <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20162"/>
   </rdf:Description>
 
@@ -1115,7 +1123,9 @@
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">F19DB4</imas:Color>
     <imas:Hobby xml:lang="ja">なし</imas:Hobby>
     <imas:PopLinksAttribute xml:lang="en">dream</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="ja">夢</imas:PopLinksAttribute>
     <imas:PopLinksAttribute xml:lang="en">ocean</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="ja">海</imas:PopLinksAttribute>
     <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20140"/>
   </rdf:Description>
 
@@ -1793,7 +1803,9 @@
     <schema:birthPlace xml:lang="ja">静岡</schema:birthPlace>
     <imas:Hobby xml:lang="ja">ピンクのもの集め</imas:Hobby>
     <imas:PopLinksAttribute xml:lang="en">wind</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="ja">風</imas:PopLinksAttribute>
     <imas:PopLinksAttribute xml:lang="en">flower</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="ja">花</imas:PopLinksAttribute>
     <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20167"/>
   </rdf:Description>
 
@@ -1864,7 +1876,9 @@
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">B72089</imas:Color>
     <imas:Hobby xml:lang="ja">ぬいぐるみ集め</imas:Hobby>
     <imas:PopLinksAttribute xml:lang="en">love</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="ja">愛</imas:PopLinksAttribute>
     <imas:PopLinksAttribute xml:lang="en">thunder</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="ja">雷</imas:PopLinksAttribute>
     <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20127"/>
   </rdf:Description>
 
@@ -1992,7 +2006,9 @@
     <schema:birthPlace xml:lang="ja">東京</schema:birthPlace>
     <imas:Hobby xml:lang="ja">ロボット制作</imas:Hobby>
     <imas:PopLinksAttribute xml:lang="en">moon</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="ja">月</imas:PopLinksAttribute>
     <imas:PopLinksAttribute xml:lang="en">thunder</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="ja">雷</imas:PopLinksAttribute>
     <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20017"/>
   </rdf:Description>
 
@@ -2097,6 +2113,39 @@
     <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20059"/>
   </rdf:Description>
 
+  <rdf:Description rdf:about="Ryoo_Haena">
+    <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cu</imas:Type>
+    <schema:familyName xml:lang="ja">リュ</schema:familyName>
+    <schema:familyName xml:lang="ko">류</schema:familyName>
+    <schema:familyName xml:lang="en">Ryoo</schema:familyName>
+    <imas:familyNameKana xml:lang="ja">りゅ</imas:familyNameKana>
+    <schema:givenName xml:lang="ja">ヘナ</schema:givenName>
+    <schema:givenName xml:lang="ko">헤나</schema:givenName>
+    <schema:givenName xml:lang="en">Haena</schema:givenName>
+    <imas:givenNameKana xml:lang="ja">へな</imas:givenNameKana>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
+    <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <schema:name xml:lang="ja">リュ・ヘナ</schema:name>
+    <schema:name xml:lang="ko">류헤나</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">リュ・ヘナ</rdfs:label>
+    <schema:name xml:lang="en">Ryoo Haena</schema:name>
+    <imas:nameKana xml:lang="ja">りゅ・へな</imas:nameKana>
+    <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">167.0</schema:height>
+    <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</foaf:age>
+    <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">51.0</schema:weight>
+    <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--11-09</schema:birthDate>
+    <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">O</imas:BloodType>
+    <imas:Handedness rdf:datatype="http://www.w3.org/2001/XMLSchema#string">left</imas:Handedness>
+    <imas:Bust rdf:datatype="http://www.w3.org/2001/XMLSchema#float">80.0</imas:Bust>
+    <imas:Waist rdf:datatype="http://www.w3.org/2001/XMLSchema#float">57.0</imas:Waist>
+    <imas:Hip rdf:datatype="http://www.w3.org/2001/XMLSchema#float">85.0</imas:Hip>
+    <imas:Constellation xml:lang="ja">蠍座</imas:Constellation>
+    <schema:birthPlace xml:lang="ja">洪川郡</schema:birthPlace>
+    <imas:Hobby xml:lang="ja">自撮り</imas:Hobby>
+    <imas:Hobby xml:lang="ja">小物作り</imas:Hobby>
+  </rdf:Description>
+
   <!--Cool-->
   <rdf:Description rdf:about="Shibuya_Rin">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Co</imas:Type>
@@ -2130,7 +2179,9 @@
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">1C90CD</imas:Color>
     <imas:Hobby xml:lang="ja">犬の散歩</imas:Hobby>
     <imas:PopLinksAttribute xml:lang="en">sky</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="ja">空</imas:PopLinksAttribute>
     <imas:PopLinksAttribute xml:lang="en">wind</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="ja">風</imas:PopLinksAttribute>
     <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20083"/>
   </rdf:Description>
 
@@ -2581,7 +2632,9 @@
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">01AAA5</imas:Color>
     <imas:Hobby xml:lang="ja">アロマテラピー</imas:Hobby>
     <imas:PopLinksAttribute xml:lang="en">love</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="ja">愛</imas:PopLinksAttribute>
     <imas:PopLinksAttribute xml:lang="en">star</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="ja">星</imas:PopLinksAttribute>
     <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20160"/>
   </rdf:Description>
 
@@ -2930,7 +2983,9 @@
     <imas:Hobby xml:lang="ja">絵日記</imas:Hobby>
     <imas:Hobby xml:lang="ja">釣り</imas:Hobby>
     <imas:PopLinksAttribute xml:lang="en">ocean</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="ja">海</imas:PopLinksAttribute>
     <imas:PopLinksAttribute xml:lang="en">heaven</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="ja">天</imas:PopLinksAttribute>
     <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20008"/>
   </rdf:Description>
 
@@ -3050,7 +3105,9 @@
     <schema:birthPlace xml:lang="ja">奈良</schema:birthPlace>
     <imas:Hobby xml:lang="ja">天体観測</imas:Hobby>
     <imas:PopLinksAttribute xml:lang="en">star</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="ja">星</imas:PopLinksAttribute>
     <imas:PopLinksAttribute xml:lang="en">ocean</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="ja">海</imas:PopLinksAttribute>
     <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20101"/>
   </rdf:Description>
 
@@ -3806,7 +3863,9 @@
     <schema:birthPlace xml:lang="ja">静岡</schema:birthPlace>
     <imas:Hobby xml:lang="ja">プログラミング</imas:Hobby>
     <imas:PopLinksAttribute xml:lang="en">sky</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="ja">空</imas:PopLinksAttribute>
     <imas:PopLinksAttribute xml:lang="en">ocean</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="ja">海</imas:PopLinksAttribute>
     <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20030"/>
   </rdf:Description>
 
@@ -3874,7 +3933,9 @@
     <imas:Hobby xml:lang="ja">ポエム作り</imas:Hobby>
     <imas:Hobby xml:lang="ja">少女漫画集め</imas:Hobby>
     <imas:PopLinksAttribute xml:lang="en">moon</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="ja">月</imas:PopLinksAttribute>
     <imas:PopLinksAttribute xml:lang="en">flower</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="ja">花</imas:PopLinksAttribute>
     <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20172"/>
   </rdf:Description>
 
@@ -3905,7 +3966,9 @@
     <imas:Hobby xml:lang="ja">ホームパーティ</imas:Hobby>
     <imas:Hobby xml:lang="ja">天体観測</imas:Hobby>
     <imas:PopLinksAttribute xml:lang="en">sky</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="ja">空</imas:PopLinksAttribute>
     <imas:PopLinksAttribute xml:lang="en">snow</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="ja">雪</imas:PopLinksAttribute>
     <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20009"/>
   </rdf:Description>
 
@@ -4183,6 +4246,31 @@
     <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20132"/>
   </rdf:Description>
 
+  <rdf:Description rdf:about="Juney">
+    <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Co</imas:Type>
+    <schema:alternateName xml:lang="ja">ジュニー</schema:alternateName>
+    <schema:alternateName xml:lang="ko">주니</schema:alternateName>
+    <schema:alternateName xml:lang="en">Juney</schema:alternateName>
+    <imas:alternateNameKana xml:lang="ja">じゅにー</imas:alternateNameKana>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ジュニー</rdfs:label>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
+    <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">172.0</schema:height>
+    <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</foaf:age>
+    <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">49.0</schema:weight>
+    <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--03-12</schema:birthDate>
+    <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AB</imas:BloodType>
+    <imas:Handedness rdf:datatype="http://www.w3.org/2001/XMLSchema#string">right</imas:Handedness>
+    <imas:Bust rdf:datatype="http://www.w3.org/2001/XMLSchema#float">77.0</imas:Bust>
+    <imas:Waist rdf:datatype="http://www.w3.org/2001/XMLSchema#float">56.0</imas:Waist>
+    <imas:Hip rdf:datatype="http://www.w3.org/2001/XMLSchema#float">82.0</imas:Hip>
+    <imas:Constellation xml:lang="ja">魚座</imas:Constellation>
+    <schema:birthPlace xml:lang="ja">シアトル</schema:birthPlace>
+    <imas:Hobby xml:lang="ja">海外ドラマ鑑賞</imas:Hobby>
+    <imas:Hobby xml:lang="ja">テコンドー</imas:Hobby>
+  </rdf:Description>
+
   <!--Passion-->
   <rdf:Description rdf:about="Honda_Mio">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pa</imas:Type>
@@ -4216,7 +4304,9 @@
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">F6B128</imas:Color>
     <imas:Hobby xml:lang="ja">ショッピング</imas:Hobby>
     <imas:PopLinksAttribute xml:lang="en">dream</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="ja">夢</imas:PopLinksAttribute>
     <imas:PopLinksAttribute xml:lang="en">light</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="ja">光</imas:PopLinksAttribute>
     <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20146"/>
   </rdf:Description>
 
@@ -4864,7 +4954,9 @@
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">A21D3C</imas:Color>
     <imas:Hobby xml:lang="ja">キノコ栽培</imas:Hobby>
     <imas:PopLinksAttribute xml:lang="en">darkness</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="ja">闇</imas:PopLinksAttribute>
     <imas:PopLinksAttribute xml:lang="en">star</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="ja">星</imas:PopLinksAttribute>
     <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20144"/>
   </rdf:Description>
 
@@ -5030,7 +5122,9 @@
     <imas:Hobby xml:lang="ja">豚を料理すること</imas:Hobby>
     <imas:Hobby xml:lang="ja">お仕置き</imas:Hobby>
     <imas:PopLinksAttribute xml:lang="en">fire</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="ja">炎</imas:PopLinksAttribute>
     <imas:PopLinksAttribute xml:lang="en">moon</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="ja">月</imas:PopLinksAttribute>
     <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20069"/>
   </rdf:Description>
 
@@ -5192,7 +5286,9 @@
     <schema:birthPlace xml:lang="ja">鹿児島</schema:birthPlace>
     <imas:Hobby xml:lang="ja">チアリーディング</imas:Hobby>
     <imas:PopLinksAttribute xml:lang="en">star</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="ja">星</imas:PopLinksAttribute>
     <imas:PopLinksAttribute xml:lang="en">love</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="ja">愛</imas:PopLinksAttribute>
     <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20188"/>
   </rdf:Description>
 
@@ -5228,7 +5324,9 @@
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">F4982B</imas:Color>
     <imas:Hobby xml:lang="ja">カラオケ</imas:Hobby>
     <imas:PopLinksAttribute xml:lang="en">love</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="ja">愛</imas:PopLinksAttribute>
     <imas:PopLinksAttribute xml:lang="en">rainbow</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="ja">虹</imas:PopLinksAttribute>
     <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20086"/>
   </rdf:Description>
 
@@ -5264,7 +5362,9 @@
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">F7D30D</imas:Color>
     <imas:Hobby xml:lang="ja">シール集め</imas:Hobby>
     <imas:PopLinksAttribute xml:lang="en">star</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="ja">星</imas:PopLinksAttribute>
     <imas:PopLinksAttribute xml:lang="en">fire</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="ja">炎</imas:PopLinksAttribute>
     <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20087"/>
   </rdf:Description>
 
@@ -5364,7 +5464,9 @@
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">F8CA02</imas:Color>
     <imas:Hobby xml:lang="ja">かわいい物集め</imas:Hobby>
     <imas:PopLinksAttribute xml:lang="en">sky</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="ja">空</imas:PopLinksAttribute>
     <imas:PopLinksAttribute xml:lang="en">star</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="ja">星</imas:PopLinksAttribute>
     <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20173"/>
   </rdf:Description>
 
@@ -5913,7 +6015,9 @@
     <imas:Hobby xml:lang="ja">食べること</imas:Hobby>
     <imas:Hobby xml:lang="ja">貯金</imas:Hobby>
     <imas:PopLinksAttribute xml:lang="en">star</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="ja">星</imas:PopLinksAttribute>
     <imas:PopLinksAttribute xml:lang="en">dream</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="ja">夢</imas:PopLinksAttribute>
     <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20107"/>
   </rdf:Description>
 
@@ -6147,6 +6251,39 @@
     <imas:Hobby xml:lang="ja">ポエム</imas:Hobby>
     <imas:Hobby xml:lang="ja">読書（新書）</imas:Hobby>
     <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20131"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="Im_Yujin">
+    <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pa</imas:Type>
+    <schema:familyName xml:lang="ja">イム</schema:familyName>
+    <schema:familyName xml:lang="ko">임</schema:familyName>
+    <schema:familyName xml:lang="en">Im</schema:familyName>
+    <imas:familyNameKana xml:lang="ja">いむ</imas:familyNameKana>
+    <schema:givenName xml:lang="ja">ユジン</schema:givenName>
+    <schema:givenName xml:lang="ko">유진</schema:givenName>
+    <schema:givenName xml:lang="en">Yujin</schema:givenName>
+    <imas:givenNameKana xml:lang="ja">ゆじん</imas:givenNameKana>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
+    <imas:Title xml:lang="en">CinderellaGirls</imas:Title>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <schema:name xml:lang="ko">임유진</schema:name>
+    <schema:name xml:lang="ja">イム・ユジン</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">イム・ユジン</rdfs:label>
+    <schema:name xml:lang="en">Im Yujin</schema:name>
+    <imas:nameKana xml:lang="ja">いむ・ゆじん</imas:nameKana>
+    <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">165.0</schema:height>
+    <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</foaf:age>
+    <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">48.0</schema:weight>
+    <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--08-02</schema:birthDate>
+    <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">B</imas:BloodType>
+    <imas:Handedness rdf:datatype="http://www.w3.org/2001/XMLSchema#string">right</imas:Handedness>
+    <imas:Bust rdf:datatype="http://www.w3.org/2001/XMLSchema#float">86.0</imas:Bust>
+    <imas:Waist rdf:datatype="http://www.w3.org/2001/XMLSchema#float">58.0</imas:Waist>
+    <imas:Hip rdf:datatype="http://www.w3.org/2001/XMLSchema#float">84.0</imas:Hip>
+    <imas:Constellation xml:lang="ja">獅子座</imas:Constellation>
+    <schema:birthPlace xml:lang="ja">ソウル</schema:birthPlace>
+    <imas:Hobby xml:lang="ja">遊びに行くこと</imas:Hobby>
+    <imas:Hobby xml:lang="ja">足マッサージ</imas:Hobby>
   </rdf:Description>
 
 </rdf:RDF>
