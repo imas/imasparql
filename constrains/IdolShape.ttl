@@ -246,9 +246,16 @@ imas-shape:IdolShape a sh:NodeShape;
     ];
     sh:property [
         rdfs:label "所属ユニットの制約";
-        rdfs:comment "目的語はimas:Unit";
+        rdfs:comment "目的語はimas:Unit, imas:Production";
         sh:path schema:memberOf;
-        sh:class imas:Unit;
+        sh:or(
+            [
+                sh:class imas:Unit;
+            ]
+            [
+                sh:class imas:Production;
+            ]
+        )
     ];
     sh:property [
         rdfs:label "衣装の制約";
