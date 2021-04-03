@@ -30,9 +30,9 @@
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/徳丸完"/>
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q11489483"/>
     <schema:gender xml:lang="en">male</schema:gender>
-    <schema:memberOf xml:lang="en">765Staff</schema:memberOf>
     <schema:position xml:lang="ja">会長</schema:position>
-    <schema:workLocation rdf:resource="765Production"/>
+    <schema:memberOf rdf:resource="765Production"/>
+    <schema:workLocation rdf:resource="765ProductionOffice"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Staff"/>
   </rdf:Description>
   <rdf:Description rdf:about="Takagi_Junjiro">
@@ -58,9 +58,9 @@
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/大塚芳忠"/>
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q520669"/>
     <schema:gender xml:lang="en">male</schema:gender>
-    <schema:memberOf xml:lang="en">765Staff</schema:memberOf>
     <schema:position xml:lang="ja">社長</schema:position>
-    <schema:workLocation rdf:resource="765Production"/>
+    <schema:memberOf rdf:resource="765Production"/>
+    <schema:workLocation rdf:resource="765ProductionOffice"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Staff"/>
   </rdf:Description>
   <rdf:Description rdf:about="Kuroi_Takao">
@@ -86,9 +86,9 @@
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/子安武人"/>
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q464348"/>
     <schema:gender xml:lang="en">male</schema:gender>
-    <schema:memberOf xml:lang="en">961Staff</schema:memberOf>
     <schema:position xml:lang="ja">社長</schema:position>
-    <schema:workLocation rdf:resource="961Production"/>
+    <schema:memberOf rdf:resource="961Production"/>
+    <schema:workLocation rdf:resource="961ProductionOffice"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Staff"/>
   </rdf:Description>
   <rdf:Description rdf:about="Saito_Takashi">
@@ -107,9 +107,9 @@
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/立木文彦"/>
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q1142856"/>
     <schema:gender xml:lang="en">male</schema:gender>
-    <schema:memberOf xml:lang="en">315Staff</schema:memberOf>
     <schema:position xml:lang="ja">社長</schema:position>
-    <schema:workLocation rdf:resource="315Production"/>
+    <schema:memberOf rdf:resource="315Production"/>
+    <schema:workLocation rdf:resource="315ProductionOffice"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Staff"/>
   </rdf:Description>
   <rdf:Description rdf:about="Ishikawa_Minori">
@@ -124,9 +124,9 @@
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">石川実</rdfs:label>
     <schema:name xml:lang="en">Minori Ishikawa</schema:name>
     <schema:gender xml:lang="en">female</schema:gender>
-    <schema:memberOf xml:lang="en">876Staff</schema:memberOf>
     <schema:position xml:lang="ja">社長</schema:position>
-    <schema:workLocation rdf:resource="876Production"/>
+    <schema:memberOf rdf:resource="876Production"/>
+    <schema:workLocation rdf:resource="876ProductionOffice"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Staff"/>
   </rdf:Description>
   <rdf:Description rdf:about="Amai_Tsutomu">
@@ -144,9 +144,9 @@
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/津田健次郎"/>
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q1255370"/>
     <schema:gender xml:lang="en">male</schema:gender>
-    <schema:memberOf xml:lang="en">283Staff</schema:memberOf>
     <schema:position xml:lang="ja">社長</schema:position>
-    <schema:workLocation rdf:resource="283Production"/>
+    <schema:memberOf rdf:resource="283Production"/>
+    <schema:workLocation rdf:resource="283ProductionOffice"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Staff"/>
   </rdf:Description>
 
@@ -177,9 +177,9 @@
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/滝田樹里"/>
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q11565277"/>
     <schema:gender xml:lang="en">female</schema:gender>
-    <schema:memberOf xml:lang="en">765Staff</schema:memberOf>
     <schema:position xml:lang="ja">事務員</schema:position>
-    <schema:workLocation rdf:resource="765Production"/>
+    <schema:memberOf rdf:resource="765Production"/>
+    <schema:workLocation rdf:resource="765ProductionOffice"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Staff"/>
   </rdf:Description>
   <rdf:Description rdf:about="Senkawa_Chihiro">
@@ -239,9 +239,9 @@
     <imas:Hobby xml:lang="ja">釣り</imas:Hobby>
     <imas:Talent xml:lang="ja">暗算</imas:Talent>
     <schema:gender xml:lang="en">male</schema:gender>
-    <schema:memberOf xml:lang="en">315Staff</schema:memberOf>
     <schema:position xml:lang="ja">事務員</schema:position>
-    <schema:workLocation rdf:resource="315Production"/>
+    <schema:memberOf rdf:resource="315Production"/>
+    <schema:workLocation rdf:resource="315ProductionOffice"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Staff"/>
   </rdf:Description>
   <rdf:Description rdf:about="Aoba_Misaki">
@@ -262,8 +262,8 @@
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/安済知佳"/>
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q11450941"/>
     <schema:gender xml:lang="en">female</schema:gender>
-    <schema:memberOf xml:lang="en">765Staff</schema:memberOf>
     <schema:position xml:lang="ja">事務員</schema:position>
+    <schema:memberOf rdf:resource="765Production"/>
     <schema:workLocation rdf:resource="765ProLiveTheater"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Staff"/>
   </rdf:Description>
@@ -284,10 +284,10 @@
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/山村響"/>
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q11469493"/>
     <schema:gender xml:lang="en">female</schema:gender>
-    <schema:memberOf xml:lang="en">283Staff</schema:memberOf>
     <schema:birthPlace xml:lang="ja">埼玉</schema:birthPlace>
     <schema:position xml:lang="ja">事務員</schema:position>
-    <schema:workLocation rdf:resource="283Production"/>
+    <schema:memberOf rdf:resource="283Production"/>
+    <schema:workLocation rdf:resource="283ProductionOffice"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Staff"/>
   </rdf:Description>
 
@@ -306,8 +306,8 @@
     <imas:Talent xml:lang="ja">ランニング</imas:Talent>
     <imas:Favorite xml:lang="ja">気ままに散歩</imas:Favorite>
     <schema:gender xml:lang="en">female</schema:gender>
-    <schema:memberOf xml:lang="en">765Staff</schema:memberOf>
     <schema:position xml:lang="ja">フォトグラファー</schema:position>
+    <schema:memberOf rdf:resource="765Production"/>
     <schema:workLocation rdf:resource="765ProLiveTheater"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Staff"/>
   </rdf:Description>
