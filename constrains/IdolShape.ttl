@@ -245,7 +245,7 @@ imas-shape:IdolShape a sh:NodeShape;
         sh:languageIn ("ja");
     ];
     sh:property [
-        rdfs:label "所属ユニットの制約";
+        rdfs:label "所属ユニット及び所属プロダクションの制約";
         rdfs:comment "目的語はimas:Unit, imas:Production";
         sh:path schema:memberOf;
         sh:or(
