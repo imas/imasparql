@@ -101,6 +101,7 @@
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">1st Vision</imas:Title>
     <schema:memberOf rdf:resource="765Production"/>
+    <schema:memberOf rdf:resource="961Production"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol_1st"/>
     <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/10011"/>
   </rdf:Description>
@@ -263,6 +264,7 @@
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q901521"/>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">1st Vision</imas:Title>
+    <schema:memberOf rdf:resource="765Production"/>
     <schema:memberOf rdf:resource="961Production"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol_1st"/>
     <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/10006"/>
@@ -425,6 +427,7 @@
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q3844242"/>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Title xml:lang="en">1st Vision</imas:Title>
+    <schema:memberOf rdf:resource="765Production"/>
     <schema:memberOf rdf:resource="961Production"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol_1st"/>
     <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/10003"/>
