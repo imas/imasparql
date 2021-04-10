@@ -16,6 +16,23 @@ imas-shape:IdolShape a sh:NodeShape;
         sh:minCount 1;
     ];
     sh:property [
+        rdfs:label "アイドルの登場するブランドの制約";
+        sh:path imas:Brand;
+        sh:datatype rdf:langString;
+        sh:minCount 1;
+        sh:maxCount 1;
+        sh:in (
+            "1stVision"@en # 特殊
+            "765AS"@en
+            "DearlyStars"@en
+            "CinderellaGirls"@en
+            "MillionLive"@en
+            "SideM"@en
+            "ShinyColors"@en
+            "Other"@en  # 判断に迷う場合はここ
+        );
+    ];
+    sh:property [
         rdfs:label "アイドルのプロフィール等に書かれている名前の制約";
         rdfs:comment "絶対に一つだけ存在する(maxCount 1, minCount 1)、ロコはロコであって伴田路子ではない";
         sh:path rdfs:label;
