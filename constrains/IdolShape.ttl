@@ -13,7 +13,7 @@ imas-shape:IdolShape a sh:NodeShape;
         rdfs:label "アイドルの登場するコンテンツのタイトルの制約";
         sh:path imas:Title;
         sh:datatype rdf:langString;
-        sh:minCount 1;
+        sh:minCount 0;
     ];
     sh:property [
         rdfs:label "アイドルの登場するブランドの制約";
