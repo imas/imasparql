@@ -37,6 +37,7 @@
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">F32333</imas:Color>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
+    <schema:memberOf rdf:resource="315Production"/>
     <imas:PopLinksAttribute xml:lang="en">snow</imas:PopLinksAttribute>
     <imas:PopLinksAttribute xml:lang="ja">雪</imas:PopLinksAttribute>
     <imas:PopLinksAttribute xml:lang="en">heaven</imas:PopLinksAttribute>
@@ -75,6 +76,7 @@
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">94D509</imas:Color>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
+    <schema:memberOf rdf:resource="315Production"/>
     <imas:PopLinksAttribute xml:lang="en">wind</imas:PopLinksAttribute>
     <imas:PopLinksAttribute xml:lang="ja">風</imas:PopLinksAttribute>
     <imas:PopLinksAttribute xml:lang="en">heaven</imas:PopLinksAttribute>
@@ -114,6 +116,7 @@
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">1C23AA</imas:Color>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
+    <schema:memberOf rdf:resource="315Production"/>
     <imas:PopLinksAttribute xml:lang="en">moon</imas:PopLinksAttribute>
     <imas:PopLinksAttribute xml:lang="ja">月</imas:PopLinksAttribute>
     <imas:PopLinksAttribute xml:lang="en">heaven</imas:PopLinksAttribute>
@@ -152,6 +155,7 @@
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">E31C1A</imas:Color>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
+    <schema:memberOf rdf:resource="315Production"/>
     <imas:PopLinksAttribute xml:lang="en">heaven</imas:PopLinksAttribute>
     <imas:PopLinksAttribute xml:lang="ja">天</imas:PopLinksAttribute>
     <imas:PopLinksAttribute xml:lang="en">star</imas:PopLinksAttribute>
@@ -189,6 +193,7 @@
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">1945BA</imas:Color>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
+    <schema:memberOf rdf:resource="315Production"/>
     <imas:PopLinksAttribute xml:lang="en">flower</imas:PopLinksAttribute>
     <imas:PopLinksAttribute xml:lang="ja">花</imas:PopLinksAttribute>
     <imas:PopLinksAttribute xml:lang="en">star</imas:PopLinksAttribute>
@@ -229,6 +234,7 @@
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">3BAF29</imas:Color>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
+    <schema:memberOf rdf:resource="315Production"/>
     <imas:PopLinksAttribute xml:lang="en">sky</imas:PopLinksAttribute>
     <imas:PopLinksAttribute xml:lang="ja">空</imas:PopLinksAttribute>
     <imas:PopLinksAttribute xml:lang="en">star</imas:PopLinksAttribute>
@@ -266,6 +272,7 @@
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">C5A6E2</imas:Color>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
+    <schema:memberOf rdf:resource="315Production"/>
     <imas:PopLinksAttribute xml:lang="en">light</imas:PopLinksAttribute>
     <imas:PopLinksAttribute xml:lang="ja">光</imas:PopLinksAttribute>
     <imas:PopLinksAttribute xml:lang="en">dream</imas:PopLinksAttribute>
@@ -303,6 +310,7 @@
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">3D5AC8</imas:Color>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
+    <schema:memberOf rdf:resource="315Production"/>
     <imas:PopLinksAttribute xml:lang="en">light</imas:PopLinksAttribute>
     <imas:PopLinksAttribute xml:lang="ja">光</imas:PopLinksAttribute>
     <imas:PopLinksAttribute xml:lang="en">ocean</imas:PopLinksAttribute>
@@ -340,6 +348,7 @@
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">6AC4E9</imas:Color>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
+    <schema:memberOf rdf:resource="315Production"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/40030"/>
   </rdf:Description>
@@ -367,6 +376,7 @@
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">8BDC63</imas:Color>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
+    <schema:memberOf rdf:resource="315Production"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/40038"/>
   </rdf:Description>
@@ -400,6 +410,7 @@
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">FA90A2</imas:Color>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
+    <schema:memberOf rdf:resource="315Production"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/40046"/>
   </rdf:Description>
@@ -433,6 +444,7 @@
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">FEE806</imas:Color>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
+    <schema:memberOf rdf:resource="315Production"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/40002"/>
   </rdf:Description>
@@ -467,6 +479,7 @@
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">23CD7A</imas:Color>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
+    <schema:memberOf rdf:resource="315Production"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/40001"/>
   </rdf:Description>
@@ -501,6 +514,7 @@
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">57B3E5</imas:Color>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
+    <schema:memberOf rdf:resource="315Production"/>
     <imas:PopLinksAttribute xml:lang="en">dream</imas:PopLinksAttribute>
     <imas:PopLinksAttribute xml:lang="ja">夢</imas:PopLinksAttribute>
     <imas:PopLinksAttribute xml:lang="en">love</imas:PopLinksAttribute>
@@ -538,6 +552,7 @@
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">EE7220</imas:Color>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
+    <schema:memberOf rdf:resource="315Production"/>
     <imas:PopLinksAttribute xml:lang="en">fire</imas:PopLinksAttribute>
     <imas:PopLinksAttribute xml:lang="ja">炎</imas:PopLinksAttribute>
     <imas:PopLinksAttribute xml:lang="en">love</imas:PopLinksAttribute>
@@ -575,6 +590,7 @@
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">78853A</imas:Color>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
+    <schema:memberOf rdf:resource="315Production"/>
     <imas:PopLinksAttribute xml:lang="en">love</imas:PopLinksAttribute>
     <imas:PopLinksAttribute xml:lang="ja">愛</imas:PopLinksAttribute>
     <imas:PopLinksAttribute xml:lang="en">heaven</imas:PopLinksAttribute>
@@ -612,6 +628,7 @@
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">F7BD05</imas:Color>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
+    <schema:memberOf rdf:resource="315Production"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/40035"/>
   </rdf:Description>
@@ -645,6 +662,7 @@
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">7664A0</imas:Color>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
+    <schema:memberOf rdf:resource="315Production"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/40037"/>
   </rdf:Description>
@@ -679,6 +697,7 @@
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">79A5DF</imas:Color>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
+    <schema:memberOf rdf:resource="315Production"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/40021"/>
   </rdf:Description>
@@ -713,6 +732,7 @@
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">FE6B02</imas:Color>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
+    <schema:memberOf rdf:resource="315Production"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/40005"/>
   </rdf:Description>
@@ -746,6 +766,7 @@
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">1845B9</imas:Color>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
+    <schema:memberOf rdf:resource="315Production"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/40040"/>
   </rdf:Description>
@@ -780,6 +801,7 @@
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">24CAD2</imas:Color>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
+    <schema:memberOf rdf:resource="315Production"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/40025"/>
   </rdf:Description>
@@ -813,6 +835,7 @@
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">71D448</imas:Color>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
+    <schema:memberOf rdf:resource="315Production"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/40045"/>
   </rdf:Description>
@@ -847,6 +870,7 @@
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">F125C1</imas:Color>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
+    <schema:memberOf rdf:resource="315Production"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/40010"/>
   </rdf:Description>
@@ -880,6 +904,7 @@
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">E63C2E</imas:Color>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
+    <schema:memberOf rdf:resource="315Production"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/40003"/>
   </rdf:Description>
@@ -915,6 +940,7 @@
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">0F0C9F</imas:Color>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
+    <schema:memberOf rdf:resource="315Production"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/40023"/>
   </rdf:Description>
@@ -950,6 +976,7 @@
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">F09079</imas:Color>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
+    <schema:memberOf rdf:resource="315Production"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/40017"/>
   </rdf:Description>
@@ -985,6 +1012,7 @@
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">02946C</imas:Color>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
+    <schema:memberOf rdf:resource="315Production"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/40027"/>
   </rdf:Description>
@@ -1013,6 +1041,7 @@
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">606CB2</imas:Color>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
+    <schema:memberOf rdf:resource="315Production"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/40007"/>
   </rdf:Description>
@@ -1047,6 +1076,7 @@
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">F8C559</imas:Color>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
+    <schema:memberOf rdf:resource="315Production"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/40011"/>
   </rdf:Description>
@@ -1080,6 +1110,7 @@
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">FA7EB4</imas:Color>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
+    <schema:memberOf rdf:resource="315Production"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/40042"/>
   </rdf:Description>
@@ -1113,6 +1144,7 @@
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">1F1451</imas:Color>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
+    <schema:memberOf rdf:resource="315Production"/>
     <imas:PopLinksAttribute xml:lang="en">flower</imas:PopLinksAttribute>
     <imas:PopLinksAttribute xml:lang="ja">花</imas:PopLinksAttribute>
     <imas:PopLinksAttribute xml:lang="en">rainbow</imas:PopLinksAttribute>
@@ -1150,6 +1182,7 @@
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">D13037</imas:Color>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
+    <schema:memberOf rdf:resource="315Production"/>
     <imas:PopLinksAttribute xml:lang="en">flower</imas:PopLinksAttribute>
     <imas:PopLinksAttribute xml:lang="ja">花</imas:PopLinksAttribute>
     <imas:PopLinksAttribute xml:lang="en">moon</imas:PopLinksAttribute>
@@ -1187,6 +1220,7 @@
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">F7B5C4</imas:Color>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
+    <schema:memberOf rdf:resource="315Production"/>
     <imas:PopLinksAttribute xml:lang="en">love</imas:PopLinksAttribute>
     <imas:PopLinksAttribute xml:lang="ja">愛</imas:PopLinksAttribute>
     <imas:PopLinksAttribute xml:lang="en">flower</imas:PopLinksAttribute>
@@ -1225,6 +1259,7 @@
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">436CA9</imas:Color>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
+    <schema:memberOf rdf:resource="315Production"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/40036"/>
   </rdf:Description>
@@ -1260,6 +1295,7 @@
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">F5D24B</imas:Color>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
+    <schema:memberOf rdf:resource="315Production"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/40041"/>
   </rdf:Description>
@@ -1294,6 +1330,7 @@
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">EE7602</imas:Color>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
+    <schema:memberOf rdf:resource="315Production"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/40044"/>
   </rdf:Description>
@@ -1329,6 +1366,7 @@
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">0E0C9F</imas:Color>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
+    <schema:memberOf rdf:resource="315Production"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/40029"/>
   </rdf:Description>
@@ -1362,6 +1400,7 @@
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">CA9111</imas:Color>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
+    <schema:memberOf rdf:resource="315Production"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/40012"/>
   </rdf:Description>
@@ -1395,6 +1434,7 @@
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">AC162A</imas:Color>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
+    <schema:memberOf rdf:resource="315Production"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/40018"/>
   </rdf:Description>
@@ -1430,6 +1470,7 @@
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">70B449</imas:Color>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
+    <schema:memberOf rdf:resource="315Production"/>
     <imas:PopLinksAttribute xml:lang="en">dream</imas:PopLinksAttribute>
     <imas:PopLinksAttribute xml:lang="ja">夢</imas:PopLinksAttribute>
     <imas:PopLinksAttribute xml:lang="en">sky</imas:PopLinksAttribute>
@@ -1468,6 +1509,7 @@
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">E41C1A</imas:Color>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
+    <schema:memberOf rdf:resource="315Production"/>
     <imas:PopLinksAttribute xml:lang="en">sky</imas:PopLinksAttribute>
     <imas:PopLinksAttribute xml:lang="ja">空</imas:PopLinksAttribute>
     <imas:PopLinksAttribute xml:lang="en">snow</imas:PopLinksAttribute>
@@ -1510,6 +1552,7 @@
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">CF9E51</imas:Color>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
+    <schema:memberOf rdf:resource="315Production"/>
     <imas:PopLinksAttribute xml:lang="en">sky</imas:PopLinksAttribute>
     <imas:PopLinksAttribute xml:lang="ja">空</imas:PopLinksAttribute>
     <imas:PopLinksAttribute xml:lang="en">ocean</imas:PopLinksAttribute>
@@ -1547,6 +1590,7 @@
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">111721</imas:Color>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
+    <schema:memberOf rdf:resource="315Production"/>
     <imas:PopLinksAttribute xml:lang="en">star</imas:PopLinksAttribute>
     <imas:PopLinksAttribute xml:lang="ja">星</imas:PopLinksAttribute>
     <imas:PopLinksAttribute xml:lang="en">darkness</imas:PopLinksAttribute>
@@ -1584,6 +1628,7 @@
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">477525</imas:Color>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
+    <schema:memberOf rdf:resource="315Production"/>
     <imas:PopLinksAttribute xml:lang="en">darkness</imas:PopLinksAttribute>
     <imas:PopLinksAttribute xml:lang="ja">闇</imas:PopLinksAttribute>
     <imas:PopLinksAttribute xml:lang="en">sky</imas:PopLinksAttribute>
@@ -1621,6 +1666,7 @@
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">1FC1DD</imas:Color>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Title xml:lang="en">315ProIdols</imas:Title>
+    <schema:memberOf rdf:resource="315Production"/>
     <imas:PopLinksAttribute xml:lang="en">darkness</imas:PopLinksAttribute>
     <imas:PopLinksAttribute xml:lang="ja">闇</imas:PopLinksAttribute>
     <imas:PopLinksAttribute xml:lang="en">ocean</imas:PopLinksAttribute>
