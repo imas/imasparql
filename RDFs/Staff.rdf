@@ -32,6 +32,8 @@
     <schema:gender xml:lang="en">male</schema:gender>
     <schema:position xml:lang="ja">会長</schema:position>
     <imas:Brand xml:lang="en">765AS</imas:Brand>
+    <schema:memberOf rdf:resource="765Production"/>
+    <schema:workLocation rdf:resource="765ProductionOffice"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Staff"/>
   </rdf:Description>
   <rdf:Description rdf:about="Takagi_Junjiro">
@@ -59,6 +61,8 @@
     <schema:gender xml:lang="en">male</schema:gender>
     <schema:position xml:lang="ja">社長</schema:position>
     <imas:Brand xml:lang="en">765AS</imas:Brand>
+    <schema:memberOf rdf:resource="765Production"/>
+    <schema:workLocation rdf:resource="765ProductionOffice"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Staff"/>
   </rdf:Description>
   <rdf:Description rdf:about="Kuroi_Takao">
@@ -86,6 +90,8 @@
     <schema:gender xml:lang="en">male</schema:gender>
     <schema:position xml:lang="ja">社長</schema:position>
     <imas:Brand xml:lang="en">Others</imas:Brand>
+    <schema:memberOf rdf:resource="961Production"/>
+    <schema:workLocation rdf:resource="961ProductionOffice"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Staff"/>
   </rdf:Description>
   <rdf:Description rdf:about="Saito_Takashi">
@@ -106,6 +112,8 @@
     <schema:gender xml:lang="en">male</schema:gender>
     <schema:position xml:lang="ja">社長</schema:position>
     <imas:Brand xml:lang="en">SideM</imas:Brand>
+    <schema:memberOf rdf:resource="315Production"/>
+    <schema:workLocation rdf:resource="315ProductionOffice"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Staff"/>
   </rdf:Description>
   <rdf:Description rdf:about="Ishikawa_Minori">
@@ -122,6 +130,8 @@
     <schema:gender xml:lang="en">female</schema:gender>
     <schema:position xml:lang="ja">社長</schema:position>
     <imas:Brand xml:lang="en">Others</imas:Brand>
+    <schema:memberOf rdf:resource="876Production"/>
+    <schema:workLocation rdf:resource="876ProductionOffice"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Staff"/>
   </rdf:Description>
   <rdf:Description rdf:about="Amai_Tsutomu">
@@ -141,6 +151,8 @@
     <schema:gender xml:lang="en">male</schema:gender>
     <schema:position xml:lang="ja">社長</schema:position>
     <imas:Brand xml:lang="en">ShinyColors</imas:Brand>
+    <schema:memberOf rdf:resource="283Production"/>
+    <schema:workLocation rdf:resource="283ProductionOffice"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Staff"/>
   </rdf:Description>
 
@@ -173,6 +185,8 @@
     <schema:gender xml:lang="en">female</schema:gender>
     <schema:position xml:lang="ja">事務員</schema:position>
     <imas:Brand xml:lang="en">765AS</imas:Brand>
+    <schema:memberOf rdf:resource="765Production"/>
+    <schema:workLocation rdf:resource="765ProductionOffice"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Staff"/>
   </rdf:Description>
   <rdf:Description rdf:about="Senkawa_Chihiro">
@@ -234,6 +248,8 @@
     <schema:gender xml:lang="en">male</schema:gender>
     <schema:position xml:lang="ja">事務員</schema:position>
     <imas:Brand xml:lang="en">SideM</imas:Brand>
+    <schema:memberOf rdf:resource="315Production"/>
+    <schema:workLocation rdf:resource="315ProductionOffice"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Staff"/>
   </rdf:Description>
   <rdf:Description rdf:about="Aoba_Misaki">
@@ -256,6 +272,8 @@
     <schema:gender xml:lang="en">female</schema:gender>
     <schema:position xml:lang="ja">事務員</schema:position>
     <imas:Brand xml:lang="en">MillionLive</imas:Brand>
+    <schema:memberOf rdf:resource="765Production"/>
+    <schema:workLocation rdf:resource="765ProLiveTheater"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Staff"/>
   </rdf:Description>
   <rdf:Description rdf:about="Nanakusa_Hazuki">
@@ -278,6 +296,8 @@
     <schema:birthPlace xml:lang="ja">埼玉</schema:birthPlace>
     <schema:position xml:lang="ja">事務員</schema:position>
     <imas:Brand xml:lang="en">ShinyColors</imas:Brand>
+    <schema:memberOf rdf:resource="283Production"/>
+    <schema:workLocation rdf:resource="283ProductionOffice"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Staff"/>
   </rdf:Description>
 
@@ -298,6 +318,8 @@
     <schema:gender xml:lang="en">female</schema:gender>
     <schema:position xml:lang="ja">フォトグラファー</schema:position>
     <imas:Brand xml:lang="en">MillionLive</imas:Brand>
+    <schema:memberOf rdf:resource="765Production"/>
+    <schema:workLocation rdf:resource="765ProLiveTheater"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Staff"/>
   </rdf:Description>
 
