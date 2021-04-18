@@ -31,6 +31,7 @@
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q11489483"/>
     <schema:gender xml:lang="en">male</schema:gender>
     <schema:position xml:lang="ja">会長</schema:position>
+    <imas:Brand xml:lang="en">765AS</imas:Brand>
     <schema:memberOf rdf:resource="765Production"/>
     <schema:workLocation rdf:resource="765ProductionOffice"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Staff"/>
@@ -59,6 +60,7 @@
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q520669"/>
     <schema:gender xml:lang="en">male</schema:gender>
     <schema:position xml:lang="ja">社長</schema:position>
+    <imas:Brand xml:lang="en">765AS</imas:Brand>
     <schema:memberOf rdf:resource="765Production"/>
     <schema:workLocation rdf:resource="765ProductionOffice"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Staff"/>
@@ -87,6 +89,7 @@
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q464348"/>
     <schema:gender xml:lang="en">male</schema:gender>
     <schema:position xml:lang="ja">社長</schema:position>
+    <imas:Brand xml:lang="en">Others</imas:Brand>
     <schema:memberOf rdf:resource="961Production"/>
     <schema:workLocation rdf:resource="961ProductionOffice"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Staff"/>
@@ -108,6 +111,7 @@
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q1142856"/>
     <schema:gender xml:lang="en">male</schema:gender>
     <schema:position xml:lang="ja">社長</schema:position>
+    <imas:Brand xml:lang="en">SideM</imas:Brand>
     <schema:memberOf rdf:resource="315Production"/>
     <schema:workLocation rdf:resource="315ProductionOffice"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Staff"/>
@@ -125,6 +129,7 @@
     <schema:name xml:lang="en">Minori Ishikawa</schema:name>
     <schema:gender xml:lang="en">female</schema:gender>
     <schema:position xml:lang="ja">社長</schema:position>
+    <imas:Brand xml:lang="en">Others</imas:Brand>
     <schema:memberOf rdf:resource="876Production"/>
     <schema:workLocation rdf:resource="876ProductionOffice"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Staff"/>
@@ -145,6 +150,7 @@
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q1255370"/>
     <schema:gender xml:lang="en">male</schema:gender>
     <schema:position xml:lang="ja">社長</schema:position>
+    <imas:Brand xml:lang="en">ShinyColors</imas:Brand>
     <schema:memberOf rdf:resource="283Production"/>
     <schema:workLocation rdf:resource="283ProductionOffice"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Staff"/>
@@ -178,6 +184,7 @@
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q11565277"/>
     <schema:gender xml:lang="en">female</schema:gender>
     <schema:position xml:lang="ja">事務員</schema:position>
+    <imas:Brand xml:lang="en">765AS</imas:Brand>
     <schema:memberOf rdf:resource="765Production"/>
     <schema:workLocation rdf:resource="765ProductionOffice"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Staff"/>
@@ -209,9 +216,9 @@
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/佐藤利奈"/>
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q1371716"/>
     <schema:gender xml:lang="en">female</schema:gender>
-    <schema:memberOf xml:lang="en">CinderellaGirlsStaff</schema:memberOf>
     <schema:birthPlace xml:lang="ja">東京</schema:birthPlace>
     <schema:position xml:lang="ja">事務員</schema:position>
+    <imas:Brand xml:lang="en">CinderellaGirls</imas:Brand>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Staff"/>
   </rdf:Description>
   <rdf:Description rdf:about="Yamamura_Ken">
@@ -240,6 +247,7 @@
     <imas:Talent xml:lang="ja">暗算</imas:Talent>
     <schema:gender xml:lang="en">male</schema:gender>
     <schema:position xml:lang="ja">事務員</schema:position>
+    <imas:Brand xml:lang="en">SideM</imas:Brand>
     <schema:memberOf rdf:resource="315Production"/>
     <schema:workLocation rdf:resource="315ProductionOffice"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Staff"/>
@@ -263,6 +271,7 @@
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q11450941"/>
     <schema:gender xml:lang="en">female</schema:gender>
     <schema:position xml:lang="ja">事務員</schema:position>
+    <imas:Brand xml:lang="en">MillionLive</imas:Brand>
     <schema:memberOf rdf:resource="765Production"/>
     <schema:workLocation rdf:resource="765ProLiveTheater"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Staff"/>
@@ -286,6 +295,7 @@
     <schema:gender xml:lang="en">female</schema:gender>
     <schema:birthPlace xml:lang="ja">埼玉</schema:birthPlace>
     <schema:position xml:lang="ja">事務員</schema:position>
+    <imas:Brand xml:lang="en">ShinyColors</imas:Brand>
     <schema:memberOf rdf:resource="283Production"/>
     <schema:workLocation rdf:resource="283ProductionOffice"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Staff"/>
@@ -307,6 +317,7 @@
     <imas:Favorite xml:lang="ja">気ままに散歩</imas:Favorite>
     <schema:gender xml:lang="en">female</schema:gender>
     <schema:position xml:lang="ja">フォトグラファー</schema:position>
+    <imas:Brand xml:lang="en">MillionLive</imas:Brand>
     <schema:memberOf rdf:resource="765Production"/>
     <schema:workLocation rdf:resource="765ProLiveTheater"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Staff"/>
@@ -321,7 +332,6 @@
     <schema:givenName xml:lang="en">Rei</schema:givenName>
     <imas:givenNameKana xml:lang="ja">れい</imas:givenNameKana>
     <schema:gender xml:lang="en">female</schema:gender>
-    <schema:memberOf xml:lang="en">CinderellaGirlsStaff</schema:memberOf>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Staff"/>
     <schema:name xml:lang="ja">青木麗</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">マスタートレーナー</rdfs:label>
@@ -347,6 +357,7 @@
     <schema:alternateName xml:lang="ja">スターレッスントレーナー</schema:alternateName>
     <schema:alternateName xml:lang="en">Master Trainer</schema:alternateName>
     <schema:alternateName xml:lang="en">Star Lesson Trainer</schema:alternateName>
+    <imas:Brand xml:lang="en">CinderellaGirls</imas:Brand>
   </rdf:Description>
   <rdf:Description rdf:about="Aoki_Sei">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pa</imas:Type>
@@ -357,7 +368,6 @@
     <schema:givenName xml:lang="en">Sei</schema:givenName>
     <imas:givenNameKana xml:lang="ja">せい</imas:givenNameKana>
     <schema:gender xml:lang="en">female</schema:gender>
-    <schema:memberOf xml:lang="en">CinderellaGirlsStaff</schema:memberOf>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Staff"/>
     <schema:name xml:lang="ja">青木聖</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ベテラントレーナー</rdfs:label>
@@ -381,6 +391,7 @@
     <schema:position xml:lang="ja">トレーナー</schema:position>
     <schema:alternateName xml:lang="ja">ベテラントレーナー</schema:alternateName>
     <schema:alternateName xml:lang="en">Veteran Trainer</schema:alternateName>
+    <imas:Brand xml:lang="en">CinderellaGirls</imas:Brand>
   </rdf:Description>
   <rdf:Description rdf:about="Aoki_Mei">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pa</imas:Type>
@@ -391,7 +402,6 @@
     <schema:givenName xml:lang="en">Mei</schema:givenName>
     <imas:givenNameKana xml:lang="ja">めい</imas:givenNameKana>
     <schema:gender xml:lang="en">female</schema:gender>
-    <schema:memberOf xml:lang="en">CinderellaGirlsStaff</schema:memberOf>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Staff"/>
     <schema:name xml:lang="ja">青木明</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">トレーナー</rdfs:label>
@@ -415,6 +425,7 @@
     <schema:position xml:lang="ja">トレーナー</schema:position>
     <schema:alternateName xml:lang="ja">トレーナー</schema:alternateName>
     <schema:alternateName xml:lang="en">Trainer</schema:alternateName>
+    <imas:Brand xml:lang="en">CinderellaGirls</imas:Brand>
   </rdf:Description>
   <rdf:Description rdf:about="Aoki_Kei">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pa</imas:Type>
@@ -425,7 +436,6 @@
     <schema:givenName xml:lang="en">Kei</schema:givenName>
     <imas:givenNameKana xml:lang="ja">けい</imas:givenNameKana>
     <schema:gender xml:lang="en">female</schema:gender>
-    <schema:memberOf xml:lang="en">CinderellaGirlsStaff</schema:memberOf>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Staff"/>
     <schema:name xml:lang="ja">青木慶</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ルーキートレーナー</rdfs:label>
@@ -449,6 +459,7 @@
     <schema:position xml:lang="ja">トレーナー</schema:position>
     <schema:alternateName xml:lang="ja">ルーキートレーナー</schema:alternateName>
     <schema:alternateName xml:lang="en">Rookie Trainer</schema:alternateName>
+    <imas:Brand xml:lang="en">CinderellaGirls</imas:Brand>
   </rdf:Description>
 
   <rdf:Description rdf:about="Producer">
