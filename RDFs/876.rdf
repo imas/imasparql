@@ -259,6 +259,7 @@
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/田中あいみ"/>
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q17160813"/>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
+    <imas:Brand xml:lang="en">Other</imas:Brand>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <!-- <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/"/> -->
   </rdf:Description>
