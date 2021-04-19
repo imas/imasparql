@@ -960,4 +960,39 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/50025"/>
   </rdf:Description>
+
+  <rdf:Description rdf:about="Ikaruga_Luca">
+    <schema:familyName xml:lang="ja">斑鳩</schema:familyName>
+    <schema:familyName xml:lang="en">Ikaruga</schema:familyName>
+    <imas:familyNameKana xml:lang="ja">いかるが</imas:familyNameKana>
+    <schema:givenName xml:lang="ja">ルカ</schema:givenName>
+    <schema:givenName xml:lang="en">Luca</schema:givenName>
+    <imas:givenNameKana xml:lang="ja">るか</imas:givenNameKana>
+    <imas:nameKana xml:lang="ja">いかるがるか</imas:nameKana>
+    <schema:name xml:lang="ja">斑鳩ルカ</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">斑鳩ルカ</rdfs:label>
+    <schema:name xml:lang="en">Luca Ikaruga</schema:name>
+    <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</foaf:age>
+    <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">161.0</schema:height>
+    <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">44.0</schema:weight>
+    <imas:Bust rdf:datatype="http://www.w3.org/2001/XMLSchema#float">76.0</imas:Bust>
+    <imas:Waist rdf:datatype="http://www.w3.org/2001/XMLSchema#float">54.0</imas:Waist>
+    <imas:Hip rdf:datatype="http://www.w3.org/2001/XMLSchema#float">78.0</imas:Hip>
+    <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--01-31</schema:birthDate>
+    <imas:Constellation xml:lang="ja">水瓶座</imas:Constellation>
+    <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A</imas:BloodType>
+    <!-- <imas:Handedness rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></imas:Handedness> -->
+    <!-- <imas:Hobby xml:lang="ja"></imas:Hobby> -->
+    <!-- <imas:Talent xml:lang="ja"></imas:Talent> -->
+    <imas:cv xml:lang="ja">川口莉奈</imas:cv>
+    <imas:cv rdf:resource="http://ja.dbpedia.org/resource/川口莉奈"/>
+    <imas:cv rdf:resource="http://www.wikidata.org/entity/Q106152263"/>
+    <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">1E140E</imas:Color>
+    <schema:birthPlace xml:lang="ja">神奈川県</schema:birthPlace>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
+    <imas:Brand xml:lang="en">ShinyColors</imas:Brand>
+    <schema:description xml:lang="ja">話題沸騰中のソロアイドル。悩める現代女子たちの『カミサマ』として一部でカルト的な人気を集めている。理由は不明だが、283プロを敵視している。</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <!-- <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/"/> -->
+  </rdf:Description>
 </rdf:RDF>
