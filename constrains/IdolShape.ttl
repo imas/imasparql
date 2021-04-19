@@ -321,4 +321,12 @@ imas-shape:IdolShape a sh:NodeShape;
         sh:languageIn ("en" "ja");
         sh:maxCount 4;
     ];
+    sh:property [
+        rdfs:label "学年の制約";
+        rdfs:comment "学年は最大一つ持つ(判明していないアイドルもいるため、最小は0)";
+        sh:path imas:SchoolGrade;
+        sh:datatype rdf:langString;
+        sh:languageIn ("ja");
+        sh:maxCount 1;
+    ];
     sh:closed false.

@@ -249,3 +249,7 @@ imas:Whose                  a   rdf:Property ;
 imas:IdolListURL            a   rdf:Property ;
     rdfs:comment            "アイドル名鑑のアイドル毎URL";
     rdfs:label              "アイドル名鑑URL"@ja .
+
+imas:SchoolGrade            a   rdf:Property ;
+    rdfs:comment            "学年を表すプロパティ";
+    rdfs:label              "学年"@ja .
