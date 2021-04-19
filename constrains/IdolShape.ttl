@@ -328,5 +328,28 @@ imas-shape:IdolShape a sh:NodeShape;
         sh:datatype rdf:langString;
         sh:languageIn ("ja");
         sh:maxCount 1;
+        sh:in (
+            "小学1年生"@en
+            "小学2年生"@en
+            "小学3年生"@en
+            "小学4年生"@en
+            "小学5年生"@en
+            "小学6年生"@en
+            "中学1年生"@en
+            "中学2年生"@en
+            "中学3年生"@en
+            "高学1年生"@en
+            "高学2年生"@en
+            "高学3年生"@en
+            "大学1年生"@en
+            "大学2年生"@en
+            "大学3年生"@en
+            "大学4年生"@en
+            "短大1年生"@en
+            "短大2年生"@en
+            "専門学校1年生"@en
+            "専門学校2年生"@en
+            "専門学校3年生"@en
+        );
     ];
     sh:closed false.
