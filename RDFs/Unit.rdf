@@ -10505,7 +10505,12 @@
     <schema:member rdf:resource="Suou_Momoko"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
-
+  <rdf:Description rdf:about="TRICK%26TREAT">
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">TRICK&amp;TREAT</schema:name>
+    <schema:member rdf:resource="Kitakami_Reika"/>
+    <schema:member rdf:resource="Nonohara_Akane"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
+  </rdf:Description>
 
   <!--Collaboration-->
   <rdf:Description rdf:about="%E3%81%AF%E3%81%84%E3%81%95%E3%81%84%E3%83%95%E3%83%A5%E3%83%BC%E3%83%81%E3%83%A3%E3%83%BC%E3%82%B9%E3%82%BF%E3%83%BC">
