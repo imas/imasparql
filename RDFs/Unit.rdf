@@ -10525,6 +10525,14 @@
     <schema:member rdf:resource="Futami_Ami"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
+  <rdf:Description rdf:about="chicAAmor">
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">chicAAmor</schema:name>
+    <schema:member rdf:resource="Takayama_Sayoko"/>
+    <schema:member rdf:resource="Toyokawa_Fuka"/>
+    <schema:member rdf:resource="Julia"/>
+    <schema:member rdf:resource="Nikaido_Chizuru"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
+  </rdf:Description>
 
   <!--Collaboration-->
   <rdf:Description rdf:about="%E3%81%AF%E3%81%84%E3%81%95%E3%81%84%E3%83%95%E3%83%A5%E3%83%BC%E3%83%81%E3%83%A3%E3%83%BC%E3%82%B9%E3%82%BF%E3%83%BC">
