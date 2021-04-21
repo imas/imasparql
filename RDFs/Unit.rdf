@@ -10540,7 +10540,13 @@
     <schema:member rdf:resource="Ibuki_Tsubasa"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
-
+  <rdf:Description rdf:about="ZWEIGLANZ">
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ZWEIGLANZ</schema:name>
+    <schema:member rdf:resource="Leon"/>
+    <schema:member rdf:resource="Shika"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
+  </rdf:Description>
+  
   <!--Collaboration-->
   <rdf:Description rdf:about="%E3%81%AF%E3%81%84%E3%81%95%E3%81%84%E3%83%95%E3%83%A5%E3%83%BC%E3%83%81%E3%83%A3%E3%83%BC%E3%82%B9%E3%82%BF%E3%83%BC">
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">はいさいフューチャースター</schema:name>
