@@ -9636,6 +9636,18 @@
     <schema:member rdf:resource="Minase_Iori"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
+  <rdf:Description rdf:about="%E3%82%A2%E3%82%A4%E3%83%89%E3%83%ABEGG">
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">アイドルEGG</schema:name>
+    <schema:member rdf:resource="Kikuchi_Makoto"/>
+    <schema:member rdf:resource="Takatsuki_Yayoi"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="%E3%81%A8%E3%81%8B%E3%81%A1%E3%81%A4%E3%81%8F%E3%81%99ZE%E2%98%86">
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">とかちつくすZE☆</schema:name>
+    <schema:member rdf:resource="Futami_Ami"/>
+    <schema:member rdf:resource="Futami_Mami"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
+  </rdf:Description>
   <rdf:Description rdf:about="BLACK%20PRINCESS">
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BLACK PRINCESS</schema:name>
     <schema:member rdf:resource="Amami_Haruka"/>
@@ -10544,6 +10556,49 @@
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ZWEIGLANZ</schema:name>
     <schema:member rdf:resource="Leon"/>
     <schema:member rdf:resource="Shika"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="FleurS">
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FleurS</schema:name>
+    <schema:member rdf:resource="Nanao_Yuriko"/>
+    <schema:member rdf:resource="Baba_Konomi"/>
+    <schema:member rdf:resource="Suou_Momoko"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="%E3%82%A2%E3%83%88%E3%83%AA%E3%82%A8%E3%83%AB%E3%83%BB%E3%82%B7%E3%82%A8%E3%83%AB">
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">アトリエル・シエル</schema:name>
+    <schema:member rdf:resource="Shimabara_Elena"/>
+    <schema:member rdf:resource="Tenkubashi_Tomoka"/>
+    <schema:member rdf:resource="Tokugawa_Matsuri"/>
+    <schema:member rdf:resource="Miyao_Miya"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Clover">
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Clover</schema:name>
+    <schema:member rdf:resource="Kitazawa_Shiho"/>
+    <schema:member rdf:resource="Kousaka_Umi"/>
+    <schema:member rdf:resource="Yabuki_Kana"/>
+    <schema:member rdf:resource="Hakozaki_Serika"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="%E3%83%88%E3%83%A9%E3%82%A4%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%93%E3%82%B8%E3%83%A7%E3%83%B3">
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">トライスタービジョン</schema:name>
+    <schema:member rdf:resource="Tanaka_Kotoha"/>
+    <schema:member rdf:resource="Tokoro_Megumi"/>
+    <schema:member rdf:resource="Shimabara_Elena"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="%E3%83%80%E3%83%96%E3%83%AB%E3%82%A8%E3%83%BC%E3%82%B9">
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ダブルエース</schema:name>
+    <schema:member rdf:resource="Yokoyama_Nao"/>
+    <schema:member rdf:resource="Satake_Minako"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="%E3%82%B7%E3%82%B0%E3%83%8A%E3%83%AB">
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">シグナル</schema:name>
+    <schema:member rdf:resource="Mogami_Shizuka"/>
+    <schema:member rdf:resource="Kasuga_Mirai"/>
+    <schema:member rdf:resource="Ibuki_Tsubasa"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
 
