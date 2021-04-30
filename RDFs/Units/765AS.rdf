@@ -8,6 +8,7 @@
     >
   <rdf:Description rdf:about="%E3%83%91%E3%83%BC%E3%83%95%E3%82%A7%E3%82%AF%E3%83%88%E3%82%B5%E3%83%B3">
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">パーフェクトサン</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">パーフェクトサン</rdfs:label>
     <schema:member rdf:resource="Amami_Haruka"/>
     <schema:member rdf:resource="Takatsuki_Yayoi"/>
     <schema:member rdf:resource="Kikuchi_Makoto"/>
@@ -15,6 +16,7 @@
   </rdf:Description>
   <rdf:Description rdf:about="%E3%83%9F%E3%83%83%E3%82%B7%E3%83%B3%E3%82%B0%E3%83%A0%E3%83%BC%E3%83%B3">
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ミッシングムーン</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ミッシングムーン</rdfs:label>
     <schema:member rdf:resource="Kisaragi_Chihaya"/>
     <schema:member rdf:resource="Akizuki_Ritsuko"/>
     <schema:member rdf:resource="Miura_Azusa"/>
@@ -22,6 +24,7 @@
   </rdf:Description>
   <rdf:Description rdf:about="%E3%83%AF%E3%83%B3%E3%83%80%E3%83%AA%E3%83%B3%E3%82%B0%E3%82%B9%E3%82%BF%E3%83%BC">
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ワンダリングスター</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ワンダリングスター</rdfs:label>
     <schema:member rdf:resource="Futami_Ami"/>
     <schema:member rdf:resource="Futami_Mami"/>
     <schema:member rdf:resource="Hagiwara_Yukiho"/>
@@ -30,6 +33,7 @@
   </rdf:Description>
   <rdf:Description rdf:about="%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%83%BB%E3%83%95%E3%82%A7%E3%82%A2%E3%83%AA%E3%83%BC">
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">プロジェクト・フェアリー</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">プロジェクト・フェアリー</rdfs:label>
     <schema:member rdf:resource="Ganaha_Hibiki"/>
     <schema:member rdf:resource="Shijou_Takane"/>
     <schema:member rdf:resource="Hoshii_Miki"/>
@@ -37,6 +41,7 @@
   </rdf:Description>
   <rdf:Description rdf:about="%E7%AB%9C%E5%AE%AE%E5%B0%8F%E7%94%BA">
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">竜宮小町</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">竜宮小町</rdfs:label>
     <schema:member rdf:resource="Futami_Ami"/>
     <schema:member rdf:resource="Miura_Azusa"/>
     <schema:member rdf:resource="Minase_Iori"/>
@@ -44,6 +49,7 @@
   </rdf:Description>
   <rdf:Description rdf:about="SprouT">
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SprouT</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SprouT</rdfs:label>
     <schema:member rdf:resource="Amami_Haruka"/>
     <schema:member rdf:resource="Hagiwara_Yukiho"/>
     <schema:member rdf:resource="Ganaha_Hibiki"/>
@@ -51,18 +57,21 @@
   </rdf:Description>
   <rdf:Description rdf:about="%E3%82%8F%E3%82%93%E3%81%A4%E2%86%92%E3%81%A6%E3%81%84%E3%82%8B%E3%81%9A">
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">わんつ→ているず</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">わんつ→ているず</rdfs:label>
     <schema:member rdf:resource="Futami_Mami"/>
     <schema:member rdf:resource="Takatsuki_Yayoi"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
   <rdf:Description rdf:about="%E8%8A%B1%E9%B3%A5%E9%A2%A8%E6%9C%88">
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">花鳥風月</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">花鳥風月</rdfs:label>
     <schema:member rdf:resource="Kisaragi_Chihaya"/>
     <schema:member rdf:resource="Shijou_Takane"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
   <rdf:Description rdf:about="SLEEPING%20BEAUTY">
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SLEEPING BEAUTY</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SLEEPING BEAUTY</rdfs:label>
     <schema:member rdf:resource="Kisaragi_Chihaya"/>
     <schema:member rdf:resource="Amami_Haruka"/>
     <schema:member rdf:resource="Hoshii_Miki"/>
@@ -70,30 +79,35 @@
   </rdf:Description>
   <rdf:Description rdf:about="D%E3%83%BBLOVE">
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">D・LOVE</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">D・LOVE</rdfs:label>
     <schema:member rdf:resource="Hagiwara_Yukiho"/>
     <schema:member rdf:resource="Minase_Iori"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
   <rdf:Description rdf:about="%E3%82%A2%E3%82%A4%E3%83%89%E3%83%ABEGG">
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">アイドルEGG</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">アイドルEGG</rdfs:label>
     <schema:member rdf:resource="Kikuchi_Makoto"/>
     <schema:member rdf:resource="Takatsuki_Yayoi"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
   <rdf:Description rdf:about="%E3%81%A8%E3%81%8B%E3%81%A1%E3%81%A4%E3%81%8F%E3%81%99ZE%E2%98%86">
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">とかちつくすZE☆</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">とかちつくすZE☆</rdfs:label>
     <schema:member rdf:resource="Futami_Ami"/>
     <schema:member rdf:resource="Futami_Mami"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
   <rdf:Description rdf:about="BLACK%20PRINCESS">
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BLACK PRINCESS</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BLACK PRINCESS</rdfs:label>
     <schema:member rdf:resource="Amami_Haruka"/>
     <schema:member rdf:resource="Miura_Azusa"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
   <rdf:Description rdf:about="%E3%83%8F%E3%83%8B%E3%83%BC%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89">
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ハニーサウンド</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ハニーサウンド</rdfs:label>
     <schema:member rdf:resource="Amami_Haruka"/>
     <schema:member rdf:resource="Kisaragi_Chihaya"/>
     <schema:member rdf:resource="Akizuki_Ritsuko"/>
@@ -102,6 +116,7 @@
   </rdf:Description>
   <rdf:Description rdf:about="%E3%83%95%E3%82%A1%E3%83%B3%E3%82%AD%E3%83%BC%E3%83%8E%E3%83%BC%E3%83%88">
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ファンキーノート</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ファンキーノート</rdfs:label>
     <schema:member rdf:resource="Takatsuki_Yayoi"/>
     <schema:member rdf:resource="Ganaha_Hibiki"/>
     <schema:member rdf:resource="Futami_Mami"/>
@@ -111,6 +126,7 @@
   </rdf:Description>
   <rdf:Description rdf:about="%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%B4%E3%82%A3%E3%83%BC%E3%83%81%E3%83%A5%E3%83%BC%E3%83%B3">
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">グルーヴィーチューン</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">グルーヴィーチューン</rdfs:label>
     <schema:member rdf:resource="Hoshii_Miki"/>
     <schema:member rdf:resource="Hagiwara_Yukiho"/>
     <schema:member rdf:resource="Kikuchi_Makoto"/>
@@ -119,6 +135,7 @@
   </rdf:Description>
   <rdf:Description rdf:about="765ProAllstars">
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">765ProAllstars</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">765ProAllstars</rdfs:label>
     <schema:member rdf:resource="Miura_Azusa"/>
     <schema:member rdf:resource="Hagiwara_Yukiho"/>
     <schema:member rdf:resource="Akizuki_Ritsuko"/>
@@ -137,6 +154,7 @@
   </rdf:Description>
   <rdf:Description rdf:about="Engage%21">
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Engage!</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Engage!</rdfs:label>
     <schema:member rdf:resource="Amami_Haruka"/>
     <schema:member rdf:resource="Kisaragi_Chihaya"/>
     <schema:member rdf:resource="Takatsuki_Yayoi"/>
@@ -144,6 +162,7 @@
   </rdf:Description>
   <rdf:Description rdf:about="you-i">
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">you-i</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">you-i</rdfs:label>
     <schema:member rdf:resource="Amami_Haruka"/>
     <schema:member rdf:resource="Kisaragi_Chihaya"/>
     <schema:member rdf:resource="Takatsuki_Yayoi"/>
@@ -151,6 +170,7 @@
   </rdf:Description>
   <rdf:Description rdf:about="TORICO">
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">TORICO</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">TORICO</rdfs:label>
     <schema:member rdf:resource="Amami_Haruka"/>
     <schema:member rdf:resource="Kisaragi_Chihaya"/>
     <schema:member rdf:resource="Hagiwara_Yukiho"/>
@@ -158,12 +178,14 @@
   </rdf:Description>
   <rdf:Description rdf:about="ExA">
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ExA</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ExA</rdfs:label>
     <schema:member rdf:resource="Amami_Haruka"/>
     <schema:member rdf:resource="Hoshii_Miki"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
   <rdf:Description rdf:about="CHEFFLE">
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CHEFFLE</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CHEFFLE</rdfs:label>
     <schema:member rdf:resource="Amami_Haruka"/>
     <schema:member rdf:resource="Hoshii_Miki"/>
     <schema:member rdf:resource="Takatsuki_Yayoi"/>
@@ -171,6 +193,7 @@
   </rdf:Description>
   <rdf:Description rdf:about="Honey%20Citrus">
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Honey Citrus</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Honey Citrus</rdfs:label>
     <schema:member rdf:resource="Futami_Ami"/>
     <schema:member rdf:resource="Futami_Mami"/>
     <schema:member rdf:resource="Hoshii_Miki"/>
