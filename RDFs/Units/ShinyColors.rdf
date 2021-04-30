@@ -1,0 +1,111 @@
+<rdf:RDF
+    xmlns:schema="http://schema.org/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:imas="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#"
+    xml:base="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/"
+    >
+  <rdf:Description rdf:about="illuminationSTARS">
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">illuminationSTARS</schema:name>
+    <schema:member rdf:resource="Sakuragi_Mano"/>
+    <schema:member rdf:resource="Hachimiya_Meguru"/>
+    <schema:member rdf:resource="Kazano_Hiori"/>
+    <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">FFA200</imas:Color>
+    <schema:description xml:lang="ja">「瞳に輝く、無限の可能性」小さな光を宿す少女たちで結成された、新世代のアイドルユニット。今はまだかすかな輝きでも、時にぶつかり時に支え合いながら、一等星を目指して歩んでいく!</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="L%27Antica">
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">L'Antica</schema:name>
+    <schema:member rdf:resource="Tsukioka_Kogane"/>
+    <schema:member rdf:resource="Mitsumine_Yuika"/>
+    <schema:member rdf:resource="Tanaka_Mamimi"/>
+    <schema:member rdf:resource="Shirase_Sakuya"/>
+    <schema:member rdf:resource="Yukoku_Kiriko"/>
+    <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">833696</imas:Color>
+    <schema:description xml:lang="ja">「回せ、錆びついた運命の鍵を」胸に燻る焔を「ウタ」に、孤独な泪を「ネガイ」に変える、新世界の革命的アイドルユニット。ゴシックなドレスを纏い、彼女たちは希望を謳い続ける―。</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="ALSTROEMERIA">
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ALSTROEMERIA</schema:name>
+    <schema:member rdf:resource="Kuwayama_Chiyuki"/>
+    <schema:member rdf:resource="Osaki_Tenka"/>
+    <schema:member rdf:resource="Osaki_Amana"/>
+    <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">E6277C</imas:Color>
+    <schema:description xml:lang="ja">「花ざかり、私達の幸福論」ポップでハッピーな3人組アイドルユニット。アルストロメリアの花言葉「未来への憧れ」を胸に抱き、今日もシアワセなパフォーマンスで会場に笑顔を咲かせます!</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="%E6%94%BE%E8%AA%B2%E5%BE%8C%E3%82%AF%E3%83%A9%E3%82%A4%E3%83%9E%E3%83%83%E3%82%AF%E3%82%B9%E3%82%AC%E3%83%BC%E3%83%AB%E3%82%BA">
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">放課後クライマックスガールズ</schema:name>
+    <schema:member rdf:resource="Komiya_Kaho"/>
+    <schema:member rdf:resource="Saijo_Juri"/>
+    <schema:member rdf:resource="Arisugawa_Natsuha"/>
+    <schema:member rdf:resource="Morino_Rinze"/>
+    <schema:member rdf:resource="Sonoda_Chiyoko"/>
+    <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">FF4800</imas:Color>
+    <schema:description xml:lang="ja">「女の子はいつだって放課後がクライマックス！」個性と個性がぶつかり合う全力系アイドルユニット。全身全霊でアイドル道を突き進む彼女達の姿こそ、"クライマックス"の証。ファンもプロデューサーも世界も巻き込んでアイドル界のてっぺんを目指す!!</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Straylight">
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Straylight</schema:name>
+    <schema:member rdf:resource="Mayuzumi_Fuyuko"/>
+    <schema:member rdf:resource="Serizawa_Asahi"/>
+    <schema:member rdf:resource="Izumi_Mei"/>
+    <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">A51F24</imas:Color>
+    <schema:description xml:lang="ja">「身に纏うは迷光、少女たちは偶像となる」実在と非実在を行き来するカリスマ的アイドルユニット。アイドルというアバターを身に纏い、歌うは真実か、狂気か。解き放たれた迷光が、今日も世界を奔る。</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="noctchill">
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">noctchill</schema:name>
+    <schema:member rdf:resource="Asakura_Toru"/>
+    <schema:member rdf:resource="Higuchi_Madoka"/>
+    <schema:member rdf:resource="Fukumaru_Koito"/>
+    <schema:member rdf:resource="Ichikawa_Hinana"/>
+    <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">34498F</imas:Color>
+    <schema:description xml:lang="ja">「さよなら、透明だった僕たち」幼なじみ4人で結成された、透明感あふれるアイドルユニット。誰かになる必要なんてない。──走り出す波を追って、少女たちは碧い風になる。</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="SHHis">
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SHHis</schema:name>
+    <schema:member rdf:resource="Nanakusa_Nichika"/>
+    <schema:member rdf:resource="Aketa_Mikoto"/>
+    <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">1C8971</imas:Color>
+    <schema:description xml:lang="ja">「耀いて、スパンコール・シャンデリア」スパイシー＆ガーリーなダンスポップユニット。音楽はとまらない。だから黙って聴いていて。駆け出す心のBPMを、抑えられない旋律を。わたし(she)がわたし(she)になるための、1000カラットの物語を。</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Team%2EStella">
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Team.Stella</schema:name>
+    <schema:member rdf:resource="Sakuragi_Mano"/>
+    <schema:member rdf:resource="Tsukioka_Kogane"/>
+    <schema:member rdf:resource="Komiya_Kaho"/>
+    <schema:member rdf:resource="Sonoda_Chiyoko"/>
+    <schema:member rdf:resource="Osaki_Amana"/>
+    <schema:member rdf:resource="Serizawa_Asahi"/>
+    <schema:member rdf:resource="Higuchi_Madoka"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Team%2ELuna">
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Team.Luna</schema:name>
+    <schema:member rdf:resource="Kazano_Hiori"/>
+    <schema:member rdf:resource="Tanaka_Mamimi"/>
+    <schema:member rdf:resource="Mitsumine_Yuika"/>
+    <schema:member rdf:resource="Yukoku_Kiriko"/>
+    <schema:member rdf:resource="Morino_Rinze"/>
+    <schema:member rdf:resource="Izumi_Mei"/>
+    <schema:member rdf:resource="Fukumaru_Koito"/>
+    <schema:member rdf:resource="Osaki_Tenka"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Team%2ESol">
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Team.Sol</schema:name>
+    <schema:member rdf:resource="Hachimiya_Meguru"/>
+    <schema:member rdf:resource="Shirase_Sakuya"/>
+    <schema:member rdf:resource="Saijo_Juri"/>
+    <schema:member rdf:resource="Arisugawa_Natsuha"/>
+    <schema:member rdf:resource="Kuwayama_Chiyuki"/>
+    <schema:member rdf:resource="Asakura_Toru"/>
+    <schema:member rdf:resource="Ichikawa_Hinana"/>
+    <schema:member rdf:resource="Mayuzumi_Fuyuko"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
+  </rdf:Description>
+</rdf:RDF>
