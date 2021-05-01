@@ -12,16 +12,8 @@ imas-shape:UnitShape a sh:NodeShape;
     sh:property [
         rdfs:label "ユニットの名前の制約";
         rdfs:comment "絶対に一つだけ存在する(maxCount 1, minCount 1)";
-        sh:path rdfs:label;
-        sh:datatype xsd:string;
-        sh:minCount 1;
-        sh:maxCount 1;
-    ];
-    sh:property [
-        rdfs:label "ユニットの名前の制約(サブ)";
-        rdfs:comment "絶対に一つだけ存在する(maxCount 1, minCount 1)";
         sh:path schema:name;
-        sh:datatype rdf:langString;
+        sh:datatype xsd:string;
         sh:minCount 1;
         sh:maxCount 1;
     ];

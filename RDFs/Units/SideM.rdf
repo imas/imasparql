@@ -7,7 +7,7 @@
     xml:base="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/"
     >
   <rdf:Description rdf:about="Jupiter">
-    <schema:name rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Jupiter</schema:name>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Jupiter</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Jupiter</rdfs:label>
     <schema:member rdf:resource="Amagase_Toma"/>
     <schema:member rdf:resource="Ijuin_Hokuto"/>
@@ -16,7 +16,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
   <rdf:Description rdf:about="DRAMATICSTARS">
-    <schema:name rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">DRAMATICSTARS</schema:name>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAMATICSTARS</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAMATICSTARS</rdfs:label>
     <schema:member rdf:resource="Tendo_Teru"/>
     <schema:member rdf:resource="Sakuraba_Kaoru"/>
@@ -25,7 +25,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
   <rdf:Description rdf:about="Altessimo">
-    <schema:name rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Altessimo</schema:name>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Altessimo</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Altessimo</rdfs:label>
     <schema:member rdf:resource="Tsuzuki_Kei"/>
     <schema:member rdf:resource="Kagura_Rei"/>
@@ -33,7 +33,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
   <rdf:Description rdf:about="Beit">
-    <schema:name rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Beit</schema:name>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Beit</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Beit</rdfs:label>
     <schema:member rdf:resource="Takajo_Kyoji"/>
     <schema:member rdf:resource="Pierre"/>
@@ -42,7 +42,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
   <rdf:Description rdf:about="W">
-    <schema:name rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">W</schema:name>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">W</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">W</rdfs:label>
     <schema:member rdf:resource="Aoi_Yusuke"/>
     <schema:member rdf:resource="Aoi_Kyosuke"/>
@@ -50,7 +50,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
   <rdf:Description rdf:about="FRAME">
-    <schema:name rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">FRAME</schema:name>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FRAME</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FRAME</rdfs:label>
     <schema:member rdf:resource="Akuno_Hideo"/>
     <schema:member rdf:resource="Kimura_Ryu"/>
@@ -59,7 +59,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
   <rdf:Description rdf:about="%E5%BD%A9">
-    <schema:name rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">彩</schema:name>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">彩</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">彩</rdfs:label>
     <schema:member rdf:resource="Nekoyanagi_Kirio"/>
     <schema:member rdf:resource="Hanamura_Shoma"/>
@@ -68,7 +68,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
   <rdf:Description rdf:about="High%C3%97Joker">
-    <schema:name rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">High×Joker</schema:name>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">High×Joker</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">High×Joker</rdfs:label>
     <schema:member rdf:resource="Akiyama_Hayato"/>
     <schema:member rdf:resource="Fuyumi_Jun"/>
@@ -79,7 +79,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
   <rdf:Description rdf:about="%E7%A5%9E%E9%80%9F%E4%B8%80%E9%AD%82">
-    <schema:name rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">神速一魂</schema:name>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">神速一魂</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">神速一魂</rdfs:label>
     <schema:member rdf:resource="Akai_Suzaku"/>
     <schema:member rdf:resource="Kurono_Genbu"/>
@@ -87,7 +87,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
   <rdf:Description rdf:about="CafeParade">
-    <schema:name rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">CafeParade</schema:name>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CafeParade</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CafeParade</rdfs:label>
     <schema:member rdf:resource="Kamiya_Yukihiro"/>
     <schema:member rdf:resource="Shinonome_Soichiro"/>
@@ -98,7 +98,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
   <rdf:Description rdf:about="%E3%82%82%E3%81%B5%E3%82%82%E3%81%B5%E3%81%88%E3%82%93">
-    <schema:name rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">もふもふえん</schema:name>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">もふもふえん</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">もふもふえん</rdfs:label>
     <schema:member rdf:resource="Okamura_Nao"/>
     <schema:member rdf:resource="Tachibana_Shiro"/>
@@ -107,7 +107,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
   <rdf:Description rdf:about="S.E.M">
-    <schema:name rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">S.E.M</schema:name>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">S.E.M</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">S.E.M</rdfs:label>
     <schema:member rdf:resource="Hazama_Michio"/>
     <schema:member rdf:resource="Maita_Rui"/>
@@ -116,7 +116,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
   <rdf:Description rdf:about="THE%E8%99%8E%E7%89%99%E9%81%93">
-    <schema:name rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">THE虎牙道</schema:name>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">THE虎牙道</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">THE虎牙道</rdfs:label>
     <schema:member rdf:resource="Taiga_Takeru"/>
     <schema:member rdf:resource="Enjoji_Michiru"/>
@@ -125,7 +125,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
   <rdf:Description rdf:about="F-LAGS">
-    <schema:name rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">F-LAGS</schema:name>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">F-LAGS</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">F-LAGS</rdfs:label>
     <schema:member rdf:resource="Akizuki_Ryo_315"/>
     <schema:member rdf:resource="Tsukumo_Kazuki"/>
@@ -134,7 +134,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
   <rdf:Description rdf:about="Legenders">
-    <schema:name rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Legenders</schema:name>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Legenders</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Legenders</rdfs:label>
     <schema:member rdf:resource="Kuzunoha_Amehiko"/>
     <schema:member rdf:resource="Kitamura_Sora"/>
