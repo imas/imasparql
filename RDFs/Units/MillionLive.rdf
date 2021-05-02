@@ -120,6 +120,7 @@
   <rdf:Description rdf:about="%E4%B9%99%E5%A5%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%A0%EF%BC%81">
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">乙女ストーム！</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">乙女ストーム！</rdfs:label>
+    <imas:nameKana xml:lang="ja">おとめすとーむ</imas:nameKana>
     <schema:member rdf:resource="Kasuga_Mirai"/>
     <schema:member rdf:resource="Ibuki_Tsubasa"/>
     <schema:member rdf:resource="Nanao_Yuriko"/>
@@ -160,6 +161,7 @@
   <rdf:Description rdf:about="%E7%81%BC%E7%86%B1%E5%B0%91%E5%A5%B3">
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">灼熱少女</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">灼熱少女</rdfs:label>
+    <imas:nameKana xml:lang="ja">ばーにんぐがーる</imas:nameKana>
     <schema:member rdf:resource="Tanaka_Kotoha"/>
     <schema:member rdf:resource="Ogami_Tamaki"/>
     <schema:member rdf:resource="Kousaka_Umi"/>
@@ -170,6 +172,7 @@
   <rdf:Description rdf:about="BIRTH">
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BIRTH</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BIRTH</rdfs:label>
+    <imas:nameKana xml:lang="ja">ばーす</imas:nameKana>
     <schema:member rdf:resource="Kikuchi_Makoto"/>
     <schema:member rdf:resource="Hagiwara_Yukiho"/>
     <schema:member rdf:resource="Maihama_Ayumu"/>
@@ -200,6 +203,7 @@
   <rdf:Description rdf:about="ARRIVE">
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ARRIVE</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ARRIVE</rdfs:label>
+    <imas:nameKana xml:lang="ja">あらいぶ</imas:nameKana>
     <schema:member rdf:resource="Shinomiya_Karen"/>
     <schema:member rdf:resource="Shijou_Takane"/>
     <schema:member rdf:resource="Shimabara_Elena"/>
@@ -252,6 +256,7 @@
   <rdf:Description rdf:about="Sunshine%20Rhythm">
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sunshine Rhythm</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sunshine Rhythm</rdfs:label>
+    <imas:nameKana xml:lang="ja">さんしゃいんりずむ</imas:nameKana>
     <schema:member rdf:resource="Ibuki_Tsubasa"/>
     <schema:member rdf:resource="Emily_Stewart"/>
     <schema:member rdf:resource="Kinoshita_Hinata"/>
@@ -311,6 +316,7 @@
   <rdf:Description rdf:about="BlueMoon%20Harmony">
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BlueMoon Harmony</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BlueMoon Harmony</rdfs:label>
+    <imas:nameKana xml:lang="ja">ぶるーむーんはーもにー</imas:nameKana>
     <schema:member rdf:resource="Kitakami_Reika"/>
     <schema:member rdf:resource="Shinomiya_Karen"/>
     <schema:member rdf:resource="Julia"/>
@@ -371,6 +377,7 @@
   <rdf:Description rdf:about="Starlight%20Melody">
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Starlight Melody</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Starlight Melody</rdfs:label>
+    <imas:nameKana xml:lang="ja">すたーらいとめろでぃ</imas:nameKana>
     <schema:member rdf:resource="Ogami_Tamaki"/>
     <schema:member rdf:resource="Kasuga_Mirai"/>
     <schema:member rdf:resource="Kitazawa_Shiho"/>
@@ -655,6 +662,7 @@
   <rdf:Description rdf:about="%E5%A4%9C%E6%83%B3%E4%BB%A4%E5%AC%A2%20%2DGRAC%26E%20NOCTURNE%2D">
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">夜想令嬢 -GRAC&amp;E NOCTURNE-</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">夜想令嬢 -GRAC&amp;E NOCTURNE-</rdfs:label>
+    <imas:nameKana xml:lang="ja">ぐれーすのくたーん</imas:nameKana>
     <schema:member rdf:resource="Tokoro_Megumi"/>
     <schema:member rdf:resource="Tenkubashi_Tomoka"/>
     <schema:member rdf:resource="Nikaido_Chizuru"/>
@@ -665,6 +673,7 @@
   <rdf:Description rdf:about="Cleasky">
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cleasky</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cleasky</rdfs:label>
+    <imas:nameKana xml:lang="ja">くりあすかい</imas:nameKana>
     <schema:member rdf:resource="Miyao_Miya"/>
     <schema:member rdf:resource="Shimabara_Elena"/>
     <schema:description>柔らかな春の風を思わせる爽やか女子高生デュオ。ふたりが奏でるメロディは、青空に浮かぶ虹のように清々しく澄んだ気持ちにさせてくれます。</schema:description>
@@ -682,6 +691,7 @@
   <rdf:Description rdf:about="EScape">
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">EScape</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">EScape</rdfs:label>
+    <imas:nameKana xml:lang="ja">えすけーぷ</imas:nameKana>
     <schema:member rdf:resource="Makabe_Mizuki"/>
     <schema:member rdf:resource="Kitazawa_Shiho"/>
     <schema:member rdf:resource="Shiraishi_Tsumugi"/>
@@ -691,6 +701,7 @@
   <rdf:Description rdf:about="4Luxury">
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4Luxury</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4Luxury</rdfs:label>
+    <imas:nameKana xml:lang="ja">ふぉーらぐじゅありー</imas:nameKana>
     <schema:member rdf:resource="Sakuramori_Kaori"/>
     <schema:member rdf:resource="Kitakami_Reika"/>
     <schema:member rdf:resource="Toyokawa_Fuka"/>
@@ -701,6 +712,7 @@
   <rdf:Description rdf:about="%E9%96%83%E5%85%89%E2%98%86HANABI%E5%9B%A3">
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">閃光☆HANABI団</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">閃光☆HANABI団</rdfs:label>
+    <imas:nameKana xml:lang="ja">せんこうはなびだん</imas:nameKana>
     <schema:member rdf:resource="Takayama_Sayoko"/>
     <schema:member rdf:resource="Yokoyama_Nao"/>
     <schema:member rdf:resource="Kousaka_Umi"/>
@@ -712,6 +724,7 @@
   <rdf:Description rdf:about="D%2FZeal">
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">D/Zeal</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">D/Zeal</rdfs:label>
+    <imas:nameKana xml:lang="ja">でぃずぃーる</imas:nameKana>
     <schema:member rdf:resource="Mogami_Shizuka"/>
     <schema:member rdf:resource="Julia"/>
     <schema:description xml:lang="ja">深く熱い感情をメロディと共に響かせるロックでクールなデュオ。ふたつの歌声が共鳴する時、たくさんの心に熱を灯します。魂が奏でるハーモニーに耳を澄ませてみて。</schema:description>
@@ -720,6 +733,7 @@
   <rdf:Description rdf:about="%E3%82%8A%E3%82%8B%E3%81%8D%E3%82%83%E3%82%93%20%E3%80%9C3%20little%20candy%E3%80%9C">
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">りるきゃん 〜3 little candy〜</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">りるきゃん 〜3 little candy〜</rdfs:label>
+    <imas:nameKana xml:lang="ja">りるきゃん</imas:nameKana>
     <schema:member rdf:resource="Nonohara_Akane"/>
     <schema:member rdf:resource="Shinomiya_Karen"/>
     <schema:member rdf:resource="Ibuki_Tsubasa"/>
@@ -729,6 +743,7 @@
   <rdf:Description rdf:about="Charlotte%E3%83%BBCharlotte">
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Charlotte・Charlotte</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Charlotte・Charlotte</rdfs:label>
+    <imas:nameKana xml:lang="ja">しゃるろっとしゃーろっと</imas:nameKana>
     <schema:member rdf:resource="Tokugawa_Matsuri"/>
     <schema:member rdf:resource="Emily_Stewart"/>
     <schema:description>夢見る女の子のカワイイを詰めこんだ双子のお姫様デュオ。二人はいつも一緒にいて、手を合わせて見つめあって。あなたは私、私はあなた......。</schema:description>
@@ -737,6 +752,7 @@
   <rdf:Description rdf:about="Jelly%20PoP%20Beans">
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Jelly PoP Beans</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Jelly PoP Beans</rdfs:label>
+    <imas:nameKana xml:lang="ja">じぇりーぽっぷびーんず</imas:nameKana>
     <schema:member rdf:resource="Handa_Roco"/>
     <schema:member rdf:resource="Maihama_Ayumu"/>
     <schema:member rdf:resource="Nagayoshi_Subaru"/>
@@ -931,6 +947,7 @@
   <rdf:Description rdf:about="FleurS">
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FleurS</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FleurS</rdfs:label>
+    <imas:nameKana xml:lang="ja">ふるーる</imas:nameKana>
     <schema:member rdf:resource="Nanao_Yuriko"/>
     <schema:member rdf:resource="Baba_Konomi"/>
     <schema:member rdf:resource="Suou_Momoko"/>
