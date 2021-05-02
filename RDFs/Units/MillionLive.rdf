@@ -797,7 +797,7 @@
   <rdf:Description rdf:about="Sherry%20%27n%20Cherry">
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sherry 'n Cherry</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sherry 'n Cherry</rdfs:label>
-    <imas:nameKana xml:lang="ja">しぇりー　あん　ちぇりー</imas:nameKana>
+    <imas:nameKana xml:lang="ja">しぇりー あん ちぇりー</imas:nameKana>
     <schema:member rdf:resource="Baba_Konomi"/>
     <schema:member rdf:resource="Momose_Rio"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
