@@ -177,10 +177,22 @@
     <schema:description xml:lang="ja">1stシーズンの水着。めぐるちゃんとお揃い柄♪</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
+  <rdf:Description rdf:about="ShinySummer_KazanoHiori">
+    <schema:name xml:lang="ja">シャイニーサマー</schema:name>
+    <imas:Whose rdf:resource="Kazano_Hiori"/>
+    <schema:description xml:lang="ja">1stシーズンの水着。日焼けは......大丈夫！</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
   <rdf:Description rdf:about="Jersey_SakuragiMano">
     <schema:name xml:lang="ja">ジャージ</schema:name>
     <imas:Whose rdf:resource="Sakuragi_Mano"/>
     <schema:description xml:lang="ja">水色ジャージ。優しい灯織ちゃん色♪</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Jersey_KazanoHiori">
+    <schema:name xml:lang="ja">ジャージ</schema:name>
+    <imas:Whose rdf:resource="Kazano_Hiori"/>
+    <schema:description xml:lang="ja">水色ジャージ。私服よりこっちの方が安心？</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
   <rdf:Description rdf:about="MidnightMonster_SakuragiMano">
@@ -189,10 +201,22 @@
     <schema:description xml:lang="ja">トリック・オア・トリート！内に秘めたyummuy red♡</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
+  <rdf:Description rdf:about="MidnightMonster_KazanoHiori">
+    <schema:name xml:lang="ja">ミッドナイトモンスター</schema:name>
+    <imas:Whose rdf:resource="Kazano_Hiori"/>
+    <schema:description xml:lang="ja">トリック・オア・トリート！仄かな蒼のspirit</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
   <rdf:Description rdf:about="HolyNightCape_SakuragiMano">
     <schema:name xml:lang="ja">ホーリーナイトケープ</schema:name>
     <imas:Whose rdf:resource="Sakuragi_Mano"/>
     <schema:description xml:lang="ja">メリークリスマス！キラキラ星、空を駆けるように</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="HolyNightCape_KazanoHiori">
+    <schema:name xml:lang="ja">ホーリーナイトケープ</schema:name>
+    <imas:Whose rdf:resource="Kazano_Hiori"/>
+    <schema:description xml:lang="ja">メリークリスマス！なんだかうきうきする、そんな日</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
   <rdf:Description rdf:about="FashionableSummer_SakuragiMano">
@@ -201,10 +225,22 @@
     <schema:description xml:lang="ja">サマーダイブ！とうめいな空と海で遊ぶ</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
+  <rdf:Description rdf:about="FashionableSummer_KazanoHiori">
+    <schema:name xml:lang="ja">ファッショナブルサマー</schema:name>
+    <imas:Whose rdf:resource="Kazano_Hiori"/>
+    <schema:description xml:lang="ja">サマーダイブ！大人っぽさを重視してみた</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
   <rdf:Description rdf:about="InnocentSailor_SakuragiMano">
     <schema:name xml:lang="ja">イノセントセーラー</schema:name>
     <imas:Whose rdf:resource="Sakuragi_Mano"/>
     <schema:description xml:lang="ja">ビー・アンビシャス。軽やかなハニーレモンソーダ</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="InnocentSailor_KazanoHiori">
+    <schema:name xml:lang="ja">イノセントセーラー</schema:name>
+    <imas:Whose rdf:resource="Kazano_Hiori"/>
+    <schema:description xml:lang="ja">ビー・アンビシャス。あの日の静かな湊を忘れないで</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
   <rdf:Description rdf:about="SunsetSkyPassage_SakuragiMano">
@@ -213,10 +249,22 @@
     <schema:description xml:lang="ja">スタッカート。空を渡るいろたち</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
+  <rdf:Description rdf:about="SunsetSkyPassage_KazanoHiori">
+    <schema:name xml:lang="ja">サンセットスカイパッセージ</schema:name>
+    <imas:Whose rdf:resource="Kazano_Hiori"/>
+    <schema:description xml:lang="ja">スタッカート。翼を得た。空を感じた。それから</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
   <rdf:Description rdf:about="RefreshSummer_SakuragiMano">
     <schema:name xml:lang="ja">リフレッシュサマー</schema:name>
     <imas:Whose rdf:resource="Sakuragi_Mano"/>
     <schema:description xml:lang="ja">マジックアワー。夏にほどけていくとりどりのいろ</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RefreshSummer_KazanoHiori">
+    <schema:name xml:lang="ja">リフレッシュサマー</schema:name>
+    <imas:Whose rdf:resource="Kazano_Hiori"/>
+    <schema:description xml:lang="ja">マジックアワー。うたかたの季節、うたかたの君</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
   <!-- MEMO: Unite + Verse + Planetary かも... -->
@@ -224,6 +272,12 @@
     <schema:name xml:lang="ja">ユナイトバースプラネタリ</schema:name>
     <imas:Whose rdf:resource="Sakuragi_Mano"/>
     <schema:description xml:lang="ja">リフトオフ。無重力の中へだって羽ばたいて</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="UniteBirthPlanetary_KazanoHiori">
+    <schema:name xml:lang="ja">ユナイトバースプラネタリ</schema:name>
+    <imas:Whose rdf:resource="Kazano_Hiori"/>
+    <schema:description xml:lang="ja">リフトオフ。すべてを内包するアオ</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
 </rdf:RDF>
