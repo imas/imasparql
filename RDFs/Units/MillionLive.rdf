@@ -965,6 +965,7 @@
   <rdf:Description rdf:about="Clover">
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Clover</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Clover</rdfs:label>
+    <imas:nameKana xml:lang="ja">くろーばー</imas:nameKana>
     <schema:member rdf:resource="Kitazawa_Shiho"/>
     <schema:member rdf:resource="Kousaka_Umi"/>
     <schema:member rdf:resource="Yabuki_Kana"/>
