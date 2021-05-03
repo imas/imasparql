@@ -33,31 +33,142 @@
     <imas:Whose rdf:resource="Ichikawa_Hinana"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
-  <rdf:Description rdf:about="Over_Cast_Monochrome">
+  <rdf:Description rdf:about="OvercastMonochrome_SakuragiMano">
     <schema:name xml:lang="ja">オーバーキャストモノクローム</schema:name>
     <imas:Whose rdf:resource="Sakuragi_Mano"/>
-    <imas:Whose rdf:resource="Komiya_Kaho"/>
-    <imas:Whose rdf:resource="Arisugawa_Natsuha"/>
-    <imas:Whose rdf:resource="Tsukioka_Kogane"/>
-    <imas:Whose rdf:resource="Mitsumine_Yuika"/>
-    <imas:Whose rdf:resource="Kuwayama_Chiyuki"/>
-    <imas:Whose rdf:resource="Osaki_Amana"/>
-    <imas:Whose rdf:resource="Saijo_Juri"/>
-    <imas:Whose rdf:resource="Morino_Rinze"/>
-    <imas:Whose rdf:resource="Yukoku_Kiriko"/>
-    <imas:Whose rdf:resource="Hachimiya_Meguru"/>
-    <imas:Whose rdf:resource="Sonoda_Chiyoko"/>
+    <schema:description xml:lang="ja">ワンステップ。公園の鳩さんカラーでお気に入り</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="OvercastMonochrome_KazanoHiori">
+    <schema:name xml:lang="ja">オーバーキャストモノクローム</schema:name>
     <imas:Whose rdf:resource="Kazano_Hiori"/>
-    <imas:Whose rdf:resource="Shirase_Sakuya"/>
+    <schema:description xml:lang="ja">ワンステップ。蒼はどこまでも広く在り続ける</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="OvercastMonochrome_HachimiyaMeguru">
+    <schema:name xml:lang="ja">オーバーキャストモノクローム</schema:name>
+    <imas:Whose rdf:resource="Hachimiya_Meguru"/>
+    <schema:description xml:lang="ja">ワンステップ。それは雲を裂くヒカリ</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="OvercastMonochrome_TsukiokaKogane">
+    <schema:name xml:lang="ja">オーバーキャストモノクローム</schema:name>
+    <imas:Whose rdf:resource="Tsukioka_Kogane"/>
+    <schema:description xml:lang="ja">ワンステップ。纏うは白金、歌えよ黄金</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="OvercastMonochrome_TanakaMamimi">
+    <schema:name xml:lang="ja">オーバーキャストモノクローム</schema:name>
     <imas:Whose rdf:resource="Tanaka_Mamimi"/>
+    <schema:description xml:lang="ja">ワンステップ。この翼が、たぶん大切だから</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="OvercastMonochrome_ShiraseSakuya">
+    <schema:name xml:lang="ja">オーバーキャストモノクローム</schema:name>
+    <imas:Whose rdf:resource="Shirase_Sakuya"/>
+    <schema:description xml:lang="ja">ワンステップ。この空の下にいる</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="OvercastMonochrome_MitsumineYuika">
+    <schema:name xml:lang="ja">オーバーキャストモノクローム</schema:name>
+    <imas:Whose rdf:resource="Mitsumine_Yuika"/>
+    <schema:description xml:lang="ja">ワンステップ。これは幸せを降らせるための鈍色</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="OvercastMonochrome_YukokuKiriko">
+    <schema:name xml:lang="ja">オーバーキャストモノクローム</schema:name>
+    <imas:Whose rdf:resource="Yukoku_Kiriko"/>
+    <schema:description xml:lang="ja">ワンステップ。小鳥よ小鳥、世界はきみの庭</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="OvercastMonochrome_KomiyaKaho">
+    <schema:name xml:lang="ja">オーバーキャストモノクローム</schema:name>
+    <imas:Whose rdf:resource="Komiya_Kaho"/>
+    <schema:description xml:lang="ja">ワンステップ。飛び出せ、その向こうへ</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="OvercastMonochrome_SonodaChiyoko">
+    <schema:name xml:lang="ja">オーバーキャストモノクローム</schema:name>
+    <imas:Whose rdf:resource="Sonoda_Chiyoko"/>
+    <schema:description xml:lang="ja">ワンステップ。お腹のボタン、飛びませんように</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="OvercastMonochrome_SaijoJuri">
+    <schema:name xml:lang="ja">オーバーキャストモノクローム</schema:name>
+    <imas:Whose rdf:resource="Saijo_Juri"/>
+    <schema:description xml:lang="ja">ワンステップ。何処へでも、何処までもこの翼で</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="OvercastMonochrome_MorinoRinze">
+    <schema:name xml:lang="ja">オーバーキャストモノクローム</schema:name>
+    <imas:Whose rdf:resource="Morino_Rinze"/>
+    <schema:description xml:lang="ja">ワンステップ。翅翼に微熱あり</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="OvercastMonochrome_ArisugawaNatsuha">
+    <schema:name xml:lang="ja">オーバーキャストモノクローム</schema:name>
+    <imas:Whose rdf:resource="Arisugawa_Natsuha"/>
+    <schema:description xml:lang="ja">ワンステップ。雲の上、虹の向こう、夢の先まで</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="OvercastMonochrome_OsakiAmana">
+    <schema:name xml:lang="ja">オーバーキャストモノクローム</schema:name>
+    <imas:Whose rdf:resource="Osaki_Amana"/>
+    <schema:description xml:lang="ja">ワンステップ。一緒に見たい、空の上</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="OvercastMonochrome_OsakiTenka">
+    <schema:name xml:lang="ja">オーバーキャストモノクローム</schema:name>
     <imas:Whose rdf:resource="Osaki_Tenka"/>
+    <schema:description xml:lang="ja">ワンステップ。やがて晴れると知ったから</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="OvercastMonochrome_KuwayamaChiyuki">
+    <schema:name xml:lang="ja">オーバーキャストモノクローム</schema:name>
+    <imas:Whose rdf:resource="Kuwayama_Chiyuki"/>
+    <schema:description xml:lang="ja">ワンステップ。新しい夢に会いに行こう</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="OvercastMonochrome_SerizawaAsahi">
+    <schema:name xml:lang="ja">オーバーキャストモノクローム</schema:name>
     <imas:Whose rdf:resource="Serizawa_Asahi"/>
+    <schema:description xml:lang="ja">ワンステップ。この空の上には、何が？</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="OvercastMonochrome_MayuzumiFuyuko">
+    <schema:name xml:lang="ja">オーバーキャストモノクローム</schema:name>
     <imas:Whose rdf:resource="Mayuzumi_Fuyuko"/>
+    <schema:description xml:lang="ja">ワンステップ。挑もうか</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="OvercastMonochrome_IzumiMei">
+    <schema:name xml:lang="ja">オーバーキャストモノクローム</schema:name>
     <imas:Whose rdf:resource="Izumi_Mei"/>
+    <schema:description xml:lang="ja">ワンステップ。どんな空でも、やってみる</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="OvercastMonochrome_AsakuraToru">
+    <schema:name xml:lang="ja">オーバーキャストモノクローム</schema:name>
     <imas:Whose rdf:resource="Asakura_Toru"/>
-    <imas:Whose rdf:resource="Fukumaru_Koito"/>
+    <schema:description xml:lang="ja">ワンステップ。進んで戻って、ちょい進む</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="OvercastMonochrome_HiguchiMadoka">
+    <schema:name xml:lang="ja">オーバーキャストモノクローム</schema:name>
     <imas:Whose rdf:resource="Higuchi_Madoka"/>
+    <schema:description xml:lang="ja">ワンステップ。水彩の筆を拭った名残</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="OvercastMonochrome_FukumaruKoito">
+    <schema:name xml:lang="ja">オーバーキャストモノクローム</schema:name>
+    <imas:Whose rdf:resource="Fukumaru_Koito"/>
+    <schema:description xml:lang="ja">ワンステップ。いつか、いつかは</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="OvercastMonochrome_IchikawaHinana">
+    <schema:name xml:lang="ja">オーバーキャストモノクローム</schema:name>
     <imas:Whose rdf:resource="Ichikawa_Hinana"/>
+    <schema:description xml:lang="ja">ワンステップ。曇ってたら見えないでしょ？</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
 </rdf:RDF>
