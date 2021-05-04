@@ -207,6 +207,12 @@
     <schema:description xml:lang="ja">1stシーズンの水着。夏の日差しに負けない輝き</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
+  <rdf:Description rdf:about="ShinySummer_MitsumineYuika">
+    <schema:name xml:lang="ja">シャイニーサマー</schema:name>
+    <imas:Whose rdf:resource="Mitsumine_Yuika"/>
+    <schema:description xml:lang="ja">1stシーズンの水着。水鉄砲は添えるだけ</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
   <rdf:Description rdf:about="Jersey_SakuragiMano">
     <schema:name xml:lang="ja">ジャージ</schema:name>
     <imas:Whose rdf:resource="Sakuragi_Mano"/>
@@ -241,6 +247,12 @@
     <schema:name xml:lang="ja">ジャージ</schema:name>
     <imas:Whose rdf:resource="Shirase_Sakuya"/>
     <schema:description xml:lang="ja">水色ジャージ。腕まくりをして準備は万端</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Jersey_MitsumineYuika">
+    <schema:name xml:lang="ja">ジャージ</schema:name>
+    <imas:Whose rdf:resource="Mitsumine_Yuika"/>
+    <schema:description xml:lang="ja">水色ジャージ。メガネの行方は迷宮入り</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
   <rdf:Description rdf:about="MidnightMonster_SakuragiMano">
@@ -279,6 +291,12 @@
     <schema:description xml:lang="ja">トリック・オア・トリート！満月の夜はオオカミにご用心♡</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
+  <rdf:Description rdf:about="MidnightMonster_MitsumineYuika">
+    <schema:name xml:lang="ja">ミッドナイトモンスター</schema:name>
+    <imas:Whose rdf:resource="Mitsumine_Yuika"/>
+    <schema:description xml:lang="ja">トリック・オア・トリート！ひとりだけ系統が違う、は禁句</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
   <rdf:Description rdf:about="HolyNightCape_SakuragiMano">
     <schema:name xml:lang="ja">ホーリーナイトケープ</schema:name>
     <imas:Whose rdf:resource="Sakuragi_Mano"/>
@@ -313,6 +331,12 @@
     <schema:name xml:lang="ja">ホーリーナイトケープ</schema:name>
     <imas:Whose rdf:resource="Shirase_Sakuya"/>
     <schema:description xml:lang="ja">メリークリスマス！どこかのアナタへ真心を込めて</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="HolyNightCape_MitsumineYuika">
+    <schema:name xml:lang="ja">ホーリーナイトケープ</schema:name>
+    <imas:Whose rdf:resource="Mitsumine_Yuika"/>
+    <schema:description xml:lang="ja">メリークリスマス！じゃ、プレゼントは三峰でどう？</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
   <rdf:Description rdf:about="FashionableSummer_SakuragiMano">
@@ -351,6 +375,12 @@
     <schema:description xml:lang="ja">サマーダイブ！マーメイド・テイルを揺らして</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
+  <rdf:Description rdf:about="FashionableSummer_MitsumineYuika">
+    <schema:name xml:lang="ja">ファッショナブルサマー</schema:name>
+    <imas:Whose rdf:resource="Mitsumine_Yuika"/>
+    <schema:description xml:lang="ja">サマーダイブ！今回はお姉さんモード</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
   <rdf:Description rdf:about="InnocentSailor_SakuragiMano">
     <schema:name xml:lang="ja">イノセントセーラー</schema:name>
     <imas:Whose rdf:resource="Sakuragi_Mano"/>
@@ -385,6 +415,12 @@
     <schema:name xml:lang="ja">イノセントセーラー</schema:name>
     <imas:Whose rdf:resource="Shirase_Sakuya"/>
     <schema:description xml:lang="ja">ビー・アンビシャス。この声だけが白に滲む</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="InnocentSailor_MitsumineYuika">
+    <schema:name xml:lang="ja">イノセントセーラー</schema:name>
+    <imas:Whose rdf:resource="Mitsumine_Yuika"/>
+    <schema:description xml:lang="ja">ビー・アンビシャス。どうぞ攫って、夏のよそゆき</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
   <rdf:Description rdf:about="SunsetSkyPassage_SakuragiMano">
@@ -423,6 +459,12 @@
     <schema:description xml:lang="ja">スタッカート。この空の下で歌う</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
+  <rdf:Description rdf:about="SunsetSkyPassage_MitsumineYuika">
+    <schema:name xml:lang="ja">サンセットスカイパッセージ</schema:name>
+    <imas:Whose rdf:resource="Mitsumine_Yuika"/>
+    <schema:description xml:lang="ja">スタッカート。私は雨上がりの空で踊る</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
   <rdf:Description rdf:about="RefreshSummer_SakuragiMano">
     <schema:name xml:lang="ja">リフレッシュサマー</schema:name>
     <imas:Whose rdf:resource="Sakuragi_Mano"/>
@@ -457,6 +499,12 @@
     <schema:name xml:lang="ja">リフレッシュサマー</schema:name>
     <imas:Whose rdf:resource="Shirase_Sakuya"/>
     <schema:description xml:lang="ja">マジックアワー。海と落ち合い、ひと夏、デートへ</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RefreshSummer_MitsumineYuika">
+    <schema:name xml:lang="ja">リフレッシュサマー</schema:name>
+    <imas:Whose rdf:resource="Mitsumine_Yuika"/>
+    <schema:description xml:lang="ja">マジックアワー。結って結んで、私じゃない私</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
   <!-- MEMO: Unite + Verse + Planetary かも... -->
@@ -494,6 +542,12 @@
     <schema:name xml:lang="ja">ユナイトバースプラネタリ</schema:name>
     <imas:Whose rdf:resource="Shirase_Sakuya"/>
     <schema:description xml:lang="ja">リフトオフ。そらの海へ漕ぎ出す</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="UniteBirthPlanetary_MitsumineYuika">
+    <schema:name xml:lang="ja">ユナイトバースプラネタリ</schema:name>
+    <imas:Whose rdf:resource="Mitsumine_Yuika"/>
+    <schema:description xml:lang="ja">リフトオフ。星を掴むなんて夢物語が、今</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
 </rdf:RDF>

@@ -135,6 +135,12 @@
     <schema:description xml:lang="ja">霧・霧・奇・譚。さあ席へ、このお茶会は永遠だ</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
+  <rdf:Description rdf:about="Wonderland_Queen">
+    <schema:name xml:lang="ja">ワンダーランドクイーン</schema:name>
+    <imas:Whose rdf:resource="Mitsumine_Yuika"/>
+    <schema:description xml:lang="ja">霧・霧・奇・譚。さぁ、傅いてみせて？</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
   <rdf:Description rdf:about="NewYearHaregi_TsukiokaKogane">
     <schema:name xml:lang="ja">ニューイヤーハレギ</schema:name>
     <imas:Whose rdf:resource="Tsukioka_Kogane"/>
@@ -153,6 +159,12 @@
     <schema:description xml:lang="ja">春風献上。座れば牡丹、進む姿は蒸気機関車</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
+  <rdf:Description rdf:about="NewYearHaregi_MitsumineYuika">
+    <schema:name xml:lang="ja">ニューイヤーハレギ</schema:name>
+    <imas:Whose rdf:resource="Mitsumine_Yuika"/>
+    <schema:description xml:lang="ja">春風献上。どうしても猫は外せなかった</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
   <rdf:Description rdf:about="HolidayPrincess_TsukiokaKogane">
     <schema:name xml:lang="ja">ホリディプリンセス</schema:name>
     <imas:Whose rdf:resource="Tsukioka_Kogane"/>
@@ -169,6 +181,12 @@
     <schema:name xml:lang="ja">ホリディプリンセス</schema:name>
     <imas:Whose rdf:resource="Shirase_Sakuya"/>
     <schema:description xml:lang="ja">Bedtime Story／レースの奥で待っているから</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="HolidayPrincess_MitsumineYuika">
+    <schema:name xml:lang="ja">ホリディプリンセス</schema:name>
+    <imas:Whose rdf:resource="Mitsumine_Yuika"/>
+    <schema:description xml:lang="ja">Bedtime Story／私をお姫様にして</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
 </rdf:RDF>
