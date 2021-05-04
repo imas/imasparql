@@ -306,6 +306,12 @@
     <schema:description xml:lang="ja">お菓子なティータイム。あくまとおかしです</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
+  <rdf:Description rdf:about="Minty_Time_Sweets">
+    <schema:name xml:lang="ja">ミンティータイムスイーツ</schema:name>
+    <imas:Whose rdf:resource="Kuwayama_Chiyuki"/>
+    <schema:description xml:lang="ja">お菓子なティータイム。秘密のクローゼット</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
   <rdf:Description rdf:about="SakuraNoSpring_OsakiAmana">
     <schema:name xml:lang="ja">サクラノスプリング</schema:name>
     <imas:Whose rdf:resource="Osaki_Amana"/>
@@ -318,7 +324,13 @@
     <schema:description xml:lang="ja">うららかに。チェリー、そっと色づく</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
-  <rdf:Description rdf:about="Classical_Maid">
+  <rdf:Description rdf:about="SakuraNoSpring_KuwayamaChiyuki">
+    <schema:name xml:lang="ja">サクラノスプリング</schema:name>
+    <imas:Whose rdf:resource="Kuwayama_Chiyuki"/>
+    <schema:description xml:lang="ja">うららかに。オンリー、きっと溺れる</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Classical_Maid_OsakiAmana">
     <schema:name xml:lang="ja">クラシカルメイド</schema:name>
     <imas:Whose rdf:resource="Osaki_Amana"/>
     <schema:description xml:lang="ja">優雅な午後に。お嬢様！お茶が入りました☆</schema:description>
@@ -328,6 +340,12 @@
     <schema:name xml:lang="ja">クラシカルマドモアゼル</schema:name>
     <imas:Whose rdf:resource="Osaki_Tenka"/>
     <schema:description xml:lang="ja">優雅な午後に。背伸びをして鏡に向かって</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Classical_Maid_KuwayamaChiyuki">
+    <schema:name xml:lang="ja">クラシカルメイド</schema:name>
+    <imas:Whose rdf:resource="Kuwayama_Chiyuki"/>
+    <schema:description xml:lang="ja">優雅な午後に。糊をきかせて。心零れぬよう</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
   <!-- Straylight -->
