@@ -214,6 +214,12 @@
     <schema:description xml:lang="ja">スリープオーバー。意外と暖かくて悪くない</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
+  <rdf:Description rdf:about="Pajamas_De_Penpen">
+    <schema:name xml:lang="ja">パジャマ・デ・ペンペン</schema:name>
+    <imas:Whose rdf:resource="Morino_Rinze"/>
+    <schema:description xml:lang="ja">スリープオーバー。飛べる、飛べる。飛べるさ</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
   <rdf:Description rdf:about="BraveSoulSurround_KomiyaKaho">
     <schema:name xml:lang="ja">ブレイブソウルサラウンド</schema:name>
     <imas:Whose rdf:resource="Komiya_Kaho"/>
@@ -232,6 +238,12 @@
     <schema:description xml:lang="ja">5ピース★ドクロ・イナズマ・ロック</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
+  <rdf:Description rdf:about="BraveSoulSurround_MorinoRinze">
+    <schema:name xml:lang="ja">ブレイブソウルサラウンド</schema:name>
+    <imas:Whose rdf:resource="Morino_Rinze"/>
+    <schema:description xml:lang="ja">5ピース★意味はない、リズムもいらない</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
   <rdf:Description rdf:about="UnusualHour_KomiyaKaho">
     <schema:name xml:lang="ja">アンユージュアルアワー</schema:name>
     <imas:Whose rdf:resource="Komiya_Kaho"/>
@@ -248,6 +260,12 @@
     <schema:name xml:lang="ja">アンユージュアルアワー</schema:name>
     <imas:Whose rdf:resource="Saijo_Juri"/>
     <schema:description xml:lang="ja">【特集】燃える心をレイヤード</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="UnusualHour_MorinoRinze">
+    <schema:name xml:lang="ja">アンユージュアルアワー</schema:name>
+    <imas:Whose rdf:resource="Morino_Rinze"/>
+    <schema:description xml:lang="ja">【特集】Twice As Nice</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
   <!-- ALSTROEMERIA -->
