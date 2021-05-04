@@ -294,6 +294,24 @@
     <imas:Whose rdf:resource="Osaki_Tenka"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
+  <rdf:Description rdf:about="Cutie_Time_Sweets">
+    <schema:name xml:lang="ja">キューティータイムスイーツ</schema:name>
+    <imas:Whose rdf:resource="Osaki_Amana"/>
+    <schema:description xml:lang="ja">お菓子なティータイム。☆あまなあまあま☆</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="SakuraNoSpring_OsakiAmana">
+    <schema:name xml:lang="ja">サクラノスプリング</schema:name>
+    <imas:Whose rdf:resource="Osaki_Amana"/>
+    <schema:description xml:lang="ja">うららかに。ジェリー、ふわり花咲く</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="ClassicalMaid_OsakiAmana">
+    <schema:name xml:lang="ja">クラシカルメイド</schema:name>
+    <imas:Whose rdf:resource="Osaki_Amana"/>
+    <schema:description xml:lang="ja">優雅な午後に。お嬢様！お茶が入りました☆</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
   <!-- Straylight -->
   <rdf:Description rdf:about="Neon_Light_Romancer">
     <schema:name xml:lang="ja">ネオンライトロマンサー</schema:name>
