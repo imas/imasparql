@@ -6,6 +6,7 @@
     xmlns:imas="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#"
     xml:base="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/"
     >
+  <!-- ビヨンドザブルースカイ -->
   <rdf:Description rdf:about="Beyond_The_Blue_Sky">
     <schema:name xml:lang="ja">ビヨンドザブルースカイ</schema:name>
     <imas:Whose rdf:resource="Sakuragi_Mano"/>
@@ -35,6 +36,7 @@
     <imas:Whose rdf:resource="Aketa_Mikoto"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
+  <!-- オーバーキャストモノクローム -->
   <rdf:Description rdf:about="OvercastMonochrome_SakuragiMano">
     <schema:name xml:lang="ja">オーバーキャストモノクローム</schema:name>
     <imas:Whose rdf:resource="Sakuragi_Mano"/>
@@ -173,6 +175,7 @@
     <schema:description xml:lang="ja">ワンステップ。曇ってたら見えないでしょ？</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
+  <!-- シャイニーサマー -->
   <rdf:Description rdf:about="ShinySummer_SakuragiMano">
     <schema:name xml:lang="ja">シャイニーサマー</schema:name>
     <imas:Whose rdf:resource="Sakuragi_Mano"/>
@@ -269,6 +272,7 @@
     <schema:description xml:lang="ja">1stシーズンの水着。華やかなパレオに胸キュン♡</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
+  <!-- ジャージ -->
   <rdf:Description rdf:about="Jogging_Suits_SakuragiMano">
     <schema:name xml:lang="ja">ジャージ</schema:name>
     <imas:Whose rdf:resource="Sakuragi_Mano"/>
@@ -407,6 +411,7 @@
     <schema:description xml:lang="ja">水色ジャージ。ポケットのお菓子も跳ねる</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
+  <!-- ミッドナイトモンスター -->
   <rdf:Description rdf:about="MidnightMonster_SakuragiMano">
     <schema:name xml:lang="ja">ミッドナイトモンスター</schema:name>
     <imas:Whose rdf:resource="Sakuragi_Mano"/>
@@ -545,6 +550,7 @@
     <schema:description xml:lang="ja">トリック・オア・トリート！きみを食べたらどんな味？</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
+  <!-- ホーリーナイトケープ -->
   <rdf:Description rdf:about="HolyNightCape_SakuragiMano">
     <schema:name xml:lang="ja">ホーリーナイトケープ</schema:name>
     <imas:Whose rdf:resource="Sakuragi_Mano"/>
@@ -683,6 +689,7 @@
     <schema:description xml:lang="ja">メリークリスマス！欲しい物は、全部欲しい</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
+  <!-- ファッショナブルサマー -->
   <rdf:Description rdf:about="FashionableSummer_SakuragiMano">
     <schema:name xml:lang="ja">ファッショナブルサマー</schema:name>
     <imas:Whose rdf:resource="Sakuragi_Mano"/>
@@ -797,6 +804,7 @@
     <schema:description xml:lang="ja">サマーダイブ！ゴールドアクセでキメッ♪</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
+  <!-- イノセントセーラー -->
   <rdf:Description rdf:about="InnocentSailor_SakuragiMano">
     <schema:name xml:lang="ja">イノセントセーラー</schema:name>
     <imas:Whose rdf:resource="Sakuragi_Mano"/>
@@ -911,6 +919,7 @@
     <schema:description xml:lang="ja">ビー・アンビシャス。こういうの、ちょー新鮮！</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
+  <!-- サンセットスカイパッセージ -->
   <rdf:Description rdf:about="SunsetSkyPassage_SakuragiMano">
     <schema:name xml:lang="ja">サンセットスカイパッセージ</schema:name>
     <imas:Whose rdf:resource="Sakuragi_Mano"/>
@@ -1049,6 +1058,7 @@
     <schema:description xml:lang="ja">スタッカート。しあわせの海は空にあるの？</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
+  <!-- リフレッシュサマー -->
   <rdf:Description rdf:about="RefreshSummer_SakuragiMano">
     <schema:name xml:lang="ja">リフレッシュサマー</schema:name>
     <imas:Whose rdf:resource="Sakuragi_Mano"/>
@@ -1187,6 +1197,7 @@
     <schema:description xml:lang="ja">マジックアワー。夏は匂いだけ残してすぐに</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
+  <!-- ユナイトバースプラネタリ -->
   <rdf:Description rdf:about="UniteversePlanetary_SakuragiMano">
     <schema:name xml:lang="ja">ユナイトバースプラネタリ</schema:name>
     <imas:Whose rdf:resource="Sakuragi_Mano"/>
