@@ -233,6 +233,15 @@
     <schema:description xml:lang="ja">Bedtime Story／プールの底のお日さまみたいに</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
+  <rdf:Description rdf:about="Le_Fond_De_La_Mer">
+    <schema:name xml:lang="ja">ルフォンドゥ・ラメール</schema:name>
+    <imas:Whose rdf:resource="Tsukioka_Kogane"/>
+    <imas:Whose rdf:resource="Mitsumine_Yuika"/>
+    <imas:Whose rdf:resource="Yukoku_Kiriko"/>
+    <imas:Whose rdf:resource="Shirase_Sakuya"/>
+    <imas:Whose rdf:resource="Tanaka_Mamimi"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
   <!-- 放課後クライマックスガールズ -->
   <rdf:Description rdf:about="Brave_Hero_Jogging_Suits">
     <schema:name xml:lang="ja">ブレイブヒーロージャージ</schema:name>
