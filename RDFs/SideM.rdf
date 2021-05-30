@@ -445,6 +445,7 @@
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Brand xml:lang="en">SideM</imas:Brand>
     <schema:memberOf rdf:resource="315Production"/>
+    <schema:sibling rdf:resource="Aoi_Kyosuke"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/40002"/>
   </rdf:Description>
@@ -480,6 +481,7 @@
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Brand xml:lang="en">SideM</imas:Brand>
     <schema:memberOf rdf:resource="315Production"/>
+    <schema:sibling rdf:resource="Aoi_Yusuke"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/40001"/>
   </rdf:Description>
