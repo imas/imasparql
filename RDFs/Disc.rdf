@@ -2,6 +2,7 @@
     xmlns:schema="http://schema.org/"
     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
     xml:base="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
     >
 
   <rdf:Description rdf:about="THE%20IDOLM%40STER%20MASTERPIECE%2001">
@@ -25,6 +26,7 @@
     <schema:url rdf:resource="http://columbia.jp/idolmaster/2006/COCX-33355.html"/>
     <schema:MusicRelease rdf:resource="THE%20IDOLM%40STER%20MASTERPIECE%2001_info"/>
     <schema:name xml:lang="ja">THE IDOLM@STER MASTERPIECE 01</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">THE IDOLM@STER MASTERPIECE 01</rdfs:label>
   </rdf:Description>
   <rdf:Description rdf:about="THE%20IDOLM%40STER%20MASTERPIECE%2001_info">
     <rdf:type rdf:resource="http://schema.org/MusicRelease"/>
