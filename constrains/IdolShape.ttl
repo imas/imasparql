@@ -13,7 +13,25 @@ imas-shape:IdolShape a sh:NodeShape;
         rdfs:label "アイドルの登場するコンテンツのタイトルの制約";
         sh:path imas:Title;
         sh:datatype rdf:langString;
+        sh:minCount 0;
+    ];
+    sh:property [
+        rdfs:label "アイドルの登場するブランドの制約";
+        sh:path imas:Brand;
+        sh:datatype rdf:langString;
         sh:minCount 1;
+        sh:maxCount 1;
+        sh:in (
+            "1stVision"@en # 特殊
+            "765AS"@en
+            "DearlyStars"@en
+            "CinderellaGirls"@en
+            "MillionLive"@en
+            "SideM"@en
+            "ShinyColors"@en
+            "Xenoglossia"@en
+            "Other"@en  # 判断に迷う場合はここ
+        );
     ];
     sh:property [
         rdfs:label "アイドルのプロフィール等に書かれている名前の制約";
@@ -245,10 +263,17 @@ imas-shape:IdolShape a sh:NodeShape;
         sh:languageIn ("ja");
     ];
     sh:property [
-        rdfs:label "所属ユニットの制約";
-        rdfs:comment "目的語はimas:Unit";
+        rdfs:label "所属ユニット及び所属プロダクションの制約";
+        rdfs:comment "目的語はimas:Unit, imas:Production";
         sh:path schema:memberOf;
-        sh:class imas:Unit;
+        sh:or(
+            [
+                sh:class imas:Unit;
+            ]
+            [
+                sh:class imas:Production;
+            ]
+        )
     ];
     sh:property [
         rdfs:label "衣装の制約";
@@ -277,8 +302,23 @@ imas-shape:IdolShape a sh:NodeShape;
             "star"@en
             "thunder"@en
             "wind"@en
+            "闇"@ja
+            "夢"@ja
+            "炎"@ja
+            "花"@ja
+            "天"@ja
+            "光"@ja
+            "愛"@ja
+            "月"@ja
+            "海"@ja
+            "虹"@ja
+            "空"@ja
+            "雪"@ja
+            "星"@ja
+            "雷"@ja
+            "風"@ja
         );
-        sh:languageIn ("en");
-        sh:maxCount 2;
+        sh:languageIn ("en" "ja");
+        sh:maxCount 4;
     ];
     sh:closed false.

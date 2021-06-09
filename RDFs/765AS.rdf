@@ -38,12 +38,15 @@
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/中村繪里子"/>
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q911795"/>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
-    <imas:Title xml:lang="en">765AS</imas:Title>
+    <imas:Brand xml:lang="en">765AS</imas:Brand>
+    <schema:memberOf rdf:resource="765Production"/>
     <schema:birthPlace xml:lang="ja">神奈川</schema:birthPlace>
     <imas:Division xml:lang="en">Princess</imas:Division>
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cu</imas:Type>
     <imas:PopLinksAttribute xml:lang="en">flower</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="ja">花</imas:PopLinksAttribute>
     <imas:PopLinksAttribute xml:lang="en">ocean</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="ja">海</imas:PopLinksAttribute>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/10002"/>
   </rdf:Description>
@@ -78,12 +81,15 @@
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/今井麻美"/>
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q1042804"/>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
-    <imas:Title xml:lang="en">765AS</imas:Title>
+    <imas:Brand xml:lang="en">765AS</imas:Brand>
+    <schema:memberOf rdf:resource="765Production"/>
     <schema:birthPlace xml:lang="ja">東京</schema:birthPlace>
     <imas:Division xml:lang="en">Fairy</imas:Division>
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Co</imas:Type>
     <imas:PopLinksAttribute xml:lang="en">sky</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="ja">空</imas:PopLinksAttribute>
     <imas:PopLinksAttribute xml:lang="en">rainbow</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="ja">虹</imas:PopLinksAttribute>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/10005"/>
   </rdf:Description>
@@ -120,12 +126,15 @@
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/長谷川明子"/>
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q901104"/>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
-    <imas:Title xml:lang="en">765AS</imas:Title>
+    <imas:Brand xml:lang="en">765AS</imas:Brand>
+    <schema:memberOf rdf:resource="765Production"/>
     <schema:birthPlace xml:lang="ja">神奈川</schema:birthPlace>
     <imas:Division xml:lang="en">Angel</imas:Division>
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pa</imas:Type>
     <imas:PopLinksAttribute xml:lang="en">moon</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="ja">月</imas:PopLinksAttribute>
     <imas:PopLinksAttribute xml:lang="en">star</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="ja">星</imas:PopLinksAttribute>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/10011"/>
   </rdf:Description>
@@ -160,12 +169,15 @@
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/浅倉杏美"/>
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q8191313"/>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
-    <imas:Title xml:lang="en">765AS</imas:Title>
+    <imas:Brand xml:lang="en">765AS</imas:Brand>
+    <schema:memberOf rdf:resource="765Production"/>
     <schema:birthPlace xml:lang="ja">東京</schema:birthPlace>
     <imas:Division xml:lang="en">Princess</imas:Division>
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pa</imas:Type>
     <imas:PopLinksAttribute xml:lang="en">light</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="ja">光</imas:PopLinksAttribute>
     <imas:PopLinksAttribute xml:lang="en">snow</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="ja">雪</imas:PopLinksAttribute>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/10008"/>
   </rdf:Description>
@@ -202,12 +214,15 @@
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/仁後真耶子"/>
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q1096256"/>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
-    <imas:Title xml:lang="en">765AS</imas:Title>
+    <imas:Brand xml:lang="en">765AS</imas:Brand>
+    <schema:memberOf rdf:resource="765Production"/>
     <schema:birthPlace xml:lang="ja">埼玉</schema:birthPlace>
     <imas:Division xml:lang="en">Angel</imas:Division>
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cu</imas:Type>
     <imas:PopLinksAttribute xml:lang="en">light</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="ja">光</imas:PopLinksAttribute>
     <imas:PopLinksAttribute xml:lang="en">heaven</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="ja">天</imas:PopLinksAttribute>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/10007"/>
   </rdf:Description>
@@ -243,12 +258,15 @@
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/平田宏美"/>
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q224847"/>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
-    <imas:Title xml:lang="en">765AS</imas:Title>
+    <imas:Brand xml:lang="en">765AS</imas:Brand>
+    <schema:memberOf rdf:resource="765Production"/>
     <schema:birthPlace xml:lang="ja">静岡</schema:birthPlace>
     <imas:Division xml:lang="en">Princess</imas:Division>
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cu</imas:Type>
     <imas:PopLinksAttribute xml:lang="en">fire</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="ja">炎</imas:PopLinksAttribute>
     <imas:PopLinksAttribute xml:lang="en">dream</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="ja">夢</imas:PopLinksAttribute>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/10004"/>
   </rdf:Description>
@@ -284,12 +302,15 @@
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/釘宮理恵"/>
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q49554"/>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
-    <imas:Title xml:lang="en">765AS</imas:Title>
+    <imas:Brand xml:lang="en">765AS</imas:Brand>
+    <schema:memberOf rdf:resource="765Production"/>
     <schema:birthPlace xml:lang="ja">東京</schema:birthPlace>
     <imas:Division xml:lang="en">Fairy</imas:Division>
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pa</imas:Type>
     <imas:PopLinksAttribute xml:lang="en">ocean</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="ja">海</imas:PopLinksAttribute>
     <imas:PopLinksAttribute xml:lang="en">thunder</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="ja">雷</imas:PopLinksAttribute>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/10013"/>
   </rdf:Description>
@@ -325,12 +346,15 @@
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/原由実"/>
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q901521"/>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
-    <imas:Title xml:lang="en">765AS</imas:Title>
+    <imas:Brand xml:lang="en">765AS</imas:Brand>
+    <schema:memberOf rdf:resource="765Production"/>
     <schema:birthPlace xml:lang="ja">京都？</schema:birthPlace>
     <imas:Division xml:lang="en">Fairy</imas:Division>
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Co</imas:Type>
     <imas:PopLinksAttribute xml:lang="en">sky</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="ja">空</imas:PopLinksAttribute>
     <imas:PopLinksAttribute xml:lang="en">moon</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="ja">月</imas:PopLinksAttribute>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/10006"/>
   </rdf:Description>
@@ -366,12 +390,15 @@
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/若林直美"/>
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q3870205"/>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
-    <imas:Title xml:lang="en">765AS</imas:Title>
+    <imas:Brand xml:lang="en">765AS</imas:Brand>
+    <schema:memberOf rdf:resource="765Production"/>
     <schema:birthPlace xml:lang="ja">東京</schema:birthPlace>
     <imas:Division xml:lang="en">Fairy</imas:Division>
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Co</imas:Type>
     <imas:PopLinksAttribute xml:lang="en">moon</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="ja">月</imas:PopLinksAttribute>
     <imas:PopLinksAttribute xml:lang="en">thunder</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="ja">雷</imas:PopLinksAttribute>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/10001"/>
   </rdf:Description>
@@ -406,12 +433,15 @@
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/たかはし智秋"/>
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q1149403"/>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
-    <imas:Title xml:lang="en">765AS</imas:Title>
+    <imas:Brand xml:lang="en">765AS</imas:Brand>
+    <schema:memberOf rdf:resource="765Production"/>
     <schema:birthPlace xml:lang="ja">千葉</schema:birthPlace>
     <imas:Division xml:lang="en">Angel</imas:Division>
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Co</imas:Type>
     <imas:PopLinksAttribute xml:lang="en">love</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="ja">愛</imas:PopLinksAttribute>
     <imas:PopLinksAttribute xml:lang="en">flower</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="ja">花</imas:PopLinksAttribute>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/10012"/>
   </rdf:Description>
@@ -447,12 +477,15 @@
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/下田麻美"/>
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q1070511"/>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
-    <imas:Title xml:lang="en">765AS</imas:Title>
+    <imas:Brand xml:lang="en">765AS</imas:Brand>
+    <schema:memberOf rdf:resource="765Production"/>
     <schema:birthPlace xml:lang="ja">東京</schema:birthPlace>
     <imas:Division xml:lang="en">Angel</imas:Division>
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pa</imas:Type>
     <imas:PopLinksAttribute xml:lang="en">fire</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="ja">炎</imas:PopLinksAttribute>
     <imas:PopLinksAttribute xml:lang="en">rainbow</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="ja">虹</imas:PopLinksAttribute>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/10009"/>
   </rdf:Description>
@@ -488,12 +521,15 @@
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/下田麻美"/>
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q1070511"/>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
-    <imas:Title xml:lang="en">765AS</imas:Title>
+    <imas:Brand xml:lang="en">765AS</imas:Brand>
+    <schema:memberOf rdf:resource="765Production"/>
     <schema:birthPlace xml:lang="ja">東京</schema:birthPlace>
     <imas:Division xml:lang="en">Angel</imas:Division>
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pa</imas:Type>
     <imas:PopLinksAttribute xml:lang="en">moon</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="ja">月</imas:PopLinksAttribute>
     <imas:PopLinksAttribute xml:lang="en">rainbow</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="ja">虹</imas:PopLinksAttribute>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/10010"/>
   </rdf:Description>
@@ -530,12 +566,15 @@
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/沼倉愛美"/>
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q3844242"/>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
-    <imas:Title xml:lang="en">765AS</imas:Title>
+    <imas:Brand xml:lang="en">765AS</imas:Brand>
+    <schema:memberOf rdf:resource="765Production"/>
     <schema:birthPlace xml:lang="ja">沖縄</schema:birthPlace>
     <imas:Division xml:lang="en">Princess</imas:Division>
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cu</imas:Type>
     <imas:PopLinksAttribute xml:lang="en">wind</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="ja">風</imas:PopLinksAttribute>
     <imas:PopLinksAttribute xml:lang="en">ocean</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="ja">海</imas:PopLinksAttribute>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/10003"/>
   </rdf:Description>

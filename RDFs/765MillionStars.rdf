@@ -37,11 +37,14 @@
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/山崎はるか"/>
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q1661535"/>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
-    <imas:Title xml:lang="en">MillionStars</imas:Title>
+    <imas:Brand xml:lang="en">MillionLive</imas:Brand>
+    <schema:memberOf rdf:resource="765Production"/>
     <schema:birthPlace xml:lang="ja">東京</schema:birthPlace>
     <imas:Division xml:lang="en">Princess</imas:Division>
     <imas:PopLinksAttribute xml:lang="en">flower</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="ja">花</imas:PopLinksAttribute>
     <imas:PopLinksAttribute xml:lang="en">dream</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="ja">夢</imas:PopLinksAttribute>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/30004"/>
   </rdf:Description>
@@ -76,11 +79,14 @@
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/田所あずさ"/>
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q247629"/>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
-    <imas:Title xml:lang="en">MillionStars</imas:Title>
+    <imas:Brand xml:lang="en">MillionLive</imas:Brand>
+    <schema:memberOf rdf:resource="765Production"/>
     <schema:birthPlace xml:lang="ja">埼玉</schema:birthPlace>
     <imas:Division xml:lang="en">Fairy</imas:Division>
     <imas:PopLinksAttribute xml:lang="en">heaven</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="ja">天</imas:PopLinksAttribute>
     <imas:PopLinksAttribute xml:lang="en">rainbow</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="ja">虹</imas:PopLinksAttribute>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/30034"/>
   </rdf:Description>
@@ -115,11 +121,14 @@
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/Machico"/>
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q11232628"/>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
-    <imas:Title xml:lang="en">MillionStars</imas:Title>
+    <imas:Brand xml:lang="en">MillionLive</imas:Brand>
+    <schema:memberOf rdf:resource="765Production"/>
     <schema:birthPlace xml:lang="ja">東京</schema:birthPlace>
     <imas:Division xml:lang="en">Angel</imas:Division>
     <imas:PopLinksAttribute xml:lang="en">light</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="ja">光</imas:PopLinksAttribute>
     <imas:PopLinksAttribute xml:lang="en">star</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="ja">星</imas:PopLinksAttribute>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/30001"/>
   </rdf:Description>
@@ -154,7 +163,8 @@
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/種田梨沙"/>
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q130125"/>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
-    <imas:Title xml:lang="en">MillionStars</imas:Title>
+    <imas:Brand xml:lang="en">MillionLive</imas:Brand>
+    <schema:memberOf rdf:resource="765Production"/>
     <schema:birthPlace xml:lang="ja">東京</schema:birthPlace>
     <imas:Division xml:lang="en">Princess</imas:Division>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
@@ -191,11 +201,14 @@
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/角元明日香"/>
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q16265138"/>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
-    <imas:Title xml:lang="en">MillionStars</imas:Title>
+    <imas:Brand xml:lang="en">MillionLive</imas:Brand>
+    <schema:memberOf rdf:resource="765Production"/>
     <schema:birthPlace xml:lang="ja">ブラジル</schema:birthPlace>
     <imas:Division xml:lang="en">Angel</imas:Division>
     <imas:PopLinksAttribute xml:lang="en">fire</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="ja">炎</imas:PopLinksAttribute>
     <imas:PopLinksAttribute xml:lang="en">star</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="ja">星</imas:PopLinksAttribute>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/30012"/>
   </rdf:Description>
@@ -230,7 +243,8 @@
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/大関英里"/>
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q16264714"/>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
-    <imas:Title xml:lang="en">MillionStars</imas:Title>
+    <imas:Brand xml:lang="en">MillionLive</imas:Brand>
+    <schema:memberOf rdf:resource="765Production"/>
     <schema:birthPlace xml:lang="ja">東京</schema:birthPlace>
     <imas:Division xml:lang="en">Princess</imas:Division>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
@@ -267,7 +281,8 @@
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/藤井ゆきよ"/>
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q11622668"/>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
-    <imas:Title xml:lang="en">MillionStars</imas:Title>
+    <imas:Brand xml:lang="en">MillionLive</imas:Brand>
+    <schema:memberOf rdf:resource="765Production"/>
     <schema:birthPlace xml:lang="ja">埼玉</schema:birthPlace>
     <imas:Division xml:lang="en">Fairy</imas:Division>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
@@ -305,11 +320,14 @@
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/諏訪彩花"/>
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q11631872"/>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
-    <imas:Title xml:lang="en">MillionStars</imas:Title>
+    <imas:Brand xml:lang="en">MillionLive</imas:Brand>
+    <schema:memberOf rdf:resource="765Production"/>
     <schema:birthPlace xml:lang="ja">愛知</schema:birthPlace>
     <imas:Division xml:lang="en">Princess</imas:Division>
     <imas:PopLinksAttribute xml:lang="en">dream</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="ja">夢</imas:PopLinksAttribute>
     <imas:PopLinksAttribute xml:lang="en">moon</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="ja">月</imas:PopLinksAttribute>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/30019"/>
   </rdf:Description>
@@ -345,7 +363,8 @@
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/麻倉もも"/>
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q16263653"/>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
-    <imas:Title xml:lang="en">MillionStars</imas:Title>
+    <imas:Brand xml:lang="en">MillionLive</imas:Brand>
+    <schema:memberOf rdf:resource="765Production"/>
     <schema:birthPlace xml:lang="ja">東京</schema:birthPlace>
     <imas:Division xml:lang="en">Angel</imas:Division>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
@@ -382,7 +401,8 @@
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/小笠原早紀"/>
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q11463365"/>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
-    <imas:Title xml:lang="en">MillionStars</imas:Title>
+    <imas:Brand xml:lang="en">MillionLive</imas:Brand>
+    <schema:memberOf rdf:resource="765Production"/>
     <schema:birthPlace xml:lang="ja">埼玉</schema:birthPlace>
     <imas:Division xml:lang="en">Angel</imas:Division>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
@@ -419,7 +439,8 @@
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/夏川椎菜"/>
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q17226876"/>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
-    <imas:Title xml:lang="en">MillionStars</imas:Title>
+    <imas:Brand xml:lang="en">MillionLive</imas:Brand>
+    <schema:memberOf rdf:resource="765Production"/>
     <schema:birthPlace xml:lang="ja">神奈川</schema:birthPlace>
     <imas:Division xml:lang="en">Angel</imas:Division>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
@@ -459,7 +480,8 @@
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/中村温姫"/>
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q20041868"/>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
-    <imas:Title xml:lang="en">MillionStars</imas:Title>
+    <imas:Brand xml:lang="en">MillionLive</imas:Brand>
+    <schema:memberOf rdf:resource="765Production"/>
     <schema:birthPlace xml:lang="ja">東京</schema:birthPlace>
     <imas:Division xml:lang="en">Fairy</imas:Division>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
@@ -496,11 +518,14 @@
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/伊藤美来"/>
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q16264202"/>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
-    <imas:Title xml:lang="en">MillionStars</imas:Title>
+    <imas:Brand xml:lang="en">MillionLive</imas:Brand>
+    <schema:memberOf rdf:resource="765Production"/>
     <schema:birthPlace xml:lang="ja">東京</schema:birthPlace>
     <imas:Division xml:lang="en">Princess</imas:Division>
     <imas:PopLinksAttribute xml:lang="en">light</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="ja">光</imas:PopLinksAttribute>
     <imas:PopLinksAttribute xml:lang="en">moon</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="ja">月</imas:PopLinksAttribute>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/30024"/>
   </rdf:Description>
@@ -536,7 +561,8 @@
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/駒形友梨"/>
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q11668361"/>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
-    <imas:Title xml:lang="en">MillionStars</imas:Title>
+    <imas:Brand xml:lang="en">MillionLive</imas:Brand>
+    <schema:memberOf rdf:resource="765Production"/>
     <schema:birthPlace xml:lang="ja">茨城</schema:birthPlace>
     <imas:Division xml:lang="en">Princess</imas:Division>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
@@ -573,11 +599,14 @@
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/村川梨衣"/>
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q2811985"/>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
-    <imas:Title xml:lang="en">MillionStars</imas:Title>
+    <imas:Brand xml:lang="en">MillionLive</imas:Brand>
+    <schema:memberOf rdf:resource="765Production"/>
     <schema:birthPlace xml:lang="ja">東京</schema:birthPlace>
     <imas:Division xml:lang="en">Princess</imas:Division>
     <imas:PopLinksAttribute xml:lang="en">dream</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="ja">夢</imas:PopLinksAttribute>
     <imas:PopLinksAttribute xml:lang="en">heaven</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="ja">天</imas:PopLinksAttribute>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/30032"/>
   </rdf:Description>
@@ -612,7 +641,8 @@
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/上田麗奈"/>
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q16264425"/>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
-    <imas:Title xml:lang="en">MillionStars</imas:Title>
+    <imas:Brand xml:lang="en">MillionLive</imas:Brand>
+    <schema:memberOf rdf:resource="765Production"/>
     <schema:birthPlace xml:lang="ja">千葉</schema:birthPlace>
     <imas:Division xml:lang="en">Princess</imas:Division>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
@@ -649,11 +679,14 @@
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/原嶋あかり"/>
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q11409597"/>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
-    <imas:Title xml:lang="en">MillionStars</imas:Title>
+    <imas:Brand xml:lang="en">MillionLive</imas:Brand>
+    <schema:memberOf rdf:resource="765Production"/>
     <schema:birthPlace xml:lang="ja">東京</schema:birthPlace>
     <imas:Division xml:lang="en">Princess</imas:Division>
     <imas:PopLinksAttribute xml:lang="en">light</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="ja">光</imas:PopLinksAttribute>
     <imas:PopLinksAttribute xml:lang="en">rainbow</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="ja">虹</imas:PopLinksAttribute>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/30022"/>
   </rdf:Description>
@@ -688,7 +721,8 @@
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/小岩井ことり"/>
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q11460022"/>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
-    <imas:Title xml:lang="en">MillionStars</imas:Title>
+    <imas:Brand xml:lang="en">MillionLive</imas:Brand>
+    <schema:memberOf rdf:resource="765Production"/>
     <schema:birthPlace xml:lang="ja">東京</schema:birthPlace>
     <imas:Division xml:lang="en">Fairy</imas:Division>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
@@ -725,11 +759,14 @@
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/郁原ゆう"/>
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q17349881"/>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
-    <imas:Title xml:lang="en">MillionStars</imas:Title>
+    <imas:Brand xml:lang="en">MillionLive</imas:Brand>
+    <schema:memberOf rdf:resource="765Production"/>
     <schema:birthPlace xml:lang="ja">イギリス</schema:birthPlace>
     <imas:Division xml:lang="en">Princess</imas:Division>
     <imas:PopLinksAttribute xml:lang="en">flower</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="ja">花</imas:PopLinksAttribute>
     <imas:PopLinksAttribute xml:lang="en">wind</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="ja">風</imas:PopLinksAttribute>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/30002"/>
   </rdf:Description>
@@ -765,11 +802,14 @@
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/雨宮天"/>
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q14635194"/>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
-    <imas:Title xml:lang="en">MillionStars</imas:Title>
+    <imas:Brand xml:lang="en">MillionLive</imas:Brand>
+    <schema:memberOf rdf:resource="765Production"/>
     <schema:birthPlace xml:lang="ja">東京</schema:birthPlace>
     <imas:Division xml:lang="en">Fairy</imas:Division>
     <imas:PopLinksAttribute xml:lang="en">moon</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="ja">月</imas:PopLinksAttribute>
     <imas:PopLinksAttribute xml:lang="en">heaven</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="ja">天</imas:PopLinksAttribute>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/30006"/>
   </rdf:Description>
@@ -804,7 +844,8 @@
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/戸田めぐみ"/>
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q16003597"/>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
-    <imas:Title xml:lang="en">MillionStars</imas:Title>
+    <imas:Brand xml:lang="en">MillionLive</imas:Brand>
+    <schema:memberOf rdf:resource="765Production"/>
     <schema:birthPlace xml:lang="ja">愛媛</schema:birthPlace>
     <imas:Division xml:lang="en">Fairy</imas:Division>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
@@ -841,7 +882,8 @@
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/田村奈央"/>
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q11576902"/>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
-    <imas:Title xml:lang="en">MillionStars</imas:Title>
+    <imas:Brand xml:lang="en">MillionLive</imas:Brand>
+    <schema:memberOf rdf:resource="765Production"/>
     <schema:birthPlace xml:lang="ja">北海道</schema:birthPlace>
     <imas:Division xml:lang="en">Angel</imas:Division>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
@@ -878,7 +920,8 @@
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/木戸衣吹"/>
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q2276072"/>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
-    <imas:Title xml:lang="en">MillionStars</imas:Title>
+    <imas:Brand xml:lang="en">MillionLive</imas:Brand>
+    <schema:memberOf rdf:resource="765Production"/>
     <schema:birthPlace xml:lang="ja">神奈川</schema:birthPlace>
     <imas:Division xml:lang="en">Princess</imas:Division>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
@@ -915,7 +958,8 @@
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/渡部優衣"/>
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q11562757"/>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
-    <imas:Title xml:lang="en">MillionStars</imas:Title>
+    <imas:Brand xml:lang="en">MillionLive</imas:Brand>
+    <schema:memberOf rdf:resource="765Production"/>
     <schema:birthPlace xml:lang="ja">大阪</schema:birthPlace>
     <imas:Division xml:lang="en">Princess</imas:Division>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
@@ -952,7 +996,8 @@
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/野村香菜子"/>
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q17215985"/>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
-    <imas:Title xml:lang="en">MillionStars</imas:Title>
+    <imas:Brand xml:lang="en">MillionLive</imas:Brand>
+    <schema:memberOf rdf:resource="765Production"/>
     <schema:birthPlace xml:lang="ja">東京</schema:birthPlace>
     <imas:Division xml:lang="en">Fairy</imas:Division>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
@@ -989,7 +1034,8 @@
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/高橋未奈美"/>
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q14756009"/>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
-    <imas:Title xml:lang="en">MillionStars</imas:Title>
+    <imas:Brand xml:lang="en">MillionLive</imas:Brand>
+    <schema:memberOf rdf:resource="765Production"/>
     <schema:birthPlace xml:lang="ja">山口</schema:birthPlace>
     <imas:Division xml:lang="en">Angel</imas:Division>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
@@ -1026,7 +1072,8 @@
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/稲川英里"/>
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q16264225"/>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
-    <imas:Title xml:lang="en">MillionStars</imas:Title>
+    <imas:Brand xml:lang="en">MillionLive</imas:Brand>
+    <schema:memberOf rdf:resource="765Production"/>
     <schema:birthPlace xml:lang="ja">香川</schema:birthPlace>
     <imas:Division xml:lang="en">Angel</imas:Division>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
@@ -1063,7 +1110,8 @@
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/末柄里恵"/>
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q17159842"/>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
-    <imas:Title xml:lang="en">MillionStars</imas:Title>
+    <imas:Brand xml:lang="en">MillionLive</imas:Brand>
+    <schema:memberOf rdf:resource="765Production"/>
     <schema:birthPlace xml:lang="ja">千葉</schema:birthPlace>
     <imas:Division xml:lang="en">Angel</imas:Division>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
@@ -1101,11 +1149,14 @@
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/桐谷蝶々"/>
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q17157954"/>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
-    <imas:Title xml:lang="en">MillionStars</imas:Title>
+    <imas:Brand xml:lang="en">MillionLive</imas:Brand>
+    <schema:memberOf rdf:resource="765Production"/>
     <schema:birthPlace xml:lang="ja">東京</schema:birthPlace>
     <imas:Division xml:lang="en">Angel</imas:Division>
     <imas:PopLinksAttribute xml:lang="en">snow</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="ja">雪</imas:PopLinksAttribute>
     <imas:PopLinksAttribute xml:lang="en">love</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="ja">愛</imas:PopLinksAttribute>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/30033"/>
   </rdf:Description>
@@ -1140,7 +1191,8 @@
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/浜崎奈々"/>
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q11557669"/>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
-    <imas:Title xml:lang="en">MillionStars</imas:Title>
+    <imas:Brand xml:lang="en">MillionLive</imas:Brand>
+    <schema:memberOf rdf:resource="765Production"/>
     <schema:birthPlace xml:lang="ja">東京</schema:birthPlace>
     <imas:Division xml:lang="en">Princess</imas:Division>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
@@ -1177,11 +1229,14 @@
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/阿部里果"/>
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q16263736"/>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
-    <imas:Title xml:lang="en">MillionStars</imas:Title>
+    <imas:Brand xml:lang="en">MillionLive</imas:Brand>
+    <schema:memberOf rdf:resource="765Production"/>
     <schema:birthPlace xml:lang="ja">神奈川</schema:birthPlace>
     <imas:Division xml:lang="en">Fairy</imas:Division>
     <imas:PopLinksAttribute xml:lang="en">love</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="ja">愛</imas:PopLinksAttribute>
     <imas:PopLinksAttribute xml:lang="en">wind</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="ja">風</imas:PopLinksAttribute>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/30031"/>
   </rdf:Description>
@@ -1216,7 +1271,8 @@
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/近藤唯"/>
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q11638757"/>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
-    <imas:Title xml:lang="en">MillionStars</imas:Title>
+    <imas:Brand xml:lang="en">MillionLive</imas:Brand>
+    <schema:memberOf rdf:resource="765Production"/>
     <schema:birthPlace xml:lang="ja">東京</schema:birthPlace>
     <imas:Division xml:lang="en">Angel</imas:Division>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
@@ -1253,7 +1309,8 @@
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/山口立花子"/>
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q11467404"/>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
-    <imas:Title xml:lang="en">MillionStars</imas:Title>
+    <imas:Brand xml:lang="en">MillionLive</imas:Brand>
+    <schema:memberOf rdf:resource="765Production"/>
     <schema:birthPlace xml:lang="ja">広島</schema:birthPlace>
     <imas:Division xml:lang="en">Fairy</imas:Division>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
@@ -1290,7 +1347,8 @@
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/斉藤佑圭"/>
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q1064842"/>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
-    <imas:Title xml:lang="en">MillionStars</imas:Title>
+    <imas:Brand xml:lang="en">MillionLive</imas:Brand>
+    <schema:memberOf rdf:resource="765Production"/>
     <schema:birthPlace xml:lang="ja">東京</schema:birthPlace>
     <imas:Division xml:lang="en">Fairy</imas:Division>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
@@ -1327,7 +1385,8 @@
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/平山笑美"/>
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q11482546"/>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
-    <imas:Title xml:lang="en">MillionStars</imas:Title>
+    <imas:Brand xml:lang="en">MillionLive</imas:Brand>
+    <schema:memberOf rdf:resource="765Production"/>
     <schema:birthPlace xml:lang="ja">長野</schema:birthPlace>
     <imas:Division xml:lang="en">Angel</imas:Division>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
@@ -1364,7 +1423,8 @@
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/渡部恵子"/>
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q17217372"/>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
-    <imas:Title xml:lang="en">MillionStars</imas:Title>
+    <imas:Brand xml:lang="en">MillionLive</imas:Brand>
+    <schema:memberOf rdf:resource="765Production"/>
     <schema:birthPlace xml:lang="ja">東京</schema:birthPlace>
     <imas:Division xml:lang="en">Fairy</imas:Division>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
@@ -1395,7 +1455,8 @@
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/愛美"/>
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q11457880"/>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
-    <imas:Title xml:lang="en">MillionStars</imas:Title>
+    <imas:Brand xml:lang="en">MillionLive</imas:Brand>
+    <schema:memberOf rdf:resource="765Production"/>
     <schema:birthPlace xml:lang="ja">福岡</schema:birthPlace>
     <imas:Division xml:lang="en">Fairy</imas:Division>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
@@ -1434,11 +1495,14 @@
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/南早紀"/>
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q28690521"/>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
-    <imas:Title xml:lang="en">MillionStars</imas:Title>
+    <imas:Brand xml:lang="en">MillionLive</imas:Brand>
+    <schema:memberOf rdf:resource="765Production"/>
     <schema:birthPlace xml:lang="ja">石川</schema:birthPlace>
     <imas:Division xml:lang="en">Fairy</imas:Division>
     <imas:PopLinksAttribute xml:lang="en">snow</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="ja">雪</imas:PopLinksAttribute>
     <imas:PopLinksAttribute xml:lang="en">wind</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="ja">風</imas:PopLinksAttribute>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/30014"/>
   </rdf:Description>
@@ -1475,7 +1539,8 @@
     <!--<imas:cv rdf:resource="http://ja.dbpedia.org/resource/香里有佐"/>-->
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q30932235"/>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
-    <imas:Title xml:lang="en">MillionStars</imas:Title>
+    <imas:Brand xml:lang="en">MillionLive</imas:Brand>
+    <schema:memberOf rdf:resource="765Production"/>
     <schema:birthPlace xml:lang="ja">東京</schema:birthPlace>
     <imas:Division xml:lang="en">Angel</imas:Division>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>

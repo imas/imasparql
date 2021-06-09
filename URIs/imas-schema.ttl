@@ -60,9 +60,9 @@ imas:Facility                   a   rdfs:Class ;
     rdfs:subClassOf                 schema:Place .
 
 imas:Production                 a   rdfs:Class ;
-    rdfs:comment                    "事務所を表すクラス" ;
-    rdfs:label                      "事務所"@ja ;
-    rdfs:subClassOf                 imas:Facility .
+    rdfs:comment                    "会社を表すクラス" ;
+    rdfs:label                      "会社"@ja ;
+    rdfs:subClassOf                 schema:Organization .
 
 imas:CinderellaRankingResult    a   rdfs:Class ;
     rdfs:comment                    "シンデレラガールズ総選挙結果を表すクラス" ;
@@ -137,7 +137,6 @@ imas:Division           a   rdf:Property ;
 imas:PopLinksAttribute  a   rdf:Property ;
     rdfs:comment            "属性(ポップリンクス)を表すプロパティ" ;
     rdfs:label              "属性"@ja .
-
 
 imas:BloodType          a   rdf:Property ;
     rdfs:comment            "血液型を表すプロパティ" ;
@@ -234,6 +233,10 @@ imas:Destination            a   rdf:Property ;
 imas:Called                 a   rdf:Property ;
     rdfs:comment            "呼び方を表すプロパティ" ;
     rdfs:label              "呼び方"@ja .
+
+imas:Brand                  a   rdf:Property ;
+    rdfs:comment            "所属ブランドを表すプロパティ" ;
+    rdfs:label              "所属ブランド"@ja .
 
 imas:Title                  a   rdf:Property ;
     rdfs:comment            "所属コンテンツを表すプロパティ" ;

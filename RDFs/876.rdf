@@ -35,7 +35,8 @@
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/戸松遥"/>
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q50025"/>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
-    <imas:Title xml:lang="en">DearlyStars</imas:Title>
+    <imas:Brand xml:lang="en">DearlyStars</imas:Brand>
+    <schema:memberOf rdf:resource="876Production"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/210001"/>
   </rdf:Description>
@@ -68,7 +69,8 @@
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/花澤香菜"/>
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q49524"/>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
-    <imas:Title xml:lang="en">DearlyStars</imas:Title>
+    <imas:Brand xml:lang="en">DearlyStars</imas:Brand>
+    <schema:memberOf rdf:resource="876Production"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/210002"/>
   </rdf:Description>
@@ -101,7 +103,8 @@
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/三瓶由布子"/>
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q958874"/>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
-    <imas:Title xml:lang="en">DearlyStars</imas:Title>
+    <imas:Brand xml:lang="en">DearlyStars</imas:Brand>
+    <schema:memberOf rdf:resource="876Production"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/40004"/>
   </rdf:Description>
@@ -132,7 +135,7 @@
     <imas:Hobby xml:lang="ja">料理</imas:Hobby>
     <schema:birthPlace xml:lang="ja">大阪</schema:birthPlace>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
-    <imas:Title xml:lang="en">DearlyStars</imas:Title>
+    <imas:Brand xml:lang="en">DearlyStars</imas:Brand>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
@@ -165,7 +168,7 @@
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/ゆりん"/>
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q8061678"/>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
-    <imas:Title xml:lang="en">DearlyStars</imas:Title>
+    <imas:Brand xml:lang="en">DearlyStars</imas:Brand>
     <schema:birthPlace xml:lang="ja">神奈川</schema:birthPlace>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
@@ -185,7 +188,8 @@
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/今野宏美"/>
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q843178"/>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
-    <imas:Title xml:lang="en">1054Pro</imas:Title>
+    <imas:Brand xml:lang="en">Other</imas:Brand>
+    <schema:memberOf rdf:resource="1054Production"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
@@ -204,7 +208,8 @@
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/阿澄佳奈"/>
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q49474"/>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
-    <imas:Title xml:lang="en">1054Pro</imas:Title>
+    <imas:Brand xml:lang="en">Other</imas:Brand>
+    <schema:memberOf rdf:resource="1054Production"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
@@ -223,8 +228,40 @@
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/茅原実里"/>
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q256910"/>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
-    <imas:Title xml:lang="en">1054Pro</imas:Title>
+    <imas:Brand xml:lang="en">Other</imas:Brand>
+    <schema:memberOf rdf:resource="1054Production"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="Okuzora_Kohaku">
+    <schema:familyName xml:lang="ja">奥空</schema:familyName>
+    <schema:familyName xml:lang="en">Okuzora</schema:familyName>
+    <imas:familyNameKana xml:lang="ja">おくぞら</imas:familyNameKana>
+    <schema:givenName xml:lang="ja">心白</schema:givenName>
+    <schema:givenName xml:lang="en">Kohaku</schema:givenName>
+    <imas:givenNameKana xml:lang="ja">こはく</imas:givenNameKana>
+    <imas:nameKana xml:lang="ja">おくぞらこはく</imas:nameKana>
+    <schema:name xml:lang="ja">奥空心白</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">奥空心白</rdfs:label>
+    <schema:name xml:lang="en">Okuzora Kohaku</schema:name>
+    <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</foaf:age>
+    <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">157.0</schema:height>
+    <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">45.0</schema:weight>
+    <imas:Bust rdf:datatype="http://www.w3.org/2001/XMLSchema#float">88.0</imas:Bust>
+    <imas:Waist rdf:datatype="http://www.w3.org/2001/XMLSchema#float">56.0</imas:Waist>
+    <imas:Hip rdf:datatype="http://www.w3.org/2001/XMLSchema#float">82.0</imas:Hip>
+    <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--07-26</schema:birthDate>
+    <imas:Constellation xml:lang="ja">獅子座</imas:Constellation>
+    <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AB</imas:BloodType>
+    <imas:Hobby xml:lang="ja">マイブーム探し</imas:Hobby>
+    <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">FCFAD4</imas:Color>
+    <imas:cv xml:lang="ja">田中あいみ</imas:cv>
+    <imas:cv rdf:resource="http://ja.dbpedia.org/resource/田中あいみ"/>
+    <imas:cv rdf:resource="http://www.wikidata.org/entity/Q17160813"/>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
+    <imas:Brand xml:lang="en">Other</imas:Brand>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <!-- <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/"/> -->
   </rdf:Description>
 
 </rdf:RDF>
