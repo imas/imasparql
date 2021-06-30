@@ -410,6 +410,7 @@
     <imas:PopLinksAttribute xml:lang="en">dream</imas:PopLinksAttribute>
     <imas:PopLinksAttribute xml:lang="ja">夢</imas:PopLinksAttribute>
     <schema:description xml:lang="ja">大崎姉妹の双子の姉。幼い頃から妹の甘奈に面倒を見てもらっている。人と話すのが苦手で、アニメやゲームなど、インドアな趣味が多い。高校2年生。</schema:description>
+    <schema:sibling rdf:resource="Osaki_Amana"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/50006"/>
   </rdf:Description>
@@ -453,6 +454,7 @@
     <imas:PopLinksAttribute xml:lang="en">flower</imas:PopLinksAttribute>
     <imas:PopLinksAttribute xml:lang="ja">花</imas:PopLinksAttribute>
     <schema:description xml:lang="ja">大崎姉妹の双子の妹。誰とでも分け隔てなく接する天真爛漫なギャル。今しかできないことを全力で楽しみたい今ドキの女の子。高校2年生。</schema:description>
+    <schema:sibling rdf:resource="Osaki_Tenka"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/50005"/>
   </rdf:Description>
@@ -945,6 +947,7 @@
     <imas:Brand xml:lang="en">ShinyColors</imas:Brand>
     <schema:memberOf rdf:resource="283Production"/>
     <schema:description xml:lang="ja">気が強く甘え上手な「みんなの妹」アイドルに強い憧れを抱いており、譲れない思いや負けず嫌いな面をのぞかせることも。高校1年生。</schema:description>
+    <schema:sibling rdf:resource="Nanakusa_Hazuki"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/50024"/>
   </rdf:Description>

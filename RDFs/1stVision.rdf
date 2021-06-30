@@ -365,6 +365,7 @@
     <imas:Brand xml:lang="en">1stVision</imas:Brand>
     <schema:memberOf rdf:resource="765Production"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol_1st"/>
+    <schema:sibling rdf:resource="Futami_Mami_1st"/>
     <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/10009"/>
   </rdf:Description>
 
@@ -398,6 +399,7 @@
     <imas:Brand xml:lang="en">1stVision</imas:Brand>
     <schema:memberOf rdf:resource="765Production"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol_1st"/>
+    <schema:sibling rdf:resource="Futami_Ami_1st"/>
     <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/10010"/>
   </rdf:Description>
 
