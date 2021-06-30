@@ -142,4 +142,13 @@
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">697F9F</imas:Color>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
+  <rdf:Description rdf:about="C.FIRST">
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">C.FIRST</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">C.FIRST</rdfs:label>
+    <schema:member rdf:resource="Amamine_Shu"/>
+    <schema:member rdf:resource="Hanazono_Momohito"/>
+    <schema:member rdf:resource="Mayumi_Eishin"/>
+    <!-- <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"></imas:Color> -->
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
+  </rdf:Description>
 </rdf:RDF>
