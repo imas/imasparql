@@ -298,6 +298,7 @@
     <imas:Brand xml:lang="en">ShinyColors</imas:Brand>
     <schema:memberOf rdf:resource="283Production"/>
     <schema:workLocation rdf:resource="283ProductionOffice"/>
+    <schema:sibling rdf:resource="Nanakusa_Nichika"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Staff"/>
   </rdf:Description>
 
@@ -357,6 +358,9 @@
     <schema:alternateName xml:lang="ja">スターレッスントレーナー</schema:alternateName>
     <schema:alternateName xml:lang="en">Master Trainer</schema:alternateName>
     <schema:alternateName xml:lang="en">Star Lesson Trainer</schema:alternateName>
+    <schema:sibling rdf:resource="Aoki_Sei"/>
+    <schema:sibling rdf:resource="Aoki_Mei"/>
+    <schema:sibling rdf:resource="Aoki_Kei"/>
     <imas:Brand xml:lang="en">CinderellaGirls</imas:Brand>
   </rdf:Description>
   <rdf:Description rdf:about="Aoki_Sei">
@@ -391,6 +395,9 @@
     <schema:position xml:lang="ja">トレーナー</schema:position>
     <schema:alternateName xml:lang="ja">ベテラントレーナー</schema:alternateName>
     <schema:alternateName xml:lang="en">Veteran Trainer</schema:alternateName>
+    <schema:sibling rdf:resource="Aoki_Rei"/>
+    <schema:sibling rdf:resource="Aoki_Mei"/>
+    <schema:sibling rdf:resource="Aoki_Kei"/>
     <imas:Brand xml:lang="en">CinderellaGirls</imas:Brand>
   </rdf:Description>
   <rdf:Description rdf:about="Aoki_Mei">
@@ -425,6 +432,9 @@
     <schema:position xml:lang="ja">トレーナー</schema:position>
     <schema:alternateName xml:lang="ja">トレーナー</schema:alternateName>
     <schema:alternateName xml:lang="en">Trainer</schema:alternateName>
+    <schema:sibling rdf:resource="Aoki_Sei"/>
+    <schema:sibling rdf:resource="Aoki_Rei"/>
+    <schema:sibling rdf:resource="Aoki_Kei"/>
     <imas:Brand xml:lang="en">CinderellaGirls</imas:Brand>
   </rdf:Description>
   <rdf:Description rdf:about="Aoki_Kei">
@@ -459,6 +469,9 @@
     <schema:position xml:lang="ja">トレーナー</schema:position>
     <schema:alternateName xml:lang="ja">ルーキートレーナー</schema:alternateName>
     <schema:alternateName xml:lang="en">Rookie Trainer</schema:alternateName>
+    <schema:sibling rdf:resource="Aoki_Sei"/>
+    <schema:sibling rdf:resource="Aoki_Mei"/>
+    <schema:sibling rdf:resource="Aoki_Rei"/>
     <imas:Brand xml:lang="en">CinderellaGirls</imas:Brand>
   </rdf:Description>
 

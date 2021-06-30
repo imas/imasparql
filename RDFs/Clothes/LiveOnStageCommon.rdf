@@ -8,6 +8,7 @@
     >
   <rdf:Description rdf:about="Glory_Monochrome">
     <schema:name xml:lang="ja">グローリーモノクローム</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">グローリーモノクローム</rdfs:label>
     <imas:Whose rdf:resource="Amagase_Toma"/>
     <imas:Whose rdf:resource="Mitarai_Shota"/>
     <imas:Whose rdf:resource="Ijuin_Hokuto"/>
@@ -58,6 +59,7 @@
   </rdf:Description>
   <rdf:Description rdf:about="Glory_Monochrome_Another1">
     <schema:name xml:lang="ja">グローリーモノクローム（アナザー衣装1）</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">グローリーモノクローム（アナザー衣装1）</rdfs:label>
     <imas:Whose rdf:resource="Amagase_Toma"/>
     <imas:Whose rdf:resource="Mitarai_Shota"/>
     <imas:Whose rdf:resource="Ijuin_Hokuto"/>
@@ -108,6 +110,7 @@
   </rdf:Description>
   <rdf:Description rdf:about="Glory_Monochrome_Another2">
     <schema:name xml:lang="ja">グローリーモノクローム（アナザー衣装2）</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">グローリーモノクローム（アナザー衣装2）</rdfs:label>
     <imas:Whose rdf:resource="Amagase_Toma"/>
     <imas:Whose rdf:resource="Mitarai_Shota"/>
     <imas:Whose rdf:resource="Ijuin_Hokuto"/>
@@ -158,6 +161,7 @@
   </rdf:Description>
   <rdf:Description rdf:about="Physical_Star_Red">
     <schema:name xml:lang="ja">フィジカルスターレッド</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">フィジカルスターレッド</rdfs:label>
     <imas:Whose rdf:resource="Amagase_Toma"/>
     <imas:Whose rdf:resource="Tendo_Teru"/>
     <imas:Whose rdf:resource="Watanabe_Minori"/>
@@ -176,6 +180,7 @@
   </rdf:Description>
   <rdf:Description rdf:about="Mental_Sunny_Yellow">
     <schema:name xml:lang="ja">メンタルサニーイエロー</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">メンタルサニーイエロー</rdfs:label>
     <imas:Whose rdf:resource="Mitarai_Shota"/>
     <imas:Whose rdf:resource="Kashiwagi_Tsubasa"/>
     <imas:Whose rdf:resource="Tsuzuki_Kei"/>
@@ -195,6 +200,7 @@
   </rdf:Description>
   <rdf:Description rdf:about="Intelli_Crystal_Blue">
     <schema:name xml:lang="ja">インテリクリスタルブルー</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">インテリクリスタルブルー</rdfs:label>
     <imas:Whose rdf:resource="Ijuin_Hokuto"/>
     <imas:Whose rdf:resource="Sakuraba_Kaoru"/>
     <imas:Whose rdf:resource="Kagura_Rei"/>
@@ -216,6 +222,7 @@
   </rdf:Description>
   <rdf:Description rdf:about="Shiny_Solisty">
     <schema:name xml:lang="ja">シャイニーソリスティ</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">シャイニーソリスティ</rdfs:label>
     <imas:Whose rdf:resource="Tendo_Teru"/>
     <imas:Whose rdf:resource="Akuno_Hideo"/>
     <imas:Whose rdf:resource="Kamiya_Yukihiro"/>
@@ -229,6 +236,7 @@
   </rdf:Description>
   <rdf:Description rdf:about="Shiny_Solisty_Another1">
     <schema:name xml:lang="ja">シャイニーソリスティ（アナザー衣装1）</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">シャイニーソリスティ（アナザー衣装1）</rdfs:label>
     <imas:Whose rdf:resource="Tendo_Teru"/>
     <imas:Whose rdf:resource="Akuno_Hideo"/>
     <imas:Whose rdf:resource="Kamiya_Yukihiro"/>
@@ -242,6 +250,7 @@
   </rdf:Description>
   <rdf:Description rdf:about="Shiny_Solisty_Another2">
     <schema:name xml:lang="ja">シャイニーソリスティ（アナザー衣装2）</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">シャイニーソリスティ（アナザー衣装2）</rdfs:label>
     <imas:Whose rdf:resource="Tendo_Teru"/>
     <imas:Whose rdf:resource="Akuno_Hideo"/>
     <imas:Whose rdf:resource="Kamiya_Yukihiro"/>
@@ -255,6 +264,7 @@
   </rdf:Description>
   <rdf:Description rdf:about="Dual_Polaris">
     <schema:name xml:lang="ja">デュアルポラリス</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">デュアルポラリス</rdfs:label>
     <imas:Whose rdf:resource="Yamashita_Jiro"/>
     <imas:Whose rdf:resource="Ijuin_Hokuto"/>
     <imas:Whose rdf:resource="Takajo_Kyoji"/>
@@ -267,6 +277,7 @@
   </rdf:Description>
   <rdf:Description rdf:about="Dual_Polaris_Another1">
     <schema:name xml:lang="ja">デュアルポラリス（アナザー衣装1）</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">デュアルポラリス（アナザー衣装1）</rdfs:label>
     <imas:Whose rdf:resource="Yamashita_Jiro"/>
     <imas:Whose rdf:resource="Ijuin_Hokuto"/>
     <imas:Whose rdf:resource="Takajo_Kyoji"/>
@@ -279,6 +290,7 @@
   </rdf:Description>
   <rdf:Description rdf:about="Dual_Polaris_Another2">
     <schema:name xml:lang="ja">デュアルポラリス（アナザー衣装2）</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">デュアルポラリス（アナザー衣装2）</rdfs:label>
     <imas:Whose rdf:resource="Yamashita_Jiro"/>
     <imas:Whose rdf:resource="Ijuin_Hokuto"/>
     <imas:Whose rdf:resource="Takajo_Kyoji"/>
@@ -291,6 +303,7 @@
   </rdf:Description>
   <rdf:Description rdf:about="LIVE_STAGE_Memories">
     <schema:name xml:lang="ja">LIVE ST@GE Memories</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LIVE ST@GE Memories</rdfs:label>
     <imas:Whose rdf:resource="Amagase_Toma"/>
     <imas:Whose rdf:resource="Mitarai_Shota"/>
     <imas:Whose rdf:resource="Ijuin_Hokuto"/>
@@ -314,6 +327,7 @@
   </rdf:Description>
   <rdf:Description rdf:about="Prideful_Blue">
     <schema:name xml:lang="ja">プライドフルブルー</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">プライドフルブルー</rdfs:label>
     <imas:Whose rdf:resource="Ijuin_Hokuto"/>
     <imas:Whose rdf:resource="Tendo_Teru"/>
     <imas:Whose rdf:resource="Pierre"/>
