@@ -8,6 +8,7 @@
     >
   <rdf:Description rdf:about="Starting_Brighty_Ver_Jupiter">
     <schema:name xml:lang="ja">スターティングブライティーVer.Jupiter</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">スターティングブライティーVer.Jupiter</rdfs:label>
     <imas:Whose rdf:resource="Amagase_Toma"/>
     <imas:Whose rdf:resource="Mitarai_Shota"/>
     <imas:Whose rdf:resource="Ijuin_Hokuto"/>
@@ -15,6 +16,7 @@
   </rdf:Description>
   <rdf:Description rdf:about="Starting_Brighty_Ver_DRAMATIC_STARS">
     <schema:name xml:lang="ja">スターティングブライティーVer.DRAMATIC STARS</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">スターティングブライティーVer.DRAMATIC STARS</rdfs:label>
     <imas:Whose rdf:resource="Tendo_Teru"/>
     <imas:Whose rdf:resource="Sakuraba_Kaoru"/>
     <imas:Whose rdf:resource="Kashiwagi_Tsubasa"/>
@@ -22,12 +24,14 @@
   </rdf:Description>
   <rdf:Description rdf:about="Starting_Brighty_Ver_Altessimo">
     <schema:name xml:lang="ja">スターティングブライティーVer.Altessimo</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">スターティングブライティーVer.Altessimo</rdfs:label>
     <imas:Whose rdf:resource="Tsuzuki_Kei"/>
     <imas:Whose rdf:resource="Kagura_Rei"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
   <rdf:Description rdf:about="Starting_Brighty_Ver_Beit">
     <schema:name xml:lang="ja">スターティングブライティーVer.Beit</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">スターティングブライティーVer.Beit</rdfs:label>
     <imas:Whose rdf:resource="Takajo_Kyoji"/>
     <imas:Whose rdf:resource="Pierre"/>
     <imas:Whose rdf:resource="Watanabe_Minori"/>
@@ -35,12 +39,14 @@
   </rdf:Description>
   <rdf:Description rdf:about="Starting_Brighty_Ver_W">
     <schema:name xml:lang="ja">スターティングブライティーVer.W</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">スターティングブライティーVer.W</rdfs:label>
     <imas:Whose rdf:resource="Aoi_Yusuke"/>
     <imas:Whose rdf:resource="Aoi_Kyosuke"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
   <rdf:Description rdf:about="Starting_Brighty_Ver_FRAME">
     <schema:name xml:lang="ja">スターティングブライティーVer.FRAME</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">スターティングブライティーVer.FRAME</rdfs:label>
     <imas:Whose rdf:resource="Akuno_Hideo"/>
     <imas:Whose rdf:resource="Shingen_Seiji"/>
     <imas:Whose rdf:resource="Kimura_Ryu"/>
@@ -48,6 +54,7 @@
   </rdf:Description>
   <rdf:Description rdf:about="Starting_Brighty_Ver_Sai">
     <schema:name xml:lang="ja">スターティングブライティーVer.彩</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">スターティングブライティーVer.彩</rdfs:label>
     <imas:Whose rdf:resource="Nekoyanagi_Kirio"/>
     <imas:Whose rdf:resource="Hanamura_Shoma"/>
     <imas:Whose rdf:resource="Kiyosumi_Kuro"/>
@@ -55,6 +62,7 @@
   </rdf:Description>
   <rdf:Description rdf:about="Starting_Brighty_Ver_High_Joker">
     <schema:name xml:lang="ja">スターティングブライティーVer.High×Joker</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">スターティングブライティーVer.High×Joker</rdfs:label>
     <imas:Whose rdf:resource="Akiyama_Hayato"/>
     <imas:Whose rdf:resource="Fuyumi_Jun"/>
     <imas:Whose rdf:resource="Sakaki_Natsuki"/>
@@ -64,12 +72,14 @@
   </rdf:Description>
   <rdf:Description rdf:about="Starting_Brighty_Ver_Shinsokuikkon">
     <schema:name xml:lang="ja">スターティングブライティーVer.神速一魂</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">スターティングブライティーVer.神速一魂</rdfs:label>
     <imas:Whose rdf:resource="Akai_Suzaku"/>
     <imas:Whose rdf:resource="Kurono_Genbu"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
   <rdf:Description rdf:about="Starting_Brighty_Ver_Cafe_Parade">
     <schema:name xml:lang="ja">スターティングブライティーVer.Cafe Parade</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">スターティングブライティーVer.Cafe Parade</rdfs:label>
     <imas:Whose rdf:resource="Kamiya_Yukihiro"/>
     <imas:Whose rdf:resource="Shinonome_Soichiro"/>
     <imas:Whose rdf:resource="Asselin_BB_2"/>
@@ -79,6 +89,7 @@
   </rdf:Description>
   <rdf:Description rdf:about="Starting_Brighty_Ver_Mofumofuen">
     <schema:name xml:lang="ja">スターティングブライティーVer.もふもふえん</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">スターティングブライティーVer.もふもふえん</rdfs:label>
     <imas:Whose rdf:resource="Okamura_Nao"/>
     <imas:Whose rdf:resource="Tachibana_Shiro"/>
     <imas:Whose rdf:resource="Himeno_Kanon"/>
@@ -86,6 +97,7 @@
   </rdf:Description>
   <rdf:Description rdf:about="Starting_Brighty_Ver_S_E_M">
     <schema:name xml:lang="ja">スターティングブライティーVer.S.E.M</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">スターティングブライティーVer.S.E.M</rdfs:label>
     <imas:Whose rdf:resource="Hazama_Michio"/>
     <imas:Whose rdf:resource="Maita_Rui"/>
     <imas:Whose rdf:resource="Yamashita_Jiro"/>
@@ -93,6 +105,7 @@
   </rdf:Description>
   <rdf:Description rdf:about="Starting_Brighty_Ver_THE_Kogado">
     <schema:name xml:lang="ja">スターティングブライティーVer.THE 虎牙道</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">スターティングブライティーVer.THE 虎牙道</rdfs:label>
     <imas:Whose rdf:resource="Taiga_Takeru"/>
     <imas:Whose rdf:resource="Enjoji_Michiru"/>
     <imas:Whose rdf:resource="Kizaki_Ren"/>
@@ -100,6 +113,7 @@
   </rdf:Description>
   <rdf:Description rdf:about="Starting_Brighty_Ver_F-LAGS">
     <schema:name xml:lang="ja">スターティングブライティーVer.F-LAGS</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">スターティングブライティーVer.F-LAGS</rdfs:label>
     <imas:Whose rdf:resource="Akizuki_Ryo_315"/>
     <imas:Whose rdf:resource="Kabuto_Daigo"/>
     <imas:Whose rdf:resource="Tsukumo_Kazuki"/>
@@ -107,6 +121,7 @@
   </rdf:Description>
   <rdf:Description rdf:about="Starting_Brighty_Ver_Legenders">
     <schema:name xml:lang="ja">スターティングブライティーVer.Legenders</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">スターティングブライティーVer.Legenders</rdfs:label>
     <imas:Whose rdf:resource="Kuzunoha_Amehiko"/>
     <imas:Whose rdf:resource="Kitamura_Sora"/>
     <imas:Whose rdf:resource="Koron_Chris"/>
