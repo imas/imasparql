@@ -456,4 +456,26 @@
     <schema:url rdf:resource="https://idolmaster-official.jp/live_event/sidem6th/"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Live"/>
   </rdf:Description>
+  <rdf:Description rdf:about="THE%20IDOLM%40STER%20SideM%206th%20TOUR%20%EF%BD%9ENEXT%20DESTIN%40TION%21%EF%BD%9E%20Side%20KOBE%20Day1">
+    <schema:eventStatus rdf:resource="http://schema.org/EventScheduled" />
+    <schema:eventAttendanceMode rdf:resource="http://schema.org/MixedEventAttendanceMode" />
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">THE IDOLM@STER SideM 6thLIVE TOUR ～NEXT DESTIN@TION!～ Side KOBE Day1</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">THE IDOLM@STER SideM 6thLIVE TOUR ～NEXT DESTIN@TION!～ Side KOBE Day1</rdfs:label>
+    <schema:location rdf:datatype="http://www.w3.org/2001/XMLSchema#string">神戸ワールド記念ホール</schema:location>
+    <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-11-06</schema:startDate>
+    <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-11-06</schema:endDate>
+    <schema:url rdf:resource="https://idolmaster-official.jp/live_event/sidem6th/"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Live"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="THE%20IDOLM%40STER%20SideM%206th%20TOUR%20%EF%BD%9ENEXT%20DESTIN%40TION%21%EF%BD%9E%20Side%20KOBE%20Day2">
+    <schema:eventStatus rdf:resource="http://schema.org/EventScheduled" />
+    <schema:eventAttendanceMode rdf:resource="http://schema.org/MixedEventAttendanceMode" />
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">THE IDOLM@STER SideM 6thLIVE TOUR ～NEXT DESTIN@TION!～ Side KOBE Day2</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">THE IDOLM@STER SideM 6thLIVE TOUR ～NEXT DESTIN@TION!～ Side KOBE Day2</rdfs:label>
+    <schema:location rdf:datatype="http://www.w3.org/2001/XMLSchema#string">神戸ワールド記念ホール</schema:location>
+    <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-11-07</schema:startDate>
+    <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-11-07</schema:endDate>
+    <schema:url rdf:resource="https://idolmaster-official.jp/live_event/sidem6th/"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Live"/>
+  </rdf:Description>
 </rdf:RDF>
