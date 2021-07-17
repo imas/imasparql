@@ -10771,6 +10771,7 @@
     <schema:member rdf:resource="Matoba_Risa"/>
     <schema:member rdf:resource="Nitta_Minami"/>
     <schema:member rdf:resource="Natalia"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
   <rdf:Description rdf:about="%E3%82%B7%E3%83%BC%E3%82%AF%E3%83%AC%E3%83%83%E3%83%88%7BCipher%7D%2C">
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">シークレット{Cipher},</schema:name>
@@ -10778,6 +10779,7 @@
     <schema:member rdf:resource="Sagisawa_Fumika"/>
     <schema:member rdf:resource="Kamiya_Nao"/>
     <schema:member rdf:resource="Ohishi_Izumi"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
   <rdf:Description rdf:about="%E3%83%95%E3%83%AC%E3%83%BC%E3%82%BA*%E3%83%9F%E3%83%A5%E3%83%AB%E3%83%9F%E3%83%A5%E3%83%BC%E3%83%AB">
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">フレーズ*ミュルミュール</schema:name>
@@ -10786,6 +10788,7 @@
     <schema:member rdf:resource="Ryuzaki_Kaoru"/>
     <schema:member rdf:resource="Matoba_Risa"/>
     <schema:member rdf:resource="Sakurai_Momoka"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
   <rdf:Description rdf:about="2WINKLE%204OR%20INFINITY%E2%88%9E">
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2WINKLE 4OR INFINITY∞</schema:name>
@@ -10794,6 +10797,7 @@
     <schema:member rdf:resource="Ikebukuro_Akiha"/>
     <schema:member rdf:resource="Mary_Cochran"/>
     <schema:member rdf:resource="Nakano_Yuka"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
   <rdf:Description rdf:about="VelvetRose">
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VelvetRose</schema:name>
@@ -10816,5 +10820,6 @@
     <schema:member rdf:resource="Sasaki_Chie"/>
     <schema:member rdf:resource="Matoba_Risa"/>
     <schema:member rdf:resource="Koga_Koharu"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
 </rdf:RDF>
