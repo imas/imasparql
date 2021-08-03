@@ -11831,6 +11831,13 @@
     <schema:member rdf:resource="Munakata_Atsumi"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
+  <rdf:Description rdf:about="R%C3%AAve%20Pur">
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rêve Pur</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rêve Pur</rdfs:label>
+    <schema:member rdf:resource="Mizumoto_Yukari"/>
+    <schema:member rdf:resource="Kobayakawa_Sae"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
+  </rdf:Description>
   <rdf:Description rdf:about="Merry%20Terrors">
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Merry Terrors</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Merry Terrors</rdfs:label>
@@ -11839,6 +11846,16 @@
     <schema:member rdf:resource="Domyoji_Karin"/>
     <schema:member rdf:resource="Sakuma_Mayu"/>
     <schema:member rdf:resource="Kohinata_Miho"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Bom%20Dia">
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bom Dia</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bom Dia</rdfs:label>
+    <schema:member rdf:resource="Natalia"/>
+    <schema:member rdf:resource="Kitami_Yuzu"/>
+    <schema:member rdf:resource="Jougasaki_Rika"/>
+    <schema:member rdf:resource="Hamaguchi_Ayame"/>
+    <schema:member rdf:resource="Oikawa_Shizuku"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
 </rdf:RDF>
