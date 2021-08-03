@@ -59,6 +59,9 @@
     <imas:Whose rdf:resource="Sakuma_Mayu"/>
     <imas:Whose rdf:resource="Shirasaka_Koume"/>
     <imas:Whose rdf:resource="Kobayakawa_Sae"/>
+    <imas:Whose rdf:resource="Abe_Nana"/>
+    <imas:Whose rdf:resource="Kanzaki_Ranko"/>
+    <imas:Whose rdf:resource="Ninomiya_Asuka"/>
     <imas:Whose rdf:resource="Kasuga_Mirai"/>
     <imas:Whose rdf:resource="Mogami_Shizuka"/>
     <imas:Whose rdf:resource="Ibuki_Tsubasa"/>
@@ -106,6 +109,8 @@
     <imas:Whose rdf:resource="Kurono_Genbu"/>
     <imas:Whose rdf:resource="Kizaki_Ren"/>
     <imas:Whose rdf:resource="Hanamura_Shoma"/>
+    <imas:Whose rdf:resource="Watanabe_Minori"/>
+    <imas:Whose rdf:resource="Asselin_BB_2"/>
     <imas:Whose rdf:resource="Sakuragi_Mano"/>
     <imas:Whose rdf:resource="Kazano_Hiori"/>
     <imas:Whose rdf:resource="Hachimiya_Meguru"/>
@@ -118,6 +123,7 @@
     <imas:Whose rdf:resource="Serizawa_Asahi"/>
     <imas:Whose rdf:resource="Yukoku_Kiriko"/>
     <imas:Whose rdf:resource="Morino_Rinze"/>
+    <imas:Whose rdf:resource="Mitsumine_Yuika"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
   <rdf:Description rdf:about="Purely_pop">
@@ -456,6 +462,27 @@
     <imas:Whose rdf:resource="Kobayakawa_Sae"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
+  <rdf:Description rdf:about="Usamin_Frontier">
+    <schema:name xml:lang="ja">ウサミン☆フロンティア</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ウサミン☆フロンティア</rdfs:label>
+    <schema:description xml:lang="ja"></schema:description>
+    <imas:Whose rdf:resource="Abe_Nana"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Feast_Spinner">
+    <schema:name xml:lang="ja">饗宴の紡ぎ手</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">饗宴の紡ぎ手</rdfs:label>
+    <schema:description xml:lang="ja"></schema:description>
+    <imas:Whose rdf:resource="Kanzaki_Ranko"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Pulse_flying_in_the_dawn_sky">
+    <schema:name xml:lang="ja">暁天を翔るパルス</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">暁天を翔るパルス</rdfs:label>
+    <schema:description xml:lang="ja"></schema:description>
+    <imas:Whose rdf:resource="Ninomiya_Asuka"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
   <rdf:Description rdf:about="Step_future">
     <schema:name xml:lang="ja">ステップフューチャー</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ステップフューチャー</rdfs:label>
@@ -578,7 +605,7 @@
   <rdf:Description rdf:about="Tokimeki_Flowers">
     <schema:name xml:lang="ja">トキメキフラワーズ</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">トキメキフラワーズ</rdfs:label>
-    <schema:description xml:lang="ja"></schema:description>
+    <schema:description xml:lang="ja">乙女心をくすぐる花びらをあしらった衣装。可憐に咲いた好奇心は未知の世界を知り、光を浴びてより一層輝く。</schema:description>
     <imas:Whose rdf:resource="Hakozaki_Serika"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
@@ -785,6 +812,20 @@
     <imas:Whose rdf:resource="Hanamura_Shoma"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
+  <rdf:Description rdf:about="Eternity_Bloom">
+    <schema:name xml:lang="ja">エタニティブルーム</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">エタニティブルーム</rdfs:label>
+    <schema:description xml:lang="ja"></schema:description>
+    <imas:Whose rdf:resource="Watanabe_Minori"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Twilight_aperitif">
+    <schema:name xml:lang="ja">黄昏のアペリティフ</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">黄昏のアペリティフ</rdfs:label>
+    <schema:description xml:lang="ja"></schema:description>
+    <imas:Whose rdf:resource="Asselin_BB_2"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
   <rdf:Description rdf:about="Flappy_wing">
     <schema:name xml:lang="ja">フラッピーウィング</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">フラッピーウィング</rdfs:label>
@@ -867,6 +908,13 @@
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">彩る想ひ</rdfs:label>
     <schema:description xml:lang="ja"></schema:description>
     <imas:Whose rdf:resource="Morino_Rinze"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="BE_D_REAMS">
+    <schema:name xml:lang="ja">Be_:D_reams</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Be_:D_reams</rdfs:label>
+    <schema:description xml:lang="ja"></schema:description>
+    <imas:Whose rdf:resource="Mitsumine_Yuika"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
   <rdf:Description rdf:about="Starley_Futures_Poplinks">
@@ -962,6 +1010,27 @@
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">フローラルブライド</rdfs:label>
     <schema:description xml:lang="ja">祝福の風に花の香りが満ちるウェディングドレス風の衣装。胸の奥にある言葉にできないこの想い、歌に乗せて伝えたい。</schema:description>
     <imas:Whose rdf:resource="Shiraishi_Tsumugi"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Yuunagi_no_myojo">
+    <schema:name xml:lang="ja">夕凪の明星</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">夕凪の明星</rdfs:label>
+    <schema:description xml:lang="ja">傾く陽、吹き止む風。仄かな夏が香る。だんだんと辺りは暗く、心は疾く……一番星、見つけた。</schema:description>
+    <imas:Whose rdf:resource="Anastasia"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mijikayo_no_suzukaze">
+    <schema:name xml:lang="ja">短夜の涼風</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">短夜の涼風</rdfs:label>
+    <schema:description xml:lang="ja"></schema:description>
+    <imas:Whose rdf:resource="Miyao_Miya"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Hizakari_no_matsuribayashi">
+    <schema:name xml:lang="ja">日盛りの祭囃子</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">日盛りの祭囃子</rdfs:label>
+    <schema:description xml:lang="ja">軽快に下駄を鳴らす、向日葵のような笑顔に手を引かれて。耳を澄ませば、かすかに笛の音。今年もこの季節がやってきた。</schema:description>
+    <imas:Whose rdf:resource="Himeno_Kanon"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
 </rdf:RDF>
