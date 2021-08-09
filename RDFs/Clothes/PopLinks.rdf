@@ -325,14 +325,14 @@
     <imas:Whose rdf:resource="Morikubo_Nono"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
-  <rdf:Description rdf:about="Pure_Snake">
+  <rdf:Description rdf:about="Pure_Sneg">
     <schema:name xml:lang="ja">ピュア・スニェーク</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ピュア・スニェーク</rdfs:label>
     <schema:description xml:lang="ja">冬の夜。澄み切った空気。星の灯りに照らされ、ふわりと舞い降りた雪の結晶。純粋で、神秘的な衣装です。</schema:description>
     <imas:Whose rdf:resource="Anastasia"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
-  <rdf:Description rdf:about="Dicotomy_Grown">
+  <rdf:Description rdf:about="Dichotomy_Groan">
     <schema:name xml:lang="ja">ディコトミーグロウン</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ディコトミーグロウン</rdfs:label>
     <schema:description xml:lang="ja">可愛さもカッコよさも引き立てる一着です。見た人の心は雷に打たれたキノコのように立ち上がること間違いなし！</schema:description>
@@ -556,7 +556,7 @@
     <imas:Whose rdf:resource="Kitazawa_Shiho"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
-  <rdf:Description rdf:about="Fluffy_Happiness">
+  <rdf:Description rdf:about="Fuwamoko_Happiness">
     <schema:name xml:lang="ja">ふわもこハピネス</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ふわもこハピネス</rdfs:label>
     <schema:description xml:lang="ja">散りばめられた星がキラキラと瞬き、牧歌的で幻想的な空間を演出。幸せに満ちた笑顔が仲間もファンも癒します。</schema:description>
@@ -584,7 +584,7 @@
     <imas:Whose rdf:resource="Tokoro_Megumi"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
-  <rdf:Description rdf:about="Exciting_Explorer">
+  <rdf:Description rdf:about="Wakuwaku_Explorer">
     <schema:name xml:lang="ja">わくわくエクスプローラ</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">わくわくエクスプローラ</rdfs:label>
     <schema:description xml:lang="ja"></schema:description>
@@ -633,7 +633,7 @@
     <imas:Whose rdf:resource="Ijuin_Hokuto"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
-  <rdf:Description rdf:about="Shakit_Off">
+  <rdf:Description rdf:about="Shake_It_Off">
     <schema:name xml:lang="ja">シェイキットオフ</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">シェイキットオフ</rdfs:label>
     <schema:description xml:lang="ja">素肌が眩しいノースリーブが、軽快で大胆なダンスを魅せる。つまんないことは忘れちゃって、みんなで楽しく踊ろうよ！</schema:description>
@@ -654,7 +654,7 @@
     <imas:Whose rdf:resource="Sakuraba_Kaoru"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
-  <rdf:Description rdf:about="Eye_Tail_Wing">
+  <rdf:Description rdf:about="Aether_Wing">
     <schema:name xml:lang="ja">アイテールウイング</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">アイテールウイング</rdfs:label>
     <schema:description xml:lang="ja">風を背に受けステージへ！ジャケットをはためかせ舞台を走る姿、空を舞う鳥のよう。雲の上に、テイクオフ！</schema:description>
@@ -699,11 +699,11 @@
   <rdf:Description rdf:about="Pure_Flavor">
     <schema:name xml:lang="ja">ピュアフレーバー</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ピュアフレーバー</rdfs:label>
-    <schema:description xml:lang="ja"></schema:description>
+    <schema:description xml:lang="ja">普段は弱気な自分でも、衣装を着れば立派なアイドル！純粋で真っ直ぐな思いを届けて、みんなを笑顔に変えてみせます！</schema:description>
     <imas:Whose rdf:resource="Okamura_Nao"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
-  <rdf:Description rdf:about="Minimom_Bigster">
+  <rdf:Description rdf:about="Minimum_Bigster">
     <schema:name xml:lang="ja">ミニマムビッグスター</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ミニマムビッグスター</rdfs:label>
     <schema:description xml:lang="ja">小さな体につまった、だれにも負けないビッグな目標。最強にカッコいいアイドルを目指す姿が光ります。</schema:description>
@@ -727,7 +727,7 @@
   <rdf:Description rdf:about="Blooming_Smile">
     <schema:name xml:lang="ja">ブルーミングスマイル</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ブルーミングスマイル</rdfs:label>
-    <schema:description xml:lang="ja">足回りを警戒にまとめたコーデ。躍動感にあふれるパフォーマンスで、みんなの顔をはなまる笑顔にしてみせるけぇのぉ！</schema:description>
+    <schema:description xml:lang="ja">足回りを軽快にまとめたコーデ。躍動感にあふれるパフォーマンスで、みんなの顔をはなまる笑顔にしてみせるけぇのぉ！</schema:description>
     <imas:Whose rdf:resource="Kabuto_Daigo"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
@@ -769,20 +769,20 @@
   <rdf:Description rdf:about="Majimega_Emotion">
     <schema:name xml:lang="ja">マジメガエモーション</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">マジメガエモーション</rdfs:label>
-    <schema:description xml:lang="ja"></schema:description>
+    <schema:description xml:lang="ja">アツい心で歌声を届ける彼にぴったりの、メガMAXカッコイイ衣装。心揺さぶるステージから、煌めくミライへ、ハイジャンプ！</schema:description>
     <imas:Whose rdf:resource="Iseya_Shiki"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
   <rdf:Description rdf:about="Shiawase_Magic">
     <schema:name xml:lang="ja">シアワセ・マジック</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">シアワセ・マジック</rdfs:label>
-    <schema:description xml:lang="ja"></schema:description>
+    <schema:description xml:lang="ja">お菓子を大胆にあしらった一着。みんなが笑顔になれるように、シアワセな夢をお届けします。もちろん、カエールもいっしょ！</schema:description>
     <imas:Whose rdf:resource="Pierre"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
-  <rdf:Description rdf:about="Conversion_Heart">
-    <schema:name xml:lang="ja">コンバウンド・ハート</schema:name>
-    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">コンバウンド・ハート</rdfs:label>
+  <rdf:Description rdf:about="Compound_Heart">
+    <schema:name xml:lang="ja">コンパウンド・ハート</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">コンパウンド・ハート</rdfs:label>
     <schema:description xml:lang="ja"></schema:description>
     <imas:Whose rdf:resource="Yamashita_Jiro"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
@@ -790,21 +790,21 @@
   <rdf:Description rdf:about="Blaze_Soul">
     <schema:name xml:lang="ja">ブレイズソウル</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ブレイズソウル</rdfs:label>
-    <schema:description xml:lang="ja"></schema:description>
+    <schema:description xml:lang="ja">悪を許さない燃える魂をより輝かせる衣装。全身全霊を捧げる覚悟を胸に、メンチ切って走り抜ける！</schema:description>
     <imas:Whose rdf:resource="Akai_Suzaku"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
-  <rdf:Description rdf:about="Ice_Due_Diligence">
+  <rdf:Description rdf:about="Ice_Diligence">
     <schema:name xml:lang="ja">アイスディリジェンス</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">アイスディリジェンス</rdfs:label>
-    <schema:description xml:lang="ja"></schema:description>
+    <schema:description xml:lang="ja">悪に容赦しないクールな魂の持ち主にふさわしい一着。百錬成鋼、日々精進あるのみ。真っ向勝負の行く末を見届けろ。</schema:description>
     <imas:Whose rdf:resource="Kurono_Genbu"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
   <rdf:Description rdf:about="Snap_Fang">
     <schema:name xml:lang="ja">スナップファング</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">スナップファング</rdfs:label>
-    <schema:description xml:lang="ja"></schema:description>
+    <schema:description xml:lang="ja">「最強」を体現し次々と繰り出す素早い動きを際立たせる一着。鋭い騎馬のように洗練された踊りはあなたの心を仕留めるでしょう。</schema:description>
     <imas:Whose rdf:resource="Kizaki_Ren"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
@@ -822,7 +822,7 @@
     <imas:Whose rdf:resource="Watanabe_Minori"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
-  <rdf:Description rdf:about="Twilight_Aperitif">
+  <rdf:Description rdf:about="Tasogare_No_Aperitif">
     <schema:name xml:lang="ja">黄昏のアペリティフ</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">黄昏のアペリティフ</rdfs:label>
     <schema:description xml:lang="ja"></schema:description>
@@ -843,7 +843,7 @@
     <imas:Whose rdf:resource="Kazano_Hiori"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
-  <rdf:Description rdf:about="Sprinkles_Smile">
+  <rdf:Description rdf:about="Sprinkle_Smile">
     <schema:name xml:lang="ja">スプリンクルスマイル</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">スプリンクルスマイル</rdfs:label>
     <schema:description xml:lang="ja">太陽のような明るい笑顔が輝けば誰もが心の中まで晴れ渡る。元気いっぱいな少女のための、動きやすさを重視した衣装。</schema:description>
@@ -885,7 +885,7 @@
     <imas:Whose rdf:resource="Komiya_Kaho"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
-  <rdf:Description rdf:about="Afascinale_Of_Fleeting_Moment">
+  <rdf:Description rdf:about="Tamayura_No_Affascinare">
     <schema:name xml:lang="ja">玉響のアファシナーレ</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">玉響のアファシナーレ</rdfs:label>
     <schema:description xml:lang="ja"></schema:description>
@@ -920,10 +920,10 @@
     <imas:Whose rdf:resource="Mitsumine_Yuika"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
-  <rdf:Description rdf:about="Starley_Futures_Poplinks">
+  <rdf:Description rdf:about="Starry_Futures_Poplinks">
     <schema:name xml:lang="ja">スターリー・フューチャーズ</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">スターリー・フューチャーズ</rdfs:label>
-    <schema:description xml:lang="ja">未来に向かって星のように輝き続けるアイドルたちの特別な衣装。さぁ笑って、「これからも、アイドル!!!!!」</schema:description>
+    <!-- <schema:description xml:lang="ja">未来に向かって星のように輝き続けるアイドルたちの特別な衣装。さぁ笑って、「これからも、アイドル!!!!!」</schema:description> -->
     <imas:Whose rdf:resource="Amami_Haruka"/>
     <imas:Whose rdf:resource="Shimamura_Uzuki"/>
     <imas:Whose rdf:resource="Kasuga_Mirai"/>
@@ -952,7 +952,7 @@
     <imas:Whose rdf:resource="Osaki_Amana"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
-  <rdf:Description rdf:about="Secret_Maid">
+  <rdf:Description rdf:about="Naisho_No_Maid">
     <schema:name xml:lang="ja">ナイショノメイド</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ナイショノメイド</rdfs:label>
     <schema:description xml:lang="ja"></schema:description>
@@ -962,11 +962,11 @@
   <rdf:Description rdf:about="Himeyaka_Kyushi">
     <schema:name xml:lang="ja">秘めやか給仕</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">秘めやか給仕</rdfs:label>
-    <schema:description xml:lang="ja"></schema:description>
+    <schema:description xml:lang="ja">料理に彩りを添える彼女の完璧な給仕は、主人に好評。日に日に腕を上げる彼女のお目当ては、ご褒美の上品な甘味らしい。</schema:description>
     <imas:Whose rdf:resource="Emily_Stewart"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
-  <rdf:Description rdf:about="Marvelous_Batler">
+  <rdf:Description rdf:about="Marvelous_Butler">
     <schema:name xml:lang="ja">マーベラスバトラー</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">マーベラスバトラー</rdfs:label>
     <schema:description xml:lang="ja">一癖も二癖もある使用人達をまとめ上げる、一流の使用人頭。数多ある仕事を完璧にこなす。最も得意な家事は掃除。</schema:description>
@@ -994,7 +994,7 @@
     <imas:Whose rdf:resource="Hachimiya_Meguru"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
-  <rdf:Description rdf:about="Purery_Bride">
+  <rdf:Description rdf:about="Purely_Bride">
     <schema:name xml:lang="ja">ピュアリーブライド</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ピュアリーブライド</rdfs:label>
     <schema:description xml:lang="ja">純粋な心を優しく彩るウェディングドレス風の衣装。小鳥のさえずりに乗せ、溢れそうな愛と幸運を届けたい。</schema:description>
