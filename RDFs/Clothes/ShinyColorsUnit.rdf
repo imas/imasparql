@@ -614,6 +614,14 @@
     <schema:description xml:lang="ja">What's white?　愛に溺れさせてあげる♪</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
+  <rdf:Description rdf:about="Dead_Channel_RCB">
+    <schema:name xml:lang="ja">デッドチャンネルl2&lt;)3</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">デッドチャンネルl2&lt;)3</rdfs:label>
+    <imas:Whose rdf:resource="Serizawa_Asahi"/>
+    <imas:Whose rdf:resource="Mayuzumi_Fuyuko"/>
+    <imas:Whose rdf:resource="Izumi_Mei"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
   <!-- noctchill -->
   <rdf:Description rdf:about="Clear_Marine_Calm">
     <schema:name xml:lang="ja">クリアマリンカーム</schema:name>
