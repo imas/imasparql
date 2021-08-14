@@ -839,6 +839,7 @@
   <rdf:Description rdf:about="Jus-2-Mint">
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Jus-2-Mint</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Jus-2-Mint</rdfs:label>
+    <schema:alternateName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ダブルエース</schema:alternateName>
     <imas:nameKana xml:lang="ja">じゃすみん</imas:nameKana>
     <schema:member rdf:resource="Satake_Minako"/>
     <schema:member rdf:resource="Yokoyama_Nao"/>
@@ -931,6 +932,7 @@
   <rdf:Description rdf:about="%E3%82%B9%E3%83%88%E3%83%AD%E3%83%99%E3%83%AA%E3%83%BC%E3%83%9D%E3%83%83%E3%83%97%E3%83%A0%E3%83%BC%E3%83%B3">
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ストロベリーポップムーン</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ストロベリーポップムーン</rdfs:label>
+    <schema:alternateName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">シグナル</schema:alternateName>
     <schema:member rdf:resource="Kasuga_Mirai"/>
     <schema:member rdf:resource="Mogami_Shizuka"/>
     <schema:member rdf:resource="Ibuki_Tsubasa"/>
