@@ -9,146 +9,179 @@
   <rdf:Description rdf:about="Jupiter">
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Jupiter</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Jupiter</rdfs:label>
+    <imas:nameKana xml:lang="ja">じゅぴたー</imas:nameKana>
     <schema:member rdf:resource="Amagase_Toma"/>
     <schema:member rdf:resource="Ijuin_Hokuto"/>
     <schema:member rdf:resource="Mitarai_Shota"/>
-    <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">75DA12</imas:Color>
+    <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">42DB42</imas:Color>
+    <schema:description xml:lang="ja">互いを信頼する確かな絆で、だれより輝く！</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
   <rdf:Description rdf:about="DRAMATICSTARS">
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAMATICSTARS</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAMATICSTARS</rdfs:label>
+    <imas:nameKana xml:lang="ja">どらまちっくすたーず</imas:nameKana>
     <schema:member rdf:resource="Tendo_Teru"/>
     <schema:member rdf:resource="Sakuraba_Kaoru"/>
     <schema:member rdf:resource="Kashiwagi_Tsubasa"/>
-    <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">FFA303</imas:Color>
+    <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">FFA90A</imas:Color>
+    <schema:description xml:lang="ja">強い想いの力で、まっすぐ飛び立つ！</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
   <rdf:Description rdf:about="Altessimo">
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Altessimo</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Altessimo</rdfs:label>
+    <imas:nameKana xml:lang="ja">あるてっしも</imas:nameKana>
     <schema:member rdf:resource="Tsuzuki_Kei"/>
     <schema:member rdf:resource="Kagura_Rei"/>
-    <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">FDFE84</imas:Color>
+    <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">F6F45E</imas:Color>
+    <schema:description xml:lang="ja">美しき旋律を重ね合わせ、天へと響かせる！</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
   <rdf:Description rdf:about="Beit">
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Beit</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Beit</rdfs:label>
+    <imas:nameKana xml:lang="ja">ばいと</imas:nameKana>
     <schema:member rdf:resource="Takajo_Kyoji"/>
     <schema:member rdf:resource="Pierre"/>
     <schema:member rdf:resource="Watanabe_Minori"/>
-    <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">03BFFF</imas:Color>
+    <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">26D4FF</imas:Color>
+    <schema:description xml:lang="ja">ハッピースマイル♪皆に笑顔をお届けします♪</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
   <rdf:Description rdf:about="W">
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">W</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">W</rdfs:label>
+    <imas:nameKana xml:lang="ja">だぶる</imas:nameKana>
     <schema:member rdf:resource="Aoi_Yusuke"/>
     <schema:member rdf:resource="Aoi_Kyosuke"/>
-    <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">FFE518</imas:Color>
+    <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">F7D828</imas:Color>
+    <schema:description xml:lang="ja">2人で一緒に勝利の”V”ictory！</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
   <rdf:Description rdf:about="FRAME">
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FRAME</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FRAME</rdfs:label>
+    <imas:nameKana xml:lang="ja">ふれーむ</imas:nameKana>
     <schema:member rdf:resource="Akuno_Hideo"/>
     <schema:member rdf:resource="Kimura_Ryu"/>
     <schema:member rdf:resource="Shingen_Seiji"/>
-    <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">03B701</imas:Color>
+    <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">338033</imas:Color>
+    <schema:description xml:lang="ja">困った時は呼んでくれ！頼れる元公務員ユニット！</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
   <rdf:Description rdf:about="%E5%BD%A9">
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">彩</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">彩</rdfs:label>
+    <imas:nameKana xml:lang="ja">さい</imas:nameKana>
     <schema:member rdf:resource="Nekoyanagi_Kirio"/>
     <schema:member rdf:resource="Hanamura_Shoma"/>
     <schema:member rdf:resource="Kiyosumi_Kuro"/>
-    <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">672D9C</imas:Color>
+    <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">7F31CC</imas:Color>
+    <schema:description xml:lang="ja">咲かせて魅せよう、大輪の華と大和心！</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
   <rdf:Description rdf:about="High%C3%97Joker">
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">High×Joker</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">High×Joker</rdfs:label>
+    <imas:nameKana xml:lang="ja">はいじょーかー</imas:nameKana>
     <schema:member rdf:resource="Akiyama_Hayato"/>
     <schema:member rdf:resource="Fuyumi_Jun"/>
     <schema:member rdf:resource="Sakaki_Natsuki"/>
     <schema:member rdf:resource="Wakazato_Haruna"/>
     <schema:member rdf:resource="Iseya_Shiki"/>
-    <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">FF0001</imas:Color>
+    <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">FF0000</imas:Color>
+    <schema:description xml:lang="ja">”イマ”を全力で楽しめ！青春盛り高校生バンド！</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
   <rdf:Description rdf:about="%E7%A5%9E%E9%80%9F%E4%B8%80%E9%AD%82">
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">神速一魂</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">神速一魂</rdfs:label>
+    <imas:nameKana xml:lang="ja">しんそくいっこん</imas:nameKana>
     <schema:member rdf:resource="Akai_Suzaku"/>
     <schema:member rdf:resource="Kurono_Genbu"/>
-    <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">DBDEE2</imas:Color>
+    <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">9FA5AB</imas:Color>
+    <schema:description xml:lang="ja">魂燃やして、生命の限りアツく輝け！</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
   <rdf:Description rdf:about="CafeParade">
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CafeParade</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CafeParade</rdfs:label>
+    <imas:nameKana xml:lang="ja">かふぇぱれーど</imas:nameKana>
     <schema:member rdf:resource="Kamiya_Yukihiro"/>
     <schema:member rdf:resource="Shinonome_Soichiro"/>
     <schema:member rdf:resource="Asselin_BB_2"/>
     <schema:member rdf:resource="Uzuki_Makio"/>
     <schema:member rdf:resource="Mizushima_Saki"/>
-    <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">BD5787</imas:Color>
+    <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">CC66CC</imas:Color>
+    <schema:description xml:lang="ja">Welcome♪美味しく楽しい時間を、召し上がれ！</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
   <rdf:Description rdf:about="%E3%82%82%E3%81%B5%E3%82%82%E3%81%B5%E3%81%88%E3%82%93">
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">もふもふえん</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">もふもふえん</rdfs:label>
+    <imas:nameKana xml:lang="ja">もふもふえん</imas:nameKana>
     <schema:member rdf:resource="Okamura_Nao"/>
     <schema:member rdf:resource="Tachibana_Shiro"/>
     <schema:member rdf:resource="Himeno_Kanon"/>
-    <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">FFA7C6</imas:Color>
+    <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">FF99D6</imas:Color>
+    <schema:description xml:lang="ja">かわいい＆かっこいいが、いっぱいの世界へようこそ♪</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
   <rdf:Description rdf:about="S.E.M">
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">S.E.M</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">S.E.M</rdfs:label>
+    <imas:nameKana xml:lang="ja">せむ</imas:nameKana>
     <schema:member rdf:resource="Hazama_Michio"/>
     <schema:member rdf:resource="Maita_Rui"/>
     <schema:member rdf:resource="Yamashita_Jiro"/>
-    <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">FF1E83</imas:Color>
+    <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">FF70E2</imas:Color>
+    <schema:description xml:lang="ja">生徒を導く、アツい心の元教師ユニット！</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
   <rdf:Description rdf:about="THE%E8%99%8E%E7%89%99%E9%81%93">
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">THE虎牙道</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">THE虎牙道</rdfs:label>
+    <imas:nameKana xml:lang="ja">ざ こがどう</imas:nameKana>
     <schema:member rdf:resource="Taiga_Takeru"/>
     <schema:member rdf:resource="Enjoji_Michiru"/>
     <schema:member rdf:resource="Kizaki_Ren"/>
-    <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">3F3F3F</imas:Color>
+    <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">4A4A4A</imas:Color>
+    <schema:description xml:lang="ja">その拳でテッペン目指せ！闘志を胸に突き進む！</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
   <rdf:Description rdf:about="F-LAGS">
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">F-LAGS</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">F-LAGS</rdfs:label>
+    <imas:nameKana xml:lang="ja">ふらっぐす</imas:nameKana>
     <schema:member rdf:resource="Akizuki_Ryo_315"/>
     <schema:member rdf:resource="Tsukumo_Kazuki"/>
     <schema:member rdf:resource="Kabuto_Daigo"/>
-    <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">030199</imas:Color>
+    <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">3D50FF</imas:Color>
+    <schema:description xml:lang="ja">新しい自分革命の旅へ！BON VOYAGE！</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
   <rdf:Description rdf:about="Legenders">
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Legenders</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Legenders</rdfs:label>
+    <imas:nameKana xml:lang="ja">れじぇんだーず</imas:nameKana>
     <schema:member rdf:resource="Kuzunoha_Amehiko"/>
     <schema:member rdf:resource="Kitamura_Sora"/>
     <schema:member rdf:resource="Koron_Chris"/>
-    <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">697F9F</imas:Color>
+    <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">6880A0</imas:Color>
+    <schema:description xml:lang="ja">彼らが紡ぐのは、イマを刻み記す唄！</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
   <rdf:Description rdf:about="C.FIRST">
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">C.FIRST</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">C.FIRST</rdfs:label>
+    <imas:nameKana xml:lang="ja">くらす ふぁーすと</imas:nameKana>
     <schema:member rdf:resource="Amamine_Shu"/>
     <schema:member rdf:resource="Hanazono_Momohito"/>
     <schema:member rdf:resource="Mayumi_Eishin"/>
-    <!-- <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"></imas:Color> -->
+    <!-- 公式ペンラではなく、sideMグローイングスターズのサイトを参考に色を仮判断しています。 -->
+    <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">00CCBB</imas:Color>
+    <schema:description xml:lang="ja">静かにアツく、剥き出しの心で世界を切り拓け！</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
 </rdf:RDF>
