@@ -264,4 +264,49 @@
     <!-- <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/"/> -->
   </rdf:Description>
 
+  <rdf:Description rdf:about="Hikari">
+    <schema:givenName xml:lang="ja">ひかり</schema:givenName>
+    <schema:givenName xml:lang="en">Hikari</schema:givenName>
+    <imas:givenNameKana xml:lang="ja">ひかり</imas:givenNameKana>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ひかり</rdfs:label>
+    <schema:name xml:lang="en">Hikari</schema:name>
+    <imas:cv xml:lang="ja">日笠山亜美</imas:cv>
+    <imas:cv rdf:resource="http://ja.dbpedia.org/resource/日笠山亜美"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q7850002"/>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
+    <imas:Brand xml:lang="en">Other</imas:Brand>
+    <schema:memberOf rdf:resource="Kodama_Production"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="Tsubame">
+    <schema:givenName xml:lang="ja">つばめ</schema:givenName>
+    <schema:givenName xml:lang="en">Tsubame</schema:givenName>
+    <imas:givenNameKana xml:lang="ja">つばめ</imas:givenNameKana>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">つばめ</rdfs:label>
+    <schema:name xml:lang="en">Tsubame</schema:name>
+    <imas:cv xml:lang="ja">斎藤桃子</imas:cv>
+    <imas:cv rdf:resource="http://ja.dbpedia.org/resource/斎藤桃子"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q849576"/>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
+    <imas:Brand xml:lang="en">Other</imas:Brand>
+    <schema:memberOf rdf:resource="Kodama_Production"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="Nozomi">
+    <schema:givenName xml:lang="ja">のぞみ</schema:givenName>
+    <schema:givenName xml:lang="en">Nozomi</schema:givenName>
+    <imas:givenNameKana xml:lang="ja">のぞみ</imas:givenNameKana>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">のぞみ</rdfs:label>
+    <schema:name xml:lang="en">Nozomi</schema:name>
+    <imas:cv xml:lang="ja">庄子裕衣</imas:cv>
+    <imas:cv rdf:resource="http://ja.dbpedia.org/resource/庄子裕衣"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q9188077"/>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
+    <imas:Brand xml:lang="en">Other</imas:Brand>
+    <schema:memberOf rdf:resource="Kodama_Production"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+  </rdf:Description>
+
 </rdf:RDF>
