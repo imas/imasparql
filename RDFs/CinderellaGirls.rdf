@@ -1109,6 +1109,9 @@
     <imas:Hip rdf:datatype="http://www.w3.org/2001/XMLSchema#float">85.0</imas:Hip>
     <imas:Constellation xml:lang="ja">水瓶座</imas:Constellation>
     <schema:birthPlace xml:lang="ja">東京</schema:birthPlace>
+    <!-- <imas:cv xml:lang="ja">xxxx</imas:cv> -->
+    <!-- <imas:cv rdf:resource="http://ja.dbpedia.org/resource/xxxx"/> -->
+    <!-- <imas:cv rdf:resource="http://www.wikidata.org/entity/Q0000000"/> -->
     <imas:Hobby xml:lang="ja">押し花作り</imas:Hobby>
     <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20068"/>
   </rdf:Description>
@@ -2975,6 +2978,9 @@
     <imas:Hip rdf:datatype="http://www.w3.org/2001/XMLSchema#float">83.0</imas:Hip>
     <imas:Constellation xml:lang="ja">蠍座</imas:Constellation>
     <schema:birthPlace xml:lang="ja">岐阜</schema:birthPlace>
+    <!-- <imas:cv xml:lang="ja">xxxx</imas:cv> -->
+    <!-- <imas:cv rdf:resource="http://ja.dbpedia.org/resource/xxxx"/> -->
+    <!-- <imas:cv rdf:resource="http://www.wikidata.org/entity/Q0000000"/> -->
     <imas:Hobby xml:lang="ja">諜報活動</imas:Hobby>
     <imas:SchoolGrade xml:lang="ja">高校3年生</imas:SchoolGrade>
     <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20175"/>
@@ -3030,6 +3036,9 @@
     <imas:Hip rdf:datatype="http://www.w3.org/2001/XMLSchema#float">77.0</imas:Hip>
     <imas:Constellation xml:lang="ja">天秤座</imas:Constellation>
     <schema:birthPlace xml:lang="ja">青森</schema:birthPlace>
+    <imas:cv xml:lang="ja">井上ほの花</imas:cv>
+    <!-- <imas:cv rdf:resource="http://ja.dbpedia.org/resource/井上ほの花"/> -->
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q27684892"/>
     <imas:Hobby xml:lang="ja">絵日記</imas:Hobby>
     <imas:Hobby xml:lang="ja">釣り</imas:Hobby>
     <imas:PopLinksAttribute xml:lang="en">ocean</imas:PopLinksAttribute>
@@ -3445,7 +3454,7 @@
     <schema:birthPlace xml:lang="ja">京都</schema:birthPlace>
     <imas:cv xml:lang="ja">中澤ミナ</imas:cv>
     <!-- <imas:cv rdf:resource="http://ja.dbpedia.org/resource/中澤ミナ"/> -->
-    <!-- <imas:cv rdf:resource="http://www.wikidata.org/entity/Q0000000"/> -->
+    <imas:cv rdf:resource="http://www.wikidata.org/entity/Q78773735"/>
     <imas:Hobby xml:lang="ja">ペット（黒猫）と会話</imas:Hobby>
     <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/20077"/>
   </rdf:Description>
@@ -5175,7 +5184,7 @@
     <schema:birthPlace xml:lang="ja">山口</schema:birthPlace>
     <imas:cv xml:lang="ja">集貝はな</imas:cv>
     <!-- <imas:cv rdf:resource="http://ja.dbpedia.org/resource/集貝はな"/> -->
-    <!-- <imas:cv rdf:resource="http://www.wikidata.org/entity/Q0000000"/> -->
+    <imas:cv rdf:resource="http://www.wikidata.org/entity/Q74548472"/>
     <imas:Hobby xml:lang="ja">ダンス</imas:Hobby>
     <imas:Hobby xml:lang="ja">パパとデート</imas:Hobby>
     <imas:SchoolGrade xml:lang="ja">小学6年生</imas:SchoolGrade>
