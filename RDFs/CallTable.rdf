@@ -35849,4 +35849,35 @@
     <imas:Called xml:lang="ja">詩花</imas:Called>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
   </rdf:Description>
+<!-- KodamaPro -->
+  <rdf:Description rdf:about="Nozomi_Kikuchi_Makoto">
+    <imas:Source rdf:resource="Nozomi"/>
+    <imas:Destination rdf:resource="Kikuchi_Makoto"/>
+    <imas:Called xml:lang="ja">真さま</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Nozomi_Nozomi">
+    <imas:Source rdf:resource="Nozomi"/>
+    <imas:Destination rdf:resource="Nozomi"/>
+    <imas:Called xml:lang="ja">私</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Hikari_Nozomi">
+    <imas:Source rdf:resource="Hikari"/>
+    <imas:Destination rdf:resource="Nozomi"/>
+    <imas:Called xml:lang="ja">のぞみ</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Hikari_Takatsuki_Yayoi">
+    <imas:Source rdf:resource="Hikari"/>
+    <imas:Destination rdf:resource="Takatsuki_Yayoi"/>
+    <imas:Called xml:lang="ja">あんた</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Tsubame_Tsubame">
+    <imas:Source rdf:resource="Tsubame"/>
+    <imas:Destination rdf:resource="Tsubame"/>
+    <imas:Called xml:lang="ja">あたし</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
 </rdf:RDF>
