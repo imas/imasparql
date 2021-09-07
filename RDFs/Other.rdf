@@ -92,10 +92,11 @@
     <imas:cv xml:lang="ja">田中あいみ</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/田中あいみ"/>
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q17160813"/>
+    <schema:birthPlace xml:lang="ja">東京</schema:birthPlace>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Brand xml:lang="en">Other</imas:Brand>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
-    <!-- <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/"/> -->
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/search/detail/240001"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Hikari">
