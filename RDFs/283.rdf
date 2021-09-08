@@ -585,6 +585,10 @@
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Brand xml:lang="en">ShinyColors</imas:Brand>
     <schema:memberOf rdf:resource="283Production"/>
+    <imas:PopLinksAttribute xml:lang="en">fire</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="ja">炎</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="en">rainbow</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="ja">虹</imas:PopLinksAttribute>
     <schema:description xml:lang="ja">裕福な家庭に生まれた社長令嬢。家名に誇りを持ち、自らもその肩書に恥じぬよう日々鍛錬を積んでいる。スタイルがよく、引き締まっている。大学2年生。</schema:description>
     <imas:SchoolGrade xml:lang="ja">大学2年生</imas:SchoolGrade>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>

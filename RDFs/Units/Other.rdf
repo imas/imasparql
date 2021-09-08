@@ -60,4 +60,12 @@
     <schema:member rdf:resource="Akizuki_Ryo_876"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
+  <rdf:Description rdf:about="%E6%96%B0%E5%B9%B9%E5%B0%91%E5%A5%B3">
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">新幹少女</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">新幹少女</rdfs:label>
+    <schema:member rdf:resource="Hikari"/>
+    <schema:member rdf:resource="Tsubame"/>
+    <schema:member rdf:resource="Nozomi"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
+  </rdf:Description>
 </rdf:RDF>

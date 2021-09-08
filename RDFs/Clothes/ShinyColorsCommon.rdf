@@ -1566,4 +1566,209 @@
     <schema:description xml:lang="ja">リフトオフ。like the universe</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
+  <!-- プライベートドレスダウン -->
+  <rdf:Description rdf:about="PrivateDressDown_SakuragiMano">
+    <schema:name xml:lang="ja">プライベートドレスダウン</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">プライベートドレスダウン</rdfs:label>
+    <imas:Whose rdf:resource="Sakuragi_Mano"/>
+    <schema:description xml:lang="ja">ルームウェア。目を閉じたら星とお出かけ</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="PrivateDressDown_MorinoRinze">
+    <schema:name xml:lang="ja">プライベートドレスダウン</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">プライベートドレスダウン</rdfs:label>
+    <imas:Whose rdf:resource="Morino_Rinze"/>
+    <schema:description xml:lang="ja">ルームウェア。すまじきものは恋</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="PrivateDressDown_OsakiAmana">
+    <schema:name xml:lang="ja">プライベートドレスダウン</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">プライベートドレスダウン</rdfs:label>
+    <imas:Whose rdf:resource="Osaki_Amana"/>
+    <schema:description xml:lang="ja">ルームウェア。まんまるお団子☆ふわふわアイス</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="PrivateDressDown_AsakuraToru">
+    <schema:name xml:lang="ja">プライベートドレスダウン</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">プライベートドレスダウン</rdfs:label>
+    <imas:Whose rdf:resource="Asakura_Toru"/>
+    <schema:description xml:lang="ja">ルームウェア。トオル、最後の戦い</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <!-- ファウンテンサマー -->
+  <rdf:Description rdf:about="FountainSummer_SakuragiMano">
+    <schema:name xml:lang="ja">ファウンテンサマー</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ファウンテンサマー</rdfs:label>
+    <imas:Whose rdf:resource="Sakuragi_Mano"/>
+    <schema:description xml:lang="ja">スプラッシュ！それぞれの色をまとって</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="FountainSummer_KazanoHiori">
+    <schema:name xml:lang="ja">ファウンテンサマー</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ファウンテンサマー</rdfs:label>
+    <imas:Whose rdf:resource="Kazano_Hiori"/>
+    <schema:description xml:lang="ja">スプラッシュ！夏色トライアングル</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="FountainSummer_HachimiyaMeguru">
+    <schema:name xml:lang="ja">ファウンテンサマー</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ファウンテンサマー</rdfs:label>
+    <imas:Whose rdf:resource="Hachimiya_Meguru"/>
+    <schema:description xml:lang="ja">スプラッシュ！ビビッド・サマー</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="FountainSummer_TsukiokaKogane">
+    <schema:name xml:lang="ja">ファウンテンサマー</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ファウンテンサマー</rdfs:label>
+    <imas:Whose rdf:resource="Tsukioka_Kogane"/>
+    <schema:description xml:lang="ja">スプラッシュ！静かの海を纏って</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="FountainSummer_TanakaMamimi">
+    <schema:name xml:lang="ja">ファウンテンサマー</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ファウンテンサマー</rdfs:label>
+    <imas:Whose rdf:resource="Tanaka_Mamimi"/>
+    <schema:description xml:lang="ja">スプラッシュ！永遠にさめない熱にやられたい</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="FountainSummer_ShiraseSakuya">
+    <schema:name xml:lang="ja">ファウンテンサマー</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ファウンテンサマー</rdfs:label>
+    <imas:Whose rdf:resource="Shirase_Sakuya"/>
+    <schema:description xml:lang="ja">スプラッシュ！大輪、眩しく</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="FountainSummer_MitsumineYuika">
+    <schema:name xml:lang="ja">ファウンテンサマー</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ファウンテンサマー</rdfs:label>
+    <imas:Whose rdf:resource="Mitsumine_Yuika"/>
+    <schema:description xml:lang="ja">スプラッシュ！一緒にバカになりたいの、ねぇ</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="FountainSummer_YukokuKiriko">
+    <schema:name xml:lang="ja">ファウンテンサマー</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ファウンテンサマー</rdfs:label>
+    <imas:Whose rdf:resource="Yukoku_Kiriko"/>
+    <schema:description xml:lang="ja">スプラッシュ！きみのことを波に話そう</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="FountainSummer_KomiyaKaho">
+    <schema:name xml:lang="ja">ファウンテンサマー</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ファウンテンサマー</rdfs:label>
+    <imas:Whose rdf:resource="Komiya_Kaho"/>
+    <schema:description xml:lang="ja">スプラッシュ！おそろいでテンション最高潮</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="FountainSummer_SonodaChiyoko">
+    <schema:name xml:lang="ja">ファウンテンサマー</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ファウンテンサマー</rdfs:label>
+    <imas:Whose rdf:resource="Sonoda_Chiyoko"/>
+    <schema:description xml:lang="ja">スプラッシュ！おやつは桃まんかごま団子か</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="FountainSummer_SaijoJuri">
+    <schema:name xml:lang="ja">ファウンテンサマー</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ファウンテンサマー</rdfs:label>
+    <imas:Whose rdf:resource="Saijo_Juri"/>
+    <schema:description xml:lang="ja">スプラッシュ！盛夏、熱烈歓迎！</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="FountainSummer_MorinoRinze">
+    <schema:name xml:lang="ja">ファウンテンサマー</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ファウンテンサマー</rdfs:label>
+    <imas:Whose rdf:resource="Morino_Rinze"/>
+    <schema:description xml:lang="ja">スプラッシュ！Build Back Better World tgt</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="FountainSummer_ArisugawaNatsuha">
+    <schema:name xml:lang="ja">ファウンテンサマー</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ファウンテンサマー</rdfs:label>
+    <imas:Whose rdf:resource="Arisugawa_Natsuha"/>
+    <schema:description xml:lang="ja">スプラッシュ！お揃いチャイナもマストバイ</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="FountainSummer_OsakiAmana">
+    <schema:name xml:lang="ja">ファウンテンサマー</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ファウンテンサマー</rdfs:label>
+    <imas:Whose rdf:resource="Osaki_Amana"/>
+    <schema:description xml:lang="ja">スプラッシュ！海に咲く花のように</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="FountainSummer_OsakiTenka">
+    <schema:name xml:lang="ja">ファウンテンサマー</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ファウンテンサマー</rdfs:label>
+    <imas:Whose rdf:resource="Osaki_Tenka"/>
+    <schema:description xml:lang="ja">スプラッシュ！やっぱり布が多い方が、甜花</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="FountainSummer_KuwayamaChiyuki">
+    <schema:name xml:lang="ja">ファウンテンサマー</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ファウンテンサマー</rdfs:label>
+    <imas:Whose rdf:resource="Kuwayama_Chiyuki"/>
+    <schema:description xml:lang="ja">スプラッシュ！波しぶきのフリンジを重ねて</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="FountainSummer_SerizawaAsahi">
+    <schema:name xml:lang="ja">ファウンテンサマー</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ファウンテンサマー</rdfs:label>
+    <imas:Whose rdf:resource="Serizawa_Asahi"/>
+    <schema:description xml:lang="ja">スプラッシュ！ひまわりよりも高く！</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="FountainSummer_MayuzumiFuyuko">
+    <schema:name xml:lang="ja">ファウンテンサマー</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ファウンテンサマー</rdfs:label>
+    <imas:Whose rdf:resource="Mayuzumi_Fuyuko"/>
+    <schema:description xml:lang="ja">スプラッシュ！夏ごと、食べますか？</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="FountainSummer_IzumiMei">
+    <schema:name xml:lang="ja">ファウンテンサマー</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ファウンテンサマー</rdfs:label>
+    <imas:Whose rdf:resource="Izumi_Mei"/>
+    <schema:description xml:lang="ja">スプラッシュ！クール or キュート？</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="FountainSummer_AsakuraToru">
+    <schema:name xml:lang="ja">ファウンテンサマー</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ファウンテンサマー</rdfs:label>
+    <imas:Whose rdf:resource="Asakura_Toru"/>
+    <schema:description xml:lang="ja">スプラッシュ！そういうこと</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="FountainSummer_HiguchiMadoka">
+    <schema:name xml:lang="ja">ファウンテンサマー</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ファウンテンサマー</rdfs:label>
+    <imas:Whose rdf:resource="Higuchi_Madoka"/>
+    <schema:description xml:lang="ja">スプラッシュ！困らせないで？PURE MINT</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="FountainSummer_FukumaruKoito">
+    <schema:name xml:lang="ja">ファウンテンサマー</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ファウンテンサマー</rdfs:label>
+    <imas:Whose rdf:resource="Fukumaru_Koito"/>
+    <schema:description xml:lang="ja">スプラッシュ！絶唱マーメイド</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="FountainSummer_IchikawaHinana">
+    <schema:name xml:lang="ja">ファウンテンサマー</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ファウンテンサマー</rdfs:label>
+    <imas:Whose rdf:resource="Ichikawa_Hinana"/>
+    <schema:description xml:lang="ja">スプラッシュ！真夏のきせかえ人形</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="FountainSummer_NanakusaNichika">
+    <schema:name xml:lang="ja">ファウンテンサマー</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ファウンテンサマー</rdfs:label>
+    <imas:Whose rdf:resource="Nanakusa_Nichika"/>
+    <schema:description xml:lang="ja">スプラッシュ！恋しらずのボレロ</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="FountainSummer_AketaMikoto">
+    <schema:name xml:lang="ja">ファウンテンサマー</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ファウンテンサマー</rdfs:label>
+    <imas:Whose rdf:resource="Aketa_Mikoto"/>
+    <schema:description xml:lang="ja">スプラッシュ！soak up the rays</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
 </rdf:RDF>
