@@ -35863,11 +35863,6 @@
     <imas:Called xml:lang="ja">詩花さん</imas:Called>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
   </rdf:Description>
-  <rdf:Description rdf:about="Shika_Leon">
-    <imas:Source rdf:resource="Shika"/>
-    <imas:Destination rdf:resource="Leon"/>
-    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
-  </rdf:Description>
   <rdf:Description rdf:about="Shika_Aya">
     <imas:Source rdf:resource="Shika"/>
     <imas:Destination rdf:resource="Aya"/>
