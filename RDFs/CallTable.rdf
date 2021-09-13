@@ -35823,6 +35823,7 @@
     <imas:Source rdf:resource="Shika"/>
     <imas:Destination rdf:resource="Leon"/>
     <imas:Called xml:lang="ja">お姉さま</imas:Called>
+    <imas:Called xml:lang="ja">玲音さん</imas:Called>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
   </rdf:Description>
   <rdf:Description rdf:about="Producer_Producer">
@@ -35847,6 +35848,30 @@
     <imas:Source rdf:resource="Producer"/>
     <imas:Destination rdf:resource="Shika"/>
     <imas:Called xml:lang="ja">詩花</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+<!-- 961 ディアマント -->
+  <rdf:Description rdf:about="Aya_Leon">
+    <imas:Source rdf:resource="Aya"/>
+    <imas:Destination rdf:resource="Leon"/>
+    <imas:Called xml:lang="ja">玲音さん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Aya_Shika">
+    <imas:Source rdf:resource="Aya"/>
+    <imas:Destination rdf:resource="Shika"/>
+    <imas:Called xml:lang="ja">詩花さん</imas:Called>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Shika_Leon">
+    <imas:Source rdf:resource="Shika"/>
+    <imas:Destination rdf:resource="Leon"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Shika_Aya">
+    <imas:Source rdf:resource="Shika"/>
+    <imas:Destination rdf:resource="Aya"/>
+    <imas:Called xml:lang="ja">詩花ちゃん</imas:Called>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#CallName"/>
   </rdf:Description>
 <!-- KodamaPro -->
