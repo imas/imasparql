@@ -62,6 +62,8 @@
     <imas:Whose rdf:resource="Abe_Nana"/>
     <imas:Whose rdf:resource="Kanzaki_Ranko"/>
     <imas:Whose rdf:resource="Ninomiya_Asuka"/>
+    <imas:Whose rdf:resource="Mizumoto_Yukari"/>
+    <imas:Whose rdf:resource="Yuuki_Haru"/>
     <imas:Whose rdf:resource="Kasuga_Mirai"/>
     <imas:Whose rdf:resource="Mogami_Shizuka"/>
     <imas:Whose rdf:resource="Ibuki_Tsubasa"/>
@@ -81,6 +83,7 @@
     <imas:Whose rdf:resource="Baba_Konomi"/>
     <imas:Whose rdf:resource="Hakozaki_Serika"/>
     <imas:Whose rdf:resource="Maihama_Ayumu"/>
+    <imas:Whose rdf:resource="Sakuramori_Kaori"/>
     <imas:Whose rdf:resource="Amagase_Toma"/>
     <imas:Whose rdf:resource="Ijuin_Hokuto"/>
     <imas:Whose rdf:resource="Mitarai_Shota"/>
@@ -111,6 +114,9 @@
     <imas:Whose rdf:resource="Hanamura_Shoma"/>
     <imas:Whose rdf:resource="Watanabe_Minori"/>
     <imas:Whose rdf:resource="Asselin_BB_2"/>
+    <imas:Whose rdf:resource="Fuyumi_Jun"/>
+    <imas:Whose rdf:resource="Aoi_Kyosuke"/>
+    <imas:Whose rdf:resource="Aoi_Yusuke"/>
     <imas:Whose rdf:resource="Sakuragi_Mano"/>
     <imas:Whose rdf:resource="Kazano_Hiori"/>
     <imas:Whose rdf:resource="Hachimiya_Meguru"/>
@@ -124,9 +130,6 @@
     <imas:Whose rdf:resource="Yukoku_Kiriko"/>
     <imas:Whose rdf:resource="Morino_Rinze"/>
     <imas:Whose rdf:resource="Mitsumine_Yuika"/>
-    <imas:Whose rdf:resource="Mizumoto_Yukari"/>
-    <imas:Whose rdf:resource="Sakuramori_Kaori"/>
-    <imas:Whose rdf:resource="Fuyumi_Jun"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
 <!--765AS-->
@@ -488,6 +491,20 @@
     <imas:Whose rdf:resource="Ninomiya_Asuka"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
+  <rdf:Description rdf:about="Allegretto_Heart">
+    <schema:name xml:lang="ja">アレグレットハート</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">アレグレットハート</rdfs:label>
+    <schema:description xml:lang="ja"></schema:description>
+    <imas:Whose rdf:resource="Mizumoto_Yukari"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Blast_Striker">
+    <schema:name xml:lang="ja">ブラストストライカー</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ブラストストライカー</rdfs:label>
+    <schema:description xml:lang="ja"></schema:description>
+    <imas:Whose rdf:resource="Yuuki_Haru"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
 <!--MillionLive-->
   <rdf:Description rdf:about="Step_Future">
     <schema:name xml:lang="ja">ステップフューチャー</schema:name>
@@ -622,6 +639,14 @@
     <imas:Whose rdf:resource="Maihama_Ayumu"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
+  <rdf:Description rdf:about="Hamming_Notes">
+    <schema:name xml:lang="ja">ハミングノーツ</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ハミングノーツ</rdfs:label>
+    <schema:description xml:lang="ja"></schema:description>
+    <imas:Whose rdf:resource="Sakuramori_Kaori"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+
 <!--sideM-->
   <rdf:Description rdf:about="Majesty_Anima">
     <schema:name xml:lang="ja">マジェスティアニマ</schema:name>
@@ -831,6 +856,27 @@
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">黄昏のアペリティフ</rdfs:label>
     <schema:description xml:lang="ja"></schema:description>
     <imas:Whose rdf:resource="Asselin_BB_2"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Glissando_Rise">
+    <schema:name xml:lang="ja">グリッサンドライズ</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">グリッサンドライズ</rdfs:label>
+    <schema:description xml:lang="ja"></schema:description>
+    <imas:Whose rdf:resource="Fuyumi_Jun"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Gemini_Superstar">
+    <schema:name xml:lang="ja">ジェミニスーパースター</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ジェミニスーパースター</rdfs:label>
+    <schema:description xml:lang="ja"></schema:description>
+    <imas:Whose rdf:resource="Aoi_Kyosuke"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Gemini_Fantasista">
+    <schema:name xml:lang="ja">ジェミニファンタジスタ</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ジェミニファンタジスタ</rdfs:label>
+    <schema:description xml:lang="ja"></schema:description>
+    <imas:Whose rdf:resource="Aoi_Yusuke"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
 <!--ShinyColors-->
