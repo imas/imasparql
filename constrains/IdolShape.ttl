@@ -352,4 +352,24 @@ imas-shape:IdolShape a sh:NodeShape;
             "専門学校3年生"@ja
         );
     ];
+    sh:property [
+        rdfs:label "CVの制約";
+        sh:path imas:cv;
+        sh:or (
+            [
+                sh:datatype rdf:langString;
+                sh:languageIn ("ja");
+                sh:maxCount 1;
+            ]
+            [
+                sh:nodeKind sh:IRI;
+            ]
+        );
+    ];
+    sh:property [
+        rdfs:label "アイドル名鑑のURLの制約";
+        sh:path imas:IdolListURL;
+        sh:nodeKind sh:IRI;
+        sh:maxCount 1;
+    ];
     sh:closed false.
