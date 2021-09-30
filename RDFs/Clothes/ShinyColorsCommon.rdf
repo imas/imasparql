@@ -474,6 +474,20 @@
     <schema:description xml:lang="ja">水色ジャージ。ポケットのお菓子も跳ねる</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
+  <rdf:Description rdf:about="Jogging_Suits_NanakusaNichika">
+    <schema:name xml:lang="ja">ジャージ</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ジャージ</rdfs:label>
+    <imas:Whose rdf:resource="Nanakusa_Nichika"/>
+    <schema:description xml:lang="ja">水色ジャージ。おろしたての匂い</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Jogging_Suits_AketaMikoto">
+    <schema:name xml:lang="ja">ジャージ</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ジャージ</rdfs:label>
+    <imas:Whose rdf:resource="Aketa_Mikoto"/>
+    <schema:description xml:lang="ja">水色ジャージ。as usual</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
   <!-- ミッドナイトモンスター -->
   <rdf:Description rdf:about="MidnightMonster_SakuragiMano">
     <schema:name xml:lang="ja">ミッドナイトモンスター</schema:name>
