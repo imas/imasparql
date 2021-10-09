@@ -10,23 +10,23 @@ PREFIX sh: <http://www.w3.org/ns/shacl#>
 imas-shape:ClothesShape a sh:NodeShape;
     sh:targetClass imas:Clothes;
     sh:property [
-        rdfs:label "衣装の名前の制約";
-        rdfs:comment "少なくとも１つ存在する、各言語に一つ説明が存在する";
+        sh:name "衣装の名前の制約";
+        sh:description "少なくとも１つ存在する、各言語に一つ説明が存在する";
         sh:path schema:name;
         sh:datatype rdf:langString;
         sh:uniqueLang true;
         sh:minCount 1;
     ];
     sh:property [
-        rdfs:label "衣装の説明の制約";
-        rdfs:comment "各言語に一つ説明が存在する";
+        sh:name "衣装の説明の制約";
+        sh:description "各言語に一つ説明が存在する";
         sh:path schema:description;
         sh:datatype rdf:langString;
         sh:uniqueLang true;
     ];
     sh:property [
-        rdfs:label "衣装を着ているアイドルの制約";
-        rdfs:comment "少なくとも一つ存在する";
+        sh:name "衣装を着ているアイドルの制約";
+        sh:description "少なくとも一つ存在する";
         sh:path imas:Whose;
         sh:class imas:Idol;
         sh:minCount 1;
