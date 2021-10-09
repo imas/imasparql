@@ -36,7 +36,7 @@ imas-shape:IdolShape a sh:NodeShape;
     sh:property [
         sh:name "アイドルのプロフィール等に書かれている名前の制約";
         sh:description "絶対に一つだけ存在する(maxCount 1, minCount 1)、ロコはロコであって伴田路子ではない";
-        sh:path sh:name;
+        sh:path rdfs:label;
         sh:datatype xsd:string;
         sh:minCount 1;
         sh:maxCount 1;

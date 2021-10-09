@@ -12,7 +12,7 @@ imas-shape:UnitShape a sh:NodeShape;
     sh:property [
         sh:name "ユニットの名前の制約";
         sh:description "絶対に一つだけ存在する(maxCount 1, minCount 1)";
-        sh:path sh:name;
+        sh:path rdfs:label;
         sh:datatype xsd:string;
         sh:minCount 1;
         sh:maxCount 1;
