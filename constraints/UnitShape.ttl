@@ -31,7 +31,7 @@ imas-shape:UnitShape a sh:NodeShape;
         sh:datatype xsd:string;
     ];
     sh:property [
-        sh:name "所属アイドルの成約";
+        sh:name "所属アイドルの制約";
         sh:description "目的語はimas:Idol、必ず一つは存在する";
         sh:path schema:member;
         sh:class imas:Idol;
