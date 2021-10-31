@@ -673,6 +673,10 @@
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Brand xml:lang="en">ShinyColors</imas:Brand>
     <schema:memberOf rdf:resource="283Production"/>
+    <imas:PopLinksAttribute xml:lang="en">dream</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="ja">夢</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="en">rainbow</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="ja">虹</imas:PopLinksAttribute>
     <schema:description xml:lang="ja">クラスに一人はいるごく普通の女の子。明るく親しみやすい性格で、甘いものが大好き。名前にちなんで、チョコ好きアイドルを売りにしている。高校2年生。</schema:description>
     <imas:SchoolGrade xml:lang="ja">高校2年生</imas:SchoolGrade>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
