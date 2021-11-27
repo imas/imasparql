@@ -349,6 +349,10 @@
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</schema:gender>
     <imas:Brand xml:lang="en">SideM</imas:Brand>
     <schema:memberOf rdf:resource="315Production"/>
+    <imas:PopLinksAttribute xml:lang="en">sky</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="ja">空</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="en">dream</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="ja">夢</imas:PopLinksAttribute>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/40030"/>
   </rdf:Description>
