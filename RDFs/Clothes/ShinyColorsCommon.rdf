@@ -840,6 +840,20 @@
     <schema:description xml:lang="ja">メリークリスマス！欲しい物は、全部欲しい</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
+  <rdf:Description rdf:about="HolyNightCape_NanakusaNichika">
+    <schema:name xml:lang="ja">ホーリーナイトケープ</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ホーリーナイトケープ</rdfs:label>
+    <imas:Whose rdf:resource="Nanakusa_Nichika"/>
+    <schema:description xml:lang="ja">メリークリスマス！クリスマスのばかやろ</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="HolyNightCape_AketaMikoto">
+    <schema:name xml:lang="ja">ホーリーナイトケープ</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ホーリーナイトケープ</rdfs:label>
+    <imas:Whose rdf:resource="Aketa_Mikoto"/>
+    <schema:description xml:lang="ja">メリークリスマス！Winter wishes</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
   <!-- ファッショナブルサマー -->
   <rdf:Description rdf:about="FashionableSummer_SakuragiMano">
     <schema:name xml:lang="ja">ファッショナブルサマー</schema:name>
