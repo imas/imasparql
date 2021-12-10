@@ -125,6 +125,28 @@
     <schema:description xml:lang="ja">星ときみと、未来を唄う</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
+  <rdf:Description rdf:about="BytodayRestaurant_SakuragiMano">
+    <schema:name xml:lang="ja">バイトゥデイレストラント</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">バイトゥデイレストラント</rdfs:label>
+    <imas:Whose rdf:resource="Sakuragi_Mano"/>
+    <schema:description xml:lang="ja">いらっしゃいませ、輝ける場所へ</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="BytodayRestaurant_KazanoHiori">
+    <schema:name xml:lang="ja">バイトゥデイレストラント</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">バイトゥデイレストラント</rdfs:label>
+    <imas:Whose rdf:resource="Kazano_Hiori"/>
+    <schema:description xml:lang="ja">オーダーはお決まりですか？</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="BytodayRestaurant_HachimiyaMeguru">
+    <schema:name xml:lang="ja">バイトゥデイレストラント</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">バイトゥデイレストラント</rdfs:label>
+    <imas:Whose rdf:resource="Hachimiya_Meguru"/>
+    <schema:description xml:lang="ja">トレイ捌きはお任せ♪</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+
   <!-- L'Antica -->
   <rdf:Description rdf:about="Symphonic_Steam">
     <schema:name xml:lang="ja">シンフォニックスチーム</schema:name>
