@@ -738,6 +738,28 @@
     <imas:Whose rdf:resource="Izumi_Mei"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
+  <rdf:Description rdf:about="FreesideJK_SerizawaAsahi">
+    <schema:name xml:lang="ja">フリーサイドジェイケー</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">フリーサイドジェイケー</rdfs:label>
+    <imas:Whose rdf:resource="Serizawa_Asahi"/>
+    <schema:description xml:lang="ja">サイキョーの仲間入り！</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="FreesideJK_MayuzumiFuyuko">
+    <schema:name xml:lang="ja">フリーサイドジェイケー</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">フリーサイドジェイケー</rdfs:label>
+    <imas:Whose rdf:resource="Mayuzumi_Fuyuko"/>
+    <schema:description xml:lang="ja">この手のカワイイだって余裕</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="FreesideJK_IzumiMei">
+    <schema:name xml:lang="ja">フリーサイドジェイケー</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">フリーサイドジェイケー</rdfs:label>
+    <imas:Whose rdf:resource="Izumi_Mei"/>
+    <schema:description xml:lang="ja">ちょーハンパない系のうちら♪</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+
   <!-- noctchill -->
   <rdf:Description rdf:about="Clear_Marine_Calm">
     <schema:name xml:lang="ja">クリアマリンカーム</schema:name>
