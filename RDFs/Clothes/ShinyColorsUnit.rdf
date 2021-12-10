@@ -494,6 +494,42 @@
     <imas:Whose rdf:resource="Sonoda_Chiyoko"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
+  <rdf:Description rdf:about="KissaClimaxSeifuku_KomiyaKaho">
+    <schema:name xml:lang="ja">喫茶くらいまっくす制服</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">喫茶くらいまっくす制服</rdfs:label>
+    <imas:Whose rdf:resource="Komiya_Kaho"/>
+    <schema:description xml:lang="ja">おやつは手作りケーキで</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="KissaClimaxSeifuku_SonodaChiyoko">
+    <schema:name xml:lang="ja">喫茶くらいまっくす制服</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">喫茶くらいまっくす制服</rdfs:label>
+    <imas:Whose rdf:resource="Sonoda_Chiyoko"/>
+    <schema:description xml:lang="ja">樹里ちゃん直伝の極意を武器に</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="KissaClimaxSeifuku_SaijoJuri">
+    <schema:name xml:lang="ja">喫茶くらいまっくす制服</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">喫茶くらいまっくす制服</rdfs:label>
+    <imas:Whose rdf:resource="Saijo_Juri"/>
+    <schema:description xml:lang="ja">筋書き通りにはいかないもの</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="KissaClimaxSeifuku_MorinoRinze">
+    <schema:name xml:lang="ja">喫茶くらいまっくす制服</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">喫茶くらいまっくす制服</rdfs:label>
+    <imas:Whose rdf:resource="Morino_Rinze"/>
+    <schema:description xml:lang="ja">純情完売。</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="KissaClimaxSeifuku_ArisugawaNatsuha">
+    <schema:name xml:lang="ja">喫茶くらいまっくす制服</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">喫茶くらいまっくす制服</rdfs:label>
+    <imas:Whose rdf:resource="Arisugawa_Natsuha"/>
+    <schema:description xml:lang="ja">紅茶に檸檬を添えて</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+
   <!-- ALSTROEMERIA -->
   <rdf:Description rdf:about="Wishful_Lily">
     <schema:name xml:lang="ja">ウィッシュフルリリー</schema:name>
