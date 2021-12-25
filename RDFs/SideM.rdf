@@ -1780,8 +1780,8 @@
     <!-- <imas:ShoeSize rdf:datatype="http://www.w3.org/2001/XMLSchema#float"></imas:ShoeSize> -->
     <!-- <imas:Category xml:lang="ja"></imas:Category> -->
     <imas:cv xml:lang="ja">伊瀬結陸</imas:cv>
-    <!-- <imas:cv rdf:resource="http://ja.dbpedia.org/resource/伊瀬結陸"/> -->
-    <!-- <imas:cv rdf:resource="http://www.wikidata.org/entity/"/> -->
+    <imas:cv rdf:resource="http://ja.dbpedia.org/resource/伊瀬結陸"/>
+    <imas:cv rdf:resource="http://www.wikidata.org/entity/Q108390594"/>
     <imas:Hobby xml:lang="ja">音楽</imas:Hobby>
     <imas:Hobby xml:lang="ja">アニメ</imas:Hobby>
     <imas:Hobby xml:lang="ja">情報収集</imas:Hobby>
@@ -1791,7 +1791,7 @@
     <imas:Brand xml:lang="en">SideM</imas:Brand>
     <schema:memberOf rdf:resource="315Production"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
-    <!-- <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail"/> -->
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/250001"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Hanazono_Momohito">
@@ -1817,7 +1817,7 @@
     <!-- <imas:Category xml:lang="ja"></imas:Category> -->
     <imas:cv xml:lang="ja">宮﨑雅也</imas:cv>
     <!-- <imas:cv rdf:resource="http://ja.dbpedia.org/resource/宮﨑雅也"/> -->
-    <!-- <imas:cv rdf:resource="http://www.wikidata.org/entity/"/> -->
+    <imas:cv rdf:resource="http://www.wikidata.org/entity/Q108390543"/>
     <imas:Hobby xml:lang="ja">なし</imas:Hobby>
     <imas:Talent xml:lang="ja">人に愛されること❤</imas:Talent>
     <!-- <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"></imas:Color> -->
@@ -1825,7 +1825,7 @@
     <imas:Brand xml:lang="en">SideM</imas:Brand>
     <schema:memberOf rdf:resource="315Production"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
-    <!-- <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail"/> -->
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/250002"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Mayumi_Eishin">
@@ -1859,6 +1859,6 @@
     <imas:Brand xml:lang="en">SideM</imas:Brand>
     <schema:memberOf rdf:resource="315Production"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
-    <!-- <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail"/> -->
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/250003"/>
   </rdf:Description>
 </rdf:RDF>
