@@ -1042,6 +1042,10 @@
     <schema:memberOf rdf:resource="765Production"/>
     <schema:birthPlace xml:lang="ja">東京</schema:birthPlace>
     <imas:Division xml:lang="en">Fairy</imas:Division>
+    <imas:PopLinksAttribute xml:lang="en">moon</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="ja">月</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="en">heaven</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="ja">天</imas:PopLinksAttribute>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/30025"/>
   </rdf:Description>

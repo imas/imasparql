@@ -551,6 +551,10 @@
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Brand xml:lang="en">ShinyColors</imas:Brand>
     <schema:memberOf rdf:resource="283Production"/>
+    <imas:PopLinksAttribute xml:lang="en">rainbow</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="ja">虹</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="en">thunder</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="ja">雷</imas:PopLinksAttribute>
     <schema:description xml:lang="ja">ボーイッシュでクールな女の子。言葉遣いが乱暴なので人に怖がられることが多いが、根は純情で、素直になれないタイプ。高校2年生。</schema:description>
     <imas:SchoolGrade xml:lang="ja">高校2年生</imas:SchoolGrade>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
