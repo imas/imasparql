@@ -916,6 +916,10 @@
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Brand xml:lang="en">ShinyColors</imas:Brand>
     <schema:memberOf rdf:resource="283Production"/>
+    <imas:PopLinksAttribute xml:lang="en">rainbow</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="ja">虹</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="en">ocean</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="ja">海</imas:PopLinksAttribute>
     <schema:description xml:lang="ja">内弁慶な小動物系の女の子。真面目な努力家で、勉強が得意。騙されやすく、幼なじみによくからかわれている。高校1年生。</schema:description>
     <imas:SchoolGrade xml:lang="ja">高校1年生</imas:SchoolGrade>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>

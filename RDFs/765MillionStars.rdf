@@ -1493,6 +1493,10 @@
     <schema:memberOf rdf:resource="765Production"/>
     <schema:birthPlace xml:lang="ja">東京</schema:birthPlace>
     <imas:Division xml:lang="en">Fairy</imas:Division>
+    <imas:PopLinksAttribute xml:lang="en">sky</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="ja">空</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="en">dream</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="ja">夢</imas:PopLinksAttribute>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <imas:SchoolGrade xml:lang="ja">小学5年生</imas:SchoolGrade>
     <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/30015"/>
