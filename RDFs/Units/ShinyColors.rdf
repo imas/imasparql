@@ -9,6 +9,7 @@
   <rdf:Description rdf:about="illuminationSTARS">
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">illuminationSTARS</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">illuminationSTARS</rdfs:label>
+    <imas:nameKana xml:lang="ja">いるみねーしょんすたーず</imas:nameKana>
     <schema:member rdf:resource="Sakuragi_Mano"/>
     <schema:member rdf:resource="Hachimiya_Meguru"/>
     <schema:member rdf:resource="Kazano_Hiori"/>
@@ -19,6 +20,7 @@
   <rdf:Description rdf:about="L%27Antica">
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">L'Antica</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">L'Antica</rdfs:label>
+    <imas:nameKana xml:lang="ja">あんてぃーか</imas:nameKana>
     <schema:member rdf:resource="Tsukioka_Kogane"/>
     <schema:member rdf:resource="Mitsumine_Yuika"/>
     <schema:member rdf:resource="Tanaka_Mamimi"/>
@@ -31,6 +33,7 @@
   <rdf:Description rdf:about="ALSTROEMERIA">
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ALSTROEMERIA</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ALSTROEMERIA</rdfs:label>
+    <imas:nameKana xml:lang="ja">あるすとろめりあ</imas:nameKana>
     <schema:member rdf:resource="Kuwayama_Chiyuki"/>
     <schema:member rdf:resource="Osaki_Tenka"/>
     <schema:member rdf:resource="Osaki_Amana"/>
@@ -41,6 +44,7 @@
   <rdf:Description rdf:about="%E6%94%BE%E8%AA%B2%E5%BE%8C%E3%82%AF%E3%83%A9%E3%82%A4%E3%83%9E%E3%83%83%E3%82%AF%E3%82%B9%E3%82%AC%E3%83%BC%E3%83%AB%E3%82%BA">
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">放課後クライマックスガールズ</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">放課後クライマックスガールズ</rdfs:label>
+    <imas:nameKana xml:lang="ja">ほうかごくらいまっくすがーるず</imas:nameKana>
     <schema:member rdf:resource="Komiya_Kaho"/>
     <schema:member rdf:resource="Saijo_Juri"/>
     <schema:member rdf:resource="Arisugawa_Natsuha"/>
@@ -53,6 +57,7 @@
   <rdf:Description rdf:about="Straylight">
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Straylight</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Straylight</rdfs:label>
+    <imas:nameKana xml:lang="ja">すとれいらいと</imas:nameKana>
     <schema:member rdf:resource="Mayuzumi_Fuyuko"/>
     <schema:member rdf:resource="Serizawa_Asahi"/>
     <schema:member rdf:resource="Izumi_Mei"/>
@@ -63,6 +68,7 @@
   <rdf:Description rdf:about="noctchill">
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">noctchill</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">noctchill</rdfs:label>
+    <imas:nameKana xml:lang="ja">のくちる</imas:nameKana>
     <schema:member rdf:resource="Asakura_Toru"/>
     <schema:member rdf:resource="Higuchi_Madoka"/>
     <schema:member rdf:resource="Fukumaru_Koito"/>
@@ -74,6 +80,7 @@
   <rdf:Description rdf:about="SHHis">
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SHHis</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SHHis</rdfs:label>
+    <imas:nameKana xml:lang="ja">しーず</imas:nameKana>
     <schema:member rdf:resource="Nanakusa_Nichika"/>
     <schema:member rdf:resource="Aketa_Mikoto"/>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">1C8971</imas:Color>
@@ -83,6 +90,7 @@
   <rdf:Description rdf:about="Team%2EStella">
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Team.Stella</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Team.Stella</rdfs:label>
+    <imas:nameKana xml:lang="ja">ちーむ すてら</imas:nameKana>
     <schema:member rdf:resource="Sakuragi_Mano"/>
     <schema:member rdf:resource="Tsukioka_Kogane"/>
     <schema:member rdf:resource="Komiya_Kaho"/>
@@ -96,6 +104,7 @@
   <rdf:Description rdf:about="Team%2ELuna">
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Team.Luna</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Team.Luna</rdfs:label>
+    <imas:nameKana xml:lang="ja">ちーむ るな</imas:nameKana>
     <schema:member rdf:resource="Kazano_Hiori"/>
     <schema:member rdf:resource="Tanaka_Mamimi"/>
     <schema:member rdf:resource="Mitsumine_Yuika"/>
@@ -109,6 +118,7 @@
   <rdf:Description rdf:about="Team%2ESol">
     <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Team.Sol</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Team.Sol</rdfs:label>
+    <imas:nameKana xml:lang="ja">ちーむ そる</imas:nameKana>
     <schema:member rdf:resource="Hachimiya_Meguru"/>
     <schema:member rdf:resource="Shirase_Sakuya"/>
     <schema:member rdf:resource="Saijo_Juri"/>
