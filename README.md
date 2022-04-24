@@ -19,6 +19,15 @@ Fusekiでは、Configureの.ttlファイルにファイルを登録すること�
 みなさまのご意見や要望も募集しています。  
 [@croMisa](https://twitter.com/cromisa)へでも大丈夫です。
 
+# Source
+このDBは、アイドルマスターの各種コンテンツ及び以下のWebコンテンツを参考にしています。  
+
+- ニコニコ大百科
+- ピクシブ辞典
+- その他各種個人サイト
+
+アイドルマスター以外を情報元にする場合は、レビュー時に検索等で信憑性を測るものとします。
+
 # Special Thanks
 - [rdflint](https://imas.github.io/rdflint/) from [みかみんさん](https://github.com/takemikami)  
 - [SHACL](https://www.w3.org/TR/shacl/)の導入 from [きりだるまさん](https://github.com/kiridaruma)  
