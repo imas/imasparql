@@ -199,6 +199,20 @@
     <schema:description xml:lang="ja">ワンステップ。曇ってたら見えないでしょ？</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
+  <rdf:Description rdf:about="OvercastMonochrome_NanakusaNichika">
+    <schema:name xml:lang="ja">オーバーキャストモノクローム</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">オーバーキャストモノクローム</rdfs:label>
+    <imas:Whose rdf:resource="Nanakusa_Nichika"/>
+    <schema:description xml:lang="ja">ワンステップ。めちゃめちゃ灰色</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="OvercastMonochrome_AketaMikoto">
+    <schema:name xml:lang="ja">オーバーキャストモノクローム</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">オーバーキャストモノクローム</rdfs:label>
+    <imas:Whose rdf:resource="Aketa_Mikoto"/>
+    <schema:description xml:lang="ja">ワンステップ。Cloudy, fine later</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
   <!-- シャイニーサマー -->
   <rdf:Description rdf:about="ShinySummer_SakuragiMano">
     <schema:name xml:lang="ja">シャイニーサマー</schema:name>
@@ -474,6 +488,20 @@
     <schema:description xml:lang="ja">水色ジャージ。ポケットのお菓子も跳ねる</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
+  <rdf:Description rdf:about="Jogging_Suits_NanakusaNichika">
+    <schema:name xml:lang="ja">ジャージ</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ジャージ</rdfs:label>
+    <imas:Whose rdf:resource="Nanakusa_Nichika"/>
+    <schema:description xml:lang="ja">水色ジャージ。おろしたての匂い</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Jogging_Suits_AketaMikoto">
+    <schema:name xml:lang="ja">ジャージ</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ジャージ</rdfs:label>
+    <imas:Whose rdf:resource="Aketa_Mikoto"/>
+    <schema:description xml:lang="ja">水色ジャージ。as usual</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
   <!-- ミッドナイトモンスター -->
   <rdf:Description rdf:about="MidnightMonster_SakuragiMano">
     <schema:name xml:lang="ja">ミッドナイトモンスター</schema:name>
@@ -636,6 +664,20 @@
     <schema:description xml:lang="ja">トリック・オア・トリート！きみを食べたらどんな味？</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
+  <rdf:Description rdf:about="MidnightMonster_NanakusaNichika">
+    <schema:name xml:lang="ja">ミッドナイトモンスター</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ミッドナイトモンスター</rdfs:label>
+    <imas:Whose rdf:resource="Nanakusa_Nichika"/>
+    <schema:description xml:lang="ja">トリック・オア・トリート！駆ル狩ル刈ルキル</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="MidnightMonster_AketaMikoto">
+    <schema:name xml:lang="ja">ミッドナイトモンスター</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ミッドナイトモンスター</rdfs:label>
+    <imas:Whose rdf:resource="Aketa_Mikoto"/>
+    <schema:description xml:lang="ja">トリック・オア・トリート！Found you！</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
   <!-- ホーリーナイトケープ -->
   <rdf:Description rdf:about="HolyNightCape_SakuragiMano">
     <schema:name xml:lang="ja">ホーリーナイトケープ</schema:name>
@@ -796,6 +838,20 @@
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ホーリーナイトケープ</rdfs:label>
     <imas:Whose rdf:resource="Ichikawa_Hinana"/>
     <schema:description xml:lang="ja">メリークリスマス！欲しい物は、全部欲しい</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="HolyNightCape_NanakusaNichika">
+    <schema:name xml:lang="ja">ホーリーナイトケープ</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ホーリーナイトケープ</rdfs:label>
+    <imas:Whose rdf:resource="Nanakusa_Nichika"/>
+    <schema:description xml:lang="ja">メリークリスマス！クリスマスのばかやろ</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="HolyNightCape_AketaMikoto">
+    <schema:name xml:lang="ja">ホーリーナイトケープ</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ホーリーナイトケープ</rdfs:label>
+    <imas:Whose rdf:resource="Aketa_Mikoto"/>
+    <schema:description xml:lang="ja">メリークリスマス！Winter wishes</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
   <!-- ファッショナブルサマー -->
@@ -1574,6 +1630,13 @@
     <schema:description xml:lang="ja">ルームウェア。目を閉じたら星とお出かけ</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
+  <rdf:Description rdf:about="PrivateDressDown_MitsumineYuika">
+    <schema:name xml:lang="ja">プライベートドレスダウン</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">プライベートドレスダウン</rdfs:label>
+    <imas:Whose rdf:resource="Mitsumine_Yuika"/>
+    <schema:description xml:lang="ja">ルームウェア。ベッドを泳ぐIKA</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
   <rdf:Description rdf:about="PrivateDressDown_MorinoRinze">
     <schema:name xml:lang="ja">プライベートドレスダウン</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">プライベートドレスダウン</rdfs:label>
@@ -1588,11 +1651,102 @@
     <schema:description xml:lang="ja">ルームウェア。まんまるお団子☆ふわふわアイス</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
+  <rdf:Description rdf:about="PrivateDressDown_IzumiMei">
+    <schema:name xml:lang="ja">プライベートドレスダウン</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">プライベートドレスダウン</rdfs:label>
+    <imas:Whose rdf:resource="Izumi_Mei"/>
+    <schema:description xml:lang="ja">ルームウェア。冬はばーちゃん製腹巻をセットで</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
   <rdf:Description rdf:about="PrivateDressDown_AsakuraToru">
     <schema:name xml:lang="ja">プライベートドレスダウン</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">プライベートドレスダウン</rdfs:label>
     <imas:Whose rdf:resource="Asakura_Toru"/>
     <schema:description xml:lang="ja">ルームウェア。トオル、最後の戦い</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="PrivateDressDown_IchikawaHinana">
+    <schema:name xml:lang="ja">プライベートドレスダウン</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">プライベートドレスダウン</rdfs:label>
+    <imas:Whose rdf:resource="Ichikawa_Hinana"/>
+    <schema:description xml:lang="ja">ルームウェア。24♡7のかわいい</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="PrivateDressDown_AketaMikoto">
+    <schema:name xml:lang="ja">プライベートドレスダウン</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">プライベートドレスダウン</rdfs:label>
+    <imas:Whose rdf:resource="Aketa_Mikoto"/>
+    <schema:description xml:lang="ja">ルームウェア。wear and tear</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="PrivateDressDown_HachimiyaMeguru">
+    <schema:name xml:lang="ja">プライベートドレスダウン</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">プライベートドレスダウン</rdfs:label>
+    <imas:Whose rdf:resource="Hachimiya_Meguru"/>
+    <schema:description xml:lang="ja">ルームウェア。瞬発力オッケー！</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="PrivateDressDown_KomiyaKaho">
+    <schema:name xml:lang="ja">プライベートドレスダウン</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">プライベートドレスダウン</rdfs:label>
+    <imas:Whose rdf:resource="Komiya_Kaho"/>
+    <schema:description xml:lang="ja">ルームウェア。小宮家のヒーロー</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="PrivateDressDown_TsukiokaKogane">
+    <schema:name xml:lang="ja">プライベートドレスダウン</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">プライベートドレスダウン</rdfs:label>
+    <imas:Whose rdf:resource="Tsukioka_Kogane"/>
+    <schema:description xml:lang="ja">ルームウェア。夢で逢っても焦らない</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="PrivateDressDown_OsakiTenka">
+    <schema:name xml:lang="ja">プライベートドレスダウン</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">プライベートドレスダウン</rdfs:label>
+    <imas:Whose rdf:resource="Osaki_Tenka"/>
+    <schema:description xml:lang="ja">ルームウェア。閉店時の正装</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="PrivateDressDown_SaijoJuri">
+    <schema:name xml:lang="ja">プライベートドレスダウン</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">プライベートドレスダウン</rdfs:label>
+    <imas:Whose rdf:resource="Saijo_Juri"/>
+    <schema:description xml:lang="ja">ルームウェア。動きやすさに勝るものはなし</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="PrivateDressDown_SerizawaAsahi">
+    <schema:name xml:lang="ja">プライベートドレスダウン</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">プライベートドレスダウン</rdfs:label>
+    <imas:Whose rdf:resource="Serizawa_Asahi"/>
+    <schema:description xml:lang="ja">ルームウェア。求ム。夢ノ記録装置</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="PrivateDressDown_YukokuKiriko">
+    <schema:name xml:lang="ja">プライベートドレスダウン</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">プライベートドレスダウン</rdfs:label>
+    <imas:Whose rdf:resource="Yukoku_Kiriko"/>
+    <schema:description xml:lang="ja">ルームウェア。ポリエステル100、モエヤスシ</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="PrivateDressDown_SonodaChiyoko">
+    <schema:name xml:lang="ja">プライベートドレスダウン</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">プライベートドレスダウン</rdfs:label>
+    <imas:Whose rdf:resource="Sonoda_Chiyoko"/>
+    <schema:description xml:lang="ja">ルームウェア。寝る時も美味しそうであるべき</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="PrivateDressDown_KuwayamaChiyuki">
+    <schema:name xml:lang="ja">プライベートドレスダウン</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">プライベートドレスダウン</rdfs:label>
+    <imas:Whose rdf:resource="Kuwayama_Chiyuki"/>
+    <schema:description xml:lang="ja">ルームウェア。夢の岸辺に泳ぎつくための——</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="PrivateDressDown_FukumaruKoito">
+    <schema:name xml:lang="ja">プライベートドレスダウン</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">プライベートドレスダウン</rdfs:label>
+    <imas:Whose rdf:resource="Fukumaru_Koito"/>
+    <schema:description xml:lang="ja">ルームウェア。おなかのシャツをいれておやすみ</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
   <!-- ファウンテンサマー -->
@@ -1769,6 +1923,211 @@
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ファウンテンサマー</rdfs:label>
     <imas:Whose rdf:resource="Aketa_Mikoto"/>
     <schema:description xml:lang="ja">スプラッシュ！soak up the rays</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <!-- ドレスアップパルファム -->
+  <rdf:Description rdf:about="DressUpParfum_SakuragiMano">
+    <schema:name xml:lang="ja">ドレスアップパルファム</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ドレスアップパルファム</rdfs:label>
+    <imas:Whose rdf:resource="Sakuragi_Mano"/>
+    <schema:description xml:lang="ja">Cheers! 泡沫の間の輝き</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="DressUpParfum_KazanoHiori">
+    <schema:name xml:lang="ja">ドレスアップパルファム</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ドレスアップパルファム</rdfs:label>
+    <imas:Whose rdf:resource="Kazano_Hiori"/>
+    <schema:description xml:lang="ja">Cheers! 掌にきらめき</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="DressUpParfum_HachimiyaMeguru">
+    <schema:name xml:lang="ja">ドレスアップパルファム</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ドレスアップパルファム</rdfs:label>
+    <imas:Whose rdf:resource="Hachimiya_Meguru"/>
+    <schema:description xml:lang="ja">Cheers! キラキラ　キラキラ　ゆらめく</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="DressUpParfum_TsukiokaKogane">
+    <schema:name xml:lang="ja">ドレスアップパルファム</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ドレスアップパルファム</rdfs:label>
+    <imas:Whose rdf:resource="Tsukioka_Kogane"/>
+    <schema:description xml:lang="ja">Cheers! 煌めけ、かなめの黄金</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <!-- セレスティアルカラーズ -->
+  <rdf:Description rdf:about="CelestialColors_SakuragiMano">
+    <schema:name xml:lang="ja">セレスティアルカラーズ</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">セレスティアルカラーズ</rdfs:label>
+    <imas:Whose rdf:resource="Sakuragi_Mano"/>
+    <schema:description xml:lang="ja">#Shiny いくつもの可能性を繋ぎ照らす</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CelestialColors_KazanoHiori">
+    <schema:name xml:lang="ja">セレスティアルカラーズ</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">セレスティアルカラーズ</rdfs:label>
+    <imas:Whose rdf:resource="Kazano_Hiori"/>
+    <schema:description xml:lang="ja">#Shiny もっと、もっと遠くへ</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CelestialColors_HachimiyaMeguru">
+    <schema:name xml:lang="ja">セレスティアルカラーズ</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">セレスティアルカラーズ</rdfs:label>
+    <imas:Whose rdf:resource="Hachimiya_Meguru"/>
+    <schema:description xml:lang="ja">#Shiny きらきらをたくさん抱えていこう</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CelestialColors_TsukiokaKogane">
+    <schema:name xml:lang="ja">セレスティアルカラーズ</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">セレスティアルカラーズ</rdfs:label>
+    <imas:Whose rdf:resource="Tsukioka_Kogane"/>
+    <schema:description xml:lang="ja">#Shiny 繋いだ光、灯点し頃</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CelestialColors_TanakaMamimi">
+    <schema:name xml:lang="ja">セレスティアルカラーズ</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">セレスティアルカラーズ</rdfs:label>
+    <imas:Whose rdf:resource="Tanaka_Mamimi"/>
+    <schema:description xml:lang="ja">#Shiny パラレル上等</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CelestialColors_ShiraseSakuya">
+    <schema:name xml:lang="ja">セレスティアルカラーズ</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">セレスティアルカラーズ</rdfs:label>
+    <imas:Whose rdf:resource="Shirase_Sakuya"/>
+    <schema:description xml:lang="ja">#Shiny 違う空の下へだって</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CelestialColors_MitsumineYuika">
+    <schema:name xml:lang="ja">セレスティアルカラーズ</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">セレスティアルカラーズ</rdfs:label>
+    <imas:Whose rdf:resource="Mitsumine_Yuika"/>
+    <schema:description xml:lang="ja">#Shiny どの世界の私より幸せ</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CelestialColors_YukokuKiriko">
+    <schema:name xml:lang="ja">セレスティアルカラーズ</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">セレスティアルカラーズ</rdfs:label>
+    <imas:Whose rdf:resource="Yukoku_Kiriko"/>
+    <schema:description xml:lang="ja">#Shiny おまえが虹と約束した頃</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CelestialColors_KomiyaKaho">
+    <schema:name xml:lang="ja">セレスティアルカラーズ</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">セレスティアルカラーズ</rdfs:label>
+    <imas:Whose rdf:resource="Komiya_Kaho"/>
+    <schema:description xml:lang="ja">#Shiny たくさんの色は、嬉しい</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CelestialColors_SonodaChiyoko">
+    <schema:name xml:lang="ja">セレスティアルカラーズ</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">セレスティアルカラーズ</rdfs:label>
+    <imas:Whose rdf:resource="Sonoda_Chiyoko"/>
+    <schema:description xml:lang="ja">#Shiny プレートがあるので慎重に着る</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CelestialColors_SaijoJuri">
+    <schema:name xml:lang="ja">セレスティアルカラーズ</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">セレスティアルカラーズ</rdfs:label>
+    <imas:Whose rdf:resource="Saijo_Juri"/>
+    <schema:description xml:lang="ja">#Shiny 鼓動、乱反射して</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CelestialColors_MorinoRinze">
+    <schema:name xml:lang="ja">セレスティアルカラーズ</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">セレスティアルカラーズ</rdfs:label>
+    <imas:Whose rdf:resource="Morino_Rinze"/>
+    <schema:description xml:lang="ja">#Shiny 夢の尾ぞ長き</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CelestialColors_ArisugawaNatsuha">
+    <schema:name xml:lang="ja">セレスティアルカラーズ</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">セレスティアルカラーズ</rdfs:label>
+    <imas:Whose rdf:resource="Arisugawa_Natsuha"/>
+    <schema:description xml:lang="ja">#Shiny 誓えますか</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CelestialColors_OsakiAmana">
+    <schema:name xml:lang="ja">セレスティアルカラーズ</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">セレスティアルカラーズ</rdfs:label>
+    <imas:Whose rdf:resource="Osaki_Amana"/>
+    <schema:description xml:lang="ja">#Shiny キミとだからここまで来れた</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CelestialColors_OsakiTenka">
+    <schema:name xml:lang="ja">セレスティアルカラーズ</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">セレスティアルカラーズ</rdfs:label>
+    <imas:Whose rdf:resource="Osaki_Tenka"/>
+    <schema:description xml:lang="ja">#Shiny With you, you, you</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CelestialColors_KuwayamaChiyuki">
+    <schema:name xml:lang="ja">セレスティアルカラーズ</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">セレスティアルカラーズ</rdfs:label>
+    <imas:Whose rdf:resource="Kuwayama_Chiyuki"/>
+    <schema:description xml:lang="ja">#Shiny かかとを鳴らせ、虹の彼方へ</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CelestialColors_SerizawaAsahi">
+    <schema:name xml:lang="ja">セレスティアルカラーズ</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">セレスティアルカラーズ</rdfs:label>
+    <imas:Whose rdf:resource="Serizawa_Asahi"/>
+    <schema:description xml:lang="ja">#Shiny 空にカケラをばらまいて</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CelestialColors_MayuzumiFuyuko">
+    <schema:name xml:lang="ja">セレスティアルカラーズ</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">セレスティアルカラーズ</rdfs:label>
+    <imas:Whose rdf:resource="Mayuzumi_Fuyuko"/>
+    <schema:description xml:lang="ja">#Shiny 越えていくに決まってる</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CelestialColors_IzumiMei">
+    <schema:name xml:lang="ja">セレスティアルカラーズ</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">セレスティアルカラーズ</rdfs:label>
+    <imas:Whose rdf:resource="Izumi_Mei"/>
+    <schema:description xml:lang="ja">#Shiny 見ていて、今の、うちとあたし</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CelestialColors_AsakuraToru">
+    <schema:name xml:lang="ja">セレスティアルカラーズ</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">セレスティアルカラーズ</rdfs:label>
+    <imas:Whose rdf:resource="Asakura_Toru"/>
+    <schema:description xml:lang="ja">#Shiny 心臓は、ここ</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CelestialColors_HiguchiMadoka">
+    <schema:name xml:lang="ja">セレスティアルカラーズ</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">セレスティアルカラーズ</rdfs:label>
+    <imas:Whose rdf:resource="Higuchi_Madoka"/>
+    <schema:description xml:lang="ja">#Shiny 魂を削り出すように</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CelestialColors_FukumaruKoito">
+    <schema:name xml:lang="ja">セレスティアルカラーズ</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">セレスティアルカラーズ</rdfs:label>
+    <imas:Whose rdf:resource="Fukumaru_Koito"/>
+    <schema:description xml:lang="ja">#Shiny 飛べなくても、わたしは</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CelestialColors_IchikawaHinana">
+    <schema:name xml:lang="ja">セレスティアルカラーズ</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">セレスティアルカラーズ</rdfs:label>
+    <imas:Whose rdf:resource="Ichikawa_Hinana"/>
+    <schema:description xml:lang="ja">#Shiny 海はどこで終わるの？</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CelestialColors_NanakusaNichika">
+    <schema:name xml:lang="ja">セレスティアルカラーズ</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">セレスティアルカラーズ</rdfs:label>
+    <imas:Whose rdf:resource="Nanakusa_Nichika"/>
+    <schema:description xml:lang="ja">#Shiny サイズ違いの心</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CelestialColors_AketaMikoto">
+    <schema:name xml:lang="ja">セレスティアルカラーズ</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">セレスティアルカラーズ</rdfs:label>
+    <imas:Whose rdf:resource="Aketa_Mikoto"/>
+    <schema:description xml:lang="ja">#Shiny no more</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
 </rdf:RDF>

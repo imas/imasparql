@@ -167,6 +167,10 @@
     <imas:Brand xml:lang="en">ShinyColors</imas:Brand>
     <schema:memberOf rdf:resource="283Production"/>
     <schema:description xml:lang="ja">自信たっぷりで何があってもポジティブな性格。スタイルもよく人目を引く可愛さだが、よく転ぶ、ダンスを間違えるなどのドジな一面も併せ持つ。</schema:description>
+    <imas:PopLinksAttribute xml:lang="en">moon</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="ja">月</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="en">darkness</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="ja">闇</imas:PopLinksAttribute>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/50016"/>
   </rdf:Description>
@@ -199,9 +203,12 @@
     <imas:Hobby xml:lang="ja">読書</imas:Hobby>
     <imas:Talent xml:lang="ja">勉強</imas:Talent>
     <imas:Talent xml:lang="ja">推しに一早く認知されること</imas:Talent>
-    <imas:cv xml:lang="ja">成海瑠奈</imas:cv>
-    <!--<imas:cv rdf:resource="http://ja.dbpedia.org/resource/成海瑠奈"/>-->
-    <imas:cv rdf:resource="http://www.wikidata.org/entity/Q56886205"/>
+    <imas:cv xml:lang="ja">希水しお</imas:cv>
+    <!--<imas:cv rdf:resource="http://ja.dbpedia.org/resource/希水しお"/>-->
+    <imas:cv rdf:resource="http://www.wikidata.org/entity/Q17160594"/>
+    <imas:pastCv xml:lang="ja">成海瑠奈</imas:pastCv>
+    <!--<imas:pastCv rdf:resource="http://ja.dbpedia.org/resource/成海瑠奈"/>-->
+    <imas:pastCv rdf:resource="http://www.wikidata.org/entity/Q56886205"/>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">3B91C4</imas:Color>
     <schema:birthPlace xml:lang="ja">福島</schema:birthPlace>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
@@ -547,6 +554,10 @@
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Brand xml:lang="en">ShinyColors</imas:Brand>
     <schema:memberOf rdf:resource="283Production"/>
+    <imas:PopLinksAttribute xml:lang="en">rainbow</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="ja">虹</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="en">thunder</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="ja">雷</imas:PopLinksAttribute>
     <schema:description xml:lang="ja">ボーイッシュでクールな女の子。言葉遣いが乱暴なので人に怖がられることが多いが、根は純情で、素直になれないタイプ。高校2年生。</schema:description>
     <imas:SchoolGrade xml:lang="ja">高校2年生</imas:SchoolGrade>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
@@ -669,6 +680,10 @@
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Brand xml:lang="en">ShinyColors</imas:Brand>
     <schema:memberOf rdf:resource="283Production"/>
+    <imas:PopLinksAttribute xml:lang="en">dream</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="ja">夢</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="en">rainbow</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="ja">虹</imas:PopLinksAttribute>
     <schema:description xml:lang="ja">クラスに一人はいるごく普通の女の子。明るく親しみやすい性格で、甘いものが大好き。名前にちなんで、チョコ好きアイドルを売りにしている。高校2年生。</schema:description>
     <imas:SchoolGrade xml:lang="ja">高校2年生</imas:SchoolGrade>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
@@ -827,6 +842,10 @@
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Brand xml:lang="en">ShinyColors</imas:Brand>
     <schema:memberOf rdf:resource="283Production"/>
+    <imas:PopLinksAttribute xml:lang="en">wind</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="ja">風</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="en">ocean</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="ja">海</imas:PopLinksAttribute>
     <schema:description xml:lang="ja">自然体で飾らない性格。周囲からどう見られるかということを気にせず、おおらかでマイペース。しかしその透明感あふれる佇まいには誰をも惹きつけるオーラがある。高校2年生。</schema:description>
     <imas:SchoolGrade xml:lang="ja">高校2年生</imas:SchoolGrade>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
@@ -901,6 +920,10 @@
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Brand xml:lang="en">ShinyColors</imas:Brand>
     <schema:memberOf rdf:resource="283Production"/>
+    <imas:PopLinksAttribute xml:lang="en">rainbow</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="ja">虹</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="en">ocean</imas:PopLinksAttribute>
+    <imas:PopLinksAttribute xml:lang="ja">海</imas:PopLinksAttribute>
     <schema:description xml:lang="ja">内弁慶な小動物系の女の子。真面目な努力家で、勉強が得意。騙されやすく、幼なじみによくからかわれている。高校1年生。</schema:description>
     <imas:SchoolGrade xml:lang="ja">高校1年生</imas:SchoolGrade>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
