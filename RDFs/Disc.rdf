@@ -35,4 +35,41 @@
     <schema:musicReleaseFormat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CD12cm</schema:musicReleaseFormat>
     <schema:releaseOf rdf:resource="THE%20IDOLM%40STER%20MASTERPIECE%2001"/>
   </rdf:Description>
+
+  <!-- M@ster Artist 4 10 如月千早 -->
+  <rdf:Description rdf:about="COCX-41160">
+    <rdf:type rdf:resource="http://schema.org/MusicRelease"/>
+    <schema:creditedTo rdf:resource="Kisaragi_Chihaya" />
+    <schema:catalogNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">COCX-41160</schema:catalogNumber>
+    <schema:musicReleaseFormat rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CDFormat</schema:musicReleaseFormat>
+    <schema:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-06-16</schema:datePublished>
+    <schema:url rdf:resource="https://columbia.jp/idolmaster/COCX-41160.html" />
+    <!-- <schema:duration rdf:datatype="http://www.w3.org/2001/XMLSchema#duration"></schema:duration> -->
+    <schema:releaseOf>
+      <rdf:Description rdf:about="THE%20IDOLM%40STER%20MASTER%20ARTIST%204%2010%20%E5%A6%82%E6%9C%88%E5%8D%83%E6%97%A9">
+        <rdf:type rdf:resource="http://schema.org/MusicAlbum"/>
+        <schema:albumRelease rdf:resource="COCX-41160" />
+        <schema:albumReleaseType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AlbumRelease</schema:albumReleaseType>
+        <schema:name xml:lang="ja">THE IDOLM@STER MASTER ARTIST 4 10 如月千早</schema:name>
+        <schema:byArtist rdf:resource="Kisaragi_Chihaya" />
+        <schema:numTracks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</schema:numTracks>
+        <schema:track>
+          <rdf:Description rdf:about="Coming_Smile">
+            <schema:byArtist rdf:resource="Kisaragi_Chihaya" />
+            <schema:duration rdf:datatype="http://www.w3.org/2001/XMLSchema#duration">PT4M36S</schema:duration>
+            <schema:inAlbum rdf:resource="THE%20IDOLM%40STER%20MASTER%20ARTIST%204%2010%20%E5%A6%82%E6%9C%88%E5%8D%83%E6%97%A9" />
+            <!-- <schema:isrcCode  rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></schema:isrcCode> -->
+            <schema:recordingOf>
+              <rdf:Description rdf:about="ComingSmile_Staff">
+                <schema:lyricist rdf:datatype="http://www.w3.org/2001/XMLSchema#string">森由里子</schema:lyricist>
+                <schema:composer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">哥丸雄貴</schema:composer>
+                <schema:musicArrangement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">yamazo</schema:musicArrangement>
+                <schema:recordedAs rdf:resource="Coming_Smile" />
+              </rdf:Description>
+            </schema:recordingOf>
+          </rdf:Description>
+        </schema:track>
+      </rdf:Description>
+    </schema:releaseOf>
+  </rdf:Description>
 </rdf:RDF>
