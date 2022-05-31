@@ -1763,6 +1763,21 @@
     <schema:description xml:lang="ja">ルームウェア。普通だなって思ったら負け</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
+  <rdf:Description rdf:about="PrivateDressDown_KazanoHiori">
+    <schema:name xml:lang="ja">プライベートドレスダウン</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">プライベートドレスダウン</rdfs:label>
+    <schema:description xml:lang="ja">ルームウェア。まずは見た目から入りましょう</schema:description>
+    <imas:Whose rdf:resource="Kazano_Hiori"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="PrivateDressDown_MayuzumiFuyuko">
+    <schema:name xml:lang="ja">プライベートドレスダウン</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">プライベートドレスダウン</rdfs:label>
+    <schema:description xml:lang="ja">ルームウェア。隙なく寛ぎます</schema:description>
+    <imas:Whose rdf:resource="Mayuzumi_Fuyuko"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+
   <!-- ファウンテンサマー -->
   <rdf:Description rdf:about="FountainSummer_SakuragiMano">
     <schema:name xml:lang="ja">ファウンテンサマー</schema:name>
