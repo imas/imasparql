@@ -72,6 +72,10 @@ imas:CinderellaVoiceIdolAudition    a   rdfs:Class ;
     rdfs:comment                    "シンデレラガールズ ボイスアイドルオーディションを表すクラス" ;
     rdfs:label                      "シンデレラガールズ ボイスアイドルオーディション"@ja .
 
+imas:DreamUnitResult    a   rdfs:Class ;
+    rdfs:comment                    "ドリームユニット決定戦結果を表すクラス" ;
+    rdfs:label                      "ドリームユニット決定戦結果"@ja .
+
 imas:Live                       a   rdfs:Class ;
     rdfs:comment                    "ライブを表すクラス" ;
     rdfs:label                      "ライブ"@ja ;
