@@ -1777,6 +1777,20 @@
     <imas:Whose rdf:resource="Mayuzumi_Fuyuko"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
+  <rdf:Description rdf:about="PrivateDressDown_ArisugawaNatsuha">
+    <schema:name xml:lang="ja">プライベートドレスダウン</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">プライベートドレスダウン</rdfs:label>
+    <schema:description xml:lang="ja">ルームウェア。お嬢様と夢見るシルク</schema:description>
+    <imas:Whose rdf:resource="Arisugawa_Natsuha"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="PrivateDressDown_HiguchiMadoka">
+    <schema:name xml:lang="ja">プライベートドレスダウン</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">プライベートドレスダウン</rdfs:label>
+    <schema:description xml:lang="ja">ルームウェア。ノーコメント＠プライベート</schema:description>
+    <imas:Whose rdf:resource="Higuchi_Madoka"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
 
   <!-- ファウンテンサマー -->
   <rdf:Description rdf:about="FountainSummer_SakuragiMano">
