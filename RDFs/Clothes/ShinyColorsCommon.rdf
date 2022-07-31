@@ -2187,4 +2187,174 @@
     <schema:description xml:lang="ja">#Shiny no more</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
+
+  <!-- ホッテストサマー -->
+  <rdf:Description rdf:about="HottestSummer_SakuragiMano">
+    <schema:name xml:lang="ja">ホッテストサマー</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ホッテストサマー</rdfs:label>
+    <schema:description xml:lang="ja">マリンノート＠太陽も羨むキラキラ</schema:description>
+    <imas:Whose rdf:resource="Sakuragi_Mano"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="HottestSummer_KazanoHiori">
+    <schema:name xml:lang="ja">ホッテストサマー</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ホッテストサマー</rdfs:label>
+    <schema:description xml:lang="ja">マリンノート＠ハイテンションプリーズ</schema:description>
+    <imas:Whose rdf:resource="Kazano_Hiori"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="HottestSummer_HachimiyaMeguru">
+    <schema:name xml:lang="ja">ホッテストサマー</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ホッテストサマー</rdfs:label>
+    <schema:description xml:lang="ja">マリンノート＠ノリノリワクワクでいこう</schema:description>
+    <imas:Whose rdf:resource="Hachimiya_Meguru"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="HottestSummer_TsukiokaKogane">
+    <schema:name xml:lang="ja">ホッテストサマー</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ホッテストサマー</rdfs:label>
+    <schema:description xml:lang="ja">マリンノート＠ひらひら、金魚みたいに</schema:description>
+    <imas:Whose rdf:resource="Tsukioka_Kogane"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="HottestSummer_TanakaMamimi">
+    <schema:name xml:lang="ja">ホッテストサマー</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ホッテストサマー</rdfs:label>
+    <schema:description xml:lang="ja">マリンノート＠小悪魔 or マーメイド</schema:description>
+    <imas:Whose rdf:resource="Tanaka_Mamimi"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="HottestSummer_ShiraseSakuya">
+    <schema:name xml:lang="ja">ホッテストサマー</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ホッテストサマー</rdfs:label>
+    <schema:description xml:lang="ja">マリンノート＠青が深くなるところまで</schema:description>
+    <imas:Whose rdf:resource="Shirase_Sakuya"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="HottestSummer_MitsumineYuika">
+    <schema:name xml:lang="ja">ホッテストサマー</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ホッテストサマー</rdfs:label>
+    <schema:description xml:lang="ja">マリンノート＠踊れない私と歌えない私なら、</schema:description>
+    <imas:Whose rdf:resource="Mitsumine_Yuika"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="HottestSummer_YukokuKiriko">
+    <schema:name xml:lang="ja">ホッテストサマー</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ホッテストサマー</rdfs:label>
+    <schema:description xml:lang="ja">マリンノート＠五線譜に捕えられて</schema:description>
+    <imas:Whose rdf:resource="Yukoku_Kiriko"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="HottestSummer_KomiyaKaho">
+    <schema:name xml:lang="ja">ホッテストサマー</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ホッテストサマー</rdfs:label>
+    <schema:description xml:lang="ja">マリンノート＠ジャスティスカラー　パワーオン</schema:description>
+    <imas:Whose rdf:resource="Komiya_Kaho"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="HottestSummer_SonodaChiyoko">
+    <schema:name xml:lang="ja">ホッテストサマー</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ホッテストサマー</rdfs:label>
+    <schema:description xml:lang="ja">マリンノート＠好きな果物（※他にもある）の柄</schema:description>
+    <imas:Whose rdf:resource="Sonoda_Chiyoko"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="HottestSummer_SaijoJuri">
+    <schema:name xml:lang="ja">ホッテストサマー</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ホッテストサマー</rdfs:label>
+    <schema:description xml:lang="ja">マリンノート＠ソーダのようにはじける夏</schema:description>
+    <imas:Whose rdf:resource="Saijo_Juri"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="HottestSummer_ArisugawaNatsuha">
+    <schema:name xml:lang="ja">ホッテストサマー</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ホッテストサマー</rdfs:label>
+    <schema:description xml:lang="ja">マリンノート＠ボタニカルビキニもマストバイ</schema:description>
+    <imas:Whose rdf:resource="Arisugawa_Natsuha"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="HottestSummer_OsakiAmana">
+    <schema:name xml:lang="ja">ホッテストサマー</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ホッテストサマー</rdfs:label>
+    <schema:description xml:lang="ja">マリンノート＠カジュアルタイプ、どうかな？</schema:description>
+    <imas:Whose rdf:resource="Osaki_Amana"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="HottestSummer_OsakiTenka">
+    <schema:name xml:lang="ja">ホッテストサマー</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ホッテストサマー</rdfs:label>
+    <schema:description xml:lang="ja">マリンノート＠夏に浮かれてみました</schema:description>
+    <imas:Whose rdf:resource="Osaki_Tenka"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="HottestSummer_KuwayamaChiyuki">
+    <schema:name xml:lang="ja">ホッテストサマー</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ホッテストサマー</rdfs:label>
+    <schema:description xml:lang="ja">マリンノート＠胸元に焼きつけて、花の微</schema:description>
+    <imas:Whose rdf:resource="Kuwayama_Chiyuki"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="HottestSummer_SerizawaAsahi">
+    <schema:name xml:lang="ja">ホッテストサマー</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ホッテストサマー</rdfs:label>
+    <schema:description xml:lang="ja">マリンノート＠スイカを割って、波を割って</schema:description>
+    <imas:Whose rdf:resource="Serizawa_Asahi"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="HottestSummer_MayuzumiFuyuko">
+    <schema:name xml:lang="ja">ホッテストサマー</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ホッテストサマー</rdfs:label>
+    <schema:description xml:lang="ja">マリンノート＠甘いだけじゃないの</schema:description>
+    <imas:Whose rdf:resource="Mayuzumi_Fuyuko"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="HottestSummer_IzumiMei">
+    <schema:name xml:lang="ja">ホッテストサマー</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ホッテストサマー</rdfs:label>
+    <schema:description xml:lang="ja">マリンノート＠その白は太陽の輝きより眩しく</schema:description>
+    <imas:Whose rdf:resource="Izumi_Mei"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="HottestSummer_AsakuraToru">
+    <schema:name xml:lang="ja">ホッテストサマー</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ホッテストサマー</rdfs:label>
+    <schema:description xml:lang="ja">マリンノート＠応答せよ、夏</schema:description>
+    <imas:Whose rdf:resource="Asakura_Toru"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="HottestSummer_HiguchiMadoka">
+    <schema:name xml:lang="ja">ホッテストサマー</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ホッテストサマー</rdfs:label>
+    <schema:description xml:lang="ja">マリンノート＠ナツ・キュン・ササヤクーノ</schema:description>
+    <imas:Whose rdf:resource="Higuchi_Madoka"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="HottestSummer_FukumaruKoito">
+    <schema:name xml:lang="ja">ホッテストサマー</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ホッテストサマー</rdfs:label>
+    <schema:description xml:lang="ja">マリンノート＠水中で吸って、空に吐いて</schema:description>
+    <imas:Whose rdf:resource="Fukumaru_Koito"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="HottestSummer_IchikawaHinana">
+    <schema:name xml:lang="ja">ホッテストサマー</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ホッテストサマー</rdfs:label>
+    <schema:description xml:lang="ja">マリンノート＠誰よりもはやく夏を泳いで</schema:description>
+    <imas:Whose rdf:resource="Ichikawa_Hinana"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="HottestSummer_NanakusaNichika">
+    <schema:name xml:lang="ja">ホッテストサマー</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ホッテストサマー</rdfs:label>
+    <schema:description xml:lang="ja">マリンノート＠太陽に見つかる前に</schema:description>
+    <imas:Whose rdf:resource="Nanakusa_Nichika"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="HottestSummer_AketaMikoto">
+    <schema:name xml:lang="ja">ホッテストサマー</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ホッテストサマー</rdfs:label>
+    <schema:description xml:lang="ja">マリンノート＠drown</schema:description>
+    <imas:Whose rdf:resource="Aketa_Mikoto"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
 </rdf:RDF>
