@@ -451,4 +451,122 @@
     <imas:Whose rdf:resource="Arisugawa_Natsuha"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
+
+  <!-- 大崎甘奈 -->
+  <rdf:Description rdf:about="Angelic_Ribbon">
+    <schema:name xml:lang="ja">エンジェリックリボン</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">エンジェリックリボン</rdfs:label>
+    <schema:description xml:lang="ja"/>
+    <imas:Whose rdf:resource="Osaki_Amana"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sweetie_Black_Nurse">
+    <schema:name xml:lang="ja">スウィーティーブラックナース</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">スウィーティーブラックナース</rdfs:label>
+    <schema:description xml:lang="ja"/>
+    <imas:Whose rdf:resource="Osaki_Amana"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Poppin_Sweetie">
+    <schema:name xml:lang="ja">ポッピンスウィーティー</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ポッピンスウィーティー</rdfs:label>
+    <schema:description xml:lang="ja"/>
+    <imas:Whose rdf:resource="Osaki_Amana"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Arabient_Raqsah">
+    <schema:name xml:lang="ja">アラビエントラッカーサ</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">アラビエントラッカーサ</rdfs:label>
+    <schema:description xml:lang="ja"/>
+    <imas:Whose rdf:resource="Osaki_Amana"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Mazentacchi_Race_Queen">
+    <schema:name xml:lang="ja">マゼンタッチレースクイーン</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">マゼンタッチレースクイーン</rdfs:label>
+    <schema:description xml:lang="ja"/>
+    <imas:Whose rdf:resource="Osaki_Amana"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+
+  <!-- 大崎甜花 -->
+  <rdf:Description rdf:about="Debirissyu_Future">
+    <schema:name xml:lang="ja">デビリッシュフューチャー</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">デビリッシュフューチャー</rdfs:label>
+    <schema:description xml:lang="ja"/>
+    <imas:Whose rdf:resource="Osaki_Tenka"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Poppin_Juicy">
+    <schema:name xml:lang="ja">ポッピンジューシー</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ポッピンジューシー</rdfs:label>
+    <schema:description xml:lang="ja"/>
+    <imas:Whose rdf:resource="Osaki_Tenka"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Precious_Doll_Bonnet">
+    <schema:name xml:lang="ja">プレシャスドールボンネット</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">プレシャスドールボンネット</rdfs:label>
+    <schema:description xml:lang="ja"/>
+    <imas:Whose rdf:resource="Osaki_Tenka"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Sweet_Patissiere">
+    <schema:name xml:lang="ja">スウィートパティシエール</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">スウィートパティシエール</rdfs:label>
+    <schema:description xml:lang="ja"/>
+    <imas:Whose rdf:resource="Osaki_Tenka"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Childish_Smock">
+    <schema:name xml:lang="ja">チャイルディッシュスモック</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">チャイルディッシュスモック</rdfs:label>
+    <schema:description xml:lang="ja"/>
+    <imas:Whose rdf:resource="Osaki_Tenka"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Nostalgic_Girly">
+    <schema:name xml:lang="ja">ノスタルジックガーリィ</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ノスタルジックガーリィ</rdfs:label>
+    <schema:description xml:lang="ja"/>
+    <imas:Whose rdf:resource="Osaki_Tenka"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+
+  <!-- 桑山千雪 -->
+  <rdf:Description rdf:about="Saintly_White">
+    <schema:name xml:lang="ja">セイントリーホワイト</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">セイントリーホワイト</rdfs:label>
+    <schema:description xml:lang="ja"/>
+    <imas:Whose rdf:resource="Kuwayama_Chiyuki"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Calmy_Bloom">
+    <schema:name xml:lang="ja">カーミィブルーム</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">カーミィブルーム</rdfs:label>
+    <schema:description xml:lang="ja"/>
+    <imas:Whose rdf:resource="Kuwayama_Chiyuki"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Suggestive_Tender">
+    <schema:name xml:lang="ja">サジェスティブテンダー</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">サジェスティブテンダー</rdfs:label>
+    <schema:description xml:lang="ja"/>
+    <imas:Whose rdf:resource="Kuwayama_Chiyuki"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Wellcome_Boutique">
+    <schema:name xml:lang="ja">ウェルカムブティック</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ウェルカムブティック</rdfs:label>
+    <schema:description xml:lang="ja"/>
+    <imas:Whose rdf:resource="Kuwayama_Chiyuki"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Cheer_Up_Leader">
+    <schema:name xml:lang="ja">チアアップリーダー</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">チアアップリーダー</rdfs:label>
+    <schema:description xml:lang="ja"/>
+    <imas:Whose rdf:resource="Kuwayama_Chiyuki"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
 </rdf:RDF>
