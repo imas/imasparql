@@ -82,8 +82,8 @@
 
   <!-- 八宮めぐる -->
   <rdf:Description rdf:about="Rhythmical_Preppy_Girl">
-    <schema:name xml:lang="ja">リズミカルブレッピーガール</schema:name>
-    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">リズミカルブレッピーガール</rdfs:label>
+    <schema:name xml:lang="ja">リズミカルプレッピーガール</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">リズミカルプレッピーガール</rdfs:label>
     <schema:description xml:lang="ja"/>
     <imas:Whose rdf:resource="Hachimiya_Meguru"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
@@ -647,14 +647,14 @@
   </rdf:Description>
 
   <!-- 浅倉透 -->
-  <rdf:Description rdf:about="Sparkle_Glas">
+  <rdf:Description rdf:about="Sparkle_Glass">
     <schema:name xml:lang="ja">スパークル・ガラス</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">スパークル・ガラス</rdfs:label>
     <schema:description xml:lang="ja"/>
     <imas:Whose rdf:resource="Asakura_Toru"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
-  <rdf:Description rdf:about="Citrastic_Yellow">
+  <rdf:Description rdf:about="Citrustic_Yellow">
     <schema:name xml:lang="ja">シトラスティックイエロー</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">シトラスティックイエロー</rdfs:label>
     <schema:description xml:lang="ja"/>
@@ -663,7 +663,7 @@
   </rdf:Description>
 
   <!-- 樋口円香 -->
-  <rdf:Description rdf:about="Time_In_A_Glas">
+  <rdf:Description rdf:about="Time_In_A_Glass">
     <schema:name xml:lang="ja">タイムイン・ア・ガラス</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">タイムイン・ア・ガラス</rdfs:label>
     <schema:description xml:lang="ja"/>
