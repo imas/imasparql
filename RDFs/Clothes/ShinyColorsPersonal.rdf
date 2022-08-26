@@ -283,8 +283,8 @@
 
   <!-- 小宮果穂 -->
   <rdf:Description rdf:about="Passionate_Bonita">
-    <schema:name xml:lang="ja">パッショネイトポニータ</schema:name>
-    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">パッショネイトポニータ</rdfs:label>
+    <schema:name xml:lang="ja">パッショネイトボニータ</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">パッショネイトボニータ</rdfs:label>
     <schema:description xml:lang="ja"/>
     <imas:Whose rdf:resource="Komiya_Kaho"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
@@ -695,16 +695,16 @@
   </rdf:Description>
 
   <!-- 市川雛菜 -->
-  <rdf:Description rdf:about="Loosely_Hearty">
-    <schema:name xml:lang="ja">ルーズリーハーティー</schema:name>
-    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ルーズリーハーティー</rdfs:label>
+  <rdf:Description rdf:about="Sunny_Sunny_Sunflower">
+    <schema:name xml:lang="ja">サニサニサンフラワー</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">サニサニサンフラワー</rdfs:label>
     <schema:description xml:lang="ja"/>
     <imas:Whose rdf:resource="Ichikawa_Hinana"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
-  <rdf:Description rdf:about="Sunny_Sunny_Sunflower">
-    <schema:name xml:lang="ja">サニサニサンフラワー</schema:name>
-    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">サニサニサンフラワー</rdfs:label>
+  <rdf:Description rdf:about="Loosely_Hearty">
+    <schema:name xml:lang="ja">ルーズリーハーティー</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ルーズリーハーティー</rdfs:label>
     <schema:description xml:lang="ja"/>
     <imas:Whose rdf:resource="Ichikawa_Hinana"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
