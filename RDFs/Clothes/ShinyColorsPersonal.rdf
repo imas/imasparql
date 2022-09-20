@@ -716,13 +716,6 @@
     <imas:Whose rdf:resource="Ichikawa_Hinana"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
-  <rdf:Description rdf:about="Clear_Belt_Surface">
-    <schema:name xml:lang="ja">クリアベルトサーフェス</schema:name>
-    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">クリアベルトサーフェス</rdfs:label>
-    <schema:description xml:lang="ja"/>
-    <imas:Whose rdf:resource="Ichikawa_Hinana"/>
-    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
-  </rdf:Description>
 
   <!-- 七草にちか -->
   <rdf:Description rdf:about="Academical_Blue">
