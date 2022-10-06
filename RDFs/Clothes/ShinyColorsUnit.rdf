@@ -446,6 +446,41 @@
     <schema:description xml:lang="ja">心の鍵、お預かりします</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
+  <rdf:Description rdf:about="OrcaDeServant_TsukiokaKogane">
+    <schema:name xml:lang="ja">オルカドサーヴァント</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">オルカドサーヴァント</rdfs:label>
+    <schema:description xml:lang="ja">BOO！トリック・アンド・トリート？</schema:description>
+    <imas:Whose rdf:resource="Tsukioka_Kogane"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="OrcaDeServant_TanakaMamimi">
+    <schema:name xml:lang="ja">オルカドサーヴァント</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">オルカドサーヴァント</rdfs:label>
+    <schema:description xml:lang="ja">BOO！トリック／トリック／トリック</schema:description>
+    <imas:Whose rdf:resource="Tanaka_Mamimi"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="OrcaDeServant_ShiraseSakuya">
+    <schema:name xml:lang="ja">オルカドサーヴァント</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">オルカドサーヴァント</rdfs:label>
+    <schema:description xml:lang="ja">BOO！望むままに、永遠の夜を</schema:description>
+    <imas:Whose rdf:resource="Shirase_Sakuya"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="OrcaDeServant_MitsumineYuika">
+    <schema:name xml:lang="ja">オルカドサーヴァント</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">オルカドサーヴァント</rdfs:label>
+    <schema:description xml:lang="ja">BOO！お菓子で許してあげると思う？</schema:description>
+    <imas:Whose rdf:resource="Mitsumine_Yuika"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="OrcaDeServant_YukokuKiriko">
+    <schema:name xml:lang="ja">オルカドサーヴァント</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">オルカドサーヴァント</rdfs:label>
+    <schema:description xml:lang="ja">BOO！６６６^ ^</schema:description>
+    <imas:Whose rdf:resource="Yukoku_Kiriko"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
 
   <!-- 放課後クライマックスガールズ -->
   <rdf:Description rdf:about="Brave_Hero_Jogging_Suits">
