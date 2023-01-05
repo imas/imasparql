@@ -373,41 +373,6 @@
     <schema:description xml:lang="ja">霧・霧・奇・譚。うさあぎうさぎなうさぎうたさぎ</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
-  <rdf:Description rdf:about="NewYearHaregi_TsukiokaKogane">
-    <schema:name xml:lang="ja">ニューイヤーハレギ</schema:name>
-    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ニューイヤーハレギ</rdfs:label>
-    <imas:Whose rdf:resource="Tsukioka_Kogane"/>
-    <schema:description xml:lang="ja">春風献上。緋に咲く白は</schema:description>
-    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="NewYearHaregi_TanakaMamimi">
-    <schema:name xml:lang="ja">ニューイヤーハレギ</schema:name>
-    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ニューイヤーハレギ</rdfs:label>
-    <imas:Whose rdf:resource="Tanaka_Mamimi"/>
-    <schema:description xml:lang="ja">春風献上。当て所はひらり、蝶のように</schema:description>
-    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="NewYearHaregi_ShiraseSakuya">
-    <schema:name xml:lang="ja">ニューイヤーハレギ</schema:name>
-    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ニューイヤーハレギ</rdfs:label>
-    <imas:Whose rdf:resource="Shirase_Sakuya"/>
-    <schema:description xml:lang="ja">春風献上。座れば牡丹、進む姿は蒸気機関車</schema:description>
-    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="NewYearHaregi_MitsumineYuika">
-    <schema:name xml:lang="ja">ニューイヤーハレギ</schema:name>
-    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ニューイヤーハレギ</rdfs:label>
-    <imas:Whose rdf:resource="Mitsumine_Yuika"/>
-    <schema:description xml:lang="ja">春風献上。どうしても猫は外せなかった</schema:description>
-    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="NewYearHaregi_YukokuKiriko">
-    <schema:name xml:lang="ja">ニューイヤーハレギ</schema:name>
-    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ニューイヤーハレギ</rdfs:label>
-    <imas:Whose rdf:resource="Yukoku_Kiriko"/>
-    <schema:description xml:lang="ja">春風献上。レペゼン水玉</schema:description>
-    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
-  </rdf:Description>
   <rdf:Description rdf:about="HolidayPrincess_TsukiokaKogane">
     <schema:name xml:lang="ja">ホリディプリンセス</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ホリディプリンセス</rdfs:label>
