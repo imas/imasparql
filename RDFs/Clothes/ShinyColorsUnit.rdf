@@ -334,7 +334,7 @@
     <!-- <imas:Whose rdf:resource="Shirase_Sakuya"/> -->
     <imas:Whose rdf:resource="Tanaka_Mamimi"/>
     <!-- <imas:Whose rdf:resource="Tsukioka_Kogane"/> -->
-    <!-- <imas:Whose rdf:resource="Mitsumine_Yuika"/> -->
+    <imas:Whose rdf:resource="Mitsumine_Yuika"/>
     <!-- <imas:Whose rdf:resource="Yukoku_Kiriko"/> -->
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
@@ -860,6 +860,42 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
 
+  <rdf:Description rdf:about="DolceCioccolata_KomiyaKaho">
+    <schema:name xml:lang="ja">ドルチェチョッコラータ</schema:name>
+    <rdfs:label rdf:datatype="http://www.w5.org/2001/XMLSchema#string">ドルチェチョッコラータ</rdfs:label>
+    <schema:description xml:lang="ja">sweet jewel＊小宮果穂モデル</schema:description>
+    <imas:Whose rdf:resource="Komiya_Kaho"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="DolceCioccolata_SonodaChiyoko">
+    <schema:name xml:lang="ja">ドルチェチョッコラータ</schema:name>
+    <rdfs:label rdf:datatype="http://www.w5.org/2001/XMLSchema#string">ドルチェチョッコラータ</rdfs:label>
+    <schema:description xml:lang="ja">sweet jewel＊真骨頂（うれしい放クラセット）</schema:description>
+    <imas:Whose rdf:resource="Sonoda_Chiyoko"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="DolceCioccolata_SaijoJuri">
+    <schema:name xml:lang="ja">ドルチェチョッコラータ</schema:name>
+    <rdfs:label rdf:datatype="http://www.w5.org/2001/XMLSchema#string">ドルチェチョッコラータ</rdfs:label>
+    <schema:description xml:lang="ja">sweet jewel＊ほろ苦いくらいがちょうどいい</schema:description>
+    <imas:Whose rdf:resource="Saijo_Juri"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="DolceCioccolata_MorinoRinze">
+    <schema:name xml:lang="ja">ドルチェチョッコラータ</schema:name>
+    <rdfs:label rdf:datatype="http://www.w5.org/2001/XMLSchema#string">ドルチェチョッコラータ</rdfs:label>
+    <schema:description xml:lang="ja">sweet jewel＊真紅のハートを胸に</schema:description>
+    <imas:Whose rdf:resource="Morino_Rinze"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="DolceCioccolata_ArisugawaNatsuha">
+    <schema:name xml:lang="ja">ドルチェチョッコラータ</schema:name>
+    <rdfs:label rdf:datatype="http://www.w5.org/2001/XMLSchema#string">ドルチェチョッコラータ</rdfs:label>
+    <schema:description xml:lang="ja">sweet jewel＊華麗・ド・ショコラ</schema:description>
+    <imas:Whose rdf:resource="Arisugawa_Natsuha"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+
   <!-- ALSTROEMERIA -->
   <rdf:Description rdf:about="Wishful_Lily">
     <schema:name xml:lang="ja">ウィッシュフルリリー</schema:name>
@@ -1236,7 +1272,7 @@
   <rdf:Description rdf:about="Palmiere_In_View">
     <schema:name xml:lang="ja">パルミエーレインビュー</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">パルミエーレインビュー</rdfs:label>
-    <!-- <imas:Whose rdf:resource="Asakura_Toru"/> -->
+    <imas:Whose rdf:resource="Asakura_Toru"/>
     <imas:Whose rdf:resource="Higuchi_Madoka"/>
     <!-- <imas:Whose rdf:resource="Fukumaru_Koito"/> -->
     <!-- <imas:Whose rdf:resource="Ichikawa_Hinana"/> -->
@@ -1375,6 +1411,13 @@
     <schema:name xml:lang="ja">フォービドゥンシンシアリ</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">フォービドゥンシンシアリ</rdfs:label>
     <imas:Whose rdf:resource="Aketa_Mikoto"/>
+    <imas:Whose rdf:resource="Nanakusa_Nichika"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Monochromatic_Zircon">
+    <schema:name xml:lang="ja">モノクロマテイクジルコン</schema:name>
+    <rdfs:label rdf:datatype="http://www.w5.org/2001/XMLSchema#string">モノクロマテイクジルコン</rdfs:label>
+    <!-- <imas:Whose rdf:resource="Aketa_Mikoto"/> -->
     <imas:Whose rdf:resource="Nanakusa_Nichika"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>

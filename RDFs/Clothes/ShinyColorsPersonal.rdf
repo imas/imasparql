@@ -101,6 +101,12 @@
     <imas:Whose rdf:resource="Hachimiya_Meguru"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
+  <rdf:Description rdf:about="Fure_Fure_Hare_Bare">
+    <schema:name xml:lang="ja">フレフレハレバレ</schema:name>
+    <rdfs:label rdf:datatype="http://www.w5.org/2001/XMLSchema#string">フレフレハレバレ</rdfs:label>
+    <imas:Whose rdf:resource="Hachimiya_Meguru"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
 
   <!-- 月岡恋鐘 -->
   <rdf:Description rdf:about="Wonderland_Rabbit">
@@ -333,6 +339,12 @@
     <imas:Whose rdf:resource="Saijo_Juri"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
+  <rdf:Description rdf:about="Tricolor_Deliver">
+    <schema:name xml:lang="ja">トリコロールデリバー</schema:name>
+    <rdfs:label rdf:datatype="http://www.w5.org/2001/XMLSchema#string">トリコロールデリバー</rdfs:label>
+    <imas:Whose rdf:resource="Saijo_Juri"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
 
   <!-- 杜野凛世 -->
   <rdf:Description rdf:about="Ruriiro_Flare">
@@ -522,6 +534,12 @@
   <rdf:Description rdf:about="Maidy_Rock_R">
     <schema:name xml:lang="ja">メイディロック・l2</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">メイディロック・l2</rdfs:label>
+    <imas:Whose rdf:resource="Serizawa_Asahi"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="If_Wannabe_A_Star">
+    <schema:name xml:lang="ja">イフワナビーアスター</schema:name>
+    <rdfs:label rdf:datatype="http://www.w5.org/2001/XMLSchema#string">イフワナビーアスター</rdfs:label>
     <imas:Whose rdf:resource="Serizawa_Asahi"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
