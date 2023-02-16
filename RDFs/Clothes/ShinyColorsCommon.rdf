@@ -2413,6 +2413,64 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
 
+  <!-- ニューイヤーハレギ -->
+  <rdf:Description rdf:about="NewYearHaregi_TsukiokaKogane">
+    <schema:name xml:lang="ja">ニューイヤーハレギ</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ニューイヤーハレギ</rdfs:label>
+    <imas:Whose rdf:resource="Tsukioka_Kogane"/>
+    <schema:description xml:lang="ja">春風献上。緋に咲く白は</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="NewYearHaregi_TanakaMamimi">
+    <schema:name xml:lang="ja">ニューイヤーハレギ</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ニューイヤーハレギ</rdfs:label>
+    <imas:Whose rdf:resource="Tanaka_Mamimi"/>
+    <schema:description xml:lang="ja">春風献上。当て所はひらり、蝶のように</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="NewYearHaregi_ShiraseSakuya">
+    <schema:name xml:lang="ja">ニューイヤーハレギ</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ニューイヤーハレギ</rdfs:label>
+    <imas:Whose rdf:resource="Shirase_Sakuya"/>
+    <schema:description xml:lang="ja">春風献上。座れば牡丹、進む姿は蒸気機関車</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="NewYearHaregi_MitsumineYuika">
+    <schema:name xml:lang="ja">ニューイヤーハレギ</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ニューイヤーハレギ</rdfs:label>
+    <imas:Whose rdf:resource="Mitsumine_Yuika"/>
+    <schema:description xml:lang="ja">春風献上。どうしても猫は外せなかった</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="NewYearHaregi_YukokuKiriko">
+    <schema:name xml:lang="ja">ニューイヤーハレギ</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ニューイヤーハレギ</rdfs:label>
+    <imas:Whose rdf:resource="Yukoku_Kiriko"/>
+    <schema:description xml:lang="ja">春風献上。レペゼン水玉</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="NewYearHaregi_SerizawaAsahi">
+    <schema:name xml:lang="ja">ニューイヤーハレギ</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ニューイヤーハレギ</rdfs:label>
+    <schema:description xml:lang="ja">春山如笑。めでたきもの、あさのひかり</schema:description>
+    <imas:Whose rdf:resource="Serizawa_Asahi"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="NewYearHaregi_MayuzumiFuyuko">
+    <schema:name xml:lang="ja">ニューイヤーハレギ</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ニューイヤーハレギ</rdfs:label>
+    <schema:description xml:lang="ja">春山如笑。艶・モード</schema:description>
+    <imas:Whose rdf:resource="Mayuzumi_Fuyuko"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="NewYearHaregi_IzumiMei">
+    <schema:name xml:lang="ja">ニューイヤーハレギ</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ニューイヤーハレギ</rdfs:label>
+    <schema:description xml:lang="ja">春山如笑。ピシッ！とする♪</schema:description>
+    <imas:Whose rdf:resource="Izumi_Mei"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+
   <!-- リスペクティブワークスタイル -->
   <rdf:Description rdf:about="RespectiveWorkStyle_OsakiAmana">
     <schema:name xml:lang="ja">リスペクティブワークスタイル</schema:name>
@@ -2442,7 +2500,14 @@
     <imas:Whose rdf:resource="Sonoda_Chiyoko"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
-  <rdf:Description rdf:about="RespectiveWorkStyle_SakuragiMano">
+  <rdf:Description rdf:about="RespectiveWorkStyle_TsukiokaKogane">
+    <schema:name xml:lang="ja">リスペクティブワークスタイル</schema:name>
+    <rdfs:label rdf:datatype="http://www.w5.org/2001/XMLSchema#string">リスペクティブワークスタイル</rdfs:label>
+    <schema:description xml:lang="ja">WORKING：今日も元気なおはようを</schema:description>
+    <imas:Whose rdf:resource="Tsukioka_Kogane"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+    <rdf:Description rdf:about="RespectiveWorkStyle_SakuragiMano">
     <schema:name xml:lang="ja">リスペクティブワークスタイル</schema:name>
     <rdfs:label rdf:datatype="http://www.w5.org/2001/XMLSchema#string">リスペクティブワークスタイル</rdfs:label>
     <schema:description xml:lang="ja">WORKING：お散歩時間も秘書にお任せあれ</schema:description>
