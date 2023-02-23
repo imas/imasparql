@@ -208,6 +208,127 @@
     <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-03-19</schema:startDate>
     <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-03-19</schema:endDate>
     <schema:url rdf:resource="https://idolmaster-official.jp/live_event/shinycolors_5th/"/>
+  </rdf:Description>
+  
+  <rdf:Description rdf:about="THE%20IDOLM%40STER%20MILLION%20LIVE%21%2010thLIVE%20TOUR%20Act-1%20H%40PPY%204%20YOU%21%20Day1">
+    <schema:actor xml:lang="ja">山崎はるか</schema:actor>
+    <schema:actor xml:lang="ja">小笠原早紀</schema:actor>
+    <schema:actor xml:lang="ja">角元明日香</schema:actor>
+    <schema:actor xml:lang="ja">郁原ゆう</schema:actor>
+    <schema:actor xml:lang="ja">斉藤佑圭</schema:actor>
+    <schema:actor xml:lang="ja">末柄里恵</schema:actor>
+    <schema:actor xml:lang="ja">種田梨沙</schema:actor>
+    <schema:actor xml:lang="ja">中村温姫</schema:actor>
+    <schema:actor xml:lang="ja">夏川椎菜</schema:actor>
+    <schema:actor xml:lang="ja">野村香菜子</schema:actor>
+    <schema:actor xml:lang="ja">浜崎奈々</schema:actor>
+    <schema:actor xml:lang="ja">平山笑美</schema:actor>
+    <schema:actor xml:lang="ja">藤井ゆきよ</schema:actor>
+    <schema:actor xml:lang="ja">渡部恵子</schema:actor>
+    <schema:actor xml:lang="ja">渡部優衣</schema:actor>
+    <schema:eventStatus rdf:resource="http://schema.org/EventScheduled" />
+    <schema:eventAttendanceMode rdf:resource="http://schema.org/MixedEventAttendanceMode" />
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">THE IDOLM@STER MILLION LIVE! 10thLIVE TOUR Act-1 H@PPY 4 YOU! Day1</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">THE IDOLM@STER MILLION LIVE! 10thLIVE TOUR Act-1 H@PPY 4 YOU! Day1</rdfs:label>
+    <schema:location rdf:datatype="http://www.w3.org/2001/XMLSchema#string">さいたまスーパーアリーナ</schema:location>
+    <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-04-22</schema:startDate>
+    <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-02-22</schema:endDate>
+    <schema:url rdf:resource="https://idolmaster-official.jp/live_event/million10th/"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Live"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="THE%20IDOLM%40STER%20MILLION%20LIVE%21%2010thLIVE%20TOUR%20Act-1%20H%40PPY%204%20YOU%21%20Day2">
+    <schema:actor xml:lang="ja">Machico</schema:actor>
+    <schema:actor xml:lang="ja">愛美</schema:actor>
+    <schema:actor xml:lang="ja">麻倉もも</schema:actor>
+    <schema:actor xml:lang="ja">阿部里果</schema:actor>
+    <schema:actor xml:lang="ja">稲川英里</schema:actor>
+    <schema:actor xml:lang="ja">大関英里</schema:actor>
+    <schema:actor xml:lang="ja">木戸衣吹</schema:actor>
+    <schema:actor xml:lang="ja">桐谷蝶々</schema:actor>
+    <schema:actor xml:lang="ja">小岩井ことり</schema:actor>
+    <schema:actor xml:lang="ja">駒形友梨</schema:actor>
+    <schema:actor xml:lang="ja">近藤唯</schema:actor>
+    <schema:actor xml:lang="ja">諏訪彩花</schema:actor>
+    <schema:actor xml:lang="ja">髙橋ミナミ</schema:actor>
+    <schema:actor xml:lang="ja">原嶋あかり</schema:actor>
+    <schema:actor xml:lang="ja">山口立花子</schema:actor>
+    <schema:eventStatus rdf:resource="http://schema.org/EventScheduled" />
+    <schema:eventAttendanceMode rdf:resource="http://schema.org/MixedEventAttendanceMode" />
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">THE IDOLM@STER MILLION LIVE! 10thLIVE TOUR Act-1 H@PPY 4 YOU! Day2</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">THE IDOLM@STER MILLION LIVE! 10thLIVE TOUR Act-1 H@PPY 4 YOU! Day2</rdfs:label>
+    <schema:location rdf:datatype="http://www.w3.org/2001/XMLSchema#string">さいたまスーパーアリーナ</schema:location>
+    <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-04-23</schema:startDate>
+    <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-02-23</schema:endDate>
+    <schema:url rdf:resource="https://idolmaster-official.jp/live_event/million10th/"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Live"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="THE%20IDOLM%40STER%20MILLION%20LIVE%21%2010thLIVE%20TOUR%20Act-2%205%20TO%20SP%40RKLE%21%21%20Day1">
+    <schema:eventStatus rdf:resource="http://schema.org/EventScheduled" />
+    <schema:eventAttendanceMode rdf:resource="http://schema.org/MixedEventAttendanceMode" />
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">THE IDOLM@STER MILLION LIVE! 10thLIVE TOUR Act-2 5 TO SP@RKLE!! Day1</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">THE IDOLM@STER MILLION LIVE! 10thLIVE TOUR Act-2 5 TO SP@RKLE!! Day1</rdfs:label>
+    <schema:location rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ポートメッセなごや</schema:location>
+    <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-07-29</schema:startDate>
+    <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-07-29</schema:endDate>
+    <schema:url rdf:resource="https://idolmaster-official.jp/live_event/million10th/"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Live"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="THE%20IDOLM%40STER%20MILLION%20LIVE%21%2010thLIVE%20TOUR%20Act-2%205%20TO%20SP%40RKLE%21%21%20Day2">
+    <schema:eventStatus rdf:resource="http://schema.org/EventScheduled" />
+    <schema:eventAttendanceMode rdf:resource="http://schema.org/MixedEventAttendanceMode" />
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">THE IDOLM@STER MILLION LIVE! 10thLIVE TOUR Act-2 5 TO SP@RKLE!! Day2</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">THE IDOLM@STER MILLION LIVE! 10thLIVE TOUR Act-2 5 TO SP@RKLE!! Day2</rdfs:label>
+    <schema:location rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ポートメッセなごや</schema:location>
+    <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-07-30</schema:startDate>
+    <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-07-30</schema:endDate>
+    <schema:url rdf:resource="https://idolmaster-official.jp/live_event/million10th/"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Live"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="THE%20IDOLM%40STER%20MILLION%20LIVE%21%2010thLIVE%20TOUR%20Act-3%20R%40ISE%20THE%20DREAM%21%21%21%20Day1">
+    <schema:eventStatus rdf:resource="http://schema.org/EventScheduled" />
+    <schema:eventAttendanceMode rdf:resource="http://schema.org/MixedEventAttendanceMode" />
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">THE IDOLM@STER MILLION LIVE! 10thLIVE TOUR Act-3 R@ISE THE DREAM!!! Day1</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">THE IDOLM@STER MILLION LIVE! 10thLIVE TOUR Act-3 R@ISE THE DREAM!!! Day1</rdfs:label>
+    <schema:location rdf:datatype="http://www.w3.org/2001/XMLSchema#string">西日本総合展示場 新館</schema:location>
+    <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-11-04</schema:startDate>
+    <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-11-04</schema:endDate>
+    <schema:url rdf:resource="https://idolmaster-official.jp/live_event/million10th/"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Live"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="THE%20IDOLM%40STER%20MILLION%20LIVE%21%2010thLIVE%20TOUR%20Act-3%20R%40ISE%20THE%20DREAM%21%21%21%20Day2">
+    <schema:eventStatus rdf:resource="http://schema.org/EventScheduled" />
+    <schema:eventAttendanceMode rdf:resource="http://schema.org/MixedEventAttendanceMode" />
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">THE IDOLM@STER MILLION LIVE! 10thLIVE TOUR Act-3 R@ISE THE DREAM!!! Day2</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">THE IDOLM@STER MILLION LIVE! 10thLIVE TOUR Act-3 R@ISE THE DREAM!!! Day2</rdfs:label>
+    <schema:location rdf:datatype="http://www.w3.org/2001/XMLSchema#string">西日本総合展示場 新館</schema:location>
+    <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-11-04</schema:startDate>
+    <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-11-04</schema:endDate>
+    <schema:url rdf:resource="https://idolmaster-official.jp/live_event/million10th/"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Live"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="THE%20IDOLM%40STER%20MILLION%20LIVE%21%2010thLIVE%20TOUR%20Act-4%20MILLION%20THE%40TER%21%21%21%21%20Day1">
+    <schema:eventStatus rdf:resource="http://schema.org/EventScheduled" />
+    <schema:eventAttendanceMode rdf:resource="http://schema.org/MixedEventAttendanceMode" />
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">THE IDOLM@STER MILLION LIVE! 10thLIVE TOUR Act-4 MILLION THE@TER!!!! Day1</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">THE IDOLM@STER MILLION LIVE! 10thLIVE TOUR Act-4 MILLION THE@TER!!!! Day1</rdfs:label>
+    <schema:location rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kアリーナ横浜</schema:location>
+    <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-02-24</schema:startDate>
+    <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-02-24</schema:endDate>
+    <schema:url rdf:resource="https://idolmaster-official.jp/live_event/million10th/"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Live"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="THE%20IDOLM%40STER%20MILLION%20LIVE%21%2010thLIVE%20TOUR%20Act-4%20MILLION%20THE%40TER%21%21%21%21%20Day2">
+    <schema:eventStatus rdf:resource="http://schema.org/EventScheduled" />
+    <schema:eventAttendanceMode rdf:resource="http://schema.org/MixedEventAttendanceMode" />
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">THE IDOLM@STER MILLION LIVE! 10thLIVE TOUR Act-4 MILLION THE@TER!!!! Day2</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">THE IDOLM@STER MILLION LIVE! 10thLIVE TOUR Act-4 MILLION THE@TER!!!! Day2</rdfs:label>
+    <schema:location rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kアリーナ横浜</schema:location>
+    <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-02-25</schema:startDate>
+    <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-02-25</schema:endDate>
+    <schema:url rdf:resource="https://idolmaster-official.jp/live_event/million10th/"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Live"/>
   </rdf:Description>
 </rdf:RDF>
