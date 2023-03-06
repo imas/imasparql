@@ -351,6 +351,12 @@
     <imas:Whose rdf:resource="Saijo_Juri"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
+  <rdf:Description rdf:about="Strumming_Bleach">
+    <schema:name xml:lang="ja">ストラミングブリーチ</schema:name>
+    <rdfs:label rdf:datatype="http://www.w5.org/2001/XMLSchema#string">ストラミングブリーチ</rdfs:label>
+    <imas:Whose rdf:resource="Saijo_Juri"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
 
   <!-- 杜野凛世 -->
   <rdf:Description rdf:about="Ruriiro_Flare">
@@ -549,6 +555,12 @@
     <imas:Whose rdf:resource="Serizawa_Asahi"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
+  <rdf:Description rdf:about="Energy_Deciderata">
+    <schema:name xml:lang="ja">エナジーデシデラータ</schema:name>
+    <rdfs:label rdf:datatype="http://www.w5.org/2001/XMLSchema#string">エナジーデシデラータ</rdfs:label>
+    <imas:Whose rdf:resource="Serizawa_Asahi"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
 
   <!-- 黛冬優子 -->
   <rdf:Description rdf:about="Yumekawa_Pastel">
@@ -632,6 +644,12 @@
   <rdf:Description rdf:about="Pastelic_PVC">
     <schema:name xml:lang="ja">パステリックピーヴイシー</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">パステリックピーヴイシー</rdfs:label>
+    <imas:Whose rdf:resource="Higuchi_Madoka"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Dream_Of_Butterfly">
+    <schema:name xml:lang="ja">ドリームオブバタフライ</schema:name>
+    <rdfs:label rdf:datatype="http://www.w5.org/2001/XMLSchema#string">ドリームオブバタフライ</rdfs:label>
     <imas:Whose rdf:resource="Higuchi_Madoka"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
