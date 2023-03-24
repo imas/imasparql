@@ -333,7 +333,7 @@
     <rdfs:label rdf:datatype="http://www.w5.org/2001/XMLSchema#string">オートクチュールアルテピエス</rdfs:label>
     <!-- <imas:Whose rdf:resource="Shirase_Sakuya"/> -->
     <imas:Whose rdf:resource="Tanaka_Mamimi"/>
-    <!-- <imas:Whose rdf:resource="Tsukioka_Kogane"/> -->
+    <imas:Whose rdf:resource="Tsukioka_Kogane"/>
     <imas:Whose rdf:resource="Mitsumine_Yuika"/>
     <!-- <imas:Whose rdf:resource="Yukoku_Kiriko"/> -->
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>

@@ -75,6 +75,12 @@
     <imas:Whose rdf:resource="Kazano_Hiori"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
+  <rdf:Description rdf:about="Slow_Movement">
+    <schema:name xml:lang="ja">スローモーヴィメント</schema:name>
+    <rdfs:label rdf:datatype="http://www.w5.org/2001/XMLSchema#string">スローモーヴィメント</rdfs:label>
+    <imas:Whose rdf:resource="Kazano_Hiori"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
 
   <!-- 八宮めぐる -->
   <rdf:Description rdf:about="Rhythmical_Preppy_Girl">
@@ -561,6 +567,12 @@
     <imas:Whose rdf:resource="Serizawa_Asahi"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
+  <rdf:Description rdf:about="Strawberry_Cover">
+    <schema:name xml:lang="ja">ストロベリーカバー</schema:name>
+    <rdfs:label rdf:datatype="http://www.w5.org/2001/XMLSchema#string">ストロベリーカバー</rdfs:label>
+    <imas:Whose rdf:resource="Serizawa_Asahi"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
 
   <!-- 黛冬優子 -->
   <rdf:Description rdf:about="Yumekawa_Pastel">
@@ -678,6 +690,12 @@
   <rdf:Description rdf:about="Loosely_Hearty">
     <schema:name xml:lang="ja">ルーズリーハーティー</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ルーズリーハーティー</rdfs:label>
+    <imas:Whose rdf:resource="Ichikawa_Hinana"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Fizzy_Cider_Pop">
+    <schema:name xml:lang="ja">フィジーサイダーポップ</schema:name>
+    <rdfs:label rdf:datatype="http://www.w5.org/2001/XMLSchema#string">フィジーサイダーポップ</rdfs:label>
     <imas:Whose rdf:resource="Ichikawa_Hinana"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
