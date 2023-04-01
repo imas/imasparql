@@ -4317,6 +4317,9 @@
     <imas:Hip rdf:datatype="http://www.w3.org/2001/XMLSchema#float">86.0</imas:Hip>
     <imas:Constellation xml:lang="ja">山羊座</imas:Constellation>
     <schema:birthPlace xml:lang="ja">長野</schema:birthPlace>
+    <imas:cv xml:lang="ja">原涼子</imas:cv>
+    <imas:cv rdf:resource="http://ja.dbpedia.org/resource/原涼子"/>
+    <imas:cv rdf:resource="http://www.wikidata.org/entity/Q18054636"/>
     <imas:Hobby xml:lang="ja">歌を口ずさむこと</imas:Hobby>
     <imas:PopLinksAttribute xml:lang="en">snow</imas:PopLinksAttribute>
     <imas:PopLinksAttribute xml:lang="ja">雪</imas:PopLinksAttribute>
