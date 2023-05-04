@@ -1061,9 +1061,9 @@
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--01-31</schema:birthDate>
     <imas:Constellation xml:lang="ja">水瓶座</imas:Constellation>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A</imas:BloodType>
-    <!-- <imas:Handedness rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></imas:Handedness> -->
-    <!-- <imas:Hobby xml:lang="ja"></imas:Hobby> -->
-    <!-- <imas:Talent xml:lang="ja"></imas:Talent> -->
+    <imas:Handedness rdf:datatype="http://www.w3.org/2001/XMLSchema#string">left</imas:Handedness>
+    <imas:Hobby xml:lang="ja">ナシ</imas:Hobby>
+    <imas:Talent xml:lang="ja">ナシ</imas:Talent>
     <imas:cv xml:lang="ja">川口莉奈</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/川口莉奈"/>
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q106152263"/>
@@ -1074,6 +1074,6 @@
     <schema:memberOf rdf:resource="283Production"/>
     <schema:description xml:lang="ja">悩める現代女子たちの『カミサマ』として一部でカルト的な人気を集めている。 荒々しい言動で周囲を威嚇することも多いが、実は脆く傷つきやすい一面も。</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
-    <!-- <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/"/> -->
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/50026"/>
   </rdf:Description>
 </rdf:RDF>
