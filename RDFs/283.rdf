@@ -1067,11 +1067,12 @@
     <imas:cv xml:lang="ja">川口莉奈</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/川口莉奈"/>
     <imas:cv rdf:resource="http://www.wikidata.org/entity/Q106152263"/>
-    <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">1E140E</imas:Color>
+    <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">24130D</imas:Color>
     <schema:birthPlace xml:lang="ja">神奈川県</schema:birthPlace>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Brand xml:lang="en">ShinyColors</imas:Brand>
-    <schema:description xml:lang="ja">話題沸騰中のソロアイドル。悩める現代女子たちの『カミサマ』として一部でカルト的な人気を集めている。理由は不明だが、283プロを敵視している。</schema:description>
+    <schema:memberOf rdf:resource="283Production"/>
+    <schema:description xml:lang="ja">悩める現代女子たちの『カミサマ』として一部でカルト的な人気を集めている。 荒々しい言動で周囲を威嚇することも多いが、実は脆く傷つきやすい一面も。</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <!-- <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/"/> -->
   </rdf:Description>

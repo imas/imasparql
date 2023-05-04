@@ -333,7 +333,7 @@
     <rdfs:label rdf:datatype="http://www.w5.org/2001/XMLSchema#string">オートクチュールアルテピエス</rdfs:label>
     <!-- <imas:Whose rdf:resource="Shirase_Sakuya"/> -->
     <imas:Whose rdf:resource="Tanaka_Mamimi"/>
-    <!-- <imas:Whose rdf:resource="Tsukioka_Kogane"/> -->
+    <imas:Whose rdf:resource="Tsukioka_Kogane"/>
     <imas:Whose rdf:resource="Mitsumine_Yuika"/>
     <!-- <imas:Whose rdf:resource="Yukoku_Kiriko"/> -->
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
@@ -610,7 +610,7 @@
     <imas:Whose rdf:resource="Arisugawa_Natsuha"/>
     <imas:Whose rdf:resource="Komiya_Kaho"/>
     <imas:Whose rdf:resource="Saijo_Juri"/>
-    <!-- <imas:Whose rdf:resource="Sonoda_Chiyoko"/> -->
+    <imas:Whose rdf:resource="Sonoda_Chiyoko"/>
     <imas:Whose rdf:resource="Morino_Rinze"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
@@ -1037,6 +1037,27 @@
     <schema:name xml:lang="ja">チェッキンキューン</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">チェッキンキューン</rdfs:label>
     <schema:description xml:lang="ja">with us＠遊んでくれるかな……？</schema:description>
+    <imas:Whose rdf:resource="Kuwayama_Chiyuki"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="KaburyiOfWhite_OsakiAmana">
+    <schema:name xml:lang="ja">カブリィオブホワイト</schema:name>
+    <rdfs:label rdf:datatype="http://www.w5.org/2001/XMLSchema#string">カブリィオブホワイト</rdfs:label>
+    <schema:description xml:lang="ja">wish!wink!white! まな☆くま☆くま☆まな</schema:description>
+    <imas:Whose rdf:resource="Osaki_Amana"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="KaburyiOfWhite_OsakiTenka">
+    <schema:name xml:lang="ja">カブリィオブホワイト</schema:name>
+    <rdfs:label rdf:datatype="http://www.w5.org/2001/XMLSchema#string">カブリィオブホワイト</rdfs:label>
+    <schema:description xml:lang="ja">wish!wink!white! くまさんが食べます</schema:description>
+    <imas:Whose rdf:resource="Osaki_Tenka"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="KaburyiOfWhite_KuwayamaChiyuki">
+    <schema:name xml:lang="ja">カブリィオブホワイト</schema:name>
+    <rdfs:label rdf:datatype="http://www.w5.org/2001/XMLSchema#string">カブリィオブホワイト</rdfs:label>
+    <schema:description xml:lang="ja">wish!wink!white! そろそろ、目覚めの春</schema:description>
     <imas:Whose rdf:resource="Kuwayama_Chiyuki"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
