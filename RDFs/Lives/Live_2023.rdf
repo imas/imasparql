@@ -4,6 +4,63 @@
   xmlns:foaf="http://xmlns.com/foaf/0.1/"
   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
   xmlns:imas="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#" xml:base="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/">
+
+  <rdf:Description rdf:about="THE%20IDOLM%40STER%20MILLION%20LIVE%21%209thLIVE%20ChoruSp%40rkle%21%21%20Day1">
+    <schema:actor xml:lang="ja">Machico</schema:actor>
+    <schema:actor xml:lang="ja">郁原ゆう</schema:actor>
+    <schema:actor xml:lang="ja">平山笑美</schema:actor>
+    <schema:actor xml:lang="ja">近藤唯</schema:actor>
+    <schema:actor xml:lang="ja">角元明日香</schema:actor>
+    <schema:actor xml:lang="ja">南早紀</schema:actor>
+    <schema:actor xml:lang="ja">渡部恵子</schema:actor>
+    <schema:actor xml:lang="ja">諏訪彩花</schema:actor>
+    <schema:actor xml:lang="ja">末柄里恵</schema:actor>
+    <schema:actor xml:lang="ja">原嶋あかり</schema:actor>
+    <schema:actor xml:lang="ja">伊藤美来</schema:actor>
+    <schema:actor xml:lang="ja">野村香菜子</schema:actor>
+    <schema:actor xml:lang="ja">麻倉もも</schema:actor>
+    <schema:actor xml:lang="ja">浜崎奈々</schema:actor>
+    <schema:actor xml:lang="ja">桐谷蝶々</schema:actor>
+    <schema:actor xml:lang="ja">夏川椎菜</schema:actor>
+    <schema:actor xml:lang="ja">渡部優衣</schema:actor>
+    <schema:eventStatus rdf:resource="http://schema.org/EventScheduled" />
+    <schema:eventAttendanceMode rdf:resource="http://schema.org/MixedEventAttendanceMode" />
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">THE IDOLM@STER MILLION LIVE! 9thLIVE ChoruSp@rkle!! Day1</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">THE IDOLM@STER MILLION LIVE! 9thLIVE ChoruSp@rkle!! Day1</rdfs:label>
+    <schema:location rdf:datatype="http://www.w3.org/2001/XMLSchema#string">日本武道館</schema:location>
+    <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-01-14</schema:startDate>
+    <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-01-14</schema:endDate>
+    <schema:url rdf:resource="https://idolmaster-official.jp/live_event/million9th/"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Live"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="THE%20IDOLM%40STER%20MILLION%20LIVE%21%209thLIVE%20ChoruSp%40rkle%21%21%20Day2">
+    <schema:actor xml:lang="ja">山崎はるか</schema:actor>
+    <schema:actor xml:lang="ja">田所あずさ</schema:actor>
+    <schema:actor xml:lang="ja">稲川英里</schema:actor>
+    <schema:actor xml:lang="ja">雨宮天</schema:actor>
+    <schema:actor xml:lang="ja">田村奈央</schema:actor>
+    <schema:actor xml:lang="ja">香里有佐</schema:actor>
+    <schema:actor xml:lang="ja">大関英里</schema:actor>
+    <schema:actor xml:lang="ja">駒形友梨</schema:actor>
+    <schema:actor xml:lang="ja">小岩井ことり</schema:actor>
+    <schema:actor xml:lang="ja">藤井ゆきよ</schema:actor>
+    <schema:actor xml:lang="ja">斉藤佑圭</schema:actor>
+    <schema:actor xml:lang="ja">小笠原早紀</schema:actor>
+    <schema:actor xml:lang="ja">髙橋ミナミ</schema:actor>
+    <schema:actor xml:lang="ja">阿部里果</schema:actor>
+    <schema:actor xml:lang="ja">山口立花子</schema:actor>
+    <schema:actor xml:lang="ja">木戸衣吹</schema:actor>
+    <schema:actor xml:lang="ja">中村温姫</schema:actor>
+    <schema:eventStatus rdf:resource="http://schema.org/EventScheduled" />
+    <schema:eventAttendanceMode rdf:resource="http://schema.org/MixedEventAttendanceMode" />
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">THE IDOLM@STER MILLION LIVE! 9thLIVE ChoruSp@rkle!! Day2</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">THE IDOLM@STER MILLION LIVE! 9thLIVE ChoruSp@rkle!! Day2</rdfs:label>
+    <schema:location rdf:datatype="http://www.w3.org/2001/XMLSchema#string">日本武道館</schema:location>
+    <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-01-15</schema:startDate>
+    <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-01-15</schema:endDate>
+    <schema:url rdf:resource="https://idolmaster-official.jp/live_event/million9th/"/>
+  </rdf:Description>
+
   <rdf:Description rdf:about="THE%20IDOLM%40STER%20M%40STERS%20OF%20IDOL%20WORLD%21%21%21%21%21%202023%20Day1">
     <schema:actor xml:lang="ja">中村繪里子</schema:actor>
     <schema:actor xml:lang="ja">今井麻美</schema:actor>
@@ -139,6 +196,70 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Live"/>
   </rdf:Description>
 
+  <rdf:Description rdf:about="THE%20IDOLM%40STER%20SideM%20PASSIONABLE%20READING%20SHOW%20%E3%83%BC%E8%B6%85%E5%B8%B8%E4%BA%8B%E5%A4%89%EF%BD%9E%E5%AF%BE%E7%AB%8B%E3%82%B9%E3%83%AB%E6%AD%A3%E7%BE%A9%EF%BD%9E%E3%83%BC20Day1">
+    <schema:actor xml:lang="ja">神原大地</schema:actor>
+    <schema:actor xml:lang="ja">堀江瞬</schema:actor>
+    <schema:actor xml:lang="ja">熊谷健太郎</schema:actor>
+    <schema:actor xml:lang="ja">バレッタ裕</schema:actor>
+    <schema:actor xml:lang="ja">白井悠介</schema:actor>
+    <schema:actor xml:lang="ja">益山武明</schema:actor>
+    <schema:actor xml:lang="ja">小林大紀</schema:actor>
+    <schema:actor xml:lang="ja">伊東健人</schema:actor>
+    <schema:actor xml:lang="ja">比留間俊哉</schema:actor>
+    <schema:actor xml:lang="ja">伊勢結陸</schema:actor>
+    <schema:actor xml:lang="ja">永野由祐</schema:actor>
+    <schema:actor xml:lang="ja">山谷祥生</schema:actor>
+    <schema:actor xml:lang="ja">増元拓也</schema:actor>
+    <schema:actor xml:lang="ja">渡辺紘</schema:actor>
+    <schema:actor xml:lang="ja">野上翔</schema:actor>
+    <schema:actor xml:lang="ja">児玉卓也</schema:actor>
+    <schema:actor xml:lang="ja">古畑恵介</schema:actor>
+    <schema:actor xml:lang="ja">濱野大輝</schema:actor>
+    <schema:actor xml:lang="ja">笠間淳</schema:actor>
+    <schema:actor xml:lang="ja">宮崎雅也</schema:actor>
+    <schema:eventStatus rdf:resource="http://schema.org/EventScheduled" />
+    <schema:eventAttendanceMode rdf:resource="http://schema.org/MixedEventAttendanceMode" />
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">THE IDOLM@STER SideM PASSIONABLE READING SHOW ー超常事変～対立スル正義～ー Day1</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">THE IDOLM@STER SideM PASSIONABLE READING SHOW ー超常事変～対立スル正義～ー Day1</rdfs:label>
+    <schema:location rdf:datatype="http://www.w3.org/2001/XMLSchema#string">武蔵野の森 総合スポーツプラザ メインアリーナ</schema:location>
+    <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-03-11</schema:startDate>
+    <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-03-11</schema:endDate>
+    <schema:url rdf:resource="https://idolmaster-official.jp/live_event/sidem_prs2023/"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Live"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="THE%20IDOLM%40STER%20SideM%20PASSIONABLE%20READING%20SHOW%20%E3%83%BC%E8%B6%85%E5%B8%B8%E4%BA%8B%E5%A4%89%EF%BD%9E%E5%AF%BE%E7%AB%8B%E3%82%B9%E3%83%AB%E6%AD%A3%E7%BE%A9%EF%BD%9E%E3%83%BC20Day2">
+    <schema:actor xml:lang="ja">寺島拓篤</schema:actor>
+    <schema:actor xml:lang="ja">土岐隼一</schema:actor>
+    <schema:actor xml:lang="ja">高塚智人</schema:actor>
+    <schema:actor xml:lang="ja">菊池勇成</schema:actor>
+    <schema:actor xml:lang="ja">濱健人</schema:actor>
+    <schema:actor xml:lang="ja">中田祐矢</schema:actor>
+    <schema:actor xml:lang="ja">千葉翔也</schema:actor>
+    <schema:actor xml:lang="ja">永塚拓馬</schema:actor>
+    <schema:actor xml:lang="ja">野上翔</schema:actor>
+    <schema:actor xml:lang="ja">益山武明</schema:actor>
+    <schema:actor xml:lang="ja">狩野翔</schema:actor>
+    <schema:actor xml:lang="ja">天崎滉平</schema:actor>
+    <schema:actor xml:lang="ja">古川慎</schema:actor>
+    <schema:actor xml:lang="ja">矢野奨吾</schema:actor>
+    <schema:actor xml:lang="ja">榎木淳弥</schema:actor>
+    <schema:actor xml:lang="ja">中島ヨシキ</schema:actor>
+    <schema:actor xml:lang="ja">寺島惇太</schema:actor>
+    <schema:actor xml:lang="ja">小松昌平</schema:actor>
+    <schema:actor xml:lang="ja">浦尾岳大</schema:actor>
+    <schema:actor xml:lang="ja">汐谷文康</schema:actor>
+    <schema:actor xml:lang="ja">大塚剛央</schema:actor>
+    <schema:eventStatus rdf:resource="http://schema.org/EventScheduled" />
+    <schema:eventAttendanceMode rdf:resource="http://schema.org/MixedEventAttendanceMode" />
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">THE IDOLM@STER SideM PASSIONABLE READING SHOW ー超常事変～対立スル正義～ー Day2</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">THE IDOLM@STER SideM PASSIONABLE READING SHOW ー超常事変～対立スル正義～ー Day2</rdfs:label>
+    <schema:location rdf:datatype="http://www.w3.org/2001/XMLSchema#string">武蔵野の森 総合スポーツプラザ メインアリーナ</schema:location>
+    <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-03-12</schema:startDate>
+    <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-03-12</schema:endDate>
+    <schema:url rdf:resource="https://idolmaster-official.jp/live_event/sidem_prs2023/"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Live"/>
+  </rdf:Description>
+
   <rdf:Description rdf:about="THE%20IDOLM%40STER%20SHINY%20COLORS%205thLIVE%20If%20I_wings%2eDay1">
     <schema:actor xml:lang="ja">関根瞳</schema:actor>
     <schema:actor xml:lang="ja">峯田茉優</schema:actor>
@@ -208,6 +329,6 @@
     <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-03-19</schema:startDate>
     <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-03-19</schema:endDate>
     <schema:url rdf:resource="https://idolmaster-official.jp/live_event/shinycolors_5th/"/>
-    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Live"/>
   </rdf:Description>
+
 </rdf:RDF>
