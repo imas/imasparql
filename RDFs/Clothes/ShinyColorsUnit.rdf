@@ -84,7 +84,7 @@
   <rdf:Description rdf:about="Explore_Serata">
     <schema:name xml:lang="ja">エクスプロアセラータ</schema:name>
     <rdfs:label rdf:datatype="http://www.w5.org/2001/XMLSchema#string">エクスプロアセラータ</rdfs:label>
-    <!-- <imas:Whose rdf:resource="Kazano_Hiori"/> -->
+    <imas:Whose rdf:resource="Kazano_Hiori"/>
     <imas:Whose rdf:resource="Sakuragi_Mano"/>
     <!-- <imas:Whose rdf:resource="Hachimiya_Meguru"/> -->
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
@@ -1259,7 +1259,7 @@
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">パルミエーレインビュー</rdfs:label>
     <imas:Whose rdf:resource="Asakura_Toru"/>
     <imas:Whose rdf:resource="Higuchi_Madoka"/>
-    <!-- <imas:Whose rdf:resource="Fukumaru_Koito"/> -->
+    <imas:Whose rdf:resource="Fukumaru_Koito"/>
     <imas:Whose rdf:resource="Ichikawa_Hinana"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>

@@ -35,6 +35,7 @@
     <imas:Whose rdf:resource="Ichikawa_Hinana"/>
     <imas:Whose rdf:resource="Nanakusa_Nichika"/>
     <imas:Whose rdf:resource="Aketa_Mikoto"/>
+    <imas:Whose rdf:resource="Ikaruga_Luca"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
 
@@ -2065,6 +2066,20 @@
     <imas:Whose rdf:resource="Sonoda_Chiyoko"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
+  <rdf:Description rdf:about="DressUpParfum_SaijoJuri">
+    <schema:name xml:lang="ja">ドレスアップパルファム</schema:name>
+    <rdfs:label rdf:datatype="http://www.w5.org/2001/XMLSchema#string">ドレスアップパルファム</rdfs:label>
+    <schema:description xml:lang="ja">Cheers! 見ていいのは2秒以内</schema:description>
+    <imas:Whose rdf:resource="Saijo_Juri"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="DressUpParfum_MorinoRinze">
+    <schema:name xml:lang="ja">ドレスアップパルファム</schema:name>
+    <rdfs:label rdf:datatype="http://www.w5.org/2001/XMLSchema#string">ドレスアップパルファム</rdfs:label>
+    <schema:description xml:lang="ja">Cheers! 月夜で染めた衣裳に</schema:description>
+    <imas:Whose rdf:resource="Morino_Rinze"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
 
   <!-- セレスティアルカラーズ -->
   <rdf:Description rdf:about="CelestialColors_SakuragiMano">
@@ -2528,5 +2543,202 @@
     <imas:Whose rdf:resource="Arisugawa_Natsuha"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
-</rdf:RDF>
+  <rdf:Description rdf:about="RespectiveWorkStyle_SerizawaAsahi">
+    <schema:name xml:lang="ja">リスペクティブワークスタイル</schema:name>
+    <rdfs:label rdf:datatype="http://www.w5.org/2001/XMLSchema#string">リスペクティブワークスタイル</rdfs:label>
+    <schema:description xml:lang="ja">WORKING：わたしの前に謎なんてない</schema:description>
+    <imas:Whose rdf:resource="Serizawa_Asahi"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RespectiveWorkStyle_TanakaMamimi">
+    <schema:name xml:lang="ja">リスペクティブワークスタイル</schema:name>
+    <rdfs:label rdf:datatype="http://www.w5.org/2001/XMLSchema#string">リスペクティブワークスタイル</rdfs:label>
+    <schema:description xml:lang="ja">WORKING：ビューティーはお任せで</schema:description>
+    <imas:Whose rdf:resource="Tanaka_Mamimi"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
 
+  <!-- フローウィングベル -->
+  <rdf:Description rdf:about="FlowingBhel_SakuragiMano">
+    <schema:name xml:lang="ja">フローウィングベル</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">フローウィングベル</rdfs:label>
+    <imas:Whose rdf:resource="Sakuragi_Mano"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+    <schema:description xml:lang="ja">ブランクペイジ。それはきらめきの向こうへ駆けて</schema:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="FlowingBhel_KazanoHiori">
+    <schema:name xml:lang="ja">フローウィングベル</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">フローウィングベル</rdfs:label>
+    <imas:Whose rdf:resource="Kazano_Hiori"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+    <schema:description xml:lang="ja">ブランクペイジ。何があっても、何度でも。</schema:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="FlowingBhel_HachimiyaMeguru">
+    <schema:name xml:lang="ja">フローウィングベル</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">フローウィングベル</rdfs:label>
+    <imas:Whose rdf:resource="Hachimiya_Meguru"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+    <schema:description xml:lang="ja">ブランクペイジ。一緒ならどこへでもゆけるの</schema:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="FlowingBhel_TsukiokaKogane">
+    <schema:name xml:lang="ja">フローウィングベル</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">フローウィングベル</rdfs:label>
+    <imas:Whose rdf:resource="Tsukioka_Kogane"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+    <schema:description xml:lang="ja">ブランクペイジ。ふわり、ひらり、いざゆかん！</schema:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="FlowingBhel_TanakaMamimi">
+    <schema:name xml:lang="ja">フローウィングベル</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">フローウィングベル</rdfs:label>
+    <imas:Whose rdf:resource="Tanaka_Mamimi"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+    <schema:description xml:lang="ja">ブランクペイジ。ナイスホワイト</schema:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="FlowingBhel_ShiraseSakuya">
+    <schema:name xml:lang="ja">フローウィングベル</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">フローウィングベル</rdfs:label>
+    <imas:Whose rdf:resource="Shirase_Sakuya"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+    <schema:description xml:lang="ja">ブランクペイジ。ともに掴む可能性</schema:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="FlowingBhel_MitsumineYuika">
+    <schema:name xml:lang="ja">フローウィングベル</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">フローウィングベル</rdfs:label>
+    <imas:Whose rdf:resource="Mitsumine_Yuika"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+    <schema:description xml:lang="ja">ブランクペイジ。どんな色でもほしいままに</schema:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="FlowingBhel_YukokuKiriko">
+    <schema:name xml:lang="ja">フローウィングベル</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">フローウィングベル</rdfs:label>
+    <imas:Whose rdf:resource="Yukoku_Kiriko"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+    <schema:description xml:lang="ja">ブランクペイジ。きみが愛するとき</schema:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="FlowingBhel_KomiyaKaho">
+    <schema:name xml:lang="ja">フローウィングベル</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">フローウィングベル</rdfs:label>
+    <imas:Whose rdf:resource="Komiya_Kaho"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+    <schema:description xml:lang="ja">ブランクペイジ。これははじまりの色</schema:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="FlowingBhel_SonodaChiyoko">
+    <schema:name xml:lang="ja">フローウィングベル</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">フローウィングベル</rdfs:label>
+    <imas:Whose rdf:resource="Sonoda_Chiyoko"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+    <schema:description xml:lang="ja">ブランクペイジ。チョコとかこぼしたら大事故</schema:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="FlowingBhel_SaijoJuri">
+    <schema:name xml:lang="ja">フローウィングベル</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">フローウィングベル</rdfs:label>
+    <imas:Whose rdf:resource="Saijo_Juri"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+    <schema:description xml:lang="ja">ブランクペイジ。折り重なる幾重もの</schema:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="FlowingBhel_MorinoRinze">
+    <schema:name xml:lang="ja">フローウィングベル</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">フローウィングベル</rdfs:label>
+    <imas:Whose rdf:resource="Morino_Rinze"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+    <schema:description xml:lang="ja">ブランクペイジ。駆けよ天の階</schema:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="FlowingBhel_ArisugawaNatsuha">
+    <schema:name xml:lang="ja">フローウィングベル</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">フローウィングベル</rdfs:label>
+    <imas:Whose rdf:resource="Arisugawa_Natsuha"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+    <schema:description xml:lang="ja">ブランクペイジ。雪の彼方の、その先へ</schema:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="FlowingBhel_OsakiAmana">
+    <schema:name xml:lang="ja">フローウィングベル</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">フローウィングベル</rdfs:label>
+    <imas:Whose rdf:resource="Osaki_Amana"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+    <schema:description xml:lang="ja">ブランクペイジ。貴方がくれたこの羽でどこまでも</schema:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="FlowingBhel_OsakiTenka">
+    <schema:name xml:lang="ja">フローウィングベル</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">フローウィングベル</rdfs:label>
+    <imas:Whose rdf:resource="Osaki_Tenka"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+    <schema:description xml:lang="ja">ブランクペイジ。何度でもまっしろな心で</schema:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="FlowingBhel_KuwayamaChiyuki">
+    <schema:name xml:lang="ja">フローウィングベル</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">フローウィングベル</rdfs:label>
+    <imas:Whose rdf:resource="Kuwayama_Chiyuki"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+    <schema:description xml:lang="ja">ブランクペイジ。純白の強さを知るものよ</schema:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="FlowingBhel_SerizawaAsahi">
+    <schema:name xml:lang="ja">フローウィングベル</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">フローウィングベル</rdfs:label>
+    <imas:Whose rdf:resource="Serizawa_Asahi"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+    <schema:description xml:lang="ja">ブランクペイジ。重力すら振り切って</schema:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="FlowingBhel_MayuzumiFuyuko">
+    <schema:name xml:lang="ja">フローウィングベル</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">フローウィングベル</rdfs:label>
+    <imas:Whose rdf:resource="Mayuzumi_Fuyuko"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+    <schema:description xml:lang="ja">ブランクペイジ。この翼に届かぬ空はない</schema:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="FlowingBhel_IzumiMei">
+    <schema:name xml:lang="ja">フローウィングベル</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">フローウィングベル</rdfs:label>
+    <imas:Whose rdf:resource="Izumi_Mei"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+    <schema:description xml:lang="ja">ブランクペイジ。これは何度でも挑み続ける為の翼</schema:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="FlowingBhel_AsakuraToru">
+    <schema:name xml:lang="ja">フローウィングベル</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">フローウィングベル</rdfs:label>
+    <imas:Whose rdf:resource="Asakura_Toru"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+    <schema:description xml:lang="ja">ブランクペイジ。海になる前の</schema:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="FlowingBhel_HiguchiMadoka">
+    <schema:name xml:lang="ja">フローウィングベル</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">フローウィングベル</rdfs:label>
+    <imas:Whose rdf:resource="Higuchi_Madoka"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+    <schema:description xml:lang="ja">ブランクペイジ。光は混ざると</schema:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="FlowingBhel_FukumaruKoito">
+    <schema:name xml:lang="ja">フローウィングベル</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">フローウィングベル</rdfs:label>
+    <imas:Whose rdf:resource="Fukumaru_Koito"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+    <schema:description xml:lang="ja">ブランクペイジ。白い小鳥は青空を見上げる</schema:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="FlowingBhel_IchikawaHinana">
+    <schema:name xml:lang="ja">フローウィングベル</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">フローウィングベル</rdfs:label>
+    <imas:Whose rdf:resource="Ichikawa_Hinana"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+    <schema:description xml:lang="ja">ブランクペイジ。飛んでけ、しあわせいっぱいの羽</schema:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="FlowingBhel_NanakusaNichika">
+    <schema:name xml:lang="ja">フローウィングベル</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">フローウィングベル</rdfs:label>
+    <imas:Whose rdf:resource="Nanakusa_Nichika"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+    <schema:description xml:lang="ja">ブランクペイジ。おかえり</schema:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="FlowingBhel_AketaMikoto">
+    <schema:name xml:lang="ja">フローウィングベル</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">フローウィングベル</rdfs:label>
+    <imas:Whose rdf:resource="Aketa_Mikoto"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+    <schema:description xml:lang="ja">ブランクペイジ。歌い続ける、私を求めて</schema:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="FlowingBhel_IkarugaLuca">
+    <schema:name xml:lang="ja">フローウィングベル</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">フローウィングベル</rdfs:label>
+    <imas:Whose rdf:resource="Ikaruga_Luca"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+    <schema:description xml:lang="ja">ブランクペイジ。翼なんか　いらねぇ</schema:description>
+  </rdf:Description>
+</rdf:RDF>
