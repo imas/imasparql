@@ -331,7 +331,7 @@
   <rdf:Description rdf:about="Haute_Couture_Arte_Piece">
     <schema:name xml:lang="ja">オートクチュールアルテピエス</schema:name>
     <rdfs:label rdf:datatype="http://www.w5.org/2001/XMLSchema#string">オートクチュールアルテピエス</rdfs:label>
-    <!-- <imas:Whose rdf:resource="Shirase_Sakuya"/> -->
+    <imas:Whose rdf:resource="Shirase_Sakuya"/>
     <imas:Whose rdf:resource="Tanaka_Mamimi"/>
     <imas:Whose rdf:resource="Tsukioka_Kogane"/>
     <imas:Whose rdf:resource="Mitsumine_Yuika"/>
