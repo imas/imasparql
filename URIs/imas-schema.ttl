@@ -76,6 +76,10 @@ imas:CinderellaDreamUnitResult    a   rdfs:Class ;
     rdfs:comment                    "シンデレラガールズ ドリームユニット決定戦結果を表すクラス" ;
     rdfs:label                      "シンデレラガールズ ドリームユニット決定戦結果"@ja .
 
+imas:StageForCinderellaResult a rdfs:Class ;
+    rdfs:comment "シンデレラガールズ Stage for Cinderellaを表すクラス" ;
+    rdfs:label "シンデレラガールズ Stage for Cinderella結果"@ja .
+
 imas:Live                       a   rdfs:Class ;
     rdfs:comment                    "ライブを表すクラス" ;
     rdfs:label                      "ライブ"@ja ;
@@ -197,6 +201,10 @@ imas:Constellation      a   rdf:Property ;
 imas:VoteNumber         a   rdf:Property ;
     rdfs:comment            "得票数を表すプロパティ" ;
     rdfs:label              "得票数"@ja .
+
+imas:VoteRate           a   rdf:Property ;
+    rdfs:comment           "得票率を表すプロパティ" ;
+    rdfs:label             "得票率"@ja .
 
 imas:TuneNumber         a   rdf:Property ;
     rdfs:comment            "セットリスト内番号を表すプロパティ" ;

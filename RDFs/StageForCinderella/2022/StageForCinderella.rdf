@@ -1,0 +1,430 @@
+<rdf:RDF
+  xmlns:schema="http://schema.org/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:imas="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#"
+  xml:base="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/"
+>
+
+  <rdf:Description rdf:about="2022_groupA_01">
+    <schema:member rdf:resource="Hisakawa_Nagi" />
+    <imas:VoteRate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">33.54</imas:VoteRate>
+    <rdf:type
+      rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#StageForCinderellaResult" />
+  </rdf:Description>
+
+  <rdf:Description rdf:about="2022_groupA_02">
+    <schema:member rdf:resource="Ohtsuki_Yui" />
+    <imas:VoteRate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">27.25</imas:VoteRate>
+    <rdf:type
+      rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#StageForCinderellaResult" />
+  </rdf:Description>
+
+  <rdf:Description rdf:about="2022_groupA_03">
+    <schema:member rdf:resource="Takagaki_Kaede" />
+    <imas:VoteRate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">27.04</imas:VoteRate>
+    <rdf:type
+      rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#StageForCinderellaResult" />
+  </rdf:Description>
+
+  <rdf:Description rdf:about="2022_groupA_04">
+    <schema:member rdf:resource="Mochizuki_Hijiri" />
+    <imas:VoteRate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">22.02</imas:VoteRate>
+    <rdf:type
+      rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#StageForCinderellaResult" />
+  </rdf:Description>
+
+  <rdf:Description rdf:about="2022_groupA_05">
+    <schema:member rdf:resource="Nitta_Minami" />
+    <imas:VoteRate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">21.51</imas:VoteRate>
+    <rdf:type
+      rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#StageForCinderellaResult" />
+  </rdf:Description>
+
+  <rdf:Description rdf:about="2022_groupA_06">
+    <schema:member rdf:resource="Otokura_Yuuki" />
+    <rdf:type
+      rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#StageForCinderellaResult" />
+  </rdf:Description>
+
+  <rdf:Description rdf:about="2022_groupA_07">
+    <schema:member rdf:resource="Mifune_Miyu" />
+    <rdf:type
+      rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#StageForCinderellaResult" />
+  </rdf:Description>
+
+  <rdf:Description rdf:about="2022_groupA_08">
+    <schema:member rdf:resource="Morikubo_Nono" />
+    <rdf:type
+      rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#StageForCinderellaResult" />
+  </rdf:Description>
+
+  <rdf:Description rdf:about="2022_groupA_09">
+    <schema:member rdf:resource="Kohinata_Miho" />
+    <rdf:type
+      rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#StageForCinderellaResult" />
+  </rdf:Description>
+
+  <rdf:Description rdf:about="2022_groupA_10">
+    <schema:member rdf:resource="Sakurai_Momoka" />
+    <rdf:type
+      rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#StageForCinderellaResult" />
+  </rdf:Description>
+
+  <rdf:Description rdf:about="2022_groupA_11">
+    <schema:member rdf:resource="Maekawa_Miku" />
+    <rdf:type
+      rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#StageForCinderellaResult" />
+  </rdf:Description>
+
+  <rdf:Description rdf:about="2022_groupA_12">
+    <schema:member rdf:resource="Zaizen_Tokiko" />
+    <rdf:type
+      rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#StageForCinderellaResult" />
+  </rdf:Description>
+
+  <rdf:Description rdf:about="2022_groupA_13">
+    <schema:member rdf:resource="Shiomi_Syuko" />
+    <rdf:type
+      rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#StageForCinderellaResult" />
+  </rdf:Description>
+
+  <rdf:Description rdf:about="2022_groupA_14">
+    <schema:member rdf:resource="Kobayakawa_Sae" />
+    <rdf:type
+      rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#StageForCinderellaResult" />
+  </rdf:Description>
+
+  <rdf:Description rdf:about="2022_groupA_15">
+    <schema:member rdf:resource="Kiryu_Tsukasa" />
+    <rdf:type
+      rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#StageForCinderellaResult" />
+  </rdf:Description>
+
+
+  <rdf:Description rdf:about="2022_groupB_01">
+    <schema:member rdf:resource="Sato_Shin" />
+    <imas:VoteRate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">29.07</imas:VoteRate>
+    <rdf:type
+      rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#StageForCinderellaResult" />
+  </rdf:Description>
+
+  <rdf:Description rdf:about="2022_groupB_02">
+    <schema:member rdf:resource="Ichinose_Shiki" />
+    <imas:VoteRate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">26.93</imas:VoteRate>
+    <rdf:type
+      rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#StageForCinderellaResult" />
+  </rdf:Description>
+
+  <rdf:Description rdf:about="2022_groupB_03">
+    <schema:member rdf:resource="Layla" />
+    <imas:VoteRate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">26.00</imas:VoteRate>
+    <rdf:type
+      rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#StageForCinderellaResult" />
+  </rdf:Description>
+
+  <rdf:Description rdf:about="2022_groupB_04">
+    <schema:member rdf:resource="Takafuji_Kako" />
+    <imas:VoteRate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">25.11</imas:VoteRate>
+    <rdf:type
+      rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#StageForCinderellaResult" />
+  </rdf:Description>
+
+  <rdf:Description rdf:about="2022_groupB_05">
+    <schema:member rdf:resource="Sagisawa_Fumika" />
+    <imas:VoteRate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">22.90</imas:VoteRate>
+    <rdf:type
+      rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#StageForCinderellaResult" />
+  </rdf:Description>
+
+  <rdf:Description rdf:about="2022_groupB_06">
+    <schema:member rdf:resource="Fujiwara_Hajime" />
+    <rdf:type
+      rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#StageForCinderellaResult" />
+  </rdf:Description>
+
+  <rdf:Description rdf:about="2022_groupB_07">
+    <schema:member rdf:resource="Igarashi_Kyoko" />
+    <rdf:type
+      rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#StageForCinderellaResult" />
+  </rdf:Description>
+
+  <rdf:Description rdf:about="2022_groupB_08">
+    <schema:member rdf:resource="Tachibana_Arisu" />
+    <rdf:type
+      rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#StageForCinderellaResult" />
+  </rdf:Description>
+
+  <rdf:Description rdf:about="2022_groupB_09">
+    <schema:member rdf:resource="Shibuya_Rin" />
+    <rdf:type
+      rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#StageForCinderellaResult" />
+  </rdf:Description>
+
+  <rdf:Description rdf:about="2022_groupB_10">
+    <schema:member rdf:resource="Aiba_Yumi" />
+    <rdf:type
+      rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#StageForCinderellaResult" />
+  </rdf:Description>
+
+  <rdf:Description rdf:about="2022_groupB_11">
+    <schema:member rdf:resource="Shiragiku_Hotaru" />
+    <rdf:type
+      rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#StageForCinderellaResult" />
+  </rdf:Description>
+
+  <rdf:Description rdf:about="2022_groupB_12">
+    <schema:member rdf:resource="Hoshi_Syoko" />
+    <rdf:type
+      rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#StageForCinderellaResult" />
+  </rdf:Description>
+
+  <rdf:Description rdf:about="2022_groupB_13">
+    <schema:member rdf:resource="Imai_Kana" />
+    <rdf:type
+      rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#StageForCinderellaResult" />
+  </rdf:Description>
+
+  <rdf:Description rdf:about="2022_groupB_14">
+    <schema:member rdf:resource="Moroboshi_Kirari" />
+    <rdf:type
+      rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#StageForCinderellaResult" />
+  </rdf:Description>
+
+  <rdf:Description rdf:about="2022_groupB_15">
+    <schema:member rdf:resource="Matsuo_Chizuru" />
+    <rdf:type
+      rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#StageForCinderellaResult" />
+  </rdf:Description>
+
+
+  <rdf:Description rdf:about="2022_groupC_01">
+    <schema:member rdf:resource="Yorita_Yoshino" />
+    <imas:VoteRate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">26.44</imas:VoteRate>
+    <rdf:type
+      rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#StageForCinderellaResult" />
+  </rdf:Description>
+
+  <rdf:Description rdf:about="2022_groupC_02">
+    <schema:member rdf:resource="Tsujino_Akari" />
+    <imas:VoteRate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">22.41</imas:VoteRate>
+    <rdf:type
+      rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#StageForCinderellaResult" />
+  </rdf:Description>
+
+  <rdf:Description rdf:about="2022_groupC_03">
+    <schema:member rdf:resource="Shimamura_Uzuki" />
+    <imas:VoteRate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">22.21</imas:VoteRate>
+    <rdf:type
+      rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#StageForCinderellaResult" />
+  </rdf:Description>
+
+  <rdf:Description rdf:about="2022_groupC_04">
+    <schema:member rdf:resource="Kamiya_Nao" />
+    <imas:VoteRate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">21.47</imas:VoteRate>
+    <rdf:type
+      rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#StageForCinderellaResult" />
+  </rdf:Description>
+
+  <rdf:Description rdf:about="2022_groupC_05">
+    <schema:member rdf:resource="Sakuma_Mayu" />
+    <imas:VoteRate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">21.07</imas:VoteRate>
+    <rdf:type
+      rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#StageForCinderellaResult" />
+  </rdf:Description>
+
+  <rdf:Description rdf:about="2022_groupC_06">
+    <schema:member rdf:resource="Mizuki_Seira" />
+    <rdf:type
+      rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#StageForCinderellaResult" />
+  </rdf:Description>
+
+  <rdf:Description rdf:about="2022_groupC_07">
+    <schema:member rdf:resource="Hojo_Karen" />
+    <rdf:type
+      rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#StageForCinderellaResult" />
+  </rdf:Description>
+
+  <rdf:Description rdf:about="2022_groupC_08">
+    <schema:member rdf:resource="Miyamoto_Frederica" />
+    <rdf:type
+      rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#StageForCinderellaResult" />
+  </rdf:Description>
+
+  <rdf:Description rdf:about="2022_groupC_09">
+    <schema:member rdf:resource="Koshimizu_Sachiko" />
+    <rdf:type
+      rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#StageForCinderellaResult" />
+  </rdf:Description>
+
+  <rdf:Description rdf:about="2022_groupC_10">
+    <schema:member rdf:resource="Kurokawa_Chiaki" />
+    <rdf:type
+      rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#StageForCinderellaResult" />
+  </rdf:Description>
+
+  <rdf:Description rdf:about="2022_groupC_11">
+    <schema:member rdf:resource="Takamine_Noa" />
+    <rdf:type
+      rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#StageForCinderellaResult" />
+  </rdf:Description>
+
+  <rdf:Description rdf:about="2022_groupC_12">
+    <schema:member rdf:resource="Narumiya_Yume" />
+    <rdf:type
+      rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#StageForCinderellaResult" />
+  </rdf:Description>
+
+  <rdf:Description rdf:about="2022_groupC_13">
+    <schema:member rdf:resource="Shirayuki_Chiyo" />
+    <rdf:type
+      rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#StageForCinderellaResult" />
+  </rdf:Description>
+
+  <rdf:Description rdf:about="2022_groupC_14">
+    <schema:member rdf:resource="Sajo_Yukimi" />
+    <rdf:type
+      rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#StageForCinderellaResult" />
+  </rdf:Description>
+
+  <rdf:Description rdf:about="2022_groupC_15">
+    <schema:member rdf:resource="Shirasaka_Koume" />
+    <rdf:type
+      rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#StageForCinderellaResult" />
+  </rdf:Description>
+
+
+  <rdf:Description rdf:about="2022_groupD_01">
+    <schema:member rdf:resource="Hisakawa_Hayate" />
+    <imas:VoteRate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">31.29</imas:VoteRate>
+    <rdf:type
+      rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#StageForCinderellaResult" />
+  </rdf:Description>
+
+  <rdf:Description rdf:about="2022_groupD_02">
+    <schema:member rdf:resource="Takamori_Aiko" />
+    <imas:VoteRate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">21.53</imas:VoteRate>
+    <rdf:type
+      rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#StageForCinderellaResult" />
+  </rdf:Description>
+
+  <rdf:Description rdf:about="2022_groupD_03">
+    <schema:member rdf:resource="Yumemi_Riamu" />
+    <imas:VoteRate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">20.57</imas:VoteRate>
+    <rdf:type
+      rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#StageForCinderellaResult" />
+  </rdf:Description>
+
+  <rdf:Description rdf:about="2022_groupD_04">
+    <schema:member rdf:resource="Kanzaki_Ranko" />
+    <imas:VoteRate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">19.21</imas:VoteRate>
+    <rdf:type
+      rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#StageForCinderellaResult" />
+  </rdf:Description>
+
+  <rdf:Description rdf:about="2022_groupD_05">
+    <schema:member rdf:resource="Ohishi_Izumi" />
+    <imas:VoteRate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">19.19</imas:VoteRate>
+    <rdf:type
+      rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#StageForCinderellaResult" />
+  </rdf:Description>
+
+  <rdf:Description rdf:about="2022_groupD_06">
+    <schema:member rdf:resource="Eve_Santaclaus" />
+    <rdf:type
+      rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#StageForCinderellaResult" />
+  </rdf:Description>
+
+  <rdf:Description rdf:about="2022_groupD_07">
+    <schema:member rdf:resource="Matsumoto_Sarina" />
+    <rdf:type
+      rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#StageForCinderellaResult" />
+  </rdf:Description>
+
+  <rdf:Description rdf:about="2022_groupD_08">
+    <schema:member rdf:resource="Sunazuka_Akira" />
+    <rdf:type
+      rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#StageForCinderellaResult" />
+  </rdf:Description>
+
+  <rdf:Description rdf:about="2022_groupD_09">
+    <schema:member rdf:resource="Hayami_Kanade" />
+    <rdf:type
+      rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#StageForCinderellaResult" />
+  </rdf:Description>
+
+  <rdf:Description rdf:about="2022_groupD_10">
+    <schema:member rdf:resource="Ogata_Chieri" />
+    <rdf:type
+      rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#StageForCinderellaResult" />
+  </rdf:Description>
+
+  <rdf:Description rdf:about="2022_groupD_11">
+    <schema:member rdf:resource="Kurosaki_Chitose" />
+    <rdf:type
+      rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#StageForCinderellaResult" />
+  </rdf:Description>
+
+  <rdf:Description rdf:about="2022_groupD_12">
+    <schema:member rdf:resource="Fujii_Tomo" />
+    <rdf:type
+      rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#StageForCinderellaResult" />
+  </rdf:Description>
+
+  <rdf:Description rdf:about="2022_groupD_13">
+    <schema:member rdf:resource="Jougasaki_Mika" />
+    <rdf:type
+      rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#StageForCinderellaResult" />
+  </rdf:Description>
+
+  <rdf:Description rdf:about="2022_groupD_14">
+    <schema:member rdf:resource="Ninomiya_Asuka" />
+    <rdf:type
+      rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#StageForCinderellaResult" />
+  </rdf:Description>
+
+  <rdf:Description rdf:about="2022_groupD_15">
+    <schema:member rdf:resource="Anastasia" />
+    <rdf:type
+      rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#StageForCinderellaResult" />
+  </rdf:Description>
+
+
+  <rdf:Description rdf:about="2022_playOff_01">
+    <schema:member rdf:resource="Eve_Santaclaus" />
+    <rdf:type
+      rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#StageForCinderellaResult" />
+  </rdf:Description>
+
+
+  <!-- <rdf:Description rdf:about="2022_final_01">
+    <schema:member rdf:resource="" />
+    <rdf:type
+      rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#StageForCinderellaResult" />
+  </rdf:Description>
+
+  <rdf:Description rdf:about="2022_final_02">
+    <schema:member rdf:resource="" />
+    <rdf:type
+      rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#StageForCinderellaResult" />
+  </rdf:Description>
+
+  <rdf:Description rdf:about="2022_final_03">
+    <schema:member rdf:resource="" />
+    <rdf:type
+      rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#StageForCinderellaResult" />
+  </rdf:Description>
+
+  <rdf:Description rdf:about="2022_final_04">
+    <schema:member rdf:resource="" />
+    <rdf:type
+      rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#StageForCinderellaResult" />
+  </rdf:Description>
+
+  <rdf:Description rdf:about="2022_final_05">
+    <schema:member rdf:resource="" />
+    <rdf:type
+      rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#StageForCinderellaResult" />
+  </rdf:Description> -->
+
+</rdf:RDF>
