@@ -1077,6 +1077,42 @@
     <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/50026"/>
   </rdf:Description>
 
+  <rdf:Description rdf:about="Hana_Suzuki">
+    <schema:familyName xml:lang="ja">鈴木</schema:familyName>
+    <schema:familyName xml:lang="en">Suzuki</schema:familyName>
+    <imas:familyNameKana xml:lang="ja">すずき</imas:familyNameKana>
+    <schema:givenName xml:lang="ja">羽那</schema:givenName>
+    <schema:givenName xml:lang="en">Hana</schema:givenName>
+    <imas:givenNameKana xml:lang="ja">はな</imas:givenNameKana>
+    <imas:nameKana xml:lang="ja">すずきはな</imas:nameKana>
+    <schema:name xml:lang="ja">鈴木羽那</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">鈴木羽那</rdfs:label>
+    <schema:name xml:lang="en">Hana Suzuki</schema:name>
+    <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</foaf:age>
+    <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">158.0</schema:height>
+    <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">49.0</schema:weight>
+    <!--<imas:Bust rdf:datatype="http://www.w3.org/2001/XMLSchema#float">00.0</imas:Bust>-->
+    <!--<imas:Waist rdf:datatype="http://www.w3.org/2001/XMLSchema#float">00.0</imas:Waist>-->
+    <!--<imas:Hip rdf:datatype="http://www.w3.org/2001/XMLSchema#float">00.0</imas:Hip>-->
+    <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--10-02</schema:birthDate>
+    <imas:Constellation xml:lang="ja">天秤座</imas:Constellation>
+    <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">O</imas:BloodType>
+    <!--<imas:Handedness rdf:datatype="http://www.w3.org/2001/XMLSchema#string">left</imas:Handedness>-->
+    <!--<imas:Hobby xml:lang="ja"></imas:Hobby>-->
+    <!--<imas:Talent xml:lang="ja"></imas:Talent>-->
+    <imas:cv xml:lang="ja">三川華月</imas:cv>
+    <imas:cv rdf:resource="https://ja.dbpedia.org/page/三川華月"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q107587275"/>
+    <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">E0B5D3</imas:Color>
+    <schema:birthPlace xml:lang="ja">長野県</schema:birthPlace>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
+    <imas:Brand xml:lang="en">ShinyColors</imas:Brand>
+    <schema:memberOf rdf:resource="283Production"/>
+    <!--<schema:description xml:lang="ja"></schema:description>-->
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <!--<imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/50026"/>-->
+  </rdf:Description>
+
   <rdf:Description rdf:about="Haruki_Ikuta">
     <schema:familyName xml:lang="ja">郁田</schema:familyName>
     <schema:familyName xml:lang="en">Ikuta</schema:familyName>
@@ -1103,7 +1139,7 @@
     <imas:cv xml:lang="ja">小澤麗那</imas:cv>
     <imas:cv rdf:resource="https://ja.dbpedia.org/page/小澤麗那"/>
     <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q24537303"/>
-    <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">24130D</imas:Color>
+    <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">EAD7A4</imas:Color>
     <schema:birthPlace xml:lang="ja">長野県</schema:birthPlace>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Brand xml:lang="en">ShinyColors</imas:Brand>
