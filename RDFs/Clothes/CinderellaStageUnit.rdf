@@ -430,4 +430,13 @@
     <imas:Whose rdf:resource="Hoshi_Syoko"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
+  <rdf:Description rdf:about="Prefectural_Kita_High_School_Uniform">
+    <schema:name xml:lang="ja">県立北高校制服</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">県立北高校制服</rdfs:label>
+    <schema:description xml:lang="ja">世界を大いに盛り上げる少女達の制服ドレス。世の中がつまらないなら、自分たちで面白くしてしまおう。不思議な力はなくても、仲間と一緒なら変えていけるはずだ。</schema:description>
+    <imas:Whose rdf:resource="Abe_Nana"/>
+    <imas:Whose rdf:resource="Sajo_Yukimi"/>
+    <imas:Whose rdf:resource="Yumemi_Riamu"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
 </rdf:RDF>
