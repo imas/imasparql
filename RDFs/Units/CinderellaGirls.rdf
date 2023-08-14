@@ -10800,4 +10800,18 @@
     <schema:member rdf:resource="Matoba_Risa"/>
     <schema:member rdf:resource="Koga_Koharu"/>
   </rdf:Description>
+  <rdf:Description rdf:about="U149">
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">U149</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">U149</rdfs:label>
+    <schema:member rdf:resource="Akagi_Miria"/>
+    <schema:member rdf:resource="Ichihara_Nina"/>
+    <schema:member rdf:resource="Koga_Koharu"/>
+    <schema:member rdf:resource="Matoba_Risa"/>
+    <schema:member rdf:resource="Ryuzaki_Kaoru"/>
+    <schema:member rdf:resource="Sakurai_Momoka"/>
+    <schema:member rdf:resource="Sasaki_Chie"/>
+    <schema:member rdf:resource="Tachibana_Arisu"/>
+    <schema:member rdf:resource="Yuuki_Haru"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
+  </rdf:Description>
 </rdf:RDF>
