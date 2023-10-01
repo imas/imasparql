@@ -683,6 +683,13 @@
     <schema:description xml:lang="ja">トリック・オア・トリート！Found you！</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
+  <rdf:Description rdf:about="MidnightMonster_IkarugaLuca">
+    <schema:name xml:lang="ja">ミッドナイトモンスター</schema:name>
+    <rdfs:label rdf:datatype="http://www.w5.org/2001/XMLSchema#string">ミッドナイトモンスター</rdfs:label>
+    <schema:description xml:lang="ja">トリック・オア・トリート！　闇への忠誠（不本意）</schema:description>
+    <imas:Whose rdf:resource="Ikaruga_Luca"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
 
   <!-- ホーリーナイトケープ -->
   <rdf:Description rdf:about="HolyNightCape_SakuragiMano">
@@ -2108,6 +2115,13 @@
     <imas:Whose rdf:resource="Kuwayama_Chiyuki"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
+  <rdf:Description rdf:about="DressUpParfum_SerizawaAsahi">
+    <schema:name xml:lang="ja">ドレスアップパルファム</schema:name>
+    <rdfs:label rdf:datatype="http://www.w5.org/2001/XMLSchema#string">ドレスアップパルファム</rdfs:label>
+    <schema:description xml:lang="ja">Cheers! 高鳴りのタイミング</schema:description>
+    <imas:Whose rdf:resource="Serizawa_Asahi"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
 
   <!-- セレスティアルカラーズ -->
   <rdf:Description rdf:about="CelestialColors_SakuragiMano">
@@ -2611,6 +2625,13 @@
     <rdfs:label rdf:datatype="http://www.w5.org/2001/XMLSchema#string">リスペクティブワークスタイル</rdfs:label>
     <schema:description xml:lang="ja">WORKING：大盛り！いつでもサービス♪</schema:description>
     <imas:Whose rdf:resource="Izumi_Mei"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RespectiveWorkStyle_MorinoRinze">
+    <schema:name xml:lang="ja">リスペクティブワークスタイル</schema:name>
+    <rdfs:label rdf:datatype="http://www.w5.org/2001/XMLSchema#string">リスペクティブワークスタイル</rdfs:label>
+    <schema:description xml:lang="ja">WORKING：召しませ特製焙煎珈琲</schema:description>
+    <imas:Whose rdf:resource="Morino_Rinze"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
 
