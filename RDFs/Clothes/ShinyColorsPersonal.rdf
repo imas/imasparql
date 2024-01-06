@@ -419,6 +419,12 @@
     <imas:Whose rdf:resource="Morino_Rinze"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
+  <rdf:Description rdf:about="Tokosaki_No_Tokiwa">
+    <schema:name xml:lang="ja">トコサキノトキワ</schema:name>
+    <rdfs:label rdf:datatype="http://www.w5.org/2001/XMLSchema#string">トコサキノトキワ</rdfs:label>
+    <imas:Whose rdf:resource="Morino_Rinze"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
 
   <!-- 有栖川夏葉 -->
   <rdf:Description rdf:about="Glitter_Bubbly">
@@ -442,6 +448,12 @@
   <rdf:Description rdf:about="Agent_D">
     <schema:name xml:lang="ja">エイジェント[D]</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">エイジェント[D]</rdfs:label>
+    <imas:Whose rdf:resource="Arisugawa_Natsuha"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Abrumador_Damascus">
+    <schema:name xml:lang="ja">アブルマドールダマスカス</schema:name>
+    <rdfs:label rdf:datatype="http://www.w5.org/2001/XMLSchema#string">アブルマドールダマスカス</rdfs:label>
     <imas:Whose rdf:resource="Arisugawa_Natsuha"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
@@ -649,6 +661,12 @@
     <imas:Whose rdf:resource="Izumi_Mei"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
+  <rdf:Description rdf:about="Going_Straight">
+    <schema:name xml:lang="ja">ゴーイング・ストレイト</schema:name>
+    <rdfs:label rdf:datatype="http://www.w5.org/2001/XMLSchema#string">ゴーイング・ストレイト</rdfs:label>
+    <imas:Whose rdf:resource="Izumi_Mei"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
 
   <!-- 浅倉透 -->
   <rdf:Description rdf:about="Sparkle_Glass">
@@ -666,6 +684,12 @@
   <rdf:Description rdf:about="Darkest_Ever_Red">
     <schema:name xml:lang="ja">ダーケストエバーレッド</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ダーケストエバーレッド</rdfs:label>
+    <imas:Whose rdf:resource="Asakura_Toru"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Leaving_Statice">
+    <schema:name xml:lang="ja">リーヴィングスターチス</schema:name>
+    <rdfs:label rdf:datatype="http://www.w5.org/2001/XMLSchema#string">リーヴィングスターチス</rdfs:label>
     <imas:Whose rdf:resource="Asakura_Toru"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>

@@ -512,7 +512,7 @@
     <schema:name xml:lang="ja">ミッドナイトモンスター</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ミッドナイトモンスター</rdfs:label>
     <imas:Whose rdf:resource="Sakuragi_Mano"/>
-    <schema:description xml:lang="ja">トリック・オア・トリート！内に秘めたyummuy red♡</schema:description>
+    <schema:description xml:lang="ja">トリック・オア・トリート！内に秘めたyummy red♡</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
   <rdf:Description rdf:about="MidnightMonster_KazanoHiori">
@@ -2120,6 +2120,18 @@
     <rdfs:label rdf:datatype="http://www.w5.org/2001/XMLSchema#string">ドレスアップパルファム</rdfs:label>
     <schema:description xml:lang="ja">Cheers! 高鳴りのタイミング</schema:description>
     <imas:Whose rdf:resource="Serizawa_Asahi"/>
+  <rdf:Description rdf:about="DressUpParfum_MayuzumiFuyuko">
+    <schema:name xml:lang="ja">ドレスアップパルファム</schema:name>
+    <rdfs:label rdf:datatype="http://www.w5.org/2001/XMLSchema#string">ドレスアップパルファム</rdfs:label>
+    <schema:description xml:lang="ja">Cheers! 秘せずとも花</schema:description>
+    <imas:Whose rdf:resource="Mayuzumi_Fuyuko"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="DressUpParfum_IzumiMei">
+    <schema:name xml:lang="ja">ドレスアップパルファム</schema:name>
+    <rdfs:label rdf:datatype="http://www.w5.org/2001/XMLSchema#string">ドレスアップパルファム</rdfs:label>
+    <schema:description xml:lang="ja">Cheers! ハンパなく豪華なカンジ！</schema:description>
+    <imas:Whose rdf:resource="Izumi_Mei"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
 
@@ -2632,6 +2644,18 @@
     <rdfs:label rdf:datatype="http://www.w5.org/2001/XMLSchema#string">リスペクティブワークスタイル</rdfs:label>
     <schema:description xml:lang="ja">WORKING：召しませ特製焙煎珈琲</schema:description>
     <imas:Whose rdf:resource="Morino_Rinze"/>
+  <rdf:Description rdf:about="RespectiveWorkStyle_HachimiyaMeguru">
+    <schema:name xml:lang="ja">リスペクティブワークスタイル</schema:name>
+    <rdfs:label rdf:datatype="http://www.w5.org/2001/XMLSchema#string">リスペクティブワークスタイル</rdfs:label>
+    <schema:description xml:lang="ja">WORKING：左オーライです！</schema:description>
+    <imas:Whose rdf:resource="Hachimiya_Meguru"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RespectiveWorkStyle_AketaMikoto">
+    <schema:name xml:lang="ja">リスペクティブワークスタイル</schema:name>
+    <rdfs:label rdf:datatype="http://www.w5.org/2001/XMLSchema#string">リスペクティブワークスタイル</rdfs:label>
+    <schema:description xml:lang="ja">WORKING：私が作ったカクテル、飲む？</schema:description>
+    <imas:Whose rdf:resource="Aketa_Mikoto"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
 
