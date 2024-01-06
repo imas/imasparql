@@ -139,4 +139,15 @@
     <schema:member rdf:resource="Nanakusa_Nichika"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
+  <rdf:Description rdf:about="CoMETIK">
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CoMETIK</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CoMETIK</rdfs:label>
+    <imas:nameKana xml:lang="ja">こめてぃっく</imas:nameKana>
+    <schema:member rdf:resource="Ikaruga_Luca"/>
+    <schema:member rdf:resource="Suzuki_Hana"/>
+    <schema:member rdf:resource="Ikuta_Haruki"/>
+    <!--<imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"></imas:Color>-->
+    <!-- <schema:description xml:lang="ja"></schema:description> -->
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
+  </rdf:Description>
 </rdf:RDF>
