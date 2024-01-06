@@ -89,6 +89,14 @@
     <imas:Whose rdf:resource="Hachimiya_Meguru"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
+  <rdf:Description rdf:about="Present_From_Estrella">
+    <schema:name xml:lang="ja">プレゼントフロムエストレア</schema:name>
+    <rdfs:label rdf:datatype="http://www.w5.org/2001/XMLSchema#string">プレゼントフロムエストレア</rdfs:label>
+    <!-- <imas:Whose rdf:resource="Kazano_Hiori"/> -->
+    <!-- <imas:Whose rdf:resource="Sakuragi_Mano"/> -->
+    <imas:Whose rdf:resource="Hachimiya_Meguru"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
   <rdf:Description rdf:about="One_Day_Officer">
     <schema:name xml:lang="ja">ワンデイオフィサー</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ワンデイオフィサー</rdfs:label>
@@ -562,7 +570,7 @@
     <imas:Whose rdf:resource="Arisugawa_Natsuha"/>
     <imas:Whose rdf:resource="Komiya_Kaho"/>
     <!-- <imas:Whose rdf:resource="Saijo_Juri"/> -->
-    <!-- <imas:Whose rdf:resource="Sonoda_Chiyoko"/> -->
+    <imas:Whose rdf:resource="Sonoda_Chiyoko"/>
     <imas:Whose rdf:resource="Morino_Rinze"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
@@ -964,6 +972,14 @@
     <imas:Whose rdf:resource="Kuwayama_Chiyuki"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
+  <rdf:Description rdf:about="Lepre_Lasciato_Faenza">
+    <schema:name xml:lang="ja">レプラシャートファエンツァ</schema:name>
+    <rdfs:label rdf:datatype="http://www.w5.org/2001/XMLSchema#string">レプラシャートファエンツァ</rdfs:label>
+    <!-- <imas:Whose rdf:resource="Osaki_Amana"/> -->
+    <!-- <imas:Whose rdf:resource="Osaki_Tenka"/> -->
+    <imas:Whose rdf:resource="Kuwayama_Chiyuki"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
   <rdf:Description rdf:about="Cutie_Time_Sweets">
     <schema:name xml:lang="ja">キューティータイムスイーツ</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">キューティータイムスイーツ</rdfs:label>
@@ -1145,7 +1161,7 @@
     <rdfs:label rdf:datatype="http://www.w5.org/2001/XMLSchema#string">エナジーデシデラータ</rdfs:label>
     <imas:Whose rdf:resource="Izumi_Mei"/>
     <imas:Whose rdf:resource="Serizawa_Asahi"/>
-    <!-- <imas:Whose rdf:resource="Mayuzumi_Fuyuko"/> -->
+    <imas:Whose rdf:resource="Mayuzumi_Fuyuko"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
   <rdf:Description rdf:about="Merry_Merry_Delivery">
@@ -1306,7 +1322,7 @@
     <!-- <imas:Whose rdf:resource="Asakura_Toru"/> -->
     <imas:Whose rdf:resource="Higuchi_Madoka"/>
     <!-- <imas:Whose rdf:resource="Fukumaru_Koito"/> -->
-    <!-- <imas:Whose rdf:resource="Ichikawa_Hinana"/> -->
+    <imas:Whose rdf:resource="Ichikawa_Hinana"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
 
