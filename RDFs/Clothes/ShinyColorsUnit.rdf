@@ -350,10 +350,10 @@
     <schema:name xml:lang="ja">ミュゼオフォルマーリナーシタ</schema:name>
     <rdfs:label rdf:datatype="http://www.w5.org/2001/XMLSchema#string">ミュゼオフォルマーリナーシタ</rdfs:label>
     <imas:Whose rdf:resource="Shirase_Sakuya"/>
-    <!-- <imas:Whose rdf:resource="Tanaka_Mamimi"/> -->
+    <imas:Whose rdf:resource="Tanaka_Mamimi"/>
     <!-- <imas:Whose rdf:resource="Tsukioka_Kogane"/> -->
     <!-- <imas:Whose rdf:resource="Mitsumine_Yuika"/> -->
-    <!-- <imas:Whose rdf:resource="Yukoku_Kiriko"/> -->
+    <imas:Whose rdf:resource="Yukoku_Kiriko"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
 
@@ -569,6 +569,8 @@
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">エキサイティーンコレクション</rdfs:label>
     <imas:Whose rdf:resource="Arisugawa_Natsuha"/>
     <imas:Whose rdf:resource="Komiya_Kaho"/>
+    <imas:Whose rdf:resource="Saijo_Juri"/>
+    <!-- <imas:Whose rdf:resource="Sonoda_Chiyoko"/> -->
     <!-- <imas:Whose rdf:resource="Saijo_Juri"/> -->
     <imas:Whose rdf:resource="Sonoda_Chiyoko"/>
     <imas:Whose rdf:resource="Morino_Rinze"/>
@@ -641,6 +643,16 @@
     <imas:Whose rdf:resource="Saijo_Juri"/>
     <imas:Whose rdf:resource="Sonoda_Chiyoko"/>
     <imas:Whose rdf:resource="Morino_Rinze"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Hanamaru_Sunrize">
+    <schema:name xml:lang="ja">ハナマルサンライズ</schema:name>
+    <rdfs:label rdf:datatype="http://www.w5.org/2001/XMLSchema#string">ハナマルサンライズ</rdfs:label>
+    <!-- <imas:Whose rdf:resource="Arisugawa_Natsuha"/> -->
+    <imas:Whose rdf:resource="Komiya_Kaho"/>
+    <!-- <imas:Whose rdf:resource="Saijo_Juri"/> -->
+    <!-- <imas:Whose rdf:resource="Sonoda_Chiyoko"/> -->
+    <!-- <imas:Whose rdf:resource="Morino_Rinze"/> -->
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
   <rdf:Description rdf:about="Pajamas_De_Kabukabu">
@@ -1465,6 +1477,13 @@
     <schema:name xml:lang="ja">モノクロマテイクジルコン</schema:name>
     <rdfs:label rdf:datatype="http://www.w5.org/2001/XMLSchema#string">モノクロマテイクジルコン</rdfs:label>
     <imas:Whose rdf:resource="Aketa_Mikoto"/>
+    <imas:Whose rdf:resource="Nanakusa_Nichika"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Portiere_Les_Ordine">
+    <schema:name xml:lang="ja">ポルティエレオルディーネ</schema:name>
+    <rdfs:label rdf:datatype="http://www.w5.org/2001/XMLSchema#string">ポルティエレオルディーネ</rdfs:label>
+    <!-- <imas:Whose rdf:resource="Aketa_Mikoto"/> -->
     <imas:Whose rdf:resource="Nanakusa_Nichika"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
