@@ -70,4 +70,18 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Facility"/>
   </rdf:Description>
 
+  <rdf:Description rdf:about="HatsuboshiGakuenSchoolBuilding">
+    <schema:name xml:lang="ja">初星学園校舎</schema:name>
+    <schema:name xml:lang="en">HatsuboshiGakuenSchoolBuilding</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">初星学園校舎</rdfs:label>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Facility"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="HatsuboshiGakuenDormitory">
+    <schema:name xml:lang="ja">初星学園寮</schema:name>
+    <schema:name xml:lang="en">HatsuboshiGakuenDormitory</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">初星学園寮</rdfs:label>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Facility"/>
+  </rdf:Description>
+
 </rdf:RDF>

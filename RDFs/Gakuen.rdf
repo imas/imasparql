@@ -37,7 +37,7 @@
     <!-- <imas:cv rdf:resource="http://www.wikidata.org/entity/"/> -->
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Brand xml:lang="en">Gakuenß</imas:Brand>
-    <schema:memberOf rdf:resource="765Production"/>
+    <schema:memberOf rdf:resource="HatsuboshiGakuen"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol_1st"/>
     <imas:SchoolGrade xml:lang="ja">高校1年生</imas:SchoolGrade>
     <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/10002"/>
