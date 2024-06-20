@@ -2179,6 +2179,27 @@
     <imas:Whose rdf:resource="Fukumaru_Koito"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
+  <rdf:Description rdf:about="DressUpParfum_IchikawaHinana">
+    <schema:name xml:lang="ja">ドレスアップパルファム</schema:name>
+    <rdfs:label rdf:datatype="http://www.w5.org/2001/XMLSchema#string">ドレスアップパルファム</rdfs:label>
+    <schema:description xml:lang="ja">Cheers! ずっとずっと満開のまま</schema:description>
+    <imas:Whose rdf:resource="Ichikawa_Hinana"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="DressUpParfum_NanakusaNichika">
+    <schema:name xml:lang="ja">ドレスアップパルファム</schema:name>
+    <rdfs:label rdf:datatype="http://www.w5.org/2001/XMLSchema#string">ドレスアップパルファム</rdfs:label>
+    <schema:description xml:lang="ja">Cheers! 祝福は、まだ早い</schema:description>
+    <imas:Whose rdf:resource="Nanakusa_Nichika"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="DressUpParfum_AketaMikoto">
+    <schema:name xml:lang="ja">ドレスアップパルファム</schema:name>
+    <rdfs:label rdf:datatype="http://www.w5.org/2001/XMLSchema#string">ドレスアップパルファム</rdfs:label>
+    <schema:description xml:lang="ja">Cheers! brand new way</schema:description>
+    <imas:Whose rdf:resource="Aketa_Mikoto"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
 
   <!-- セレスティアルカラーズ -->
   <rdf:Description rdf:about="CelestialColors_SakuragiMano">
@@ -2723,6 +2744,27 @@
     <rdfs:label rdf:datatype="http://www.w5.org/2001/XMLSchema#string">リスペクティブワークスタイル</rdfs:label>
     <schema:description xml:lang="ja">WORKING：『いらっしゃいませ』の未来</schema:description>
     <imas:Whose rdf:resource="Mitsumine_Yuika"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RespectiveWorkStyle_AsakuraToru">
+    <schema:name xml:lang="ja">リスペクティブワークスタイル</schema:name>
+    <rdfs:label rdf:datatype="http://www.w5.org/2001/XMLSchema#string">リスペクティブワークスタイル</rdfs:label>
+    <schema:description xml:lang="ja">WORKING：火星からは以上です</schema:description>
+    <imas:Whose rdf:resource="Asakura_Toru"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RespectiveWorkStyle_OsakiTenka">
+    <schema:name xml:lang="ja">リスペクティブワークスタイル</schema:name>
+    <rdfs:label rdf:datatype="http://www.w5.org/2001/XMLSchema#string">リスペクティブワークスタイル</rdfs:label>
+    <schema:description xml:lang="ja">WORKING：おうちのすぐそこ</schema:description>
+    <imas:Whose rdf:resource="Osaki_Tenka"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RespectiveWorkStyle_SaijoJuri">
+    <schema:name xml:lang="ja">リスペクティブワークスタイル</schema:name>
+    <rdfs:label rdf:datatype="http://www.w5.org/2001/XMLSchema#string">リスペクティブワークスタイル</rdfs:label>
+    <schema:description xml:lang="ja">WORKING：お通しと笑顔は最速で！</schema:description>
+    <imas:Whose rdf:resource="Saijo_Juri"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
 
