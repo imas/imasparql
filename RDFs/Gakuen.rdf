@@ -58,6 +58,9 @@
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">月村手毬</rdfs:label>
     <schema:name xml:lang="en">Temari Tsukimura</schema:name>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
+    <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--06-03</schema:birthDate>
+    <imas:Constellation xml:lang="ja">双子座</imas:Constellation>
+
     <imas:Brand xml:lang="en">Gakuen</imas:Brand>
     <schema:memberOf rdf:resource="HatsuboshiGakuen"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
@@ -75,6 +78,9 @@
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">藤田ことね</rdfs:label>
     <schema:name xml:lang="en">Kotone Fujita</schema:name>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
+    <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--04-29</schema:birthDate>
+    <imas:Constellation xml:lang="ja">牡牛座</imas:Constellation>
+
     <imas:Brand xml:lang="en">Gakuen</imas:Brand>
     <schema:memberOf rdf:resource="HatsuboshiGakuen"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
@@ -92,6 +98,9 @@
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">有村麻央</rdfs:label>
     <schema:name xml:lang="en">Mao Arimura</schema:name>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
+    <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--01-18</schema:birthDate>
+    <imas:Constellation xml:lang="ja">山羊座</imas:Constellation>
+
     <imas:Brand xml:lang="en">Gakuen</imas:Brand>
     <schema:memberOf rdf:resource="HatsuboshiGakuen"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
@@ -109,6 +118,9 @@
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">葛城リーリヤ</rdfs:label>
     <schema:name xml:lang="en">Lilja Katsuragi</schema:name>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
+    <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--07-24</schema:birthDate>
+    <imas:Constellation xml:lang="ja">獅子座</imas:Constellation>
+
     <imas:Brand xml:lang="en">Gakuen</imas:Brand>
     <schema:memberOf rdf:resource="HatsuboshiGakuen"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
@@ -126,6 +138,9 @@
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">倉本千奈</rdfs:label>
     <schema:name xml:lang="en">China Kuramoto</schema:name>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
+    <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--08-01</schema:birthDate>
+    <imas:Constellation xml:lang="ja">獅子座</imas:Constellation>
+
     <imas:Brand xml:lang="en">Gakuen</imas:Brand>
     <schema:memberOf rdf:resource="HatsuboshiGakuen"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
@@ -143,6 +158,9 @@
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">紫雲清夏</rdfs:label>
     <schema:name xml:lang="en">Sumika Shiun</schema:name>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
+    <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--11-11</schema:birthDate>
+    <imas:Constellation xml:lang="ja">蠍座</imas:Constellation>
+
     <imas:Brand xml:lang="en">Gakuen</imas:Brand>
     <schema:memberOf rdf:resource="HatsuboshiGakuen"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
@@ -160,6 +178,9 @@
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">篠澤広</rdfs:label>
     <schema:name xml:lang="en">Hiro Shinosawa</schema:name>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
+    <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--12-21</schema:birthDate>
+    <imas:Constellation xml:lang="ja">射手座</imas:Constellation>
+
     <imas:Brand xml:lang="en">Gakuen</imas:Brand>
     <schema:memberOf rdf:resource="HatsuboshiGakuen"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
@@ -177,6 +198,9 @@
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">姫崎莉波</rdfs:label>
     <schema:name xml:lang="en">Rinami Himesaki</schema:name>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
+    <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--03-05</schema:birthDate>
+    <imas:Constellation xml:lang="ja">魚座</imas:Constellation>
+
     <imas:Brand xml:lang="en">Gakuen</imas:Brand>
     <schema:memberOf rdf:resource="HatsuboshiGakuen"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
@@ -194,6 +218,9 @@
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">花海佑芽</rdfs:label>
     <schema:name xml:lang="en">Ume Hanami</schema:name>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
+    <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--04-01</schema:birthDate>
+    <imas:Constellation xml:lang="ja">牡羊座</imas:Constellation>
+
     <imas:Brand xml:lang="en">Gakuen</imas:Brand>
     <schema:memberOf rdf:resource="HatsuboshiGakuen"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
