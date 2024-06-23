@@ -406,10 +406,15 @@
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">秦谷美鈴</rdfs:label>
     <schema:name xml:lang="en">Misuzu Hataya</schema:name>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">A0B6DC</imas:Color>
+    <imas:cv xml:lang="ja">春咲暖</imas:cv>
+    <imas:cv rdf:resource="http://ja.dbpedia.org/resource/春咲暖"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q35172355"/>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Brand xml:lang="en">Gakuen</imas:Brand>
     <schema:memberOf rdf:resource="HatsuboshiGakuen"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:SchoolGrade xml:lang="ja">高等部アイドル科1年2組</imas:SchoolGrade>
+    <schema:description xml:lang="ja">のんびりマイペースな女の子。自分にも他人にも優しく甘い。他者のお世話をしたり、甘やかしたりするのが大好き。甘えん坊な親友を、妹や娘のように慈しみ、大切にしている。</schema:description>
   </rdf:Description>
 
   <rdf:Description rdf:about="Juo_Sena">
