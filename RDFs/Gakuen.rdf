@@ -171,15 +171,32 @@
     <schema:name xml:lang="ja">葛城リーリヤ</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">葛城リーリヤ</rdfs:label>
     <schema:name xml:lang="en">Lilja Katsuragi</schema:name>
-    <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">EFFDFF</imas:Color>
-    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
+    <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</foaf:age>
+    <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">161.0</schema:height>
+    <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">43.0</schema:weight>
+    <imas:Bust rdf:datatype="http://www.w3.org/2001/XMLSchema#float">83.0</imas:Bust>
+    <imas:Waist rdf:datatype="http://www.w3.org/2001/XMLSchema#float">53.0</imas:Waist>
+    <imas:Hip rdf:datatype="http://www.w3.org/2001/XMLSchema#float">80.0</imas:Hip>
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--07-24</schema:birthDate>
     <imas:Constellation xml:lang="ja">獅子座</imas:Constellation>
-
+    <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">B</imas:BloodType>
+    <imas:Handedness rdf:datatype="http://www.w3.org/2001/XMLSchema#string">right</imas:Handedness>
+    <imas:Hobby xml:lang="ja">お菓子作り</imas:Hobby>
+    <imas:Hobby xml:lang="ja">日本のアニメ</imas:Hobby>
+    <imas:Talent xml:lang="ja">お菓子作り</imas:Talent>
+    <imas:Talent xml:lang="ja">ゲーム</imas:Talent>
+    <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">EFFDFF</imas:Color>
+    <imas:cv xml:lang="ja">花岩香奈</imas:cv>
+    <imas:cv rdf:resource="http://ja.dbpedia.org/resource/花岩香奈"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q125952621"/>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Brand xml:lang="en">Gakuen</imas:Brand>
     <schema:memberOf rdf:resource="HatsuboshiGakuen"/>
+    <schema:birthPlace xml:lang="ja">スウェーデン</schema:birthPlace>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/60005"/>
+    <imas:SchoolGrade xml:lang="ja">高等部アイドル科1年1組</imas:SchoolGrade>
+    <schema:description xml:lang="ja">海外出身の新入生。歌やダンスの経験はなく、いつも自信がなさそうに縮こまっている。才能があるようには見えないが、アイドルへの憧れは本物で、相当な努力家。親友の清夏とは、一緒にステージに立つ約束をしている。</schema:description>
   </rdf:Description>
 
   <rdf:Description rdf:about="Kuramoto_China">
