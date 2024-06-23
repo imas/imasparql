@@ -132,15 +132,32 @@
     <schema:name xml:lang="ja">有村麻央</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">有村麻央</rdfs:label>
     <schema:name xml:lang="en">Mao Arimura</schema:name>
-    <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">A453A6</imas:Color>
-    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
+    <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</foaf:age>
+    <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">157.0</schema:height>
+    <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">46.0</schema:weight>
+    <imas:Bust rdf:datatype="http://www.w3.org/2001/XMLSchema#float">85.0</imas:Bust>
+    <imas:Waist rdf:datatype="http://www.w3.org/2001/XMLSchema#float">53.0</imas:Waist>
+    <imas:Hip rdf:datatype="http://www.w3.org/2001/XMLSchema#float">85.0</imas:Hip>
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--01-18</schema:birthDate>
     <imas:Constellation xml:lang="ja">山羊座</imas:Constellation>
-
+    <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A</imas:BloodType>
+    <imas:Handedness rdf:datatype="http://www.w3.org/2001/XMLSchema#string">right</imas:Handedness>
+    <imas:Hobby xml:lang="ja">他人の面倒を見ること</imas:Hobby>
+    <imas:Hobby xml:lang="ja">観劇</imas:Hobby>
+    <imas:Talent xml:lang="ja">格闘技</imas:Talent>
+    <imas:Talent xml:lang="ja">手先が器用</imas:Talent>
+    <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">A453A6</imas:Color>
+    <imas:cv xml:lang="ja">七瀬つむぎ</imas:cv>
+    <imas:cv rdf:resource="http://ja.dbpedia.org/resource/七瀬つむぎ"/>
+    <!-- <imas:cv rdf:resource="https://www.wikidata.org/wiki/"/> -->
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Brand xml:lang="en">Gakuen</imas:Brand>
     <schema:memberOf rdf:resource="HatsuboshiGakuen"/>
+    <schema:birthPlace xml:lang="ja">兵庫</schema:birthPlace>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/60004"/>
+    <imas:SchoolGrade xml:lang="ja">高等部アイドル科3年1組</imas:SchoolGrade>
+    <schema:description xml:lang="ja">カッコいいアイドルを目指す3年生の女の子。初星学園アイドル科の寮の寮長をしており面倒見がよい。後輩達からは小さな王子様（リトルプリンス）として慕われている。幼い頃から歌劇のスターに憧れ、子役として活躍していた過去を持つ。</schema:description>
   </rdf:Description>
 
   <rdf:Description rdf:about="Katsuragi_Lilja">
