@@ -367,15 +367,31 @@
     <schema:name xml:lang="ja">花海佑芽</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">花海佑芽</rdfs:label>
     <schema:name xml:lang="en">Ume Hanami</schema:name>
-    <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">EF8472</imas:Color>
-    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
+    <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</foaf:age>
+    <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">158.0</schema:height>
+    <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">50.0</schema:weight>
+    <imas:Bust rdf:datatype="http://www.w3.org/2001/XMLSchema#float">91.0</imas:Bust>
+    <imas:Waist rdf:datatype="http://www.w3.org/2001/XMLSchema#float">60.0</imas:Waist>
+    <imas:Hip rdf:datatype="http://www.w3.org/2001/XMLSchema#float">85.0</imas:Hip>
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--04-01</schema:birthDate>
     <imas:Constellation xml:lang="ja">牡羊座</imas:Constellation>
-
+    <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AB</imas:BloodType>
+    <imas:Handedness rdf:datatype="http://www.w3.org/2001/XMLSchema#string">right</imas:Handedness>
+    <imas:Hobby xml:lang="ja">お姉ちゃんとの勝負</imas:Hobby>
+    <imas:Talent xml:lang="ja">スポーツ全般</imas:Talent>
+    <imas:Talent xml:lang="ja">マッサージ</imas:Talent>
+    <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">EF8472</imas:Color>
+    <imas:cv xml:lang="ja">松田綾音</imas:cv>
+    <!-- <imas:cv rdf:resource="http://ja.dbpedia.org/resource/松田綾音"/> -->
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q125952491"/>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Brand xml:lang="en">Gakuen</imas:Brand>
     <schema:memberOf rdf:resource="HatsuboshiGakuen"/>
+    <schema:birthPlace xml:lang="ja">愛知</schema:birthPlace>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/60010"/>
+    <imas:SchoolGrade xml:lang="ja">高等部アイドル科1年2組</imas:SchoolGrade>
+    <schema:description xml:lang="ja">補欠入学の新入生。元気いっぱい、身体能力抜群の元アスリート。 姉である咲季のことが大大大大大好きで、心から尊敬し、ライバル視し、最大の目標としている。 咲季の献身的なサポートによって、アイドルの才能を開花させていく。</schema:description>
   </rdf:Description>
 
   <rdf:Description rdf:about="Hataya_Misuzu">
