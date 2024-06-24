@@ -186,6 +186,7 @@
     <imas:nameKana xml:lang="ja">かみずるこすも</imas:nameKana>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">上水流宇宙</rdfs:label>
     <imas:Brand xml:lang="en">va-liv</imas:Brand>
+    <schema:memberOf rdf:resource="876Production"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Tomori_Manaka">
@@ -201,6 +202,7 @@
     <imas:nameKana xml:lang="ja">ともりまなか</imas:nameKana>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">灯里愛夏</rdfs:label>
     <imas:Brand xml:lang="en">va-liv</imas:Brand>
+    <schema:memberOf rdf:resource="876Production"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Sara_Letora_Oliveira_Utagawa">
@@ -216,6 +218,7 @@
     <imas:nameKana xml:lang="ja">さら・れとら・おりゔぇいら・うたがわ</imas:nameKana>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">レトラ</rdfs:label>
     <imas:Brand xml:lang="en">va-liv</imas:Brand>
+    <schema:memberOf rdf:resource="876Production"/>
   </rdf:Description>
 
 </rdf:RDF>
