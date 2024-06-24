@@ -191,6 +191,7 @@
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">162</schema:height>
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--09-12</schema:birthDate>
     <imas:Constellation xml:lang="ja">蠍座</imas:Constellation>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
   </rdf:Description>
 
   <rdf:Description rdf:about="Tomori_Manaka">
@@ -211,6 +212,7 @@
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">158</schema:height>
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--07-01</schema:birthDate>
     <imas:Constellation xml:lang="ja">蟹座</imas:Constellation>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
   </rdf:Description>
 
   <rdf:Description rdf:about="Sara_Letora_Oliveira_Utagawa">
@@ -231,6 +233,7 @@
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">159</schema:height>
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--11-11</schema:birthDate>
     <imas:Constellation xml:lang="ja">蠍座</imas:Constellation>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
   </rdf:Description>
 
 </rdf:RDF>
