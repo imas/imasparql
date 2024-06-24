@@ -173,4 +173,18 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
+  <rdf:Description rdf:about="Kamizuru_Cosmo">
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <schema:familyName xml:lang="ja">上水流</schema:familyName>
+    <schema:familyName xml:lang="en">Kamizuru</schema:familyName>
+    <imas:familyNameKana xml:lang="ja">かみずる</imas:familyNameKana>
+    <schema:givenName xml:lang="ja">宇宙</schema:givenName>
+    <schema:givenName xml:lang="en">Cosmo</schema:givenName>
+    <imas:givenNameKana xml:lang="ja">こすも</imas:givenNameKana>
+    <schema:name xml:lang="ja">上水流宇宙</schema:name>
+    <schema:name xml:lang="en">Cosmo Kamizuru</schema:name>
+    <imas:nameKana xml:lang="ja">かみずるこすも</imas:nameKana>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">上水流宇宙</rdfs:label>
+  </rdf:Description>
+
 </rdf:RDF>
