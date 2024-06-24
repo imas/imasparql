@@ -194,6 +194,9 @@
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">B</imas:BloodType>
     <schema:birthPlace xml:lang="ja">東京</schema:birthPlace>
+    <imas:Hobby xml:lang="ja">イラストを描くこと</imas:Hobby>
+    <imas:Hobby xml:lang="ja">ゲーム</imas:Hobby>
+    <imas:Hobby xml:lang="ja">食べること</imas:Hobby>
   </rdf:Description>
 
   <rdf:Description rdf:about="Tomori_Manaka">
@@ -217,6 +220,9 @@
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">B</imas:BloodType>
     <schema:birthPlace xml:lang="ja">福岡</schema:birthPlace>
+    <imas:Hobby xml:lang="ja">アイドル研究</imas:Hobby>
+    <imas:Hobby xml:lang="ja">カフェで読書</imas:Hobby>
+    <imas:Hobby xml:lang="ja">ミュージカル</imas:Hobby>
   </rdf:Description>
 
   <rdf:Description rdf:about="Sara_Letora_Oliveira_Utagawa">
@@ -240,6 +246,9 @@
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">O</imas:BloodType>
     <schema:birthPlace xml:lang="ja">埼玉</schema:birthPlace>
+    <imas:Hobby xml:lang="ja">寝ること</imas:Hobby>
+    <imas:Hobby xml:lang="ja">ネイル・メイク</imas:Hobby>
+    <imas:Hobby xml:lang="ja">雑貨集め</imas:Hobby>
   </rdf:Description>
 
 </rdf:RDF>
