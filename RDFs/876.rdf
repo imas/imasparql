@@ -192,6 +192,7 @@
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--09-12</schema:birthDate>
     <imas:Constellation xml:lang="ja">蠍座</imas:Constellation>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
+    <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">B</imas:BloodType>
   </rdf:Description>
 
   <rdf:Description rdf:about="Tomori_Manaka">
@@ -213,6 +214,7 @@
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--07-01</schema:birthDate>
     <imas:Constellation xml:lang="ja">蟹座</imas:Constellation>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
+    <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">B</imas:BloodType>
   </rdf:Description>
 
   <rdf:Description rdf:about="Sara_Letora_Oliveira_Utagawa">
@@ -234,6 +236,7 @@
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--11-11</schema:birthDate>
     <imas:Constellation xml:lang="ja">蠍座</imas:Constellation>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
+    <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">O</imas:BloodType>
   </rdf:Description>
 
 </rdf:RDF>
