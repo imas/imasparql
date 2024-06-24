@@ -187,4 +187,18 @@
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">上水流宇宙</rdfs:label>
   </rdf:Description>
 
+  <rdf:Description rdf:about="Tomori_Manaka">
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <schema:familyName xml:lang="ja">灯里</schema:familyName>
+    <schema:familyName xml:lang="en">Tomori</schema:familyName>
+    <imas:familyNameKana xml:lang="ja">ともり</imas:familyNameKana>
+    <schema:givenName xml:lang="ja">愛夏</schema:givenName>
+    <schema:givenName xml:lang="en">Manaka</schema:givenName>
+    <imas:givenNameKana xml:lang="ja">まなか</imas:givenNameKana>
+    <schema:name xml:lang="ja">灯里愛夏</schema:name>
+    <schema:name xml:lang="en">Manaka Tomori</schema:name>
+    <imas:nameKana xml:lang="ja">ともりまなか</imas:nameKana>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">灯里愛夏</rdfs:label>
+  </rdf:Description>
+
 </rdf:RDF>
