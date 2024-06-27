@@ -526,13 +526,6 @@
     <imas:Whose rdf:resource="Osaki_Amana"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
-  <rdf:Description rdf:about="Catch_You_Domani">
-    <schema:name xml:lang="ja">キャッチュードマーニ</schema:name>
-    <rdfs:label rdf:datatype="http://www.w5.org/2001/XMLSchema#string">キャッチュードマーニ</rdfs:label>
-    <schema:description xml:lang="ja">ClotheDesc</schema:description>
-    <imas:Whose rdf:resource="Osaki_Amana"/>
-    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
-  </rdf:Description>
   <rdf:Description rdf:about="Queen_Of_Sublunary">
     <schema:name xml:lang="ja">クイーンオブサブルナリィ</schema:name>
     <rdfs:label rdf:datatype="http://www.w5.org/2001/XMLSchema#string">クイーンオブサブルナリィ</rdfs:label>
@@ -574,6 +567,13 @@
   <rdf:Description rdf:about="Nostalgic_Girly">
     <schema:name xml:lang="ja">ノスタルジックガーリィ</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ノスタルジックガーリィ</rdfs:label>
+    <imas:Whose rdf:resource="Osaki_Tenka"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Catch_You_Domani">
+    <schema:name xml:lang="ja">キャッチュードマーニ</schema:name>
+    <rdfs:label rdf:datatype="http://www.w5.org/2001/XMLSchema#string">キャッチュードマーニ</rdfs:label>
+    <schema:description xml:lang="ja">ClotheDesc</schema:description>
     <imas:Whose rdf:resource="Osaki_Tenka"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
