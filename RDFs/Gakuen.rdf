@@ -35,7 +35,7 @@
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">EA4A5B</imas:Color>
     <imas:cv xml:lang="ja">長月あおい</imas:cv>
     <!-- <imas:cv rdf:resource="http://ja.dbpedia.org/resource/長月あおい"/> -->
-    <!-- <imas:cv rdf:resource="http://www.wikidata.org/entity/"/> -->
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q124858165"/>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Brand xml:lang="en">Gakuen</imas:Brand>
     <schema:memberOf rdf:resource="HatsuboshiGakuen"/>
@@ -43,7 +43,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <imas:SchoolGrade xml:lang="ja">高等部アイドル科1年1組</imas:SchoolGrade>
     <schema:description xml:lang="ja">入学試験首席の新入生。勝ち気で負けず嫌いな元アスリート。幼少時から物覚えが良く、なにをやらせても上手にこなす神童だった。妹の花海佑芽とは大の仲良しで、様々なスポーツで競い合ってきたライバル同士でもある。佑芽の才能を誰よりも高く評価し、恐れている。</schema:description>
-    <!-- <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/"/> -->
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/60001"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Tsukimura_Temari">
@@ -57,14 +57,30 @@
     <schema:name xml:lang="ja">月村手毬</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">月村手毬</rdfs:label>
     <schema:name xml:lang="en">Temari Tsukimura</schema:name>
-    <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">4FA0CE</imas:Color>
-    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
+    <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</foaf:age>
+    <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">162.0</schema:height>
+    <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">51.0</schema:weight>
+    <imas:Bust rdf:datatype="http://www.w3.org/2001/XMLSchema#float">82.0</imas:Bust>
+    <imas:Waist rdf:datatype="http://www.w3.org/2001/XMLSchema#float">58.0</imas:Waist>
+    <imas:Hip rdf:datatype="http://www.w3.org/2001/XMLSchema#float">86.0</imas:Hip>
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--06-03</schema:birthDate>
     <imas:Constellation xml:lang="ja">双子座</imas:Constellation>
-
+    <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AB</imas:BloodType>
+    <imas:Handedness rdf:datatype="http://www.w3.org/2001/XMLSchema#string">right</imas:Handedness>
+    <imas:Hobby xml:lang="ja">美味しいものを食べること（封印中）</imas:Hobby>
+    <imas:Talent xml:lang="ja">歌</imas:Talent>
+    <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">4FA0CE</imas:Color>
+    <imas:cv xml:lang="ja">小鹿なお</imas:cv>
+    <imas:cv rdf:resource="http://ja.dbpedia.org/resource/小鹿なお"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q124884944"/>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Brand xml:lang="en">Gakuen</imas:Brand>
     <schema:memberOf rdf:resource="HatsuboshiGakuen"/>
+    <schema:birthPlace xml:lang="ja">京都</schema:birthPlace>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/60002"/>
+    <imas:SchoolGrade xml:lang="ja">高等部アイドル科1年1組</imas:SchoolGrade>
+    <schema:description xml:lang="ja">中等部ナンバーワンアイドルと呼ばれていた元エリート。クールでストイックな皮肉屋と思いきや、甘えん坊で怠け者なトラブルメーカーでもある。二面性のある少女。嫌いな自分と決別し、自分自身を好きでいるために、トップアイドルを目指している。</schema:description>
   </rdf:Description>
 
   <rdf:Description rdf:about="Fujita_Kotone">
@@ -78,14 +94,31 @@
     <schema:name xml:lang="ja">藤田ことね</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">藤田ことね</rdfs:label>
     <schema:name xml:lang="en">Kotone Fujita</schema:name>
-    <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">FAD356</imas:Color>
-    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
+    <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</foaf:age>
+    <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">156.0</schema:height>
+    <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.0</schema:weight>
+    <imas:Bust rdf:datatype="http://www.w3.org/2001/XMLSchema#float">75.0</imas:Bust>
+    <imas:Waist rdf:datatype="http://www.w3.org/2001/XMLSchema#float">55.0</imas:Waist>
+    <imas:Hip rdf:datatype="http://www.w3.org/2001/XMLSchema#float">75.0</imas:Hip>
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--04-29</schema:birthDate>
     <imas:Constellation xml:lang="ja">牡牛座</imas:Constellation>
-
+    <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">O</imas:BloodType>
+    <imas:Handedness rdf:datatype="http://www.w3.org/2001/XMLSchema#string">right</imas:Handedness>
+    <imas:Hobby xml:lang="ja">お金を稼ぐこと</imas:Hobby>
+    <imas:Talent xml:lang="ja">ダンス</imas:Talent>
+    <imas:Talent xml:lang="ja">人の顔と名前を覚えること</imas:Talent>
+    <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">FAD356</imas:Color>
+    <imas:cv xml:lang="ja">飯田ヒカル</imas:cv>
+    <imas:cv rdf:resource="http://ja.dbpedia.org/resource/飯田ヒカル"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q73111948"/>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Brand xml:lang="en">Gakuen</imas:Brand>
     <schema:memberOf rdf:resource="HatsuboshiGakuen"/>
+    <schema:birthPlace xml:lang="ja">埼玉</schema:birthPlace>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/60003"/>
+    <imas:SchoolGrade xml:lang="ja">高等部アイドル科1年1組</imas:SchoolGrade>
+    <schema:description xml:lang="ja">「お金を稼げるアイドル」を夢見る、がめつい女の子。人生一発逆転の手段としてアイドルを目指している。成績が悪く自己評価が低いが、可愛い顔には自信アリ。なぜか過大評価してくる生徒会長・星南のことがちょっぴり苦手。</schema:description>
   </rdf:Description>
 
   <rdf:Description rdf:about="Arimura_Mao">
@@ -99,14 +132,32 @@
     <schema:name xml:lang="ja">有村麻央</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">有村麻央</rdfs:label>
     <schema:name xml:lang="en">Mao Arimura</schema:name>
-    <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">A453A6</imas:Color>
-    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
+    <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</foaf:age>
+    <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">157.0</schema:height>
+    <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">46.0</schema:weight>
+    <imas:Bust rdf:datatype="http://www.w3.org/2001/XMLSchema#float">85.0</imas:Bust>
+    <imas:Waist rdf:datatype="http://www.w3.org/2001/XMLSchema#float">53.0</imas:Waist>
+    <imas:Hip rdf:datatype="http://www.w3.org/2001/XMLSchema#float">85.0</imas:Hip>
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--01-18</schema:birthDate>
     <imas:Constellation xml:lang="ja">山羊座</imas:Constellation>
-
+    <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A</imas:BloodType>
+    <imas:Handedness rdf:datatype="http://www.w3.org/2001/XMLSchema#string">right</imas:Handedness>
+    <imas:Hobby xml:lang="ja">他人の面倒を見ること</imas:Hobby>
+    <imas:Hobby xml:lang="ja">観劇</imas:Hobby>
+    <imas:Talent xml:lang="ja">格闘技</imas:Talent>
+    <imas:Talent xml:lang="ja">手先が器用</imas:Talent>
+    <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">A453A6</imas:Color>
+    <imas:cv xml:lang="ja">七瀬つむぎ</imas:cv>
+    <imas:cv rdf:resource="http://ja.dbpedia.org/resource/七瀬つむぎ"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q125952573"/>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Brand xml:lang="en">Gakuen</imas:Brand>
     <schema:memberOf rdf:resource="HatsuboshiGakuen"/>
+    <schema:birthPlace xml:lang="ja">兵庫</schema:birthPlace>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/60004"/>
+    <imas:SchoolGrade xml:lang="ja">高等部アイドル科3年1組</imas:SchoolGrade>
+    <schema:description xml:lang="ja">カッコいいアイドルを目指す3年生の女の子。初星学園アイドル科の寮の寮長をしており面倒見がよい。後輩達からは小さな王子様（リトルプリンス）として慕われている。幼い頃から歌劇のスターに憧れ、子役として活躍していた過去を持つ。</schema:description>
   </rdf:Description>
 
   <rdf:Description rdf:about="Katsuragi_Lilja">
@@ -120,14 +171,32 @@
     <schema:name xml:lang="ja">葛城リーリヤ</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">葛城リーリヤ</rdfs:label>
     <schema:name xml:lang="en">Lilja Katsuragi</schema:name>
-    <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">EFFDFF</imas:Color>
-    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
+    <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</foaf:age>
+    <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">161.0</schema:height>
+    <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">43.0</schema:weight>
+    <imas:Bust rdf:datatype="http://www.w3.org/2001/XMLSchema#float">83.0</imas:Bust>
+    <imas:Waist rdf:datatype="http://www.w3.org/2001/XMLSchema#float">53.0</imas:Waist>
+    <imas:Hip rdf:datatype="http://www.w3.org/2001/XMLSchema#float">80.0</imas:Hip>
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--07-24</schema:birthDate>
     <imas:Constellation xml:lang="ja">獅子座</imas:Constellation>
-
+    <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">B</imas:BloodType>
+    <imas:Handedness rdf:datatype="http://www.w3.org/2001/XMLSchema#string">right</imas:Handedness>
+    <imas:Hobby xml:lang="ja">お菓子作り</imas:Hobby>
+    <imas:Hobby xml:lang="ja">日本のアニメ</imas:Hobby>
+    <imas:Talent xml:lang="ja">お菓子作り</imas:Talent>
+    <imas:Talent xml:lang="ja">ゲーム</imas:Talent>
+    <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">EFFDFF</imas:Color>
+    <imas:cv xml:lang="ja">花岩香奈</imas:cv>
+    <imas:cv rdf:resource="http://ja.dbpedia.org/resource/花岩香奈"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q125952621"/>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Brand xml:lang="en">Gakuen</imas:Brand>
     <schema:memberOf rdf:resource="HatsuboshiGakuen"/>
+    <schema:birthPlace xml:lang="ja">スウェーデン</schema:birthPlace>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/60005"/>
+    <imas:SchoolGrade xml:lang="ja">高等部アイドル科1年1組</imas:SchoolGrade>
+    <schema:description xml:lang="ja">海外出身の新入生。歌やダンスの経験はなく、いつも自信がなさそうに縮こまっている。才能があるようには見えないが、アイドルへの憧れは本物で、相当な努力家。親友の清夏とは、一緒にステージに立つ約束をしている。</schema:description>
   </rdf:Description>
 
   <rdf:Description rdf:about="Kuramoto_China">
@@ -141,14 +210,31 @@
     <schema:name xml:lang="ja">倉本千奈</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">倉本千奈</rdfs:label>
     <schema:name xml:lang="en">China Kuramoto</schema:name>
-    <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">F8AC5E</imas:Color>
-    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
+    <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</foaf:age>
+    <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">148.0</schema:height>
+    <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">43.0</schema:weight>
+    <imas:Bust rdf:datatype="http://www.w3.org/2001/XMLSchema#float">73.0</imas:Bust>
+    <imas:Waist rdf:datatype="http://www.w3.org/2001/XMLSchema#float">56.0</imas:Waist>
+    <imas:Hip rdf:datatype="http://www.w3.org/2001/XMLSchema#float">73.0</imas:Hip>
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--08-01</schema:birthDate>
     <imas:Constellation xml:lang="ja">獅子座</imas:Constellation>
-
+    <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">O</imas:BloodType>
+    <imas:Handedness rdf:datatype="http://www.w3.org/2001/XMLSchema#string">right</imas:Handedness>
+    <imas:Hobby xml:lang="ja">お絵描き</imas:Hobby>
+    <imas:Talent xml:lang="ja">元気なあいさつ</imas:Talent>
+    <imas:Talent xml:lang="ja">動物に好かれること</imas:Talent>
+    <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">F8AC5E</imas:Color>
+    <imas:cv xml:lang="ja">伊藤舞音</imas:cv>
+    <!-- <imas:cv rdf:resource="http://ja.dbpedia.org/resource/伊藤舞音"/> -->
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q125952616"/>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Brand xml:lang="en">Gakuen</imas:Brand>
     <schema:memberOf rdf:resource="HatsuboshiGakuen"/>
+    <schema:birthPlace xml:lang="ja">神奈川</schema:birthPlace>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/60006"/>
+    <imas:SchoolGrade xml:lang="ja">高等部アイドル科1年2組</imas:SchoolGrade>
+    <schema:description xml:lang="ja">甘やかされて育った生粋のお嬢様。天真爛漫な女の子。「立派なアイドル」を夢見て初星学園に入学した。その実力は、本人いわく「全校生徒の中で最下位ですわ！」とのこと。</schema:description>
   </rdf:Description>
 
   <rdf:Description rdf:about="Shiun_Sumika">
@@ -162,14 +248,31 @@
     <schema:name xml:lang="ja">紫雲清夏</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">紫雲清夏</rdfs:label>
     <schema:name xml:lang="en">Sumika Shiun</schema:name>
-    <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">A2FD47</imas:Color>
-    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
+    <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</foaf:age>
+    <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">168.0</schema:height>
+    <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">54.0</schema:weight>
+    <imas:Bust rdf:datatype="http://www.w3.org/2001/XMLSchema#float">89.0</imas:Bust>
+    <imas:Waist rdf:datatype="http://www.w3.org/2001/XMLSchema#float">58.0</imas:Waist>
+    <imas:Hip rdf:datatype="http://www.w3.org/2001/XMLSchema#float">85.0</imas:Hip>
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--11-11</schema:birthDate>
     <imas:Constellation xml:lang="ja">蠍座</imas:Constellation>
-
+    <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">O</imas:BloodType>
+    <imas:Handedness rdf:datatype="http://www.w3.org/2001/XMLSchema#string">left</imas:Handedness>
+    <imas:Hobby xml:lang="ja">カラオケ</imas:Hobby>
+    <imas:Hobby xml:lang="ja">SNS</imas:Hobby>
+    <imas:Talent xml:lang="ja">身体が柔らかい</imas:Talent>
+    <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">A2FD47</imas:Color>
+    <imas:cv xml:lang="ja">湊みや</imas:cv>
+    <!-- <imas:cv rdf:resource="http://ja.dbpedia.org/resource/湊みや"/> -->
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q125080535"/>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Brand xml:lang="en">Gakuen</imas:Brand>
     <schema:memberOf rdf:resource="HatsuboshiGakuen"/>
+    <schema:birthPlace xml:lang="ja">北海道</schema:birthPlace>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/60007"/>
+    <imas:SchoolGrade xml:lang="ja">高等部アイドル科1年1組</imas:SchoolGrade>
+    <schema:description xml:lang="ja">授業やレッスンをサボる不真面目なギャル。おちゃらけた態度ではあるが、元気で明るく、誰とでも仲良くなれる気質は彼女の魅力だ。入学前にはバレエで世界に羽ばたいた実績もあり、期待されていたものの、当人にやる気はない。懸命にアイドルを目指している親友のリーリヤを応援している。</schema:description>
   </rdf:Description>
 
   <rdf:Description rdf:about="Shinosawa_Hiro">
@@ -183,14 +286,34 @@
     <schema:name xml:lang="ja">篠澤広</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">篠澤広</rdfs:label>
     <schema:name xml:lang="en">Hiro Shinosawa</schema:name>
-    <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">48C6DA</imas:Color>
-    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
+    <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</foaf:age>
+    <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">159.0</schema:height>
+    <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">41.0</schema:weight>
+    <imas:Bust rdf:datatype="http://www.w3.org/2001/XMLSchema#float">72.0</imas:Bust>
+    <imas:Waist rdf:datatype="http://www.w3.org/2001/XMLSchema#float">54.0</imas:Waist>
+    <imas:Hip rdf:datatype="http://www.w3.org/2001/XMLSchema#float">76.0</imas:Hip>
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--12-21</schema:birthDate>
     <imas:Constellation xml:lang="ja">射手座</imas:Constellation>
-
+    <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AB</imas:BloodType>
+    <imas:Handedness rdf:datatype="http://www.w3.org/2001/XMLSchema#string">left</imas:Handedness>
+    <imas:Hobby xml:lang="ja">苦手分野に挑戦すること</imas:Hobby>
+    <imas:Hobby xml:lang="ja">観葉植物を育てること</imas:Hobby>
+    <imas:Talent xml:lang="ja">学業全般</imas:Talent>
+    <imas:Talent xml:lang="ja">物理</imas:Talent>
+    <imas:Talent xml:lang="ja">数学</imas:Talent>
+    <imas:Talent xml:lang="ja">パズル</imas:Talent>
+    <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">48C6DA</imas:Color>
+    <imas:cv xml:lang="ja">川村玲奈</imas:cv>
+    <imas:cv rdf:resource="http://ja.dbpedia.org/resource/川村玲奈"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q125952623"/>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Brand xml:lang="en">Gakuen</imas:Brand>
     <schema:memberOf rdf:resource="HatsuboshiGakuen"/>
+    <schema:birthPlace xml:lang="ja">秋田</schema:birthPlace>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/60008"/>
+    <imas:SchoolGrade xml:lang="ja">高等部アイドル科1年2組</imas:SchoolGrade>
+    <schema:description xml:lang="ja">ミステリアスな雰囲気漂う天才少女。簡単で退屈すぎる日々を厭い、苦手分野に挑戦すべく初星学園に入学した。「辛く苦しいレッスン」や「うまくいかないこと」に喜びを感じる変人。アイドルを目指した理由は「いちばんわたしに向いてなさそうだから」。</schema:description>
   </rdf:Description>
 
   <rdf:Description rdf:about="Himesaki_Rinami">
@@ -204,14 +327,33 @@
     <schema:name xml:lang="ja">姫崎莉波</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">姫崎莉波</rdfs:label>
     <schema:name xml:lang="en">Rinami Himesaki</schema:name>
-    <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">F9C4D6</imas:Color>
-    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
+    <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</foaf:age>
+    <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">166.0</schema:height>
+    <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">56.0</schema:weight>
+    <imas:Bust rdf:datatype="http://www.w3.org/2001/XMLSchema#float">90.0</imas:Bust>
+    <imas:Waist rdf:datatype="http://www.w3.org/2001/XMLSchema#float">59.0</imas:Waist>
+    <imas:Hip rdf:datatype="http://www.w3.org/2001/XMLSchema#float">93.0</imas:Hip>
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--03-05</schema:birthDate>
     <imas:Constellation xml:lang="ja">魚座</imas:Constellation>
-
+    <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A</imas:BloodType>
+    <imas:Handedness rdf:datatype="http://www.w3.org/2001/XMLSchema#string">right</imas:Handedness>
+    <imas:Hobby xml:lang="ja">カフェ巡り</imas:Hobby>
+    <imas:Hobby xml:lang="ja">コスメ集め</imas:Hobby>
+    <imas:Talent xml:lang="ja">料理</imas:Talent>
+    <imas:Talent xml:lang="ja">裁縫</imas:Talent>
+    <imas:Talent xml:lang="ja">手芸</imas:Talent>
+    <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">F9C4D6</imas:Color>
+    <imas:cv xml:lang="ja">薄井友里</imas:cv>
+    <imas:cv rdf:resource="http://ja.dbpedia.org/resource/薄井友里"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q108110377"/>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Brand xml:lang="en">Gakuen</imas:Brand>
     <schema:memberOf rdf:resource="HatsuboshiGakuen"/>
+    <schema:birthPlace xml:lang="ja">福岡</schema:birthPlace>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/60009"/>
+    <imas:SchoolGrade xml:lang="ja">高等部アイドル科3年1組</imas:SchoolGrade>
+    <schema:description xml:lang="ja">大人びた雰囲気のある3年生。しっかりもので優しく、面倒見のいい寮のみんなのお姉さん。過去にユニットに所属していたこともあるが、結果は振るわなかった。生徒会に所属しており、書記を務めている。</schema:description>
   </rdf:Description>
 
   <rdf:Description rdf:about="Hanami_Ume">
@@ -225,14 +367,31 @@
     <schema:name xml:lang="ja">花海佑芽</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">花海佑芽</rdfs:label>
     <schema:name xml:lang="en">Ume Hanami</schema:name>
-    <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">EF8472</imas:Color>
-    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
+    <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</foaf:age>
+    <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">158.0</schema:height>
+    <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">50.0</schema:weight>
+    <imas:Bust rdf:datatype="http://www.w3.org/2001/XMLSchema#float">91.0</imas:Bust>
+    <imas:Waist rdf:datatype="http://www.w3.org/2001/XMLSchema#float">60.0</imas:Waist>
+    <imas:Hip rdf:datatype="http://www.w3.org/2001/XMLSchema#float">85.0</imas:Hip>
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--04-01</schema:birthDate>
     <imas:Constellation xml:lang="ja">牡羊座</imas:Constellation>
-
+    <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AB</imas:BloodType>
+    <imas:Handedness rdf:datatype="http://www.w3.org/2001/XMLSchema#string">right</imas:Handedness>
+    <imas:Hobby xml:lang="ja">お姉ちゃんとの勝負</imas:Hobby>
+    <imas:Talent xml:lang="ja">スポーツ全般</imas:Talent>
+    <imas:Talent xml:lang="ja">マッサージ</imas:Talent>
+    <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">EF8472</imas:Color>
+    <imas:cv xml:lang="ja">松田彩音</imas:cv>
+    <!-- <imas:cv rdf:resource="http://ja.dbpedia.org/resource/松田彩音"/> -->
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q125952491"/>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Brand xml:lang="en">Gakuen</imas:Brand>
     <schema:memberOf rdf:resource="HatsuboshiGakuen"/>
+    <schema:birthPlace xml:lang="ja">愛知</schema:birthPlace>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/60010"/>
+    <imas:SchoolGrade xml:lang="ja">高等部アイドル科1年2組</imas:SchoolGrade>
+    <schema:description xml:lang="ja">補欠入学の新入生。元気いっぱい、身体能力抜群の元アスリート。 姉である咲季のことが大大大大大好きで、心から尊敬し、ライバル視し、最大の目標としている。 咲季の献身的なサポートによって、アイドルの才能を開花させていく。</schema:description>
   </rdf:Description>
 
   <rdf:Description rdf:about="Hataya_Misuzu">
@@ -247,10 +406,15 @@
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">秦谷美鈴</rdfs:label>
     <schema:name xml:lang="en">Misuzu Hataya</schema:name>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">A0B6DC</imas:Color>
+    <imas:cv xml:lang="ja">春咲暖</imas:cv>
+    <imas:cv rdf:resource="http://ja.dbpedia.org/resource/春咲暖"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q35172355"/>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Brand xml:lang="en">Gakuen</imas:Brand>
     <schema:memberOf rdf:resource="HatsuboshiGakuen"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:SchoolGrade xml:lang="ja">高等部アイドル科1年2組</imas:SchoolGrade>
+    <schema:description xml:lang="ja">のんびりマイペースな女の子。自分にも他人にも優しく甘い。他者のお世話をしたり、甘やかしたりするのが大好き。甘えん坊な親友を、妹や娘のように慈しみ、大切にしている。</schema:description>
   </rdf:Description>
 
   <rdf:Description rdf:about="Juo_Sena">
@@ -265,9 +429,14 @@
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">十王星南</rdfs:label>
     <schema:name xml:lang="en">Sena Juo</schema:name>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">F9C584</imas:Color>
+    <imas:cv xml:lang="ja">陽高真白</imas:cv>
+    <imas:cv rdf:resource="http://ja.dbpedia.org/resource/陽高真白"/>
+    <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q115529746"/>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Brand xml:lang="en">Gakuen</imas:Brand>
     <schema:memberOf rdf:resource="HatsuboshiGakuen"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:SchoolGrade xml:lang="ja">高等部アイドル科3年1組</imas:SchoolGrade>
+    <schema:description xml:lang="ja">初星学園の生徒会長。「学園一のアイドル」と呼ばれ、多くの生徒たちから慕われている。 学園長の孫娘で、幼少時からアイドルのエリート教育を受けて育った。 「アイドルの才能を見抜く」特技があり、ことねを一目で気に入るが、なぜか距離を置かれてしまう。</schema:description>
   </rdf:Description>
 </rdf:RDF>
