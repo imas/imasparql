@@ -80,6 +80,13 @@ imas-shape:IdolShape a sh:NodeShape;
         sh:languageIn ("ja");
     ];
     sh:property [
+        sh:name "ミドルネームの仮名の制約";
+        sh:description "仮名は日本語なのでlang=ja";
+        sh:path imas:additionalNameKana;
+        sh:datatype rdf:langString;
+        sh:languageIn ("ja");
+    ];
+    sh:property [
         sh:name "上の名前の仮名の制約";
         sh:description "仮名は日本語なのでlang=ja";
         sh:path imas:familyNameKana;
