@@ -173,4 +173,100 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
   </rdf:Description>
 
+  <rdf:Description rdf:about="Kamizuru_Cosmo">
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <schema:familyName xml:lang="ja">上水流</schema:familyName>
+    <schema:familyName xml:lang="en">Kamizuru</schema:familyName>
+    <imas:familyNameKana xml:lang="ja">かみずる</imas:familyNameKana>
+    <schema:givenName xml:lang="ja">宇宙</schema:givenName>
+    <schema:givenName xml:lang="en">Cosmo</schema:givenName>
+    <imas:givenNameKana xml:lang="ja">こすも</imas:givenNameKana>
+    <schema:name xml:lang="ja">上水流宇宙</schema:name>
+    <schema:name xml:lang="en">Cosmo Kamizuru</schema:name>
+    <imas:nameKana xml:lang="ja">かみずるこすも</imas:nameKana>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">上水流宇宙</rdfs:label>
+    <imas:Brand xml:lang="en">va-liv</imas:Brand>
+    <schema:memberOf rdf:resource="876Production"/>
+    <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</foaf:age>
+    <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">162</schema:height>
+    <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--09-12</schema:birthDate>
+    <imas:Constellation xml:lang="ja">蠍座</imas:Constellation>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
+    <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">B</imas:BloodType>
+    <schema:birthPlace xml:lang="ja">東京</schema:birthPlace>
+    <imas:Hobby xml:lang="ja">イラストを描くこと</imas:Hobby>
+    <imas:Hobby xml:lang="ja">ゲーム</imas:Hobby>
+    <imas:Hobby xml:lang="ja">食べること</imas:Hobby>
+    <imas:Talent xml:lang="ja">書道</imas:Talent>
+    <imas:Talent xml:lang="ja">地獄耳</imas:Talent>
+    <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">56CCF2</imas:Color>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/210004"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="Tomori_Manaka">
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <schema:familyName xml:lang="ja">灯里</schema:familyName>
+    <schema:familyName xml:lang="en">Tomori</schema:familyName>
+    <imas:familyNameKana xml:lang="ja">ともり</imas:familyNameKana>
+    <schema:givenName xml:lang="ja">愛夏</schema:givenName>
+    <schema:givenName xml:lang="en">Manaka</schema:givenName>
+    <imas:givenNameKana xml:lang="ja">まなか</imas:givenNameKana>
+    <schema:name xml:lang="ja">灯里愛夏</schema:name>
+    <schema:name xml:lang="en">Manaka Tomori</schema:name>
+    <imas:nameKana xml:lang="ja">ともりまなか</imas:nameKana>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">灯里愛夏</rdfs:label>
+    <imas:Brand xml:lang="en">va-liv</imas:Brand>
+    <schema:memberOf rdf:resource="876Production"/>
+    <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</foaf:age>
+    <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">158</schema:height>
+    <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--07-01</schema:birthDate>
+    <imas:Constellation xml:lang="ja">蟹座</imas:Constellation>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
+    <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">B</imas:BloodType>
+    <schema:birthPlace xml:lang="ja">福岡</schema:birthPlace>
+    <imas:Hobby xml:lang="ja">アイドル研究</imas:Hobby>
+    <imas:Hobby xml:lang="ja">カフェで読書</imas:Hobby>
+    <imas:Hobby xml:lang="ja">ミュージカル</imas:Hobby>
+    <imas:Talent xml:lang="ja">料理</imas:Talent>
+    <imas:Talent xml:lang="ja">利きアイス</imas:Talent>
+    <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">FF4554</imas:Color>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/210003"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="Sara_Letora_Oliveira_Utagawa">
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <schema:familyName xml:lang="ja">オリヴェイラ・ウタガワ</schema:familyName>
+    <schema:familyName xml:lang="en">Oliveira Utagawa</schema:familyName>
+    <imas:familyNameKana xml:lang="ja">おりゔぇいら・うたがわ</imas:familyNameKana>
+    <schema:givenName xml:lang="ja">サラ</schema:givenName>
+    <schema:givenName xml:lang="en">Sara</schema:givenName>
+    <imas:givenNameKana xml:lang="ja">さら</imas:givenNameKana>
+    <schema:additionalName xml:lang="ja">レトラ</schema:additionalName>
+    <schema:additionalName xml:lang="en">Letora</schema:additionalName>
+    <imas:additionalNameKana xml:lang="ja">れとら</imas:additionalNameKana>
+    <schema:name xml:lang="ja">サラ・レトラ・オリヴェイラ・ウタガワ</schema:name>
+    <schema:name xml:lang="en">Sara Letora Oliveira Utagawa</schema:name>
+    <imas:nameKana xml:lang="ja">さら・れとら・おりゔぇいら・うたがわ</imas:nameKana>
+    <schema:alternateName xml:lang="ja">レトラ</schema:alternateName>
+    <schema:alternateName xml:lang="en">Letora</schema:alternateName>
+    <imas:alternateNameKana xml:lang="ja">れとら</imas:alternateNameKana>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">レトラ</rdfs:label>
+    <imas:Brand xml:lang="en">va-liv</imas:Brand>
+    <schema:memberOf rdf:resource="876Production"/>
+    <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</foaf:age>
+    <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">159</schema:height>
+    <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--11-11</schema:birthDate>
+    <imas:Constellation xml:lang="ja">蠍座</imas:Constellation>
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
+    <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">O</imas:BloodType>
+    <schema:birthPlace xml:lang="ja">埼玉</schema:birthPlace>
+    <imas:Hobby xml:lang="ja">寝ること</imas:Hobby>
+    <imas:Hobby xml:lang="ja">ネイル・メイク</imas:Hobby>
+    <imas:Hobby xml:lang="ja">雑貨集め</imas:Hobby>
+    <imas:Talent xml:lang="ja">歌</imas:Talent>
+    <imas:Talent xml:lang="ja">古着リメイク</imas:Talent>
+    <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">D7F930</imas:Color>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/210005"/>
+  </rdf:Description>
+
 </rdf:RDF>

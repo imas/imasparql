@@ -5,12 +5,12 @@ rules:
     query: |
       PREFIX schema: <http://schema.org/>
       PREFIX imas: <https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#>
-      SELECT ?s ?fn ?gn ?nm ?fnk ?gnk ?nmk
+      SELECT ?s ?fn ?gn ?an ?nm ?fnk ?gnk ?ank ?nmk
       WHERE {
-       ?s schema:familyName ?fn; schema:givenName ?gn; schema:name ?nm;
-         imas:familyNameKana ?fnk; imas:givenNameKana ?gnk; imas:nameKana ?nmk.
-       FILTER(LANG(?fn) = 'ja' && LANG(?gn) = 'ja' && LANG(?nm) = 'ja'
-         && LANG(?fnk) = 'ja' && LANG(?gnk) = 'ja' && LANG(?nmk) = 'ja')
+       ?s schema:familyName ?fn; schema:givenName ?gn; schema:additionalName ?an; schema:name ?nm;
+         imas:familyNameKana ?fnk; imas:givenNameKana ?gnk; imas:additionalNameKana ?ank; imas:nameKana ?nmk.
+       FILTER(LANG(?fn) = 'ja' && LANG(?gn) = 'ja'  && LANG(?an) = 'ja' && LANG(?nm) = 'ja'
+         && LANG(?fnk) = 'ja' && LANG(?gnk) = 'ja'  && LANG(?ank) = 'ja' && LANG(?nmk) = 'ja')
       }
     valid: |
       while(rs.hasNext()) {
@@ -18,6 +18,7 @@ rules:
         jn = [r.getLiteral("fn").value + r.getLiteral("gn").value,
               r.getLiteral("gn").value + r.getLiteral("fn").value,
               r.getLiteral("fn").value + "・" + r.getLiteral("gn").value,
+              r.getLiteral("gn").value + "・" + r.getLiteral("an").value + "・" + r.getLiteral("fn").value,
               r.getLiteral("gn").value + "・" + r.getLiteral("fn").value]
         nm = r.getLiteral("nm").value
         if (!(nm in jn)) {
@@ -27,6 +28,7 @@ rules:
         jnk = [r.getLiteral("fnk").value + r.getLiteral("gnk").value,
                r.getLiteral("gnk").value + r.getLiteral("fnk").value,
                r.getLiteral("fnk").value + "・" + r.getLiteral("gnk").value,
+              r.getLiteral("gnk").value + "・" + r.getLiteral("ank").value + "・" + r.getLiteral("fnk").value,
                r.getLiteral("gnk").value + "・" + r.getLiteral("fnk").value]
         nmk = r.getLiteral("nmk").value
         if (!(nmk in jnk)) {
@@ -37,15 +39,16 @@ rules:
     target: "RDFs/.*"
     query: |
       PREFIX schema: <http://schema.org/>
-      SELECT ?s ?fn ?gn ?nm
+      SELECT ?s ?fn ?gn ?an ?nm
       WHERE {
-       ?s schema:familyName ?fn; schema:givenName ?gn; schema:name ?nm
-       FILTER(LANG(?fn) = 'en' && LANG(?gn) = 'en' && LANG(?nm) = 'en')
+       ?s schema:familyName ?fn; schema:givenName ?gn; schema:additionalName ?an; schema:name ?nm
+       FILTER(LANG(?fn) = 'en' && LANG(?gn) = 'en' && LANG(?an) = 'en' && LANG(?nm) = 'en')
       }
     valid: |
       while(rs.hasNext()) {
         r = rs.next()
         jn = [r.getLiteral("fn").value + " " + r.getLiteral("gn").value,
+              r.getLiteral("gn").value + " " + r.getLiteral("an").value + " " + r.getLiteral("fn").value,
               r.getLiteral("gn").value + " " + r.getLiteral("fn").value]
         nm = r.getLiteral("nm").value
         if (!(nm in jn)) {
