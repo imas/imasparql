@@ -114,6 +114,10 @@ imas:familyNameKana     a   rdf:Property ;
     rdfs:comment            "姓のよみがなを表すプロパティ" ;
     rdfs:label              "姓よみがな"@ja .
 
+imas:additionalNameKana a   rdf:Property ;
+    rdfs:comment            "ミドルネームのよみがなを表すプロパティ" ;
+    rdfs:label              "ミドルネームよみがな"@ja .
+
 imas:givenNameKana      a   rdf:Property ;
     rdfs:comment            "名のよみがなを表すプロパティ" ;
     rdfs:label              "名よみがな"@ja .
