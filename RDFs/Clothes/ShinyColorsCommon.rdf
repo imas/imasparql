@@ -2179,6 +2179,27 @@
     <imas:Whose rdf:resource="Fukumaru_Koito"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
+  <rdf:Description rdf:about="DressUpParfum_IchikawaHinana">
+    <schema:name xml:lang="ja">ドレスアップパルファム</schema:name>
+    <rdfs:label rdf:datatype="http://www.w5.org/2001/XMLSchema#string">ドレスアップパルファム</rdfs:label>
+    <schema:description xml:lang="ja">Cheers! ずっとずっと満開のまま</schema:description>
+    <imas:Whose rdf:resource="Ichikawa_Hinana"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="DressUpParfum_NanakusaNichika">
+    <schema:name xml:lang="ja">ドレスアップパルファム</schema:name>
+    <rdfs:label rdf:datatype="http://www.w5.org/2001/XMLSchema#string">ドレスアップパルファム</rdfs:label>
+    <schema:description xml:lang="ja">Cheers! 祝福は、まだ早い</schema:description>
+    <imas:Whose rdf:resource="Nanakusa_Nichika"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="DressUpParfum_AketaMikoto">
+    <schema:name xml:lang="ja">ドレスアップパルファム</schema:name>
+    <rdfs:label rdf:datatype="http://www.w5.org/2001/XMLSchema#string">ドレスアップパルファム</rdfs:label>
+    <schema:description xml:lang="ja">Cheers! brand new way</schema:description>
+    <imas:Whose rdf:resource="Aketa_Mikoto"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
 
   <!-- セレスティアルカラーズ -->
   <rdf:Description rdf:about="CelestialColors_SakuragiMano">
@@ -2725,6 +2746,27 @@
     <imas:Whose rdf:resource="Mitsumine_Yuika"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
+  <rdf:Description rdf:about="RespectiveWorkStyle_AsakuraToru">
+    <schema:name xml:lang="ja">リスペクティブワークスタイル</schema:name>
+    <rdfs:label rdf:datatype="http://www.w5.org/2001/XMLSchema#string">リスペクティブワークスタイル</rdfs:label>
+    <schema:description xml:lang="ja">WORKING：火星からは以上です</schema:description>
+    <imas:Whose rdf:resource="Asakura_Toru"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RespectiveWorkStyle_OsakiTenka">
+    <schema:name xml:lang="ja">リスペクティブワークスタイル</schema:name>
+    <rdfs:label rdf:datatype="http://www.w5.org/2001/XMLSchema#string">リスペクティブワークスタイル</rdfs:label>
+    <schema:description xml:lang="ja">WORKING：おうちのすぐそこ</schema:description>
+    <imas:Whose rdf:resource="Osaki_Tenka"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RespectiveWorkStyle_SaijoJuri">
+    <schema:name xml:lang="ja">リスペクティブワークスタイル</schema:name>
+    <rdfs:label rdf:datatype="http://www.w5.org/2001/XMLSchema#string">リスペクティブワークスタイル</rdfs:label>
+    <schema:description xml:lang="ja">WORKING：お通しと笑顔は最速で！</schema:description>
+    <imas:Whose rdf:resource="Saijo_Juri"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
 
   <!-- フローウィングベル -->
   <rdf:Description rdf:about="FlowingBhel_SakuragiMano">
@@ -3106,5 +3148,203 @@
     <imas:Whose rdf:resource="Ikaruga_Luca"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
     <schema:description xml:lang="ja">Have fun!　波の音じゃ、足りない</schema:description>
+  </rdf:Description>
+
+  <!-- リフレジェントプルマージュ -->
+  <rdf:Description rdf:about="RefulgentPlumage_SakuragiMano">
+    <schema:name xml:lang="ja">リフレジェントプルマージュ</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">リフレジェントプルマージュ</rdfs:label>
+    <imas:Whose rdf:resource="Sakuragi_Mano"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+    <schema:description xml:lang="ja">join us! 夜空に高く、星よりもきらめいて</schema:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="RefulgentPlumage_KazanoHiori">
+    <schema:name xml:lang="ja">リフレジェントプルマージュ</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">リフレジェントプルマージュ</rdfs:label>
+    <imas:Whose rdf:resource="Kazano_Hiori"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+    <schema:description xml:lang="ja">join us! プリズムのヒカリを纏って</schema:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="RefulgentPlumage_HachimiyaMeguru">
+    <schema:name xml:lang="ja">リフレジェントプルマージュ</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">リフレジェントプルマージュ</rdfs:label>
+    <imas:Whose rdf:resource="Hachimiya_Meguru"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+    <schema:description xml:lang="ja">join us! ヒカリと共に……</schema:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="RefulgentPlumage_TsukiokaKogane">
+    <schema:name xml:lang="ja">リフレジェントプルマージュ</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">リフレジェントプルマージュ</rdfs:label>
+    <imas:Whose rdf:resource="Tsukioka_Kogane"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+    <schema:description xml:lang="ja">join us! 一際眩しく</schema:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="RefulgentPlumage_TanakaMamimi">
+    <schema:name xml:lang="ja">リフレジェントプルマージュ</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">リフレジェントプルマージュ</rdfs:label>
+    <imas:Whose rdf:resource="Tanaka_Mamimi"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+    <schema:description xml:lang="ja">join us! カラフル　ときどき　めんどー</schema:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="RefulgentPlumage_ShiraseSakuya">
+    <schema:name xml:lang="ja">リフレジェントプルマージュ</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">リフレジェントプルマージュ</rdfs:label>
+    <imas:Whose rdf:resource="Shirase_Sakuya"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+    <schema:description xml:lang="ja">join us! ファンファーレが聴こえる</schema:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="RefulgentPlumage_MitsumineYuika">
+    <schema:name xml:lang="ja">リフレジェントプルマージュ</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">リフレジェントプルマージュ</rdfs:label>
+    <imas:Whose rdf:resource="Mitsumine_Yuika"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+    <schema:description xml:lang="ja">join us! それなら、すべての色で</schema:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="RefulgentPlumage_YukokuKiriko">
+    <schema:name xml:lang="ja">リフレジェントプルマージュ</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">リフレジェントプルマージュ</rdfs:label>
+    <imas:Whose rdf:resource="Yukoku_Kiriko"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+    <schema:description xml:lang="ja">join us! 渡り鳥たちの見る夢は</schema:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="RefulgentPlumage_KomiyaKaho">
+    <schema:name xml:lang="ja">リフレジェントプルマージュ</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">リフレジェントプルマージュ</rdfs:label>
+    <imas:Whose rdf:resource="Komiya_Kaho"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+    <schema:description xml:lang="ja">join us! どんな色にだってなれるんだ</schema:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="RefulgentPlumage_SonodaChiyoko">
+    <schema:name xml:lang="ja">リフレジェントプルマージュ</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">リフレジェントプルマージュ</rdfs:label>
+    <imas:Whose rdf:resource="Sonoda_Chiyoko"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+    <schema:description xml:lang="ja">join us! 絶妙なファサァッ……感が好き</schema:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="RefulgentPlumage_SaijoJuri">
+    <schema:name xml:lang="ja">リフレジェントプルマージュ</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">リフレジェントプルマージュ</rdfs:label>
+    <imas:Whose rdf:resource="Saijo_Juri"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+    <schema:description xml:lang="ja">join us! 日々という贈り物を胸に</schema:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="RefulgentPlumage_MorinoRinze">
+    <schema:name xml:lang="ja">リフレジェントプルマージュ</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">リフレジェントプルマージュ</rdfs:label>
+    <imas:Whose rdf:resource="Morino_Rinze"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+    <schema:description xml:lang="ja">join us! 想ひ、溢れいづる</schema:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="RefulgentPlumage_ArisugawaNatsuha">
+    <schema:name xml:lang="ja">リフレジェントプルマージュ</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">リフレジェントプルマージュ</rdfs:label>
+    <imas:Whose rdf:resource="Arisugawa_Natsuha"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+    <schema:description xml:lang="ja">join us! THE SPARKLERS</schema:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="RefulgentPlumage_OsakiAmana">
+    <schema:name xml:lang="ja">リフレジェントプルマージュ</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">リフレジェントプルマージュ</rdfs:label>
+    <imas:Whose rdf:resource="Osaki_Amana"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+    <schema:description xml:lang="ja">join us! この彩で、貴方を染めたい</schema:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="RefulgentPlumage_OsakiTenka">
+    <schema:name xml:lang="ja">リフレジェントプルマージュ</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">リフレジェントプルマージュ</rdfs:label>
+    <imas:Whose rdf:resource="Osaki_Tenka"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+    <schema:description xml:lang="ja">join us! はぜて咲く、大輪の華</schema:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="RefulgentPlumage_KuwayamaChiyuki">
+    <schema:name xml:lang="ja">リフレジェントプルマージュ</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">リフレジェントプルマージュ</rdfs:label>
+    <imas:Whose rdf:resource="Kuwayama_Chiyuki"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+    <schema:description xml:lang="ja">join us! 煌彩と共に、凛と立ち</schema:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="RefulgentPlumage_SerizawaAsahi">
+    <schema:name xml:lang="ja">リフレジェントプルマージュ</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">リフレジェントプルマージュ</rdfs:label>
+    <imas:Whose rdf:resource="Serizawa_Asahi"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+    <schema:description xml:lang="ja">join us! 光は、君の羽ばたく方に</schema:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="RefulgentPlumage_MayuzumiFuyuko">
+    <schema:name xml:lang="ja">リフレジェントプルマージュ</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">リフレジェントプルマージュ</rdfs:label>
+    <imas:Whose rdf:resource="Mayuzumi_Fuyuko"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+    <schema:description xml:lang="ja">join us! 廻れ、世界</schema:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="RefulgentPlumage_IzumiMei">
+    <schema:name xml:lang="ja">リフレジェントプルマージュ</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">リフレジェントプルマージュ</rdfs:label>
+    <imas:Whose rdf:resource="Izumi_Mei"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+    <schema:description xml:lang="ja">join us! 景色を染めるのは、常に自分</schema:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="RefulgentPlumage_AsakuraToru">
+    <schema:name xml:lang="ja">リフレジェントプルマージュ</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">リフレジェントプルマージュ</rdfs:label>
+    <imas:Whose rdf:resource="Asakura_Toru"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+    <schema:description xml:lang="ja">join us! トオル、デラックスエディション</schema:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="RefulgentPlumage_HiguchiMadoka">
+    <schema:name xml:lang="ja">リフレジェントプルマージュ</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">リフレジェントプルマージュ</rdfs:label>
+    <imas:Whose rdf:resource="Higuchi_Madoka"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+    <schema:description xml:lang="ja">join us! 誰かに届いた、私の歌は</schema:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="RefulgentPlumage_FukumaruKoito">
+    <schema:name xml:lang="ja">リフレジェントプルマージュ</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">リフレジェントプルマージュ</rdfs:label>
+    <imas:Whose rdf:resource="Fukumaru_Koito"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+    <schema:description xml:lang="ja">join us! 置いていかれないように、高く</schema:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="RefulgentPlumage_IchikawaHinana">
+    <schema:name xml:lang="ja">リフレジェントプルマージュ</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">リフレジェントプルマージュ</rdfs:label>
+    <imas:Whose rdf:resource="Ichikawa_Hinana"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+    <schema:description xml:lang="ja">join us! さぁ、彩の向こうへ</schema:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="RefulgentPlumage_NanakusaNichika">
+    <schema:name xml:lang="ja">リフレジェントプルマージュ</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">リフレジェントプルマージュ</rdfs:label>
+    <imas:Whose rdf:resource="Nanakusa_Nichika"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+    <schema:description xml:lang="ja">join us! 鮮やか、いたくてまぶしい</schema:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="RefulgentPlumage_AketaMikoto">
+    <schema:name xml:lang="ja">リフレジェントプルマージュ</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">リフレジェントプルマージュ</rdfs:label>
+    <imas:Whose rdf:resource="Aketa_Mikoto"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+    <schema:description xml:lang="ja">join us! 一瞬の華では終わらない</schema:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="RefulgentPlumage_IkarugaLuca">
+    <schema:name xml:lang="ja">リフレジェントプルマージュ</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">リフレジェントプルマージュ</rdfs:label>
+    <imas:Whose rdf:resource="Ikaruga_Luca"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+    <schema:description xml:lang="ja">join us! OUT OF TUNE</schema:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="RefulgentPlumage_SuzukiHana">
+    <schema:name xml:lang="ja">リフレジェントプルマージュ</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">リフレジェントプルマージュ</rdfs:label>
+    <imas:Whose rdf:resource="Suzuki_Hana"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+    <schema:description xml:lang="ja">join us! 極彩</schema:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="RefulgentPlumage_IkutaHaruki">
+    <schema:name xml:lang="ja">リフレジェントプルマージュ</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">リフレジェントプルマージュ</rdfs:label>
+    <imas:Whose rdf:resource="Ikuta_Haruki"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+    <schema:description xml:lang="ja">join us! この上なく無垢な</schema:description>
   </rdf:Description>
 </rdf:RDF>

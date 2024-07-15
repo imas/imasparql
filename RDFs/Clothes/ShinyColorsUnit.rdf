@@ -93,10 +93,11 @@
     <schema:name xml:lang="ja">プレゼントフロムエストレア</schema:name>
     <rdfs:label rdf:datatype="http://www.w5.org/2001/XMLSchema#string">プレゼントフロムエストレア</rdfs:label>
     <!-- <imas:Whose rdf:resource="Kazano_Hiori"/> -->
-    <!-- <imas:Whose rdf:resource="Sakuragi_Mano"/> -->
+    <imas:Whose rdf:resource="Sakuragi_Mano"/>
     <imas:Whose rdf:resource="Hachimiya_Meguru"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
+
   <rdf:Description rdf:about="One_Day_Officer">
     <schema:name xml:lang="ja">ワンデイオフィサー</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ワンデイオフィサー</rdfs:label>
@@ -374,6 +375,16 @@
     <imas:Whose rdf:resource="Tanaka_Mamimi"/>
     <imas:Whose rdf:resource="Tsukioka_Kogane"/>
     <imas:Whose rdf:resource="Mitsumine_Yuika"/>
+    <imas:Whose rdf:resource="Yukoku_Kiriko"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Clock_Doll_Enrouler">
+    <schema:name xml:lang="ja">クロックドオルアンルーレ</schema:name>
+    <rdfs:label rdf:datatype="http://www.w5.org/2001/XMLSchema#string">クロックドオルアンルーレ</rdfs:label>
+    <imas:Whose rdf:resource="Shirase_Sakuya"/>
+    <!-- <imas:Whose rdf:resource="Tanaka_Mamimi"/> -->
+    <!-- <imas:Whose rdf:resource="Tsukioka_Kogane"/> -->
+    <!-- <imas:Whose rdf:resource="Mitsumine_Yuika"/> -->
     <imas:Whose rdf:resource="Yukoku_Kiriko"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
@@ -708,7 +719,7 @@
     <imas:Whose rdf:resource="Komiya_Kaho"/>
     <!-- <imas:Whose rdf:resource="Saijo_Juri"/> -->
     <!-- <imas:Whose rdf:resource="Sonoda_Chiyoko"/> -->
-    <!-- <imas:Whose rdf:resource="Morino_Rinze"/> -->
+    <imas:Whose rdf:resource="Morino_Rinze"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
 
@@ -1690,7 +1701,7 @@
   <rdf:Description rdf:about="Portiere_Les_Ordine">
     <schema:name xml:lang="ja">ポルティエレオルディーネ</schema:name>
     <rdfs:label rdf:datatype="http://www.w5.org/2001/XMLSchema#string">ポルティエレオルディーネ</rdfs:label>
-    <!-- <imas:Whose rdf:resource="Aketa_Mikoto"/> -->
+    <imas:Whose rdf:resource="Aketa_Mikoto"/>
     <imas:Whose rdf:resource="Nanakusa_Nichika"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
@@ -1764,7 +1775,7 @@
     <schema:name xml:lang="ja">リフレクティックオプティーク</schema:name>
     <rdfs:label rdf:datatype="http://www.w5.org/2001/XMLSchema#string">リフレクティックオプティーク</rdfs:label>
     <!-- <imas:Whose rdf:resource="Ikaruga_Luca"/> -->
-    <!-- <imas:Whose rdf:resource="Suzuki_Hana"/> -->
+    <imas:Whose rdf:resource="Suzuki_Hana"/>
     <imas:Whose rdf:resource="Ikuta_Haruki"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
