@@ -31,6 +31,7 @@ imas-shape:IdolShape a sh:NodeShape;
             "ShinyColors"@en
             "Xenoglossia"@en
             "Gakuen"@en
+            "va-liv"@en
             "Other"@en  # 判断に迷う場合はここ
         );
     ];
@@ -75,6 +76,13 @@ imas-shape:IdolShape a sh:NodeShape;
         sh:name "下の名前の仮名の制約";
         sh:description "仮名は日本語なのでlang=ja";
         sh:path imas:givenNameKana;
+        sh:datatype rdf:langString;
+        sh:languageIn ("ja");
+    ];
+    sh:property [
+        sh:name "ミドルネームの仮名の制約";
+        sh:description "仮名は日本語なのでlang=ja";
+        sh:path imas:additionalNameKana;
         sh:datatype rdf:langString;
         sh:languageIn ("ja");
     ];
@@ -352,6 +360,8 @@ imas-shape:IdolShape a sh:NodeShape;
             "専門学校2年生"@ja
             "専門学校3年生"@ja
             "高等部アイドル科1年1組"@ja
+            "高等部アイドル科1年2組"@ja
+            "高等部アイドル科3年1組"@ja
         );
     ];
     sh:property [
