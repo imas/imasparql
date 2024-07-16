@@ -4452,9 +4452,9 @@
 
   <rdf:Description rdf:about="Juney">
     <imas:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Co</imas:Type>
-    <schema:alternateName xml:lang="ja">ジュニー</schema:alternateName>
-    <schema:alternateName xml:lang="ko">주니</schema:alternateName>
-    <schema:alternateName xml:lang="en">Juney</schema:alternateName>
+    <schema:name xml:lang="ja">ジュニー</schema:name>
+    <schema:name xml:lang="ko">주니</schema:name>
+    <schema:name xml:lang="en">Juney</schema:name>
     <imas:alternateNameKana xml:lang="ja">じゅにー</imas:alternateNameKana>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ジュニー</rdfs:label>
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
