@@ -2200,6 +2200,27 @@
     <imas:Whose rdf:resource="Aketa_Mikoto"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
+  <rdf:Description rdf:about="DressUpParfum_IkurugaLuca">
+    <schema:name xml:lang="ja">ドレスアップパルファム</schema:name>
+    <rdfs:label rdf:datatype="http://www.w5.org/2001/XMLSchema#string">ドレスアップパルファム</rdfs:label>
+    <schema:description xml:lang="ja">Cheers! 夜色に咲く</schema:description>
+    <imas:Whose rdf:resource="Ikaruga_Luca"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="DressUpParfum_SuzukiHana">
+    <schema:name xml:lang="ja">ドレスアップパルファム</schema:name>
+    <rdfs:label rdf:datatype="http://www.w5.org/2001/XMLSchema#string">ドレスアップパルファム</rdfs:label>
+    <schema:description xml:lang="ja">Cheers! 今夜の主役</schema:description>
+    <imas:Whose rdf:resource="Suzuki_Hana"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="DressUpParfum_IkutaHaruki">
+    <schema:name xml:lang="ja">ドレスアップパルファム</schema:name>
+    <rdfs:label rdf:datatype="http://www.w5.org/2001/XMLSchema#string">ドレスアップパルファム</rdfs:label>
+    <schema:description xml:lang="ja">Cheers! カラフルなドラジェに</schema:description>
+    <imas:Whose rdf:resource="Ikuta_Haruki"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
 
   <!-- セレスティアルカラーズ -->
   <rdf:Description rdf:about="CelestialColors_SakuragiMano">
@@ -2765,6 +2786,27 @@
     <rdfs:label rdf:datatype="http://www.w5.org/2001/XMLSchema#string">リスペクティブワークスタイル</rdfs:label>
     <schema:description xml:lang="ja">WORKING：お通しと笑顔は最速で！</schema:description>
     <imas:Whose rdf:resource="Saijo_Juri"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RespectiveWorkStyle_KuwayamaChiyuki">
+    <schema:name xml:lang="ja">リスペクティブワークスタイル</schema:name>
+    <rdfs:label rdf:datatype="http://www.w5.org/2001/XMLSchema#string">リスペクティブワークスタイル</rdfs:label>
+    <schema:description xml:lang="ja">WORKING：ホームランと乾杯♪</schema:description>
+    <imas:Whose rdf:resource="Kuwayama_Chiyuki"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RespectiveWorkStyle_ShiraseSakuya">
+    <schema:name xml:lang="ja">リスペクティブワークスタイル</schema:name>
+    <rdfs:label rdf:datatype="http://www.w5.org/2001/XMLSchema#string">リスペクティブワークスタイル</rdfs:label>
+    <schema:description xml:lang="ja">WORKING：幼き日の憧れ</schema:description>
+    <imas:Whose rdf:resource="Shirase_Sakuya"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RespectiveWorkStyle_NanakusaNichika">
+    <schema:name xml:lang="ja">リスペクティブワークスタイル</schema:name>
+    <rdfs:label rdf:datatype="http://www.w5.org/2001/XMLSchema#string">リスペクティブワークスタイル</rdfs:label>
+    <schema:description xml:lang="ja">WORKING：満タン＆GO!</schema:description>
+    <imas:Whose rdf:resource="Shirase_Sakuya"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
 
@@ -3347,4 +3389,202 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
     <schema:description xml:lang="ja">join us! この上なく無垢な</schema:description>
   </rdf:Description>
+
+  <rdf:Description rdf:about="FriskySummer_SakuragiMano">
+    <schema:name xml:lang="ja">フリスキーサマー</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">フリスキーサマー</rdfs:label>
+    <imas:Whose rdf:resource="Sakuragi_Mano"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+    <schema:description xml:lang="ja">ヴァケーション！サン・オレンジをさらって</schema:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="FriskySummer_KazanoHiori">
+    <schema:name xml:lang="ja">フリスキーサマー</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">フリスキーサマー</rdfs:label>
+    <imas:Whose rdf:resource="Kazano_Hiori"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+    <schema:description xml:lang="ja">ヴァケーション！涼を納れる</schema:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="FriskySummer_HachimiyaMeguru">
+    <schema:name xml:lang="ja">フリスキーサマー</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">フリスキーサマー</rdfs:label>
+    <imas:Whose rdf:resource="Hachimiya_Meguru"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+    <schema:description xml:lang="ja">ヴァケーション！感情論的、健康的</schema:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="FriskySummer_TsukiokaKogane">
+    <schema:name xml:lang="ja">フリスキーサマー</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">フリスキーサマー</rdfs:label>
+    <imas:Whose rdf:resource="Tsukioka_Kogane"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+    <schema:description xml:lang="ja">ヴァケーション！気分はブルーハワイ</schema:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="FriskySummer_TanakaMamimi">
+    <schema:name xml:lang="ja">フリスキーサマー</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">フリスキーサマー</rdfs:label>
+    <imas:Whose rdf:resource="Tanaka_Mamimi"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+    <schema:description xml:lang="ja">ヴァケーション！夜海を舞う</schema:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="FriskySummer_ShiraseSakuya">
+    <schema:name xml:lang="ja">フリスキーサマー</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">フリスキーサマー</rdfs:label>
+    <imas:Whose rdf:resource="Shirase_Sakuya"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+    <schema:description xml:lang="ja">ヴァケーション！キミと夜空を泳ぎたい</schema:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="FriskySummer_MitsumineYuika">
+    <schema:name xml:lang="ja">フリスキーサマー</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">フリスキーサマー</rdfs:label>
+    <imas:Whose rdf:resource="Mitsumine_Yuika"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+    <schema:description xml:lang="ja">ヴァケーション！冒険か、迷宮かヴァケーション！</schema:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="FriskySummer_YukokuKiriko">
+    <schema:name xml:lang="ja">フリスキーサマー</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">フリスキーサマー</rdfs:label>
+    <imas:Whose rdf:resource="Yukoku_Kiriko"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+    <schema:description xml:lang="ja">ヴァケーション！藍より深い、海の小夜曲</schema:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="FriskySummer_KomiyaKaho">
+    <schema:name xml:lang="ja">フリスキーサマー</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">フリスキーサマー</rdfs:label>
+    <imas:Whose rdf:resource="Komiya_Kaho"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+    <schema:description xml:lang="ja">ヴァケーション！全力で遊ぶ準備　よし！</schema:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="FriskySummer_SonodaChiyoko">
+    <schema:name xml:lang="ja">フリスキーサマー</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">フリスキーサマー</rdfs:label>
+    <imas:Whose rdf:resource="Sonoda_Chiyoko"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+    <schema:description xml:lang="ja">ヴァケーション！あみあみ型に焼けないようにする</schema:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="FriskySummer_SaijoJuri">
+    <schema:name xml:lang="ja">フリスキーサマー</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">フリスキーサマー</rdfs:label>
+    <imas:Whose rdf:resource="Saijo_Juri"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+    <schema:description xml:lang="ja">ヴァケーション！気まぐれサニーデイ</schema:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="FriskySummer_MorinoRinze">
+    <schema:name xml:lang="ja">フリスキーサマー</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">フリスキーサマー</rdfs:label>
+    <imas:Whose rdf:resource="Morino_Rinze"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+    <schema:description xml:lang="ja">ヴァケーション！絶対みまも凛世</schema:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="FriskySummer_ArisugawaNatsuha">
+    <schema:name xml:lang="ja">フリスキーサマー</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">フリスキーサマー</rdfs:label>
+    <imas:Whose rdf:resource="Arisugawa_Natsuha"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+    <schema:description xml:lang="ja">ヴァケーション！お揃いストリートもマストバイ</schema:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="FriskySummer_OsakiAmana">
+    <schema:name xml:lang="ja">フリスキーサマー</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">フリスキーサマー</rdfs:label>
+    <imas:Whose rdf:resource="Osaki_Amana"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+    <schema:description xml:lang="ja">ヴァケーション！♥は全部でいくつかな？</schema:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="FriskySummer_OsakiTenka">
+    <schema:name xml:lang="ja">フリスキーサマー</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">フリスキーサマー</rdfs:label>
+    <imas:Whose rdf:resource="Osaki_Tenka"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+    <schema:description xml:lang="ja">ヴァケーション！ユア♥デビ</schema:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="FriskySummer_KuwayamaChiyuki">
+    <schema:name xml:lang="ja">フリスキーサマー</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">フリスキーサマー</rdfs:label>
+    <imas:Whose rdf:resource="Kuwayama_Chiyuki"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+    <schema:description xml:lang="ja">ヴァケーション！♥撃ち抜いちゃうの</schema:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="FriskySummer_SerizawaAsahi">
+    <schema:name xml:lang="ja">フリスキーサマー</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">フリスキーサマー</rdfs:label>
+    <imas:Whose rdf:resource="Serizawa_Asahi"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+    <schema:description xml:lang="ja">ヴァケーション！到来！　ありったけサマー！</schema:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="FriskySummer_MayuzumiFuyuko">
+    <schema:name xml:lang="ja">フリスキーサマー</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">フリスキーサマー</rdfs:label>
+    <imas:Whose rdf:resource="Mayuzumi_Fuyuko"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+    <schema:description xml:lang="ja">ヴァケーション！不滅</schema:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="FriskySummer_IzumiMei">
+    <schema:name xml:lang="ja">フリスキーサマー</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">フリスキーサマー</rdfs:label>
+    <imas:Whose rdf:resource="Izumi_Mei"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+    <schema:description xml:lang="ja">ヴァケーション！ひらひらアクティブモード！</schema:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="FriskySummer_AsakuraToru">
+    <schema:name xml:lang="ja">フリスキーサマー</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">フリスキーサマー</rdfs:label>
+    <imas:Whose rdf:resource="Asakura_Toru"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+    <schema:description xml:lang="ja">ヴァケーション！夏音痴健在</schema:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="FriskySummer_HiguchiMadoka">
+    <schema:name xml:lang="ja">フリスキーサマー</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">フリスキーサマー</rdfs:label>
+    <imas:Whose rdf:resource="Higuchi_Madoka"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+    <schema:description xml:lang="ja">ヴァケーション！水になるだけ</schema:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="FriskySummer_FukumaruKoito">
+    <schema:name xml:lang="ja">フリスキーサマー</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">フリスキーサマー</rdfs:label>
+    <imas:Whose rdf:resource="Fukumaru_Koito"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+    <schema:description xml:lang="ja">ヴァケーション！あねったいブルー</schema:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="FriskySummer_IchikawaHinana">
+    <schema:name xml:lang="ja">フリスキーサマー</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">フリスキーサマー</rdfs:label>
+    <imas:Whose rdf:resource="Ichikawa_Hinana"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+    <schema:description xml:lang="ja">ヴァケーション！ときめきコーラルパープル</schema:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="FriskySummer_NanakusaNichika">
+    <schema:name xml:lang="ja">フリスキーサマー</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">フリスキーサマー</rdfs:label>
+    <imas:Whose rdf:resource="Nanakusa_Nichika"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+    <schema:description xml:lang="ja">ヴァケーション！さぁ、夕凪チークを</schema:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="FriskySummer_AketaMikoto">
+    <schema:name xml:lang="ja">フリスキーサマー</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">フリスキーサマー</rdfs:label>
+    <imas:Whose rdf:resource="Aketa_Mikoto"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+    <schema:description xml:lang="ja">ヴァケーション！Sandcastle</schema:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="FriskySummer_IkarugaLuca">
+    <schema:name xml:lang="ja">フリスキーサマー</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">フリスキーサマー</rdfs:label>
+    <imas:Whose rdf:resource="Ikaruga_Luca"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+    <schema:description xml:lang="ja">ヴァケーション！ウラオモテオセロちゃん</schema:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="FriskySummer_SuzukiHana">
+    <schema:name xml:lang="ja">フリスキーサマー</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">フリスキーサマー</rdfs:label>
+    <imas:Whose rdf:resource="Suzuki_Hana"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+    <schema:description xml:lang="ja">ヴァケーション！白と黒と夏</schema:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="FriskySummer_IkutaHaruki">
+    <schema:name xml:lang="ja">フリスキーサマー</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">フリスキーサマー</rdfs:label>
+    <imas:Whose rdf:resource="Ikuta_Haruki"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+    <schema:description xml:lang="ja">ヴァケーション！夏の陰影を灼きつけて</schema:description>
+  </rdf:Description>
+
 </rdf:RDF>
