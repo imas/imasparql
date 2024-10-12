@@ -49,6 +49,13 @@
     <imas:Whose rdf:resource="Sakuragi_Mano"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
+  <rdf:Description rdf:about="ShinySummerAot_SakuragiMano">
+    <schema:name xml:lang="ja">シャイニーサマー(aot)</schema:name>
+    <rdfs:label rdf:datatype="http://www.w5.org/2001/XMLSchema#string">シャイニーサマー(aot)</rdfs:label>
+    <schema:description xml:lang="ja">チェンジ！新しいCOLORS</schema:description>
+    <imas:Whose rdf:resource="Sakuragi_Mano"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
 
   <!-- 風野灯織 -->
   <rdf:Description rdf:about="Sterling_Diamond">
@@ -85,6 +92,13 @@
     <schema:name xml:lang="ja">スローモーヴィメント</schema:name>
     <rdfs:label rdf:datatype="http://www.w5.org/2001/XMLSchema#string">スローモーヴィメント</rdfs:label>
     <imas:Whose rdf:resource="Kazano_Hiori"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="FashionableSummerAot_KazanoHiori">
+    <schema:name xml:lang="ja">ファッショナブルサマー(aot)</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ファッショナブルサマー(aot)</rdfs:label>
+    <imas:Whose rdf:resource="Kazano_Hiori"/>
+    <schema:description xml:lang="ja">チェンジ！新しいCOLORS</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
 
@@ -125,6 +139,13 @@
     <imas:Whose rdf:resource="Hachimiya_Meguru"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
+  <rdf:Description rdf:about="FashionableSummerAot_HachimiyaMeguru">
+    <schema:name xml:lang="ja">ファッショナブルサマー(aot)</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ファッショナブルサマー(aot)</rdfs:label>
+    <imas:Whose rdf:resource="Hachimiya_Meguru"/>
+    <schema:description xml:lang="ja">チェンジ！新しいCOLORS</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
 
   <!-- 月岡恋鐘 -->
   <rdf:Description rdf:about="Wonderland_Rabbit">
@@ -160,6 +181,13 @@
   <rdf:Description rdf:about="My_Heart_Signal">
     <schema:name xml:lang="ja">マイハート・シグナル</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">マイハート・シグナル</rdfs:label>
+    <imas:Whose rdf:resource="Tsukioka_Kogane"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="HottestSummerAot_TsukiokaKogane">
+    <schema:name xml:lang="ja">ホッテストサマー(aot)</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ホッテストサマー(aot)</rdfs:label>
+    <schema:description xml:lang="ja">チェンジ！新しいCOLORS</schema:description>
     <imas:Whose rdf:resource="Tsukioka_Kogane"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
@@ -201,6 +229,13 @@
     <imas:Whose rdf:resource="Tanaka_Mamimi"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
+  <rdf:Description rdf:about="DelightSummerAot_TanakaMamimi">
+    <schema:name xml:lang="ja">ディライトサマー(aot)</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ディライトサマー(aot)</rdfs:label>
+    <imas:Whose rdf:resource="Tanaka_Mamimi"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+    <schema:description xml:lang="ja">チェンジ！新しいCOLORS</schema:description>
+  </rdf:Description>
 
   <!-- 白瀬咲耶 -->
   <rdf:Description rdf:about="Noble_Bella">
@@ -233,6 +268,13 @@
     <imas:Whose rdf:resource="Shirase_Sakuya"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
+  <rdf:Description rdf:about="HottestSummerAot_ShiraseSakuya">
+    <schema:name xml:lang="ja">ホッテストサマー(aot)</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ホッテストサマー(aot)</rdfs:label>
+    <schema:description xml:lang="ja">チェンジ！新しいCOLORS</schema:description>
+    <imas:Whose rdf:resource="Shirase_Sakuya"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
 
   <!-- 三峰結華 -->
   <rdf:Description rdf:about="Pastelic_Lively">
@@ -262,6 +304,13 @@
   <rdf:Description rdf:about="Fields_Plastic">
     <schema:name xml:lang="ja">フィールズ・プラスチック</schema:name>
     <rdfs:label rdf:datatype="http://www.w5.org/2001/XMLSchema#string">フィールズ・プラスチック</rdfs:label>
+    <imas:Whose rdf:resource="Mitsumine_Yuika"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RememberSummer_MitsumineYuika">
+    <schema:name xml:lang="ja">リメンバーサマー</schema:name>
+    <rdfs:label rdf:datatype="http://www.w5.org/2001/XMLSchema#string">リメンバーサマー</rdfs:label>
+    <schema:description xml:lang="ja">チェンジ！新しいCOLORS</schema:description>
     <imas:Whose rdf:resource="Mitsumine_Yuika"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
@@ -304,6 +353,13 @@
     <imas:Whose rdf:resource="Yukoku_Kiriko"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
+  <rdf:Description rdf:about="FashionableSummerAot_YukokuKiriko">
+    <schema:name xml:lang="ja">ファッショナブルサマー(aot)</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ファッショナブルサマー(aot)</rdfs:label>
+    <imas:Whose rdf:resource="Yukoku_Kiriko"/>
+    <schema:description xml:lang="ja">チェンジ！新しいCOLORS</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
 
   <!-- 小宮果穂 -->
   <rdf:Description rdf:about="Passionate_Bonita">
@@ -342,6 +398,19 @@
     <imas:Whose rdf:resource="Komiya_Kaho"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
+  <rdf:Description rdf:about="RememberSummer_KomiyaKaho">
+    <schema:name xml:lang="ja">リメンバーサマー</schema:name>
+    <rdfs:label rdf:datatype="http://www.w5.org/2001/XMLSchema#string">リメンバーサマー</rdfs:label>
+    <schema:description xml:lang="ja">チェンジ！新しいCOLORS</schema:description>
+    <imas:Whose rdf:resource="Komiya_Kaho"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Two_Be_One_Double">
+    <schema:name xml:lang="ja">トゥービーワン！ダブル</schema:name>
+    <rdfs:label rdf:datatype="http://www.w5.org/2001/XMLSchema#string">トゥービーワン！ダブル</rdfs:label>
+    <imas:Whose rdf:resource="Komiya_Kaho"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
 
   <!-- 園田智代子 -->
   <rdf:Description rdf:about="Chocolat_Chocolate">
@@ -372,6 +441,13 @@
     <schema:name xml:lang="ja">サンデーチョコデート♡</schema:name>
     <rdfs:label rdf:datatype="http://www.w5.org/2001/XMLSchema#string">サンデーチョコデート♡</rdfs:label>
     <imas:Whose rdf:resource="Sonoda_Chiyoko"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RefreshSummerAot_SonodaChiyoko">
+    <schema:name xml:lang="ja">リフレッシュサマー(aot)</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">リフレッシュサマー(aot)</rdfs:label>
+    <imas:Whose rdf:resource="Sonoda_Chiyoko"/>
+    <schema:description xml:lang="ja">チェンジ！新しいCOLORS</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
 
@@ -410,6 +486,13 @@
     <schema:name xml:lang="ja">ストラミングブリーチ</schema:name>
     <rdfs:label rdf:datatype="http://www.w5.org/2001/XMLSchema#string">ストラミングブリーチ</rdfs:label>
     <imas:Whose rdf:resource="Saijo_Juri"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RefreshSummerAot_SaijoJuri">
+    <schema:name xml:lang="ja">リフレッシュサマー(aot)</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">リフレッシュサマー(aot)</rdfs:label>
+    <imas:Whose rdf:resource="Saijo_Juri"/>
+    <schema:description xml:lang="ja">チェンジ！新しいCOLORS</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
 
@@ -456,6 +539,13 @@
     <imas:Whose rdf:resource="Morino_Rinze"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
+  <rdf:Description rdf:about="RememberSummer_MorinoRinze">
+    <schema:name xml:lang="ja">リメンバーサマー</schema:name>
+    <rdfs:label rdf:datatype="http://www.w5.org/2001/XMLSchema#string">リメンバーサマー</rdfs:label>
+    <schema:description xml:lang="ja">チェンジ！新しいCOLORS</schema:description>
+    <imas:Whose rdf:resource="Morino_Rinze"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
 
   <!-- 有栖川夏葉 -->
   <rdf:Description rdf:about="Glitter_Bubbly">
@@ -486,6 +576,13 @@
     <schema:name xml:lang="ja">アブルマドールダマスカス</schema:name>
     <rdfs:label rdf:datatype="http://www.w5.org/2001/XMLSchema#string">アブルマドールダマスカス</rdfs:label>
     <imas:Whose rdf:resource="Arisugawa_Natsuha"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="FountainSummerAot_ArisugawaNatsuha">
+    <schema:name xml:lang="ja">ファウンテンサマー(aot)</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ファウンテンサマー(aot)</rdfs:label>
+    <imas:Whose rdf:resource="Arisugawa_Natsuha"/>
+    <schema:description xml:lang="ja">チェンジ！新しいCOLORS</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
 
@@ -529,6 +626,13 @@
   <rdf:Description rdf:about="Queen_Of_Sublunary">
     <schema:name xml:lang="ja">クイーンオブサブルナリィ</schema:name>
     <rdfs:label rdf:datatype="http://www.w5.org/2001/XMLSchema#string">クイーンオブサブルナリィ</rdfs:label>
+    <imas:Whose rdf:resource="Osaki_Amana"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="ShinySummerAot_OsakiAmana">
+    <schema:name xml:lang="ja">シャイニーサマー(aot)</schema:name>
+    <rdfs:label rdf:datatype="http://www.w5.org/2001/XMLSchema#string">シャイニーサマー(aot)</rdfs:label>
+    <schema:description xml:lang="ja">チェンジ！新しいCOLORS</schema:description>
     <imas:Whose rdf:resource="Osaki_Amana"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
@@ -577,6 +681,13 @@
     <imas:Whose rdf:resource="Osaki_Tenka"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
+  <rdf:Description rdf:about="FountainSummerAot_OsakiTenka">
+    <schema:name xml:lang="ja">ファウンテンサマー(aot)</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ファウンテンサマー(aot)</rdfs:label>
+    <imas:Whose rdf:resource="Osaki_Tenka"/>
+    <schema:description xml:lang="ja">チェンジ！新しいCOLORS</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
 
   <!-- 桑山千雪 -->
   <rdf:Description rdf:about="Saintly_White">
@@ -612,6 +723,19 @@
   <rdf:Description rdf:about="Ruban_Forever">
     <schema:name xml:lang="ja">リュバン・フォー・エヴァー</schema:name>
     <rdfs:label rdf:datatype="http://www.w5.org/2001/XMLSchema#string">リュバン・フォー・エヴァー</rdfs:label>
+    <imas:Whose rdf:resource="Kuwayama_Chiyuki"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="HottestSummerAot_KuwayamaChiyuki">
+    <schema:name xml:lang="ja">ホッテストサマー(aot)</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ホッテストサマー(aot)</rdfs:label>
+    <schema:description xml:lang="ja">チェンジ！新しいCOLORS</schema:description>
+    <imas:Whose rdf:resource="Kuwayama_Chiyuki"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Hue_Reine_Nymphe">
+    <schema:name xml:lang="ja">ヒューレーヌニュンフェ</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ヒューレーヌニュンフェ</rdfs:label>
     <imas:Whose rdf:resource="Kuwayama_Chiyuki"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
@@ -653,6 +777,13 @@
     <imas:Whose rdf:resource="Serizawa_Asahi"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
+  <rdf:Description rdf:about="RefreshSummerAot_SerizawaAsahi">
+    <schema:name xml:lang="ja">リフレッシュサマー(aot)</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">リフレッシュサマー(aot)</rdfs:label>
+    <schema:description xml:lang="ja">チェンジ！新しいCOLORS</schema:description>
+    <imas:Whose rdf:resource="Serizawa_Asahi"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
 
   <!-- 黛冬優子 -->
   <rdf:Description rdf:about="Yumekawa_Pastel">
@@ -691,6 +822,13 @@
     <imas:Whose rdf:resource="Mayuzumi_Fuyuko"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
+  <rdf:Description rdf:about="RememberSummer_MayuzumiFuyuko">
+    <schema:name xml:lang="ja">リメンバーサマー</schema:name>
+    <rdfs:label rdf:datatype="http://www.w5.org/2001/XMLSchema#string">リメンバーサマー</rdfs:label>
+    <schema:description xml:lang="ja">チェンジ！新しいCOLORS</schema:description>
+    <imas:Whose rdf:resource="Mayuzumi_Fuyuko"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
 
   <!-- 和泉愛依 -->
   <rdf:Description rdf:about="Keep_Out_Bind">
@@ -723,6 +861,13 @@
     <imas:Whose rdf:resource="Izumi_Mei"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
+  <rdf:Description rdf:about="RememberSummer_IzumiMei">
+    <schema:name xml:lang="ja">リメンバーサマー</schema:name>
+    <rdfs:label rdf:datatype="http://www.w5.org/2001/XMLSchema#string">リメンバーサマー</rdfs:label>
+    <schema:description xml:lang="ja">チェンジ！新しいCOLORS</schema:description>
+    <imas:Whose rdf:resource="Izumi_Mei"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
 
   <!-- 浅倉透 -->
   <rdf:Description rdf:about="Sparkle_Glass">
@@ -749,6 +894,13 @@
     <imas:Whose rdf:resource="Asakura_Toru"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
+  <rdf:Description rdf:about="RefreshSummerAot_AsakuraToru">
+    <schema:name xml:lang="ja">リフレッシュサマー(aot)</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">リフレッシュサマー(aot)</rdfs:label>
+    <imas:Whose rdf:resource="Asakura_Toru"/>
+    <schema:description xml:lang="ja">チェンジ！新しいCOLORS</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
 
   <!-- 樋口円香 -->
   <rdf:Description rdf:about="Time_In_A_Glass">
@@ -766,6 +918,19 @@
   <rdf:Description rdf:about="Dream_Of_Butterfly">
     <schema:name xml:lang="ja">ドリームオブバタフライ</schema:name>
     <rdfs:label rdf:datatype="http://www.w5.org/2001/XMLSchema#string">ドリームオブバタフライ</rdfs:label>
+    <imas:Whose rdf:resource="Higuchi_Madoka"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RememberSummer_HiguchiMadoka">
+    <schema:name xml:lang="ja">リメンバーサマー</schema:name>
+    <rdfs:label rdf:datatype="http://www.w5.org/2001/XMLSchema#string">リメンバーサマー</rdfs:label>
+    <schema:description xml:lang="ja">チェンジ！新しいCOLORS</schema:description>
+    <imas:Whose rdf:resource="Higuchi_Madoka"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Bring_Back_Ordinary">
+    <schema:name xml:lang="ja">ブリングバックオーディナリー</schema:name>
+    <rdfs:label rdf:datatype="http://www.w5.org/2001/XMLSchema#string">ブリングバックオーディナリー</rdfs:label>
     <imas:Whose rdf:resource="Higuchi_Madoka"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
@@ -787,6 +952,13 @@
     <schema:name xml:lang="ja">ワタシプリティコンフィデント</schema:name>
     <rdfs:label rdf:datatype="http://www.w5.org/2001/XMLSchema#string">ワタシプリティコンフィデント</rdfs:label>
     <imas:Whose rdf:resource="Fukumaru_Koito"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RefreshSummerAot_FukumaruKoito">
+    <schema:name xml:lang="ja">リフレッシュサマー(aot)</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">リフレッシュサマー(aot)</rdfs:label>
+    <imas:Whose rdf:resource="Fukumaru_Koito"/>
+    <schema:description xml:lang="ja">チェンジ！新しいCOLORS</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
 
@@ -815,6 +987,13 @@
     <imas:Whose rdf:resource="Ichikawa_Hinana"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
+  <rdf:Description rdf:about="RememberSummer_IchikawaHinana">
+    <schema:name xml:lang="ja">リメンバーサマー</schema:name>
+    <rdfs:label rdf:datatype="http://www.w5.org/2001/XMLSchema#string">リメンバーサマー</rdfs:label>
+    <schema:description xml:lang="ja">チェンジ！新しいCOLORS</schema:description>
+    <imas:Whose rdf:resource="Ichikawa_Hinana"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
 
   <!-- 七草にちか -->
   <rdf:Description rdf:about="Academical_Blue">
@@ -832,6 +1011,13 @@
   <rdf:Description rdf:about="Living_Fairy">
     <schema:name xml:lang="ja">リヴィングフェアリー</schema:name>
     <rdfs:label rdf:datatype="http://www.w5.org/2001/XMLSchema#string">リヴィングフェアリー</rdfs:label>
+    <imas:Whose rdf:resource="Nanakusa_Nichika"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="RememberSummer_NanakusaNichika">
+    <schema:name xml:lang="ja">リメンバーサマー</schema:name>
+    <rdfs:label rdf:datatype="http://www.w5.org/2001/XMLSchema#string">リメンバーサマー</rdfs:label>
+    <schema:description xml:lang="ja">チェンジ！新しいCOLORS</schema:description>
     <imas:Whose rdf:resource="Nanakusa_Nichika"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
@@ -855,6 +1041,13 @@
     <imas:Whose rdf:resource="Aketa_Mikoto"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
+  <rdf:Description rdf:about="HottestSummerAot_AketaMikoto">
+    <schema:name xml:lang="ja">ホッテストサマー(aot)</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ホッテストサマー(aot)</rdfs:label>
+    <schema:description xml:lang="ja">チェンジ！新しいCOLORS</schema:description>
+    <imas:Whose rdf:resource="Aketa_Mikoto"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
 
   <!-- 斑鳩ルカ -->
   <rdf:Description rdf:about="Breaking_Caution">
@@ -875,12 +1068,27 @@
     <imas:Whose rdf:resource="Ikaruga_Luca"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
+  <rdf:Description rdf:about="DelightSummerAot_IkarugaLuca">
+    <schema:name xml:lang="ja">ディライトサマー(aot)</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ディライトサマー(aot)</rdfs:label>
+    <schema:description xml:lang="ja">チェンジ！新しいCOLORS</schema:description>
+    <imas:Whose rdf:resource="Ikaruga_Luca"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
 
   <!-- 鈴木羽那 -->
   <rdf:Description rdf:about="Cropped_Lilas">
     <schema:name xml:lang="ja">クロップド・リラ</schema:name>
     <rdfs:label rdf:datatype="http://www.w5.org/2001/XMLSchema#string">クロップド・リラ</rdfs:label>
     <imas:Whose rdf:resource="Suzuki_Hana"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+
+  <!-- 郁田はるき -->
+  <rdf:Description rdf:about="Extended_Clothes">
+    <schema:name xml:lang="ja">エクステンデッドクロース</schema:name>
+    <rdfs:label rdf:datatype="http://www.w5.org/2001/XMLSchema#string">エクステンデッドクロース</rdfs:label>
+    <imas:Whose rdf:resource="Ikuta_Haruki"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
 </rdf:RDF>
