@@ -428,6 +428,19 @@
     <schema:name xml:lang="ja">十王星南</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">十王星南</rdfs:label>
     <schema:name xml:lang="en">Sena Juo</schema:name>
+    <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</foaf:age>
+    <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">170.0</schema:height>
+    <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">54.0</schema:weight>
+    <imas:Bust rdf:datatype="http://www.w3.org/2001/XMLSchema#float">88.0</imas:Bust>
+    <imas:Waist rdf:datatype="http://www.w3.org/2001/XMLSchema#float">56.0</imas:Waist>
+    <imas:Hip rdf:datatype="http://www.w3.org/2001/XMLSchema#float">86.0</imas:Hip>
+    <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--12-07</schema:birthDate>
+    <imas:Constellation xml:lang="ja">射手座</imas:Constellation>
+    <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A</imas:BloodType>
+    <imas:Handedness rdf:datatype="http://www.w3.org/2001/XMLSchema#string">both</imas:Handedness>
+    <imas:Hobby xml:lang="ja">レッスン</imas:Hobby>
+    <imas:Hobby xml:lang="ja">才能のあるアイドルを見つけること</imas:Hobby>
+    <imas:Talent xml:lang="ja">アイドルの才能を見抜くこと</imas:Talent>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">F9C584</imas:Color>
     <imas:cv xml:lang="ja">陽高真白</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/陽高真白"/>
@@ -438,5 +451,28 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <imas:SchoolGrade xml:lang="ja">高等部アイドル科3年1組</imas:SchoolGrade>
     <schema:description xml:lang="ja">初星学園の生徒会長。「学園一のアイドル」と呼ばれ、多くの生徒たちから慕われている。 学園長の孫娘で、幼少時からアイドルのエリート教育を受けて育った。 「アイドルの才能を見抜く」特技があり、ことねを一目で気に入るが、なぜか距離を置かれてしまう。</schema:description>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="Amaya_Tsubame">
+    <schema:familyName xml:lang="ja">雨夜</schema:familyName>
+    <schema:familyName xml:lang="en">Amaya</schema:familyName>
+    <imas:familyNameKana xml:lang="ja">あまや</imas:familyNameKana>
+    <schema:givenName xml:lang="ja">燕</schema:givenName>
+    <schema:givenName xml:lang="en">Tsubame</schema:givenName>
+    <imas:givenNameKana xml:lang="ja">つばめ</imas:givenNameKana>
+    <imas:nameKana xml:lang="ja">あまやつばめ</imas:nameKana>
+    <schema:name xml:lang="ja">雨夜燕</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">雨夜燕</rdfs:label>
+    <schema:name xml:lang="en">Tsubame Amaya</schema:name>
+    <!-- <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">000000</imas:Color> -->
+    <imas:cv xml:lang="ja">天音ゆかり</imas:cv>
+    <!-- <imas:cv rdf:resource="http://ja.dbpedia.org/resource/天音ゆかり"/> -->
+    <!-- <imas:cv rdf:resource="https://www.wikidata.org/wiki/Q35172355"/> -->
+    <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
+    <imas:Brand xml:lang="en">Gakuen</imas:Brand>
+    <schema:memberOf rdf:resource="HatsuboshiGakuen"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:SchoolGrade xml:lang="ja">高等部アイドル科3年生</imas:SchoolGrade>
+    <schema:description xml:lang="ja">初星学園生徒会副会長。学園No.2のアイドル。実力相応のプライドを持ち、尊大な態度を取る。自分にも他人にも厳しいが、面倒見は良い。幼馴染の星南をライバル視しており、いずれ星南を超えて『一番星』になると公言している。</schema:description>
   </rdf:Description>
 </rdf:RDF>
