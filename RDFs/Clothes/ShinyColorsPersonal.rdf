@@ -101,6 +101,13 @@
     <schema:description xml:lang="ja">チェンジ！新しいCOLORS</schema:description>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
+  <rdf:Description rdf:about="Dear_Significant">
+    <schema:name xml:lang="ja">ディアーシグニフィカント</schema:name>
+    <rdfs:label rdf:datatype="http://www.w5.org/2001/XMLSchema#string">ディアーシグニフィカント</rdfs:label>
+    <imas:Whose rdf:resource="Kazano_Hiori"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+
 
   <!-- 八宮めぐる -->
   <rdf:Description rdf:about="Rhythmical_Preppy_Girl">
@@ -1056,6 +1063,12 @@
     <schema:name xml:lang="ja">リメンバーサマー</schema:name>
     <rdfs:label rdf:datatype="http://www.w5.org/2001/XMLSchema#string">リメンバーサマー</rdfs:label>
     <schema:description xml:lang="ja">チェンジ！新しいCOLORS</schema:description>
+    <imas:Whose rdf:resource="Nanakusa_Nichika"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Splitty_Miss_Maker">
+    <schema:name xml:lang="ja">スプリティミスメイカー</schema:name>
+    <rdfs:label rdf:datatype="http://www.w5.org/2001/XMLSchema#string">スプリティミスメイカー</rdfs:label>
     <imas:Whose rdf:resource="Nanakusa_Nichika"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
