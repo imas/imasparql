@@ -25,10 +25,13 @@ imas-shape:ClothesShape a sh:NodeShape;
         sh:uniqueLang true;
     ];
     sh:property [
-        sh:name "衣装を着ているアイドルの制約";
+        sh:name "衣装を着ているアイドル・スタッフの制約";
         sh:description "少なくとも一つ存在する";
         sh:path imas:Whose;
-        sh:class imas:Idol;
+        sh:or (
+            [ sh:class imas:Idol ]
+            [ sh:class imas:Staff ]
+        );
         sh:minCount 1;
     ];
     sh:closed false.
