@@ -405,6 +405,21 @@
     <schema:name xml:lang="ja">秦谷美鈴</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">秦谷美鈴</rdfs:label>
     <schema:name xml:lang="en">Misuzu Hataya</schema:name>
+    <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</foaf:age>
+    <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">160.0</schema:height>
+    <schema:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#float">42.0</schema:weight>
+    <imas:Bust rdf:datatype="http://www.w3.org/2001/XMLSchema#float">73.0</imas:Bust>
+    <imas:Waist rdf:datatype="http://www.w3.org/2001/XMLSchema#float">54.0</imas:Waist>
+    <imas:Hip rdf:datatype="http://www.w3.org/2001/XMLSchema#float">73.0</imas:Hip>
+    <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--02-06</schema:birthDate>
+    <imas:Constellation xml:lang="ja">水瓶座</imas:Constellation>
+    <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">B</imas:BloodType>
+    <imas:Handedness rdf:datatype="http://www.w3.org/2001/XMLSchema#string">right</imas:Handedness>
+    <imas:Hobby xml:lang="ja">お昼寝</imas:Hobby>
+    <imas:Hobby xml:lang="ja">お散歩</imas:Hobby>
+    <imas:Talent xml:lang="ja">料理</imas:Talent>
+    <imas:Talent xml:lang="ja">生け花</imas:Talent>
+    <imas:Talent xml:lang="ja">体内時計が正確</imas:Talent>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">A0B6DC</imas:Color>
     <imas:cv xml:lang="ja">春咲暖</imas:cv>
     <imas:cv rdf:resource="http://ja.dbpedia.org/resource/春咲暖"/>
@@ -412,7 +427,9 @@
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:Brand xml:lang="en">Gakuen</imas:Brand>
     <schema:memberOf rdf:resource="HatsuboshiGakuen"/>
+    <schema:birthPlace xml:lang="ja">京都</schema:birthPlace>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
+    <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/60012"/>
     <imas:SchoolGrade xml:lang="ja">高等部アイドル科1年2組</imas:SchoolGrade>
     <schema:description xml:lang="ja">のんびりマイペースな女の子。自分にも他人にも優しく甘い。他者のお世話をしたり、甘やかしたりするのが大好き。甘えん坊な親友を、妹や娘のように慈しみ、大切にしている。</schema:description>
   </rdf:Description>
