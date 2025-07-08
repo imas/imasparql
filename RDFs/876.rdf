@@ -260,11 +260,13 @@
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">O</imas:BloodType>
     <schema:birthPlace xml:lang="ja">埼玉</schema:birthPlace>
-    <imas:Hobby xml:lang="ja">寝ること</imas:Hobby>
-    <imas:Hobby xml:lang="ja">ネイル・メイク</imas:Hobby>
-    <imas:Hobby xml:lang="ja">雑貨集め</imas:Hobby>
+    <imas:Hobby xml:lang="ja">セルフネイル</imas:Hobby>
+    <imas:Hobby xml:lang="ja">コスプレ</imas:Hobby>
+    <imas:Hobby xml:lang="ja">コスメ集め</imas:Hobby>
+    <imas:Hobby xml:lang="ja">ゲーム</imas:Hobby>
+    <imas:Hobby xml:lang="ja">犬吸い</imas:Hobby>
+    <imas:Talent xml:lang="ja">犬吸い</imas:Talent>
     <imas:Talent xml:lang="ja">歌</imas:Talent>
-    <imas:Talent xml:lang="ja">古着リメイク</imas:Talent>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">D7F930</imas:Color>
     <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/210005"/>
   </rdf:Description>
