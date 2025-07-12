@@ -194,11 +194,12 @@
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">B</imas:BloodType>
     <schema:birthPlace xml:lang="ja">東京</schema:birthPlace>
-    <imas:Hobby xml:lang="ja">イラストを描くこと</imas:Hobby>
-    <imas:Hobby xml:lang="ja">ゲーム</imas:Hobby>
-    <imas:Hobby xml:lang="ja">食べること</imas:Hobby>
+    <imas:Hobby xml:lang="ja">お絵描き</imas:Hobby>
+    <imas:Hobby xml:lang="ja">音楽開拓</imas:Hobby>
+    <imas:Hobby xml:lang="ja">ネット</imas:Hobby>
     <imas:Talent xml:lang="ja">書道</imas:Talent>
     <imas:Talent xml:lang="ja">地獄耳</imas:Talent>
+    <imas:Talent xml:lang="ja">サムネや配信デザイン</imas:Talent>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">56CCF2</imas:Color>
     <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/210004"/>
   </rdf:Description>
@@ -217,7 +218,7 @@
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">灯里愛夏</rdfs:label>
     <imas:Brand xml:lang="en">va-liv</imas:Brand>
     <schema:memberOf rdf:resource="876Production"/>
-    <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</foaf:age>
+    <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</foaf:age>
     <schema:height rdf:datatype="http://www.w3.org/2001/XMLSchema#float">158</schema:height>
     <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--07-01</schema:birthDate>
     <imas:Constellation xml:lang="ja">蟹座</imas:Constellation>
@@ -225,10 +226,9 @@
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">B</imas:BloodType>
     <schema:birthPlace xml:lang="ja">福岡</schema:birthPlace>
     <imas:Hobby xml:lang="ja">アイドル研究</imas:Hobby>
-    <imas:Hobby xml:lang="ja">カフェで読書</imas:Hobby>
     <imas:Hobby xml:lang="ja">ミュージカル</imas:Hobby>
     <imas:Talent xml:lang="ja">料理</imas:Talent>
-    <imas:Talent xml:lang="ja">利きアイス</imas:Talent>
+    <imas:Talent xml:lang="ja">湯切り</imas:Talent>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">FF4554</imas:Color>
     <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/210003"/>
   </rdf:Description>
@@ -260,11 +260,13 @@
     <schema:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</schema:gender>
     <imas:BloodType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">O</imas:BloodType>
     <schema:birthPlace xml:lang="ja">埼玉</schema:birthPlace>
-    <imas:Hobby xml:lang="ja">寝ること</imas:Hobby>
-    <imas:Hobby xml:lang="ja">ネイル・メイク</imas:Hobby>
-    <imas:Hobby xml:lang="ja">雑貨集め</imas:Hobby>
+    <imas:Hobby xml:lang="ja">セルフネイル</imas:Hobby>
+    <imas:Hobby xml:lang="ja">コスプレ</imas:Hobby>
+    <imas:Hobby xml:lang="ja">コスメ集め</imas:Hobby>
+    <imas:Hobby xml:lang="ja">ゲーム</imas:Hobby>
+    <imas:Hobby xml:lang="ja">犬吸い</imas:Hobby>
+    <imas:Talent xml:lang="ja">犬吸い</imas:Talent>
     <imas:Talent xml:lang="ja">歌</imas:Talent>
-    <imas:Talent xml:lang="ja">古着リメイク</imas:Talent>
     <imas:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">D7F930</imas:Color>
     <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/210005"/>
   </rdf:Description>
