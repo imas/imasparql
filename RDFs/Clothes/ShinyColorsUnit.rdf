@@ -382,9 +382,9 @@
     <schema:name xml:lang="ja">クロックドオルアンルーレ</schema:name>
     <rdfs:label rdf:datatype="http://www.w5.org/2001/XMLSchema#string">クロックドオルアンルーレ</rdfs:label>
     <imas:Whose rdf:resource="Shirase_Sakuya"/>
-    <!-- <imas:Whose rdf:resource="Tanaka_Mamimi"/> -->
-    <!-- <imas:Whose rdf:resource="Tsukioka_Kogane"/> -->
-    <!-- <imas:Whose rdf:resource="Mitsumine_Yuika"/> -->
+    <imas:Whose rdf:resource="Tanaka_Mamimi"/>
+    <imas:Whose rdf:resource="Tsukioka_Kogane"/>
+    <imas:Whose rdf:resource="Mitsumine_Yuika"/>
     <imas:Whose rdf:resource="Yukoku_Kiriko"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
@@ -715,7 +715,7 @@
     <rdfs:label rdf:datatype="http://www.w5.org/2001/XMLSchema#string">ウィーアーブレイクスーラー！</rdfs:label>
     <!-- <imas:Whose rdf:resource="Arisugawa_Natsuha"/> -->
     <imas:Whose rdf:resource="Komiya_Kaho"/>
-    <!-- <imas:Whose rdf:resource="Saijo_Juri"/> -->
+    <imas:Whose rdf:resource="Saijo_Juri"/>
     <imas:Whose rdf:resource="Sonoda_Chiyoko"/>
     <imas:Whose rdf:resource="Morino_Rinze"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
@@ -1499,9 +1499,9 @@
   <rdf:Description rdf:about="Peinture_Pickout">
     <schema:name xml:lang="ja">パンチュールピッカウト</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">パンチュールピッカウト</rdfs:label>
-    <!-- <imas:Whose rdf:resource="Asakura_Toru"/> -->
+    <imas:Whose rdf:resource="Asakura_Toru"/>
     <imas:Whose rdf:resource="Higuchi_Madoka"/>
-    <!-- <imas:Whose rdf:resource="Fukumaru_Koito"/> -->
+    <imas:Whose rdf:resource="Fukumaru_Koito"/>
     <!-- <imas:Whose rdf:resource="Ichikawa_Hinana"/> -->
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
@@ -1714,7 +1714,7 @@
   <rdf:Description rdf:about="Eclatant_Eclosion">
     <schema:name xml:lang="ja">エクラタンエクロジオン</schema:name>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">エクラタンエクロジオン</rdfs:label>
-    <!--<imas:Whose rdf:resource="Aketa_Mikoto"/>-->
+    <imas:Whose rdf:resource="Aketa_Mikoto"/>
     <imas:Whose rdf:resource="Nanakusa_Nichika"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
