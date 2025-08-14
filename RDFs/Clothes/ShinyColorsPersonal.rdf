@@ -669,12 +669,6 @@
     <imas:Whose rdf:resource="Osaki_Amana"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
-  <rdf:Description rdf:about="Execute_Player">
-    <schema:name xml:lang="ja">エグゼキュートプレイヤー</schema:name>
-    <rdfs:label rdf:datatype="http://www.w5.org/2001/XMLSchema#string">エグゼキュートプレイヤー</rdfs:label>
-    <imas:Whose rdf:resource="Osaki_Tenka"/>
-    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
-  </rdf:Description>
 
   <!-- 大崎甜花 -->
   <rdf:Description rdf:about="Devilish_Future">
@@ -725,6 +719,12 @@
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ファウンテンサマー(aot)</rdfs:label>
     <imas:Whose rdf:resource="Osaki_Tenka"/>
     <schema:description xml:lang="ja">チェンジ！新しいCOLORS</schema:description>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Execute_Player">
+    <schema:name xml:lang="ja">エグゼキュートプレイヤー</schema:name>
+    <rdfs:label rdf:datatype="http://www.w5.org/2001/XMLSchema#string">エグゼキュートプレイヤー</rdfs:label>
+    <imas:Whose rdf:resource="Osaki_Tenka"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Clothes"/>
   </rdf:Description>
 
