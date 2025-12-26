@@ -68,4 +68,12 @@
     <schema:member rdf:resource="Nozomi"/>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
   </rdf:Description>
+  <rdf:Description rdf:about="%23%E3%83%B4%E3%82%A4%E3%82%A2%E3%83%A9">
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">#ヴイアラ</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">#ヴイアラ</rdfs:label>
+    <schema:member rdf:resource="Tomori_Manaka"/>
+    <schema:member rdf:resource="Kamizuru_Cosmo"/>
+    <schema:member rdf:resource="Sara_Letora_Oliveira_Utagawa"/>
+    <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Unit"/>
+  </rdf:Description>
 </rdf:RDF>
