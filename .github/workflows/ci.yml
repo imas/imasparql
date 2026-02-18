@@ -9,12 +9,12 @@ jobs:
   rdflint:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v4
-    - uses: actions/setup-java@v4
+    - uses: actions/checkout@v6
+    - uses: actions/setup-java@v5
       with:
         distribution: temurin
-        java-version: 17
-    - uses: imas/setup-rdflint@v3
+        java-version: 21
+    - uses: imas/setup-rdflint@v4
 
     - name: Run rdflint (Clothes_Own)
       run: rdflint -config .rdflint/Clothes_Own.yml
