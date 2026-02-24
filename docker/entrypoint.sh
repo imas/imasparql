@@ -12,7 +12,15 @@ if [ ! -f "${FUSEKI_BASE}/shiro.ini" ]; then
     echo "[imasparql] Initializing Fuseki base directory..."
     mkdir -p "${FUSEKI_BASE}"
     cp "${FUSEKI_HOME}/shiro.ini" "${FUSEKI_BASE}/shiro.ini"
-    sed -i "s|admin=YOURPASSWORD|admin=${ADMIN_PASSWORD}|g" "${FUSEKI_BASE}/shiro.ini"
+    # admin=<任意の値> を置換（プレースホルダー名に依存しない）
+    sed -i "s|^admin=.*$|admin=${ADMIN_PASSWORD}|g" "${FUSEKI_BASE}/shiro.ini"
+fi
+
+# Fuseki起動前にデータロードが必要かどうか判定（起動後はTDB2がDIRを作成するため起動前に確認）
+NEEDS_DATA_LOAD=false
+if [ ! -d "${DATASET_DIR}" ] || [ -z "$(ls -A "${DATASET_DIR}" 2>/dev/null)" ]; then
+    NEEDS_DATA_LOAD=true
+    echo "[imasparql] Initial data load will be performed after Fuseki starts."
 fi
 
 # Fusekiをバックグラウンド起動
@@ -33,7 +41,7 @@ done
 echo "[imasparql] Fuseki is ready."
 
 # 初回のみRDFデータをロード
-if [ -d "${DATASET_DIR}" ] && [ "$(ls -A "${DATASET_DIR}" 2>/dev/null)" ]; then
+if [ "${NEEDS_DATA_LOAD}" = "false" ]; then
     echo "[imasparql] TDB2 database already exists. Skipping data load."
 else
     echo "[imasparql] Loading RDF data from ${RDF_SOURCE}..."
