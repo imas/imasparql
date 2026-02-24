@@ -1,0 +1,13 @@
+services:
+  fuseki:
+    build: .
+    ports:
+      - "3030:3030"
+    volumes:
+      - fuseki-data:/fuseki
+      - ./RDFs:/rdf-data:ro
+    environment:
+      ADMIN_PASSWORD: admin
+
+volumes:
+  fuseki-data:
