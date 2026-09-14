@@ -1,0 +1,75 @@
+PREFIX imas-shape: <https://sparql.crssnky.xyz/imasrdf/constraints/>
+PREFIX schema: <http://schema.org/>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX imas: <https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX sh: <http://www.w3.org/ns/shacl#>
+
+# 楽曲(schema:MusicComposition)の制約
+# 楽曲は「歌詞・メロディ・編曲の組」を単位とする。別アレンジ・歌詞違い・Remix・カバーは別の楽曲とし、
+# schema:isBasedOn で原曲を指す。歌唱者だけが違うものは同じ楽曲の別音源(schema:MusicRecording)とする。
+imas-shape:MusicCompositionShape a sh:NodeShape;
+    sh:targetClass schema:MusicComposition;
+    sh:property [
+        sh:name "楽曲名の制約";
+        sh:description "公式表記の曲名(版名込み)。絶対に一つだけ存在する(maxCount 1, minCount 1)";
+        sh:path rdfs:label;
+        sh:datatype xsd:string;
+        sh:minCount 1;
+        sh:maxCount 1;
+    ];
+    sh:property [
+        sh:name "楽曲名の制約(サブ)";
+        sh:description "言語ごとに一つ(uniqueLang=true)、日本語表記は必ず存在する想定";
+        sh:path schema:name;
+        sh:datatype rdf:langString;
+        sh:minCount 1;
+        sh:uniqueLang true;
+    ];
+    sh:property [
+        sh:name "楽曲のブランドの制約";
+        sh:description "基底曲のブランド。imas:Idol の imas:Brand と同じ語彙。合同曲は複数持てる";
+        sh:path imas:Brand;
+        sh:datatype rdf:langString;
+        sh:minCount 1;
+        sh:in (
+            "1stVision"@en
+            "765AS"@en
+            "DearlyStars"@en
+            "CinderellaGirls"@en
+            "MillionLive"@en
+            "SideM"@en
+            "ShinyColors"@en
+            "Xenoglossia"@en
+            "Gakuen"@en
+            "va-liv"@en
+            "Other"@en
+        );
+    ];
+    sh:property [
+        sh:name "版種別の制約";
+        sh:description "絶対に一つだけ存在する(maxCount 1, minCount 1)。Original 以外は schema:isBasedOn で原曲を指す";
+        sh:path imas:VersionType;
+        sh:datatype rdf:langString;
+        sh:minCount 1;
+        sh:maxCount 1;
+        sh:in (
+            "Original"@en   # 原曲。isBasedOn を持たない
+            "Master"@en     # M@STER VERSION (ゲームサイズの原曲に対するフルサイズ版)
+            "Arrange"@en    # その他の編曲違い (TV ARRANGE, REM@STER, ユニット別 Ver. など)
+            "Remix"@en      # リミックス
+            "Variant"@en    # オケは同じだが歌詞が一部異なる版
+            "Cover"@en      # 外部曲のアイドル名義カバー。isBasedOn は外部作品の URL
+            "Short"@en      # 公式表記で GAME VERSION と付くショート尺。フル尺が原曲
+            "Live"@en       # ライブ用に構成・編曲を変えた版がリリースされたもの
+            "Medley"@en     # メドレー。構成曲それぞれへ isBasedOn を持つ
+        );
+    ];
+    sh:property [
+        sh:name "原曲への関連の制約";
+        sh:description "目的語は楽曲、または外部作品の URL(Cover の場合)";
+        sh:path schema:isBasedOn;
+        sh:nodeKind sh:IRI;
+    ];
+    sh:closed false.
