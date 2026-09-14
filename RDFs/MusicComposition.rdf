@@ -1,0 +1,64 @@
+<rdf:RDF
+    xmlns:schema="http://schema.org/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:imas="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#"
+    xml:base="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/"
+    >
+  <rdf:Description rdf:about="%E9%AD%94%E6%B3%95%E3%82%92%E3%81%8B%E3%81%91%E3%81%A6%21">
+    <rdf:type rdf:resource="http://schema.org/MusicComposition"/>
+    <schema:name xml:lang="ja">魔法をかけて!</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">魔法をかけて!</rdfs:label>
+    <imas:Brand xml:lang="en">765AS</imas:Brand>
+    <imas:VersionType xml:lang="en">Original</imas:VersionType>
+    <schema:lyricist xml:lang="ja">NBGI(神前暁)</schema:lyricist>
+    <schema:composer xml:lang="ja">NBGI(神前暁)</schema:composer>
+  </rdf:Description>
+  <rdf:Description rdf:about="%E9%AD%94%E6%B3%95%E3%82%92%E3%81%8B%E3%81%91%E3%81%A6%21%20%28M%40STER%20VERSION%29">
+    <rdf:type rdf:resource="http://schema.org/MusicComposition"/>
+    <schema:name xml:lang="ja">魔法をかけて! (M@STER VERSION)</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">魔法をかけて! (M@STER VERSION)</rdfs:label>
+    <imas:Brand xml:lang="en">765AS</imas:Brand>
+    <imas:VersionType xml:lang="en">Master</imas:VersionType>
+    <schema:isBasedOn rdf:resource="%E9%AD%94%E6%B3%95%E3%82%92%E3%81%8B%E3%81%91%E3%81%A6%21"/>
+    <schema:lyricist xml:lang="ja">NBGI(神前暁)</schema:lyricist>
+    <schema:composer xml:lang="ja">NBGI(神前暁)</schema:composer>
+  </rdf:Description>
+  <rdf:Description rdf:about="THE%20IDOLM%40STER">
+    <rdf:type rdf:resource="http://schema.org/MusicComposition"/>
+    <schema:name xml:lang="ja">THE IDOLM@STER</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">THE IDOLM@STER</rdfs:label>
+    <imas:Brand xml:lang="en">765AS</imas:Brand>
+    <imas:VersionType xml:lang="en">Original</imas:VersionType>
+    <schema:lyricist xml:lang="ja">中村恵</schema:lyricist>
+    <schema:composer xml:lang="ja">NBGI(佐々木宏人)</schema:composer>
+  </rdf:Description>
+  <rdf:Description rdf:about="THE%20IDOLM%40STER%20%28M%40STER%20VERSION%29">
+    <rdf:type rdf:resource="http://schema.org/MusicComposition"/>
+    <schema:name xml:lang="ja">THE IDOLM@STER (M@STER VERSION)</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">THE IDOLM@STER (M@STER VERSION)</rdfs:label>
+    <imas:Brand xml:lang="en">765AS</imas:Brand>
+    <imas:VersionType xml:lang="en">Master</imas:VersionType>
+    <schema:isBasedOn rdf:resource="THE%20IDOLM%40STER"/>
+    <schema:lyricist xml:lang="ja">中村恵</schema:lyricist>
+    <schema:composer xml:lang="ja">NBGI(佐々木宏人)</schema:composer>
+  </rdf:Description>
+  <rdf:Description rdf:about="%E5%A4%AA%E9%99%BD%E3%81%AE%E3%82%B8%E3%82%A7%E3%83%A9%E3%82%B7%E3%83%BC">
+    <rdf:type rdf:resource="http://schema.org/MusicComposition"/>
+    <schema:name xml:lang="ja">太陽のジェラシー</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">太陽のジェラシー</rdfs:label>
+    <imas:Brand xml:lang="en">765AS</imas:Brand>
+    <imas:VersionType xml:lang="en">Original</imas:VersionType>
+    <schema:lyricist xml:lang="ja">森由里子</schema:lyricist>
+    <schema:composer xml:lang="ja">NBGI(椎名豪)</schema:composer>
+  </rdf:Description>
+  <rdf:Description rdf:about="First%20Stage">
+    <rdf:type rdf:resource="http://schema.org/MusicComposition"/>
+    <schema:name xml:lang="ja">First Stage</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">First Stage</rdfs:label>
+    <imas:Brand xml:lang="en">765AS</imas:Brand>
+    <imas:VersionType xml:lang="en">Original</imas:VersionType>
+    <schema:lyricist xml:lang="ja">中村恵</schema:lyricist>
+    <schema:composer xml:lang="ja">NBGI(佐々木宏人)</schema:composer>
+  </rdf:Description>
+</rdf:RDF>

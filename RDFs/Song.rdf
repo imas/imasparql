@@ -1,0 +1,63 @@
+<rdf:RDF
+    xmlns:schema="http://schema.org/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:imas="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#"
+    xml:base="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/"
+    >
+  <rdf:Description rdf:about="%E9%AD%94%E6%B3%95%E3%82%92%E3%81%8B%E3%81%91%E3%81%A6%21%20%28M%40STER%20VERSION%29__%E5%A4%A9%E6%B5%B7%E6%98%A5%E9%A6%99%E3%83%BB%E8%90%A9%E5%8E%9F%E9%9B%AA%E6%AD%A9%E3%83%BB%E7%A7%8B%E6%9C%88%E5%BE%8B%E5%AD%90">
+    <rdf:type rdf:resource="http://schema.org/MusicRecording"/>
+    <schema:name xml:lang="ja">魔法をかけて! (M@STER VERSION)</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">魔法をかけて! (M@STER VERSION)</rdfs:label>
+    <schema:recordingOf rdf:resource="%E9%AD%94%E6%B3%95%E3%82%92%E3%81%8B%E3%81%91%E3%81%A6%21%20%28M%40STER%20VERSION%29"/>
+    <schema:byArtist rdf:resource="Amami_Haruka"/>
+    <schema:byArtist rdf:resource="Hagiwara_Yukiho"/>
+    <schema:byArtist rdf:resource="Akizuki_Ritsuko"/>
+    <schema:isrcCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JPCO00528760</schema:isrcCode>
+    <schema:duration rdf:datatype="http://www.w3.org/2001/XMLSchema#duration">PT04M10S</schema:duration>
+    <schema:inPlaylist rdf:resource="COCX-33355"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="THE%20IDOLM%40STER%20%28M%40STER%20VERSION%29__%E5%A4%A9%E6%B5%B7%E6%98%A5%E9%A6%99%E3%83%BB%E8%90%A9%E5%8E%9F%E9%9B%AA%E6%AD%A9%E3%83%BB%E7%A7%8B%E6%9C%88%E5%BE%8B%E5%AD%90">
+    <rdf:type rdf:resource="http://schema.org/MusicRecording"/>
+    <schema:name xml:lang="ja">THE IDOLM@STER (HYR VERSION)</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">THE IDOLM@STER (HYR VERSION)</rdfs:label>
+    <schema:version rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HYR VERSION</schema:version>
+    <schema:recordingOf rdf:resource="THE%20IDOLM%40STER%20%28M%40STER%20VERSION%29"/>
+    <schema:byArtist rdf:resource="Amami_Haruka"/>
+    <schema:byArtist rdf:resource="Hagiwara_Yukiho"/>
+    <schema:byArtist rdf:resource="Akizuki_Ritsuko"/>
+    <schema:isrcCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JPCO00528770</schema:isrcCode>
+    <schema:duration rdf:datatype="http://www.w3.org/2001/XMLSchema#duration">PT05M29S</schema:duration>
+    <schema:inPlaylist rdf:resource="COCX-33355"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="%E5%A4%AA%E9%99%BD%E3%81%AE%E3%82%B8%E3%82%A7%E3%83%A9%E3%82%B7%E3%83%BC__%E5%A4%A9%E6%B5%B7%E6%98%A5%E9%A6%99">
+    <rdf:type rdf:resource="http://schema.org/MusicRecording"/>
+    <schema:name xml:lang="ja">太陽のジェラシー</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">太陽のジェラシー</rdfs:label>
+    <schema:recordingOf rdf:resource="%E5%A4%AA%E9%99%BD%E3%81%AE%E3%82%B8%E3%82%A7%E3%83%A9%E3%82%B7%E3%83%BC"/>
+    <schema:byArtist rdf:resource="Amami_Haruka"/>
+    <schema:isrcCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JPCO00528780</schema:isrcCode>
+    <schema:duration rdf:datatype="http://www.w3.org/2001/XMLSchema#duration">PT02M04S</schema:duration>
+    <schema:inPlaylist rdf:resource="COCX-33355"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="First%20Stage__%E8%90%A9%E5%8E%9F%E9%9B%AA%E6%AD%A9">
+    <rdf:type rdf:resource="http://schema.org/MusicRecording"/>
+    <schema:name xml:lang="ja">First Stage</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">First Stage</rdfs:label>
+    <schema:recordingOf rdf:resource="First%20Stage"/>
+    <schema:byArtist rdf:resource="Hagiwara_Yukiho"/>
+    <schema:isrcCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JPCO00528790</schema:isrcCode>
+    <schema:duration rdf:datatype="http://www.w3.org/2001/XMLSchema#duration">PT02M02S</schema:duration>
+    <schema:inPlaylist rdf:resource="COCX-33355"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="%E9%AD%94%E6%B3%95%E3%82%92%E3%81%8B%E3%81%91%E3%81%A6%21__%E7%A7%8B%E6%9C%88%E5%BE%8B%E5%AD%90">
+    <rdf:type rdf:resource="http://schema.org/MusicRecording"/>
+    <schema:name xml:lang="ja">魔法をかけて!</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">魔法をかけて!</rdfs:label>
+    <schema:recordingOf rdf:resource="%E9%AD%94%E6%B3%95%E3%82%92%E3%81%8B%E3%81%91%E3%81%A6%21"/>
+    <schema:byArtist rdf:resource="Akizuki_Ritsuko"/>
+    <schema:isrcCode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JPCO00528800</schema:isrcCode>
+    <schema:duration rdf:datatype="http://www.w3.org/2001/XMLSchema#duration">PT02M05S</schema:duration>
+    <schema:inPlaylist rdf:resource="COCX-33355"/>
+  </rdf:Description>
+</rdf:RDF>

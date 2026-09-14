@@ -1,0 +1,21 @@
+<rdf:RDF
+    xmlns:schema="http://schema.org/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:imas="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#"
+    xml:base="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/"
+    >
+  <rdf:Description rdf:about="COCX-33355">
+    <rdf:type rdf:resource="http://schema.org/MusicRelease"/>
+    <schema:name xml:lang="ja">THE IDOLM@STER MASTERPIECE 01</schema:name>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">THE IDOLM@STER MASTERPIECE 01</rdfs:label>
+    <schema:catalogNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">COCX-33355</schema:catalogNumber>
+    <schema:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2005-09-28</schema:datePublished>
+    <schema:musicReleaseFormat rdf:resource="http://schema.org/CDFormat"/>
+    <imas:ReleaseChannel xml:lang="en">Retail</imas:ReleaseChannel>
+    <schema:duration rdf:datatype="http://www.w3.org/2001/XMLSchema#duration">PT32M28S</schema:duration>
+    <schema:copyrightHolder xml:lang="ja">コロムビアミュージックエンタテインメント</schema:copyrightHolder>
+    <schema:url rdf:resource="http://columbia.jp/idolmaster/2006/COCX-33355.html"/>
+    <schema:image rdf:resource="http://columbia.jp/prod-info/jacket/COCX-33355.jpg"/>
+  </rdf:Description>
+</rdf:RDF>
