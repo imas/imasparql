@@ -1,0 +1,72 @@
+PREFIX imas-shape: <https://sparql.crssnky.xyz/imasrdf/constraints/>
+PREFIX schema: <http://schema.org/>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX imas: <https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX sh: <http://www.w3.org/ns/shacl#>
+
+# リリース(schema:MusicRelease)の制約
+# 同一の音源集合が同一形態で世に出たものを一つのリリースとする。CD と配信、ゲーム内実装は別リリース。
+# 収録は音源側の schema:inPlaylist で表す。
+imas-shape:MusicReleaseShape a sh:NodeShape;
+    sh:targetClass schema:MusicRelease;
+    sh:property [
+        sh:name "リリース名の制約";
+        sh:description "絶対に一つだけ存在する(maxCount 1, minCount 1)";
+        sh:path rdfs:label;
+        sh:datatype xsd:string;
+        sh:minCount 1;
+        sh:maxCount 1;
+    ];
+    sh:property [
+        sh:name "リリース名の制約(サブ)";
+        sh:path schema:name;
+        sh:datatype rdf:langString;
+        sh:minCount 1;
+        sh:uniqueLang true;
+    ];
+    sh:property [
+        sh:name "発売日の制約";
+        sh:description "一般消費者がその経路で最も早く期限なく聴取可能になった日。フラゲ日は含めない。絶対に一つだけ存在する";
+        sh:path schema:datePublished;
+        sh:datatype xsd:date;
+        sh:minCount 1;
+        sh:maxCount 1;
+    ];
+    sh:property [
+        sh:name "形態の制約";
+        sh:description "schema:MusicReleaseFormatType の値。絶対に一つだけ存在する";
+        sh:path schema:musicReleaseFormat;
+        sh:minCount 1;
+        sh:maxCount 1;
+        sh:in (
+            schema:CDFormat
+            schema:DVDFormat
+            schema:DigitalFormat
+            schema:VinylFormat
+            schema:CassetteFormat
+        );
+    ];
+    sh:property [
+        sh:name "入手経路の制約";
+        sh:description "絶対に一つだけ存在する(maxCount 1, minCount 1)";
+        sh:path imas:ReleaseChannel;
+        sh:datatype rdf:langString;
+        sh:minCount 1;
+        sh:maxCount 1;
+        sh:in (
+            "Retail"@en        # 一般流通
+            "VenueLimited"@en  # 会場限定
+            "Bonus"@en         # コミカライズ特装版・映像商品などの特典
+            "Digital"@en       # 配信販売
+            "InGame"@en        # ゲーム内実装
+        );
+    ];
+    sh:property [
+        sh:name "品番の制約";
+        sh:path schema:catalogNumber;
+        sh:datatype xsd:string;
+        sh:maxCount 1;
+    ];
+    sh:closed false.

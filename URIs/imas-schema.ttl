@@ -269,3 +269,15 @@ imas:IdolListURL            a   rdf:Property ;
 imas:SchoolGrade            a   rdf:Property ;
     rdfs:comment            "学年を表すプロパティ";
     rdfs:label              "学年"@ja .
+
+imas:VersionType            a   rdf:Property ;
+    rdfs:comment            "楽曲(schema:MusicComposition)の版種別を表すプロパティ。原曲・M@STER VERSION・別アレンジ・Remixなど" ;
+    rdfs:label              "版種別"@ja .
+
+imas:Arranger               a   rdf:Property ;
+    rdfs:comment            "編曲者を表すプロパティ。schema:composer・schema:lyricistと同様に楽曲(schema:MusicComposition)に付ける" ;
+    rdfs:label              "編曲者"@ja .
+
+imas:ReleaseChannel         a   rdf:Property ;
+    rdfs:comment            "リリース(schema:MusicRelease)の入手経路を表すプロパティ。一般流通CD・会場限定CD・特典CD・配信・ゲーム内など" ;
+    rdfs:label              "入手経路"@ja .

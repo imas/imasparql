@@ -1,0 +1,79 @@
+PREFIX imas-shape: <https://sparql.crssnky.xyz/imasrdf/constraints/>
+PREFIX schema: <http://schema.org/>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX imas: <https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX sh: <http://www.w3.org/ns/shacl#>
+
+# 音源(schema:MusicRecording)の制約
+# 音源は「公に聴取可能なミックスダウン後のトラック」を単位とする。録音テイクではない。
+# 楽曲(schema:MusicComposition) -< 音源 の関係で、歌唱者の違い・新録は音源の違いとして表す。
+imas-shape:MusicRecordingShape a sh:NodeShape;
+    sh:targetClass schema:MusicRecording;
+    sh:property [
+        sh:name "音源名の制約";
+        sh:description "リリースでの公式表記(バージョン表記込み)。絶対に一つだけ存在する(maxCount 1, minCount 1)";
+        sh:path rdfs:label;
+        sh:datatype xsd:string;
+        sh:minCount 1;
+        sh:maxCount 1;
+    ];
+    sh:property [
+        sh:name "音源名の制約(サブ)";
+        sh:path schema:name;
+        sh:datatype rdf:langString;
+        sh:minCount 1;
+        sh:uniqueLang true;
+    ];
+    sh:property [
+        sh:name "楽曲への関連の制約";
+        sh:description "目的語は楽曲、絶対に一つだけ存在する(maxCount 1, minCount 1)";
+        sh:path schema:recordingOf;
+        sh:class schema:MusicComposition;
+        sh:minCount 1;
+        sh:maxCount 1;
+    ];
+    sh:property [
+        sh:name "歌唱者の制約";
+        sh:description "アイドル名義なら imas:Idol。キャスト名義(ラジオ発の楽曲等)なら imas:cv と同様に名義の文字列";
+        sh:path schema:byArtist;
+        sh:or (
+            [ sh:class imas:Idol ]
+            [ sh:datatype rdf:langString ]
+        );
+    ];
+    sh:property [
+        sh:name "ユニット名義の制約";
+        sh:description "ユニット名義でクレジットされている場合のユニット。歌唱者本人は schema:byArtist に展開する";
+        sh:path schema:creditedTo;
+        sh:class imas:Unit;
+    ];
+    sh:property [
+        sh:name "収録リリースの制約";
+        sh:description "目的語はリリース。公に聴取可能な音源のみ扱うので必ず一つは存在する";
+        sh:path schema:inPlaylist;
+        sh:class schema:MusicRelease;
+        sh:minCount 1;
+    ];
+    sh:property [
+        sh:name "バージョン表記の制約";
+        sh:description "同じ楽曲・同じ歌唱者で音源が複数あるときに区別する表記(新録など)。装飾は外す";
+        sh:path schema:version;
+        sh:datatype xsd:string;
+        sh:maxCount 1;
+    ];
+    sh:property [
+        sh:name "ISRC の制約";
+        sh:path schema:isrcCode;
+        sh:datatype xsd:string;
+        sh:pattern "^[A-Z]{2}[A-Z0-9]{3}[0-9]{7}$";
+        sh:maxCount 1;
+    ];
+    sh:property [
+        sh:name "長さの制約";
+        sh:path schema:duration;
+        sh:datatype xsd:duration;
+        sh:maxCount 1;
+    ];
+    sh:closed false.
