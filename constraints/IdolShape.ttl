@@ -6,6 +6,7 @@ PREFIX foaf: <http://xmlns.com/foaf/0.1/>
 PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX sh: <http://www.w3.org/ns/shacl#>
+PREFIX mo: <http://purl.org/ontology/mo/>
 
 imas-shape:IdolShape a sh:NodeShape;
     sh:targetClass imas:Idol;
@@ -383,5 +384,11 @@ imas-shape:IdolShape a sh:NodeShape;
         sh:path imas:IdolListURL;
         sh:nodeKind sh:IRI;
         sh:maxCount 1;
+    ];
+    sh:property [
+        sh:name "MusicBrainz上のアーティストURLの制約";
+        sh:path mo:musicbrainz;
+        sh:nodeKind sh:IRI;
+        sh:pattern "^http://musicbrainz[.]org/artist/";
     ];
     sh:closed false.
