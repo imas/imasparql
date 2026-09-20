@@ -3,6 +3,7 @@
     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
     xmlns:foaf="http://xmlns.com/foaf/0.1/"
     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:mo="http://purl.org/ontology/mo/"
     xmlns:imas="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#"
     xml:base="https://sparql.crssnky.xyz/imasrdf/RDFs/detail/"
     >
@@ -50,6 +51,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <imas:SchoolGrade xml:lang="ja">高校2年生</imas:SchoolGrade>
     <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/10002"/>
+    <mo:musicbrainz rdf:resource="http://musicbrainz.org/artist/e7258dc4-7b6b-4e73-b1d4-9b9a6958c6ea"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Kisaragi_Chihaya">
@@ -94,6 +96,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <imas:SchoolGrade xml:lang="ja">高校2年生</imas:SchoolGrade>
     <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/10005"/>
+    <mo:musicbrainz rdf:resource="http://musicbrainz.org/artist/d8c77d4f-18b5-4652-9dc5-74f75dcaf9be"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Hoshii_Miki">
@@ -140,6 +143,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <imas:SchoolGrade xml:lang="ja">中学3年生</imas:SchoolGrade>
     <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/10011"/>
+    <mo:musicbrainz rdf:resource="http://musicbrainz.org/artist/1133979a-046f-4e7b-9aab-ff84e924ca41"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Hagiwara_Yukiho">
@@ -184,6 +188,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <imas:SchoolGrade xml:lang="ja">高校3年生</imas:SchoolGrade>
     <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/10008"/>
+    <mo:musicbrainz rdf:resource="http://musicbrainz.org/artist/cf425c79-dbf9-457f-96d4-556e9667294a"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Takatsuki_Yayoi">
@@ -230,6 +235,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <imas:SchoolGrade xml:lang="ja">中学2年生</imas:SchoolGrade>
     <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/10007"/>
+    <mo:musicbrainz rdf:resource="http://musicbrainz.org/artist/cf3edaa2-4b09-42cd-9345-9bb3cbdb4870"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Kikuchi_Makoto">
@@ -275,6 +281,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <imas:SchoolGrade xml:lang="ja">高校3年生</imas:SchoolGrade>
     <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/10004"/>
+    <mo:musicbrainz rdf:resource="http://musicbrainz.org/artist/006b5d9f-cf53-4ed5-9565-d3bc4371e8c3"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Minase_Iori">
@@ -320,6 +327,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <imas:SchoolGrade xml:lang="ja">中学3年生</imas:SchoolGrade>
     <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/10013"/>
+    <mo:musicbrainz rdf:resource="http://musicbrainz.org/artist/2562b3ce-e43c-4fae-9971-3d56d20d80b1"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Shijou_Takane">
@@ -364,6 +372,7 @@
     <imas:PopLinksAttribute xml:lang="ja">月</imas:PopLinksAttribute>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/10006"/>
+    <mo:musicbrainz rdf:resource="http://musicbrainz.org/artist/7bdb23c1-a7c9-41fc-bcd1-81da82ff38e8"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Akizuki_Ritsuko">
@@ -408,6 +417,7 @@
     <imas:PopLinksAttribute xml:lang="ja">雷</imas:PopLinksAttribute>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/10001"/>
+    <mo:musicbrainz rdf:resource="http://musicbrainz.org/artist/806f4afd-6fb8-4e05-a328-d46ac7eb24b0"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Miura_Azusa">
@@ -451,6 +461,7 @@
     <imas:PopLinksAttribute xml:lang="ja">花</imas:PopLinksAttribute>
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/10012"/>
+    <mo:musicbrainz rdf:resource="http://musicbrainz.org/artist/723d9221-8d71-4f00-a2e6-9298c5a6b794"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Futami_Ami">
@@ -497,6 +508,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <imas:SchoolGrade xml:lang="ja">中学1年生</imas:SchoolGrade>
     <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/10009"/>
+    <mo:musicbrainz rdf:resource="http://musicbrainz.org/artist/43e432ae-ef1b-4ff5-842c-e2804ff38403"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Futami_Mami">
@@ -543,6 +555,7 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <imas:SchoolGrade xml:lang="ja">中学1年生</imas:SchoolGrade>
     <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/10010"/>
+    <mo:musicbrainz rdf:resource="http://musicbrainz.org/artist/59c3c71c-1d25-4c35-a565-8e371fec8e43"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="Ganaha_Hibiki">
@@ -589,5 +602,6 @@
     <rdf:type rdf:resource="https://sparql.crssnky.xyz/imasrdf/URIs/imas-schema.ttl#Idol"/>
     <imas:SchoolGrade xml:lang="ja">高校2年生</imas:SchoolGrade>
     <imas:IdolListURL rdf:resource="https://idollist.idolmaster-official.jp/detail/10003"/>
+    <mo:musicbrainz rdf:resource="http://musicbrainz.org/artist/1db6b4f9-5b16-41b7-81fe-c78e4dbe8a6a"/>
   </rdf:Description>
 </rdf:RDF>
